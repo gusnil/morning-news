@@ -1,83 +1,363 @@
 {
- "https://www.srf.ch/really-simple-syndication-rss-feeds-von-srf": {
-  "rss": [
-   "/data.srf.ch\\/292330999892453\\/wt?p=438,srf.web.srf.ch.home.really-simple-syndication-rss-feeds-von-srf,0,0,0,0,0,0,0,0&amp;cg1=SRF&amp;cg2=web&amp;cg3=srf.ch&amp;cg5=RSS-Feeds+von+SRF&amp;cg6=Home&amp;cg10=19959347&amp;cp1=Artikel&amp;cp14=Home&amp;cp31=5017&amp;cp32=2013.01.25&amp;cp33=20130125&amp;cp34=13%3A14&amp;cp35=1314&amp;cp36=201301251314&amp;cp52=really-simple-syndication-rss-feeds-von-srf&quot;,&quot;config&quot;:{&quot;trackId&quot;:&quot;292330999892453&quot;,&quot;trackDomain&quot;:&quot;data.srf.ch&quot;,&quot;cookie&quot;:3,&quot;tabBrowsing&quot;:false,&quot;execRTA&quot;:false,&quot;execCDB&quot;:false,&quot;useCDBCache&quot;:false,&quot;useCDBScript&quot;:false,&quot;forceHTTPS&quot;:true},&quot;pageconfig&quot;:{&quot;contentId&quot;:&quot;srf.web.srf.ch.home.really-simple-syndication-rss-feeds-von-srf&quot;,&quot;domain&quot;:&quot;REGEXP:^([a-z1-9]*)([.]?)srf[.]ch$&quot;,&quot;linkTrack&quot;:&quot;standard&quot;,&quot;heatmap&quot;:false,&quot;form&quot;:false,&quot;executePluginFunction&quot;:null},&quot;contentGroup&quot;:{&quot;1&quot;:&quot;SRF&quot;,&quot;2&quot;:&quot;web&quot;,&quot;3&quot;:&quot;srf.ch&quot;,&quot;10&quot;:&quot;19959347&quot;,&quot;5&quot;:&quot;RSS-Feeds",
-   "/news/bnf/rss/1646",
-   "/news/bnf/rss/1890",
-   "/news/bnf/rss/1922",
-   "/news/bnf/rss/1926",
-   "https://data.srf.ch/292330999892453/wt?p=438,srf.web.srf.ch.home.really-simple-syndication-rss-feeds-von-srf,0,0,0,0,0,0,0,0&cg1=SRF&cg2=web&cg3=srf.ch&cg5=RSS-Feeds+von+SRF&cg6=Home&cg10=19959347&cp1=Artikel&cp14=Home&cp31=5017&cp32=2013.01.25&cp33=20130125&cp34=13%3A14&cp35=1314&cp36=201301251314&cp52=really-simple-syndication-rss-feeds-von-srf",
-   "https://www.srf.ch/bnf/rss/19919909",
-   "https://www.srf.ch/bnf/rss/19920002",
-   "https://www.srf.ch/bnf/rss/19920107",
-   "https://www.srf.ch/bnf/rss/19920122",
-   "https://www.srf.ch/bnf/rss/19920818",
-   "https://www.srf.ch/bnf/rss/630",
-   "https://www.srf.ch/kultur/bnf/rss/10943024",
-   "https://www.srf.ch/news/bnf/rss/19032223",
-   "https://www.srf.ch/really-simple-syndication-rss-feeds-von-srf",
-   "https://www.srf.ch/sport/bnf/rss/3042",
-   "rss/2562",
-   "rss/2814",
-   "rss/2958",
-   "rss/3010",
-   "rss/3418",
-   "rss/454",
-   "rss/718",
-   "rss/787950",
-   "rss/8726",
-   "rss/8738",
-   "rss/8762",
-   "rss/8774",
-   "rss/8786",
-   "rss/8798",
-   "srf.ch&quot;,&quot;page_urn&quot;:&quot;urn:srf:article:19959347&quot;,&quot;content_title&quot;:&quot;really-simple-syndication-rss-feeds-von-srf&quot;,&quot;content_title_pretty&quot;:&quot;RSS-Feeds",
-   "www.srf.ch%2Freally-simple-syndication-rss-feeds-von-srf%3Fsrg_sm_medium%3Dbs",
-   "www.srf.ch%2Freally-simple-syndication-rss-feeds-von-srf%3Fsrg_sm_medium%3Dem",
-   "www.srf.ch%2Freally-simple-syndication-rss-feeds-von-srf%3Fsrg_sm_medium%3Dfb&display=popup",
-   "www.srf.ch%2Freally-simple-syndication-rss-feeds-von-srf%3Fsrg_sm_medium%3Dli",
-   "www.srf.ch%2Freally-simple-syndication-rss-feeds-von-srf%3Fsrg_sm_medium%3Dtw&text=RSS-Feeds+von+SRF",
-   "www.srf.ch%2Freally-simple-syndication-rss-feeds-von-srf%3Fsrg_sm_medium%3Dwa"
-  ],
-  "basel": []
- },
- "https://www.srf.ch/news/regional/basel-baselland": "HTTP Error 404: Not Found",
- "https://www.srf.ch/news/schweiz/basel-baselland": "HTTP Error 404: Not Found",
- "https://www.srf.ch/audio/regionaljournal-basel-baselland": {
-  "rss": [],
-  "basel": [
-   ".bind(r,9623)))}}new G({features:[F,Y,q],loaderType:\"lite\"})})()})();</script> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\"> <title>Regionaljournal Basel Baselland - Audio &amp; Podcasts - SRF</title> <link rel=\"preconnect\" href=\"//app.usercentrics.eu\" crossorigin=\"anonymous\"> <script ",
-   "r,9623)))}}new G({features:[F,Y,q],loaderType:\"lite\"})})()})();</script> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\"> <title>Regionaljournal Basel Baselland - Audio &amp; Podcasts - SRF</title> <link rel=\"preconnect\" href=\"//app.usercentrics.eu\" crossorigin=\"anonymous\"> <script ",
-   "llery\" content=\"Mit Bildergalerie\"><meta name=\"i18n:status:progress:heard\" content=\"Bereits #JS-PLACEHOLDER#% gehört.\"><meta name=\"description\" content=\"Informationen und Hintergründe für die Kantone Basel-Stadt und Baselland.\" > <meta name=\"srf:urn\" content=\"urn:srf:show:A00404\" > <meta name=\"srf:content:id\" content=\"A00404\" > <meta name=\"srf:portal:urn\" content=\"urn:srf:portal:audio\" > <meta name=\"sr",
-   "Mit Bildergalerie\"><meta name=\"i18n:status:progress:heard\" content=\"Bereits #JS-PLACEHOLDER#% gehört.\"><meta name=\"description\" content=\"Informationen und Hintergründe für die Kantone Basel-Stadt und Baselland.\" > <meta name=\"srf:urn\" content=\"urn:srf:show:A00404\" > <meta name=\"srf:content:id\" content=\"A00404\" > <meta name=\"srf:portal:urn\" content=\"urn:srf:portal:audio\" > <meta name=\"srf:portal:name\" c",
-   " content=\"55afe0fd-1de0-4964-9b13-101e9306617a\"> <meta name=\"twitter:card\" content=\"summary_large_image\"> <meta name=\"twitter:site\" content=\"@srf\"> <meta name=\"twitter:title\" content=\"Regionaljournal Basel Baselland\"> <meta name=\"twitter:description\" content=\"Informationen und Hintergründe für die Kantone Basel-Stadt und Baselland.\"> <meta name=\"twitter:url\" content=\"https://www.srf.ch/audio/regionaljo",
-   "nt=\"55afe0fd-1de0-4964-9b13-101e9306617a\"> <meta name=\"twitter:card\" content=\"summary_large_image\"> <meta name=\"twitter:site\" content=\"@srf\"> <meta name=\"twitter:title\" content=\"Regionaljournal Basel Baselland\"> <meta name=\"twitter:description\" content=\"Informationen und Hintergründe für die Kantone Basel-Stadt und Baselland.\"> <meta name=\"twitter:url\" content=\"https://www.srf.ch/audio/regionaljournal-",
-   "meta name=\"twitter:site\" content=\"@srf\"> <meta name=\"twitter:title\" content=\"Regionaljournal Basel Baselland\"> <meta name=\"twitter:description\" content=\"Informationen und Hintergründe für die Kantone Basel-Stadt und Baselland.\"> <meta name=\"twitter:url\" content=\"https://www.srf.ch/audio/regionaljournal-basel-baselland\"><meta name=\"twitter:image\" content=\"https://il.srf.ch/images/?imageUrl=https%3A%2F%2",
-   "er:site\" content=\"@srf\"> <meta name=\"twitter:title\" content=\"Regionaljournal Basel Baselland\"> <meta name=\"twitter:description\" content=\"Informationen und Hintergründe für die Kantone Basel-Stadt und Baselland.\"> <meta name=\"twitter:url\" content=\"https://www.srf.ch/audio/regionaljournal-basel-baselland\"><meta name=\"twitter:image\" content=\"https://il.srf.ch/images/?imageUrl=https%3A%2F%2Fdownload-media.",
-   "geUrl=https%3A%2F%2Fdownload-media.srf.ch%2Fworld%2Fimage%2Faudio%2F2020%2F12%2F02cc9c382631473086bd5962927aad96.jpg&amp;format=jpg&amp;width=960\"> <meta property=\"og:title\" content=\"Regionaljournal Basel Baselland\"> <meta property=\"og:description\" content=\"Informationen und Hintergründe für die Kantone Basel-Stadt und Baselland.\"> <meta property=\"og:url\" content=\"https://www.srf.ch/audio/regionaljour",
-   "https%3A%2F%2Fdownload-media.srf.ch%2Fworld%2Fimage%2Faudio%2F2020%2F12%2F02cc9c382631473086bd5962927aad96.jpg&amp;format=jpg&amp;width=960\"> <meta property=\"og:title\" content=\"Regionaljournal Basel Baselland\"> <meta property=\"og:description\" content=\"Informationen und Hintergründe für die Kantone Basel-Stadt und Baselland.\"> <meta property=\"og:url\" content=\"https://www.srf.ch/audio/regionaljournal-ba"
+ "https://www.srf.ch/bnf/rss/19919909": [
+  "Gesundheit: Medizin, Körper und Psyche | SRF Wissen",
+  236,
+  [
+   "Fünf Jahre Pflegeinitiative – «Pflegefachpersonen auszubilden reicht nicht»",
+   "Organspende – Pauls neue Leber: Hoffen, Bangen und eine tragische Wende",
+   "Stammzellenspende – Schwierige Suche nach Spendern – Er hat es getan",
+   "Q&A Organspende – «Werden jüngere Menschen bei der Organvergabe bevorzugt?»"
   ]
- },
- "ids": {
-  "1646": [
-   "Aktuelle News aus der Schweiz und weltweit – SRF",
-   80,
-   "Präsidentenwahl in Frankreich – Strassenproteste spielen Le Pen in die Hände"
-  ],
-  "1890": [
-   "Schweiz – News aus dem Inland – SRF",
-   60,
-   "Anwohnerparkkarten – Zürich: Parkieren in der Blauen Zone wird definitiv teurer"
-  ],
-  "1922": [
-   "International – News aus dem Ausland – SRF",
-   60,
-   "Präsidentenwahl in Frankreich – Strassenproteste spielen Le Pen in die Hände"
-  ],
-  "1926": [
-   "Wirtschaft – News aus der Schweizer- und Weltwirtschaft – SRF",
-   60,
-   "Essenslieferdienst krempelt um – Just Eat: Entlassungen wegen neuem Modell"
+ ],
+ "https://www.srf.ch/bnf/rss/19920002": [
+  "Nachhaltigkeit: Aktuelles und Hintergründe – Wissen – SRF",
+  70,
+  [
+   "Biodiversitätskonferenz 2026 – Naturverlust stoppen bis 2030: Länder liegen weit zurück",
+   "Vielversprechender Baustoff – Flugzeuge recyceln? Neues Epoxidharz solls möglich machen",
+   "Wandern mit Sorgfalt – Nachhaltiger Tourismus: Schwägalp setzt neue Massstäbe",
+   "Swiss Overshoot Day – Seit heute leben wir auf pump – was kann ich tun?"
   ]
- }
+ ],
+ "https://www.srf.ch/bnf/rss/19920107": [
+  "Mensch: Aktuelles und Hintergründe – Wissen – SRF",
+  5,
+  [
+   "Organspende – Pauls neue Leber: Hoffen, Bangen und eine tragische Wende",
+   "Gespritzte Muskeln – Im gefährlichen Rausch der Steroide",
+   "Hirngesundheit – Kreuzworträtsel halten das Gehirn jung",
+   "Geschwisterforschung – Klüger, kreativer, einsamer? Drei überraschende Erkenntnisse"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/19920122": [
+  "Technik: Aktuelles und Hintergründe – Wissen – SRF",
+  86,
+  [
+   "Schnelles Ende – Warum wird die Schaltsekunde abgeschafft?",
+   "Technik für blinde Menschen – Wenn das Smartphone zum Auge wird",
+   "Filmcheck – Würde echte Spinnenseide Spider-Man tatsächlich tragen?",
+   "Drohnenforschung – Falkenflug inspiriert neue Technologien"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/19920818": [
+  "Natur und Tiere: Tierwelt, Artenvielfalt und Umwelt | SRF Wissen",
+  192,
+  [
+   "Fische mit Tumoren – Übertragbarer Krebs bei Welsen entdeckt",
+   "Filmcheck – Eine Stunde im Pottwal: Wie realistisch ist «Whalefall»?",
+   "Wildlife Photographer 2026 – Preisgekrönte Natur- und Tierfotografie – die besten Bilder",
+   "Ausgeklügelter Tastsinn – Diese Kröte «sieht» ihre Beute mit den Fingerspitzen"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/630": [
+  "SRF Wissen: Aktuelles aus der Wissenschaft",
+  164,
+  [
+   "Fische mit Tumoren – Übertragbarer Krebs bei Welsen entdeckt",
+   "Organspende – Pauls neue Leber: Hoffen, Bangen und eine tragische Wende",
+   "Biodiversitätskonferenz – «Die Schweiz liegt bei der Biodiversität weit hinten»",
+   "Forschung aus Genf – Warum Faulheit eigentlich ganz vernünftig ist"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/19032223": [
+  "Das Neueste – SRF",
+  60,
+  [
+   "Grand Départ in Edinburgh – Tour de France 2027: Tourmalet und Grand Colombier als Highlights",
+   "«Ich kann nicht singen»-Chor – Ein Chor stemmt sich gegen das Trauma des Singunterrichts",
+   "Essenslieferdienst krempelt um – Just Eat: Entlassungen wegen neuem Modell",
+   "Erfolg in Deutschland – Schlagersänger Vincent Gross gewinnt «The Masked Singer»"
+  ]
+ ],
+ "https://www.srf.ch/sport/bnf/rss/3042": [
+  "Leichtathletik – News, Analysen & Highlights",
+  60,
+  [
+   "News aus der Leichtathletik – Leichtathletik-EM 2030 nach Helsinki vergeben",
+   "Wechsel in die Leichtathletik – Ex-Langlaufkönigin Johaug: Bald Sommerspiele statt Winterspiele?",
+   "World Athletics Night – Werro und Ehammer für Awards nominiert",
+   "News aus der Leichtathletik – Final der Diamond League 2027 wieder in Zürich"
+  ]
+ ],
+ "https://www.srf.ch/kultur/bnf/rss/10943024": "HTTP Error 404: Not Found",
+ "https://www.srf.ch/news/bnf/rss/2562": [
+  "Fussball – News, Analysen & Highlights",
+  61,
+  [
+   "Nach Mega-Auftritt vs. Arsenal – Ballon d'Or für Harry Kane? «Könnte besonderer Abend werden»",
+   "Mit Russland, ohne Schweiz – U15-WM-Megaturnier der Fifa wirft Fragen auf",
+   "Gegner von Lugano – Getafe: Rayo Vallecano als Vorbild und Coliseum als Festung",
+   "Bei ManUnited brennt der Baum – Nach Offenbarungseid in Como: Steht Carrick vor dem Aus?"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/2814": [
+  "Tennis – News, Analysen & Highlights",
+  60,
+  [
+   "News aus dem Tennis – Bencic bleibt in Ningbo schon in der 2. Runde hängen",
+   "News aus dem Tennis – Wawrinka übersteht 1. Runde in Lyon – Bertola verpasst Premiere",
+   "News aus dem Tennis – Bencic meistert Startaufgabe – WTA Finals ohne Swiatek",
+   "Traumpaar hat sich getrennt – Ehe-Aus und Karriere-Ende: Monfils durchlebt schwierige Zeit"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/2958": [
+  "Motorsport – News, Analysen & Highlights",
+  60,
+  [
+   "Motorsport-News – Aegerter mit Erfolgsmeldung zum Saisonabschluss",
+   "Motorsport-News – Langstrecken-WM: Buemi gewinnt in Barcelona",
+   "Motorsport-News – Brasilianer Camara übernimmt Ocons Cockpit bei Haas",
+   "Ein Jahr nach Horror-Crash – Dettwiler zurück im Rennmodus: «Es hat sich gut angefühlt»"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/3010": [
+  "Mehr Sport – News, Analysen & Highlights",
+  60,
+  [
+   "Schweizer in der NBA – George überzeugt bei Auftaktsieg – auch Capela gewinnt",
+   "Out in der Champions League – Kriens-Luzern schrammt gegen Kielce an Sensation vorbei",
+   "Kunstturn-WM in Rotterdam – Neue Zeitrechnung: China schlägt die USA im Teamfinal",
+   "Curling-Trainerin Südkoreas – Tirinzoni über ihr Abenteuer: «Konnte fast nicht ‹Nein› sagen»"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/3418": [
+  "Eishockey News: Aktuelle Nachrichten & Highlights",
+  30,
+  [
+   "NHL in Nacht auf Donnerstag – Schmids Panthers verlieren bei Brady Tkachuks Ottawa-Rückkehr",
+   "Debüt für Lausanne – Kurashev nach zermürbenden Monaten: «Es war sehr emotional»",
+   "Suter schlägt Niederreiter – Hischier und Siegenthaler punkten bei Devils-Sieg",
+   "National League am Dienstag – HCD beendet ZSC-Siegesserie – Kloten schafft Befreiungsschlag"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/454": [
+  "SRF Kultur: Aktuelles aus der Kulturszene der Schweiz und weltweit",
+  75,
+  [
+   "«Ich kann nicht singen»-Chor – Ein Chor stemmt sich gegen das Trauma des Singunterrichts",
+   "Zu laut, zu wild, zu viel? – Diese Geigerin macht Musik nach ihren eigenen Regeln",
+   "Kulturnews in Kurzform – Thélyson Orélien: Verlag trennt sich von Autor wegen KI-Einsatz",
+   "Schau «Modernismo tropical» – Seine Gärten waren ein Statement gegen den Kolonialismus"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/718": [
+  "Sport News aus der Schweiz und International – Sport – SRF",
+  78,
+  [
+   "Frauenfussball-Serie – «Hidden Stories»: Alle Folgen im Überblick",
+   "Grand Départ in Edinburgh – Tour de France 2027: Tourmalet und Grand Colombier als Highlights",
+   "News aus dem Tennis – Bencic bleibt in Ningbo schon in der 2. Runde hängen",
+   "Out in der Champions League – Kriens-Luzern schrammt gegen Kielce an Sensation vorbei"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/787950": [
+  "Ski alpin Allgemein – News, Analysen & Highlights",
+  30,
+  [
+   "5 Fragen, 5 Antworten – Favoriten und Abwesende: Das müssen Sie vor dem Ski-Winter wissen",
+   "Programmhighlights bei SRF – Wintersportsaison im Zeichen der Ski-WM in Crans-Montana",
+   "Ski-WM 2027 in Crans-Montana – Co-Präsidium: Nachfolge von Schmidhalter geregelt",
+   "Zwei Wochen vor Saisonstart – Trotz Schneemangel: Keine Panik bei Swiss-Ski"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/8726": [
+  "Film und Serien: Kritiken, Streaming und Kinostarts | SRF Kultur",
+  11,
+  [
+   "Neu im Kino – «Sense and Sensibility»: Kitsch pur oder gelungenes Remake?",
+   "Neu im Kino – Mark Zuckerberg kommt in «The Social Reckoning» nicht gut weg",
+   "Neu im Kino – «Naza»: Der Film, der die israelische Gesellschaft spaltet",
+   "Neu im Kino: «Digger» – Tom Cruise jagt den Oscar: Eine «Mission Impossible»?"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/8738": [
+  "Musik: Jazz, Klassik, Konzerte und Künstler | SRF Kultur",
+  9,
+  [
+   "«Ich kann nicht singen»-Chor – Ein Chor stemmt sich gegen das Trauma des Singunterrichts",
+   "Zu laut, zu wild, zu viel? – Diese Geigerin macht Musik nach ihren eigenen Regeln",
+   "Hip, hipper, Harfe – Von Beyoncé bis in die Clubs: Brandee Younger entstaubt die Harfe",
+   "Schweizer Musikstiftungen – Riesenbeträge für die Musik: Wohin fliesst das Geld?"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/8762": [
+  "Literatur: Bücher, Autoren und Rezensionen | SRF Kultur",
+  64,
+  [
+   "Nobelpreis 2026 – Der Literaturnobelpreis geht an Anne Carson",
+   "Neuer Krimi «Ein und Alles» – Endlich! Martin Suter schreibt sich zurück zur Bestform",
+   "Roman «Haltet euch fest» – Sind Freunde Familie? Mareike Fallwickl denkt Lebensmodelle neu",
+   "Neuer Roman von Juli Zeh – In «Pony Show» wird der Gerichtsprozess zum Medienspektakel"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/8774": [
+  "Kunst: Ausstellungen, Künstler und Museen | SRF Kultur",
+  8,
+  [
+   "Schau «Modernismo tropical» – Seine Gärten waren ein Statement gegen den Kolonialismus",
+   "Neues Buch von Elisa von Hof – «Unsichtbare Musen»: Von Anbetung bis Abwertung",
+   "Fotograf Daniel Schwartz – Diese Bilder zeigen, wie die Gletscher verschwinden",
+   "Kunst im Generationenvergleich – Die Generation Z gibt am meisten für Kunstwerke aus"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/8786": [
+  "Bühne: Theater, Oper und Tanz | SRF Kultur",
+  11,
+  [
+   "Preis für Comedy und Kabarett – Clownin ohne rote Nase: Judith Bach gewinnt Salzburger Stier 2027",
+   "Grand Prix Darstellende Künste – «Zärtlich und ohne Zynismus»: Grosse Ehre für Michèle Gurtner",
+   "Comeback des Comedy-Duos – Funktioniert der Humor der Schmirinskis heute noch?",
+   "Umstrittene Aktion – Wirbel um Wagner-Projekt von Milo Rau in Israel"
+  ]
+ ],
+ "https://www.srf.ch/news/bnf/rss/8798": [
+  "Gesellschaft und Religion: Debatten und Hintergründe | SRF Kultur",
+  11,
+  [
+   "Aus für feministisches Blatt – Was sagt das Ende von «Emma» über den Feminismus von heute?",
+   "Nach 50 Jahren – Alice Schwarzer stellt Magazin «Emma» ein",
+   "Glosse zum Star der Stunde – Schleiereulen? New York hat einen neuen Vogel",
+   "Schule ohne Diskriminierung – Dilemma Diversität: Schulalltag zwischen Vorurteil und Vielfalt"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/2562": [
+  "Fussball – News, Analysen & Highlights",
+  61,
+  [
+   "Nach Mega-Auftritt vs. Arsenal – Ballon d'Or für Harry Kane? «Könnte besonderer Abend werden»",
+   "Mit Russland, ohne Schweiz – U15-WM-Megaturnier der Fifa wirft Fragen auf",
+   "Gegner von Lugano – Getafe: Rayo Vallecano als Vorbild und Coliseum als Festung",
+   "Bei ManUnited brennt der Baum – Nach Offenbarungseid in Como: Steht Carrick vor dem Aus?"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/2814": [
+  "Tennis – News, Analysen & Highlights",
+  60,
+  [
+   "News aus dem Tennis – Bencic bleibt in Ningbo schon in der 2. Runde hängen",
+   "News aus dem Tennis – Wawrinka übersteht 1. Runde in Lyon – Bertola verpasst Premiere",
+   "News aus dem Tennis – Bencic meistert Startaufgabe – WTA Finals ohne Swiatek",
+   "Traumpaar hat sich getrennt – Ehe-Aus und Karriere-Ende: Monfils durchlebt schwierige Zeit"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/2958": [
+  "Motorsport – News, Analysen & Highlights",
+  60,
+  [
+   "Motorsport-News – Aegerter mit Erfolgsmeldung zum Saisonabschluss",
+   "Motorsport-News – Langstrecken-WM: Buemi gewinnt in Barcelona",
+   "Motorsport-News – Brasilianer Camara übernimmt Ocons Cockpit bei Haas",
+   "Ein Jahr nach Horror-Crash – Dettwiler zurück im Rennmodus: «Es hat sich gut angefühlt»"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/3010": [
+  "Mehr Sport – News, Analysen & Highlights",
+  60,
+  [
+   "Schweizer in der NBA – George überzeugt bei Auftaktsieg – auch Capela gewinnt",
+   "Out in der Champions League – Kriens-Luzern schrammt gegen Kielce an Sensation vorbei",
+   "Kunstturn-WM in Rotterdam – Neue Zeitrechnung: China schlägt die USA im Teamfinal",
+   "Curling-Trainerin Südkoreas – Tirinzoni über ihr Abenteuer: «Konnte fast nicht ‹Nein› sagen»"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/3418": [
+  "Eishockey News: Aktuelle Nachrichten & Highlights",
+  30,
+  [
+   "NHL in Nacht auf Donnerstag – Schmids Panthers verlieren bei Brady Tkachuks Ottawa-Rückkehr",
+   "Debüt für Lausanne – Kurashev nach zermürbenden Monaten: «Es war sehr emotional»",
+   "Suter schlägt Niederreiter – Hischier und Siegenthaler punkten bei Devils-Sieg",
+   "National League am Dienstag – HCD beendet ZSC-Siegesserie – Kloten schafft Befreiungsschlag"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/454": [
+  "SRF Kultur: Aktuelles aus der Kulturszene der Schweiz und weltweit",
+  75,
+  [
+   "«Ich kann nicht singen»-Chor – Ein Chor stemmt sich gegen das Trauma des Singunterrichts",
+   "Zu laut, zu wild, zu viel? – Diese Geigerin macht Musik nach ihren eigenen Regeln",
+   "Kulturnews in Kurzform – Thélyson Orélien: Verlag trennt sich von Autor wegen KI-Einsatz",
+   "Schau «Modernismo tropical» – Seine Gärten waren ein Statement gegen den Kolonialismus"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/718": [
+  "Sport News aus der Schweiz und International – Sport – SRF",
+  78,
+  [
+   "Frauenfussball-Serie – «Hidden Stories»: Alle Folgen im Überblick",
+   "Grand Départ in Edinburgh – Tour de France 2027: Tourmalet und Grand Colombier als Highlights",
+   "News aus dem Tennis – Bencic bleibt in Ningbo schon in der 2. Runde hängen",
+   "Out in der Champions League – Kriens-Luzern schrammt gegen Kielce an Sensation vorbei"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/787950": [
+  "Ski alpin Allgemein – News, Analysen & Highlights",
+  30,
+  [
+   "5 Fragen, 5 Antworten – Favoriten und Abwesende: Das müssen Sie vor dem Ski-Winter wissen",
+   "Programmhighlights bei SRF – Wintersportsaison im Zeichen der Ski-WM in Crans-Montana",
+   "Ski-WM 2027 in Crans-Montana – Co-Präsidium: Nachfolge von Schmidhalter geregelt",
+   "Zwei Wochen vor Saisonstart – Trotz Schneemangel: Keine Panik bei Swiss-Ski"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/8726": [
+  "Film und Serien: Kritiken, Streaming und Kinostarts | SRF Kultur",
+  11,
+  [
+   "Neu im Kino – «Sense and Sensibility»: Kitsch pur oder gelungenes Remake?",
+   "Neu im Kino – Mark Zuckerberg kommt in «The Social Reckoning» nicht gut weg",
+   "Neu im Kino – «Naza»: Der Film, der die israelische Gesellschaft spaltet",
+   "Neu im Kino: «Digger» – Tom Cruise jagt den Oscar: Eine «Mission Impossible»?"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/8738": [
+  "Musik: Jazz, Klassik, Konzerte und Künstler | SRF Kultur",
+  9,
+  [
+   "«Ich kann nicht singen»-Chor – Ein Chor stemmt sich gegen das Trauma des Singunterrichts",
+   "Zu laut, zu wild, zu viel? – Diese Geigerin macht Musik nach ihren eigenen Regeln",
+   "Hip, hipper, Harfe – Von Beyoncé bis in die Clubs: Brandee Younger entstaubt die Harfe",
+   "Schweizer Musikstiftungen – Riesenbeträge für die Musik: Wohin fliesst das Geld?"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/8762": [
+  "Literatur: Bücher, Autoren und Rezensionen | SRF Kultur",
+  64,
+  [
+   "Nobelpreis 2026 – Der Literaturnobelpreis geht an Anne Carson",
+   "Neuer Krimi «Ein und Alles» – Endlich! Martin Suter schreibt sich zurück zur Bestform",
+   "Roman «Haltet euch fest» – Sind Freunde Familie? Mareike Fallwickl denkt Lebensmodelle neu",
+   "Neuer Roman von Juli Zeh – In «Pony Show» wird der Gerichtsprozess zum Medienspektakel"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/8774": [
+  "Kunst: Ausstellungen, Künstler und Museen | SRF Kultur",
+  8,
+  [
+   "Schau «Modernismo tropical» – Seine Gärten waren ein Statement gegen den Kolonialismus",
+   "Neues Buch von Elisa von Hof – «Unsichtbare Musen»: Von Anbetung bis Abwertung",
+   "Fotograf Daniel Schwartz – Diese Bilder zeigen, wie die Gletscher verschwinden",
+   "Kunst im Generationenvergleich – Die Generation Z gibt am meisten für Kunstwerke aus"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/8786": [
+  "Bühne: Theater, Oper und Tanz | SRF Kultur",
+  11,
+  [
+   "Preis für Comedy und Kabarett – Clownin ohne rote Nase: Judith Bach gewinnt Salzburger Stier 2027",
+   "Grand Prix Darstellende Künste – «Zärtlich und ohne Zynismus»: Grosse Ehre für Michèle Gurtner",
+   "Comeback des Comedy-Duos – Funktioniert der Humor der Schmirinskis heute noch?",
+   "Umstrittene Aktion – Wirbel um Wagner-Projekt von Milo Rau in Israel"
+  ]
+ ],
+ "https://www.srf.ch/bnf/rss/8798": [
+  "Gesellschaft und Religion: Debatten und Hintergründe | SRF Kultur",
+  11,
+  [
+   "Aus für feministisches Blatt – Was sagt das Ende von «Emma» über den Feminismus von heute?",
+   "Nach 50 Jahren – Alice Schwarzer stellt Magazin «Emma» ein",
+   "Glosse zum Star der Stunde – Schleiereulen? New York hat einen neuen Vogel",
+   "Schule ohne Diskriminierung – Dilemma Diversität: Schulalltag zwischen Vorurteil und Vielfalt"
+  ]
+ ]
 }
