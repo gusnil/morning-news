@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}{{ "News " ~ page.date if is_archive else "Morning news" }}{% endblock %}
+{% block body %}
+<nav class="top" aria-label="Sections">
+  <ul>
+  {% for s in page.sections %}
+    <li><a href="#{{ s.id }}" data-key="{{ loop.index }}">{{ s.title }}</a></li>
+  {% endfor %}
+  </ul>
+  <span class="date">{% if is_archive %}<a href="../index.html">today</a> · {% endif %}<time datetime="{{ page.date }}">{{ page.date | nicedate }}</time></span>
+</nav>
+<main>
+{% for s in page.sections %}
+<section id="{{ s.id }}" aria-labelledby="h-{{ s.id }}">
+  <h2 id="h-{{ s.id }}">{{ s.title }}</h2>
+  {% include "section.html" %}
+</section>
+{% endfor %}
+</main>
+<footer>
+  Built {{ page.built_local }}{% if page.feeds_total %} · {{ page.feeds_ok }} of {{ page.feeds_total }} feeds OK{% endif %} · <a href="{{ root }}archive/index.html">archive</a>
+</footer>
+{% endblock %}

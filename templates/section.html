@@ -1,0 +1,12 @@
+{% for g in s.groups if g["items"] %}
+  {% if g.title %}<h3 class="sub">{{ g.title }}</h3>{% endif %}
+  <ol class="items">
+  {% for it in g["items"] %}
+    <li lang="{{ it.lang }}"><a href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a>
+      <div class="meta">{{ it.source }} · {{ it.when }}{% if it.also %} · also: {{ it.also | join(", ") }}{% endif %}</div>
+      {% if it.excerpt %}<p class="ex">{{ it.excerpt }}</p>{% endif %}
+    </li>
+  {% endfor %}
+  </ol>
+{% endfor %}
+{% if s.thin %}<p class="thin">Thin day: {{ s.count }} {{ "story" if s.count == 1 else "stories" }} in this section.</p>{% endif %}

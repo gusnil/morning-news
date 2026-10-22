@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Archive · Morning news{% endblock %}
+{% block body %}
+<nav class="top" aria-label="Archive">
+  <ul><li><a href="../index.html">today</a></li></ul>
+  <span class="date">Archive</span>
+</nav>
+<main>
+<section id="archive" aria-labelledby="h-archive">
+  <h2 id="h-archive">Last {{ pages | length }} days</h2>
+  <ol class="items days">
+  {% for p in pages %}
+    <li><a href="{{ p.date }}.html">{{ p.date | nicedate }}</a>
+      <div class="meta">{% for s in p.sections %}{{ s.title }} {{ s.count }}{{ " · " if not loop.last }}{% endfor %}{% if p.date == today %} · today{% endif %}</div>
+    </li>
+  {% endfor %}
+  </ol>
+</section>
+</main>
+{% endblock %}
