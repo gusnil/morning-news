@@ -48,99 +48,20 @@
   "name": "DW",
   "section": "world",
   "configured": "https://rss.dw.com/rdf/rss-en-all",
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "configured url: TimeoutError: The read operation timed out. HTTP 404; TimeoutError: The read operation timed out",
+  "result": "ok",
+  "working_url": "https://rss.dw.com/rdf/rss-en-all",
+  "items": 134,
+  "newest": "2026-10-22",
+  "note": "",
   "tried": [
    {
     "url": "https://rss.dw.com/rdf/rss-en-all",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "TimeoutError: The read operation timed out",
-    "title": null
-   },
-   {
-    "url": "https://rss.dw.com/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://rss.dw.com/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://rss.dw.com/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://rss.dw.com/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://rss.dw.com/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://rss.dw.com/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://rss.dw.com/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://rss.dw.com/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://rss.dw.com/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://rss.dw.com/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
+    "ok": true,
+    "items": 134,
+    "newest": "2026-10-22",
+    "error": null,
+    "title": "Deutsche Welle",
+    "final_url": "https://rss.dw.com/rdf/rss-en-all"
    }
   ]
  },
@@ -663,14 +584,14 @@
   "configured": "https://www.nzz.ch/recent.rss",
   "result": "ok",
   "working_url": "https://www.nzz.ch/recent.rss",
-  "items": 16,
+  "items": 15,
   "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
     "url": "https://www.nzz.ch/recent.rss",
     "ok": true,
-    "items": 16,
+    "items": 15,
     "newest": "2026-10-22",
     "error": null,
     "title": "Neueste Artikel - NZZ Nachrichten",
@@ -774,14 +695,14 @@
   "result": "ok",
   "working_url": "https://www.pinkbike.com/pinkbike_xml_feed.php",
   "items": 30,
-  "newest": "2026-10-21",
+  "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
     "url": "https://www.pinkbike.com/pinkbike_xml_feed.php",
     "ok": true,
     "items": 30,
-    "newest": "2026-10-21",
+    "newest": "2026-10-22",
     "error": null,
     "title": "Pinkbike.com",
     "final_url": "https://www.pinkbike.com/pinkbike_xml_feed.php"
@@ -818,14 +739,14 @@
   "result": "ok",
   "working_url": "https://www.patriots.com/rss/news",
   "items": 5,
-  "newest": "2026-10-21",
+  "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
     "url": "https://www.patriots.com/rss/news",
     "ok": true,
     "items": 5,
-    "newest": "2026-10-21",
+    "newest": "2026-10-22",
     "error": null,
     "title": "News",
     "final_url": "https://www.patriots.com/rss/news"
@@ -2284,6 +2205,389 @@
     "error": null,
     "title": "",
     "final_url": "https://publish-p57963-e462109.adobeaemcloud.com/feed/?lang=en"
+   }
+  ]
+ },
+ {
+  "id": "endpoints",
+  "name": "Endpoints News",
+  "section": "rd",
+  "configured": "https://endpts.com/feed/",
+  "result": "ok",
+  "working_url": "https://endpts.com/feed/",
+  "items": 24,
+  "newest": "2026-10-22",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://endpts.com/feed/",
+    "ok": true,
+    "items": 24,
+    "newest": "2026-10-22",
+    "error": null,
+    "title": "Endpoints News",
+    "final_url": "https://endpoints.news/feed/"
+   }
+  ]
+ },
+ {
+  "id": "fiercebiotech",
+  "name": "Fierce Biotech",
+  "section": "rd",
+  "configured": "https://www.fiercebiotech.com/rss/xml",
+  "result": "ok",
+  "working_url": "https://www.fiercebiotech.com/rss/xml",
+  "items": 25,
+  "newest": "undated",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://www.fiercebiotech.com/rss/xml",
+    "ok": true,
+    "items": 25,
+    "newest": "undated",
+    "error": null,
+    "title": "Fierce Biotech",
+    "final_url": "https://www.fiercebiotech.com/rss/xml"
+   }
+  ]
+ },
+ {
+  "id": "fiercepharma",
+  "name": "Fierce Pharma",
+  "section": "rd",
+  "configured": "https://www.fiercepharma.com/rss/xml",
+  "result": "ok",
+  "working_url": "https://www.fiercepharma.com/rss/xml",
+  "items": 25,
+  "newest": "undated",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://www.fiercepharma.com/rss/xml",
+    "ok": true,
+    "items": 25,
+    "newest": "undated",
+    "error": null,
+    "title": "Fierce Pharma",
+    "final_url": "https://www.fiercepharma.com/rss/xml"
+   }
+  ]
+ },
+ {
+  "id": "biopharmadive",
+  "name": "BioPharma Dive",
+  "section": "rd",
+  "configured": "https://www.biopharmadive.com/feeds/news/",
+  "result": "ok",
+  "working_url": "https://www.biopharmadive.com/feeds/news/",
+  "items": 10,
+  "newest": "2026-10-21",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://www.biopharmadive.com/feeds/news/",
+    "ok": true,
+    "items": 10,
+    "newest": "2026-10-21",
+    "error": null,
+    "title": "BioPharma Dive - Latest News",
+    "final_url": "https://www.biopharmadive.com/feeds/news/"
+   }
+  ]
+ },
+ {
+  "id": "statnews",
+  "name": "STAT",
+  "section": "rd",
+  "configured": "https://www.statnews.com/category/pharma/feed/",
+  "result": "ok",
+  "working_url": "https://www.statnews.com/category/pharma/feed/",
+  "items": 20,
+  "newest": "2026-10-22",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://www.statnews.com/category/pharma/feed/",
+    "ok": true,
+    "items": 20,
+    "newest": "2026-10-22",
+    "error": null,
+    "title": "STAT Pharma: The science and business of new drug developmen",
+    "final_url": "https://www.statnews.com/category/pharma/feed/"
+   }
+  ]
+ },
+ {
+  "id": "fda",
+  "name": "FDA",
+  "section": "rd",
+  "configured": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+  "result": "ok",
+  "working_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+  "items": 20,
+  "newest": "2026-10-20",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+    "ok": true,
+    "items": 20,
+    "newest": "2026-10-20",
+    "error": null,
+    "title": "FDA Press Releases RSS Feed",
+    "final_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml"
+   }
+  ]
+ },
+ {
+  "id": "ema",
+  "name": "EMA",
+  "section": "rd",
+  "configured": "https://www.ema.europa.eu/en/news.xml",
+  "result": "ok",
+  "working_url": "https://www.ema.europa.eu/en/news.xml",
+  "items": 10,
+  "newest": "2026-10-16",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://www.ema.europa.eu/en/news.xml",
+    "ok": true,
+    "items": 10,
+    "newest": "2026-10-16",
+    "error": null,
+    "title": "News and press releases",
+    "final_url": "https://www.ema.europa.eu/en/news.xml"
+   }
+  ]
+ },
+ {
+  "id": "nrdd",
+  "name": "Nature Reviews Drug Discovery",
+  "section": "rd",
+  "configured": "https://www.nature.com/nrd.rss",
+  "result": "dead",
+  "working_url": null,
+  "items": 0,
+  "newest": null,
+  "note": "configured url: not a feed. not a feed",
+  "tried": [
+   {
+    "url": "https://www.nature.com/nrd.rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/nrd.rss"
+   },
+   {
+    "url": "https://www.nature.com/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/feed"
+   },
+   {
+    "url": "https://www.nature.com/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/feed/"
+   },
+   {
+    "url": "https://www.nature.com/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/rss"
+   },
+   {
+    "url": "https://www.nature.com/rss/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/rss/"
+   },
+   {
+    "url": "https://www.nature.com/rss.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/rss.xml"
+   },
+   {
+    "url": "https://www.nature.com/feed.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/feed.xml"
+   },
+   {
+    "url": "https://www.nature.com/atom.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/atom.xml"
+   },
+   {
+    "url": "https://www.nature.com/index.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/index.xml"
+   },
+   {
+    "url": "https://www.nature.com/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/news/rss"
+   },
+   {
+    "url": "https://www.nature.com/blog/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.nature.com/blog/feed/"
+   }
+  ]
+ },
+ {
+  "id": "astellas",
+  "name": "Astellas",
+  "section": "rd",
+  "configured": null,
+  "result": "dead",
+  "working_url": null,
+  "items": 0,
+  "newest": null,
+  "note": "HTTP 404; not a feed",
+  "tried": [
+   {
+    "url": "https://newsroom.astellas.com/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://newsroom.astellas.com/404"
+   },
+   {
+    "url": "https://newsroom.astellas.com/news-releases?pagetemplate=rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://newsroom.astellas.com/404"
+   },
+   {
+    "url": "https://www.astellas.com/en/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://newsroom.astellas.com/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://newsroom.astellas.com/404"
+   },
+   {
+    "url": "https://newsroom.astellas.com/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://newsroom.astellas.com/rss/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://newsroom.astellas.com/rss.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://newsroom.astellas.com/404"
+   },
+   {
+    "url": "https://newsroom.astellas.com/feed.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://newsroom.astellas.com/404"
+   },
+   {
+    "url": "https://newsroom.astellas.com/atom.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://newsroom.astellas.com/404"
+   },
+   {
+    "url": "https://newsroom.astellas.com/index.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://newsroom.astellas.com/404"
+   },
+   {
+    "url": "https://newsroom.astellas.com/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://newsroom.astellas.com/news/rss"
+   },
+   {
+    "url": "https://newsroom.astellas.com/blog/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
    }
   ]
  }

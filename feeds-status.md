@@ -1,10 +1,10 @@
-Feed validation run 2026-10-22 12:54 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
+Feed validation run 2026-10-22 14:21 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
 
 | id | section | result | working URL | items | newest | note |
 |---|---|---|---|---|---|---|
 | france24 | world | ok | https://www.france24.com/en/rss | 24 | 2026-10-22 |  |
 | aljazeera | world | ok | https://www.aljazeera.com/xml/rss/all.xml | 25 | 2026-10-22 |  |
-| dw | world | dead |  | 0 |  | configured url: TimeoutError: The read operation timed out. HTTP 404; TimeoutError: The read operation timed out |
+| dw | world | ok | https://rss.dw.com/rdf/rss-en-all | 134 | 2026-10-22 |  |
 | bbc | world | ok | https://feeds.bbci.co.uk/news/world/rss.xml | 38 | 2026-10-22 |  |
 | thehindu | world | ok | https://www.thehindu.com/news/international/feeder/default.rss | 60 | 2026-10-22 |  |
 | scmp | world | ok | https://www.scmp.com/rss/91/feed | 50 | 2026-10-22 |  |
@@ -20,14 +20,14 @@ Feed validation run 2026-10-22 12:54 UTC (criteria: parseable, >= 1 item, newest
 | bs_medien | basel | ok | https://www.bs.ch/rss | 50 | undated |  |
 | baselland | basel | dead |  | 0 |  | www.baselland.ch/ -> HTTP 403; www.baselland.ch/politik-und-behorden/regierungsrat/medienmitteilungen -> HTTP 403; HTTP 403 |
 | srf_news | basel | ok | https://www.srf.ch/news/bnf/rss/1890 | 60 | 2026-10-22 |  |
-| nzz | basel | ok | https://www.nzz.ch/recent.rss | 16 | 2026-10-22 |  |
+| nzz | basel | ok | https://www.nzz.ch/recent.rss | 15 | 2026-10-22 |  |
 | cyclingnews | sport | ok | https://www.cyclingnews.com/feeds/all/ | 50 | 2026-10-22 |  |
 | velo | sport | ok | https://velo.outsideonline.com/feed/ | 25 | 2026-10-22 |  |
 | cyclingweekly | sport | ok | https://www.cyclingweekly.com/feeds.xml | 50 | 2026-10-22 |  |
 | escape | sport | ok | https://escapecollective.com/feed/ | 15 | 2026-10-22 |  |
-| pinkbike | sport | ok | https://www.pinkbike.com/pinkbike_xml_feed.php | 30 | 2026-10-21 |  |
+| pinkbike | sport | ok | https://www.pinkbike.com/pinkbike_xml_feed.php | 30 | 2026-10-22 |  |
 | mtbnews | sport | ok | https://www.mtb-news.de/news/feed/ | 20 | 2026-10-22 |  |
-| patriots | sport | ok | https://www.patriots.com/rss/news | 5 | 2026-10-21 |  |
+| patriots | sport | ok | https://www.patriots.com/rss/news | 5 | 2026-10-22 |  |
 | espn_nfl | sport | dead |  | 0 |  | configured url: not a feed. not a feed |
 | espn_nba | sport | dead |  | 0 |  | configured url: not a feed. not a feed |
 | redsox | sport | ok | https://www.mlb.com/redsox/feeds/news/rss.xml | 25 | 2026-10-22 |  |
@@ -57,5 +57,14 @@ Feed validation run 2026-10-22 12:54 UTC (criteria: parseable, >= 1 item, newest
 | powerbi | ai | ok | https://powerbi.microsoft.com/en-us/blog/feed/ | 20 | 2026-10-21 |  |
 | tableau | ai | dead |  | 0 |  | configured url: stale: newest item 93 days old. HTTP 404; stale: newest item 93 days old |
 | snowflake | ai | ok | https://www.snowflake.com/feed/ | 20 | 2026-10-21 |  |
+| endpoints | rd | ok | https://endpts.com/feed/ | 24 | 2026-10-22 |  |
+| fiercebiotech | rd | ok | https://www.fiercebiotech.com/rss/xml | 25 | undated |  |
+| fiercepharma | rd | ok | https://www.fiercepharma.com/rss/xml | 25 | undated |  |
+| biopharmadive | rd | ok | https://www.biopharmadive.com/feeds/news/ | 10 | 2026-10-21 |  |
+| statnews | rd | ok | https://www.statnews.com/category/pharma/feed/ | 20 | 2026-10-22 |  |
+| fda | rd | ok | https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml | 20 | 2026-10-20 |  |
+| ema | rd | ok | https://www.ema.europa.eu/en/news.xml | 10 | 2026-10-16 |  |
+| nrdd | rd | dead |  | 0 |  | configured url: not a feed. not a feed |
+| astellas | rd | dead |  | 0 |  | HTTP 404; not a feed |
 
-43 of 55 sources have a working feed.
+51 of 64 sources have a working feed.
