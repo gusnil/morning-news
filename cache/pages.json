@@ -1,8 +1,8 @@
 {
 "2026-10-22": {
 "date": "2026-10-22",
-"built_at": "2026-10-22T11:40:32.023004+00:00",
-"built_local": "13:40",
+"built_at": "2026-10-22T11:49:21.619992+00:00",
+"built_local": "13:49",
 "feeds_ok": 47,
 "feeds_total": 47,
 "sections": [
@@ -26,6 +26,7 @@
 "DW"
 ],
 "lang": "en",
+"image": "https://s.france24.com/media/display/c3c26ff2-ce00-11f1-9367-3f59e19fd7f8/w:1024/p:16x9/2026-10-01T060027Z-1367355887-RC20XGAUF5NC-RTRMADP-3-NOBEL-PRIZE-PEACE.jpg",
 "excerpt": ""
 },
 {
@@ -39,6 +40,7 @@
 "BBC World"
 ],
 "lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20220520__32AM49E__v1__HighRes__FranceAgricultureCattle-1792664431.jpg?resize=1920%2C1440",
 "excerpt": "Until now, the virus was considered non-transferable to humans, making the patient the first documented human case."
 },
 {
@@ -52,6 +54,7 @@
 "BBC World"
 ],
 "lang": "en",
+"image": "https://s.france24.com/media/display/b41a22fe-c890-11f1-a617-638c1c1f5fd6/w:1024/p:16x9/a500a554ba3451dad313bfe8432e2e3bdb181bca.jpg",
 "excerpt": ""
 },
 {
@@ -64,7 +67,19 @@
 "Africanews"
 ],
 "lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/sd4yxw/article71607032.ece/alternates/LANDSCAPE_1200/Congo_Ebola_95932.jpg",
 "excerpt": ""
+},
+{
+"id": "d297add7b4e602c9",
+"title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+"url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "13:36",
+"also": [],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-1243590371-1792668591.jpg?resize=1920%2C1280&quality=80",
+"excerpt": "Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances."
 },
 {
 "id": "93670f9e04be56a9",
@@ -74,17 +89,8 @@
 "when": "13:19",
 "also": [],
 "lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26293349779386-1-1792561747.jpg?resize=1920%2C1440",
 "excerpt": "ASEAN's consensus-driven approach and a lack of enforcement mechanisms make legal action difficult, experts say."
-},
-{
-"id": "e0ad9e2c41fbcad7",
-"title": "Trump praises man who punched protester at rally in South Carolina",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "12:58",
-"also": [],
-"lang": "en",
-"excerpt": "US President Donald Trump praised a man who punched a protester at a midterm election rally held in South Carolina."
 },
 {
 "id": "71af926444934dc6",
@@ -94,6 +100,7 @@
 "when": "12:43",
 "also": [],
 "lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/96/28/45/640x360_cmsv2_7c207fbf-9516-5eed-82bf-6c5bc0c9bd18-9962845.jpg?1792657250",
 "excerpt": ""
 },
 {
@@ -104,6 +111,7 @@
 "when": "12:17",
 "also": [],
 "lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/ji85d1/article71611026.ece/alternates/LANDSCAPE_1200/2026-10-22T094136Z_1923117478_RC265OAMT8GJ_RTRMADP_3_FRANCE-PROTEST-MELENCHON.JPG",
 "excerpt": ""
 },
 {
@@ -114,6 +122,7 @@
 "when": "12:14",
 "also": [],
 "lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/96/26/23/640x360_cmsv2_443f631a-a256-5958-a82d-031fdd9843c6-9962623.jpg?1792646999",
 "excerpt": "A lawyer for neurosurgeon Leopoldo Luque, says he has been made a scapegoat, rejecting the argument that the player's death was foreseeable."
 },
 {
@@ -124,11 +133,13 @@
 "when": "13:03",
 "also": [],
 "lang": "en",
+"image": "https://images.english.elpais.com/resizer/v2/YNKWCNP7SNHSTAVKK4AXFIYYEY.jpg?auth=5c8198b0bc0ae8533398c82135f5f8f0c44050eeb13c310e63059ace2c118dde",
 "excerpt": ""
 }
 ]
 }
-]
+],
+"lead": "0f87a8784f6b2441"
 },
 {
 "id": "basel",
@@ -150,6 +161,7 @@
 "NZZ"
 ],
 "lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/9c05b3.webp",
 "excerpt": "Die Schweiz soll den Ex-Häftling mit 5000 Franken entschädigen, entscheidet der Europäische Gerichtshof."
 },
 {
@@ -160,6 +172,7 @@
 "when": "13:31",
 "also": [],
 "lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/73a4d61.webp",
 "excerpt": "In Sölden startet der Skiweltcup, doch Schnee ist Mangelware. Ex-Skirennfahrer und Experte Didier Plaschy ordnet ein."
 },
 {
@@ -170,6 +183,7 @@
 "when": "12:56",
 "also": [],
 "lang": "de",
+"image": null,
 "excerpt": ""
 },
 {
@@ -180,6 +194,7 @@
 "when": "12:37",
 "also": [],
 "lang": "de",
+"image": "https://cdn.unitycms.io/images/43AB9RrhaaF8sDKQyaG1y6.png",
 "excerpt": ""
 },
 {
@@ -190,6 +205,7 @@
 "when": "12:26",
 "also": [],
 "lang": "de",
+"image": "https://cdn.unitycms.io/images/2r_o6XGi4108EGD-2JvKSl.jpg",
 "excerpt": "Am Mittwoch hat der Kanton seine Webseiten präventiv heruntergefahren. Grund dafür war eine weltweit aufgetretene Sicherheitslücke."
 },
 {
@@ -200,6 +216,7 @@
 "when": "12:17",
 "also": [],
 "lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/e77eef8.webp",
 "excerpt": "Der Zürcher Stadtrat führt die neuen Anwohnerparkkarten definitiv ab Januar 2027 ein – Kritik von FDP, Mitte und SVP."
 },
 {
@@ -210,6 +227,7 @@
 "when": "10:56",
 "also": [],
 "lang": "de",
+"image": null,
 "excerpt": "Riehen hat die Elternbeiträge für Tagesstrukturen um etwa 40% erhöht, zum Ärgernis der betroffenen Familien."
 },
 {
@@ -222,6 +240,7 @@
 "Basler Zeitung"
 ],
 "lang": "de",
+"image": "https://media-bajour.wepublish.cloud/70fec9d3-e34a-4f5a-b0f2-cdd331835f18?resize=%7B%22width%22:1200,%22withoutEnlargement%22:true,%22fit%22:%22cover%22%7D&quality=80&sig=Zzpylb9NfXW7m0ry_YRvKXFAKZELznw4w3uG_Q_tFtX0H8n4Zyx1IgFdJeVsPJr8-Sm0svyhgucdeaTCzs74AA",
 "excerpt": "Die Nomination ist eine Überraschung, da bisher Parteipräsident Simon Oberbeck als Kronfavorit galt."
 },
 {
@@ -232,6 +251,7 @@
 "when": "10:19",
 "also": [],
 "lang": "de",
+"image": null,
 "excerpt": ""
 },
 {
@@ -242,11 +262,13 @@
 "when": "13:40",
 "also": [],
 "lang": "de",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
 "excerpt": ""
 }
 ]
 }
-]
+],
+"lead": "78dfb48d1a9fa43e"
 },
 {
 "id": "sport",
@@ -270,6 +292,7 @@
 "Cycling Weekly"
 ],
 "lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/9BM7oFsfNqVuS9ReMkuAqh-1920-80.png",
 "excerpt": "Col du Portet to take centre stage in GC race from Grand Départ in Great Britain to Paris finale"
 },
 {
@@ -283,6 +306,7 @@
 "Cycling Weekly"
 ],
 "lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/XRpZ2bsoD59B4BvQvazmHi-1920-80.jpg",
 "excerpt": "North American operations will be run from the West Coast"
 },
 {
@@ -293,6 +317,7 @@
 "when": "13:24",
 "also": [],
 "lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/vNS9YkCmZVgpMm9aUHN9w3-1920-80.jpg",
 "excerpt": "The Italian company also revealed the points, mountains, and young rider classification jerseys"
 },
 {
@@ -303,6 +328,7 @@
 "when": "12:56",
 "also": [],
 "lang": "en",
+"image": "https://escapecollective.com/content/images/2026/10/juliana.jpeg",
 "excerpt": ""
 },
 {
@@ -313,6 +339,7 @@
 "when": "05:20",
 "also": [],
 "lang": "en",
+"image": "https://escapecollective.com/content/images/2026/10/Fake-Iain-Treloar-feature.jpg",
 "excerpt": "On the trail of a fake Iain Treloar, all the way to the internet’s murky depths."
 },
 {
@@ -323,6 +350,7 @@
 "when": "12:18",
 "also": [],
 "lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/zZjcRqwhD5V4duy9DY4kwS-1920-80.jpg",
 "excerpt": "Full course announced for 2027 edition, from Edinburgh to Paris via the Alps, Pyrenees and Massif Central"
 }
 ]
@@ -332,6 +360,17 @@
 "title": "Teams",
 "items": [
 {
+"id": "f61ad608424f4098",
+"title": "Hälsa på i herrlagets omklädningsrum på medlemsdagen",
+"url": "https://www.mff.se/nyheter/halsa-pa-i-herrlagets-omkladningsrum-pa-medlemsdagen-2026-10-22/",
+"source": "Malmö FF",
+"when": "13:46",
+"also": [],
+"lang": "sv",
+"image": "https://cdn.mff.se/2026/10/BB250418PA031-2.jpg",
+"excerpt": "The post Hälsa på i herrlagets omklädningsrum på medlemsdagen appeared first on Malmö FF ."
+},
+{
 "id": "a3b2af728369a6e2",
 "title": "Repris: Ungern-Sverige",
 "url": "https://www.svenskfotboll.se/nyheter/landslag/2026/10/live-futsal-15-okt/",
@@ -339,17 +378,8 @@
 "when": "13:33",
 "also": [],
 "lang": "sv",
+"image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4a8f5d/globalassets/svff/bilderblock/2610/futsallandskamp.jpg",
 "excerpt": ""
-},
-{
-"id": "9b34f70c52b9abb4",
-"title": "Målsuccé för förre MFF-spelaren – i Indonesien",
-"url": "https://www.sydsvenskan.se/sport/sydsvenskan-sport-direkt-de-senaste-nyheterna/?ifr-dir-postId=3e6bf8d0-4e6e-4f5b-8697-fd814a362e0b",
-"source": "Sydsvenskan",
-"when": "10:11",
-"also": [],
-"lang": "sv",
-"excerpt": "Sex mål på lika många matcher."
 },
 {
 "id": "d5da169804f6577a",
@@ -359,6 +389,7 @@
 "when": "06:26",
 "also": [],
 "lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
 "excerpt": ""
 },
 {
@@ -369,6 +400,7 @@
 "when": "Wed 23:11",
 "also": [],
 "lang": "en",
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/grfiuikyueq1vbpkch1r.jpg",
 "excerpt": "Experts share their picks for the Patriots Week 7 matchup against the Chicago Bears."
 },
 {
@@ -379,6 +411,7 @@
 "when": "Wed 05:11",
 "also": [],
 "lang": "en",
+"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/20/MSU-31.png",
 "excerpt": ""
 }
 ]
@@ -400,11 +433,13 @@
 "when": "Mon 20:50",
 "also": [],
 "lang": "en",
+"image": "https://tachiai.org/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-3.17.44-PM-799x1024.png",
 "excerpt": "Without further ado, here’s my final banzuke guess."
 }
 ]
 }
-]
+],
+"lead": "90b675f38832f309"
 },
 {
 "id": "chess",
@@ -424,6 +459,7 @@
 "when": "13:21",
 "also": [],
 "lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/PC-2026-FRONT-1.jpg",
 "excerpt": ""
 },
 {
@@ -434,6 +470,7 @@
 "when": "12:12",
 "also": [],
 "lang": "en",
+"image": "https://en.chessbase.com/thumb/132883_l200",
 "excerpt": ""
 },
 {
@@ -444,6 +481,7 @@
 "when": "10:00",
 "also": [],
 "lang": "en",
+"image": "https://en.chessbase.com/thumb/132856_l200",
 "excerpt": ""
 },
 {
@@ -454,6 +492,7 @@
 "when": "09:20",
 "also": [],
 "lang": "en",
+"image": "https://en.chessbase.com/thumb/132880_l200",
 "excerpt": ""
 },
 {
@@ -464,6 +503,7 @@
 "when": "Wed 18:20",
 "also": [],
 "lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/Closing-Medalists.jpg",
 "excerpt": ""
 },
 {
@@ -474,6 +514,7 @@
 "when": "01:33",
 "also": [],
 "lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2246377.2f253ff9.5000x5000o.49d6d4fa2b6f.png",
 "excerpt": ""
 },
 {
@@ -484,6 +525,7 @@
 "when": "00:50",
 "also": [],
 "lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2246393.9852a718.5000x5000o.988e7a7bdb4d.png",
 "excerpt": ""
 },
 {
@@ -494,11 +536,13 @@
 "when": "Tue 21:00",
 "also": [],
 "lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2245569.01f2b173.5000x5000o.3f9dd493cbcb.png",
 "excerpt": ""
 }
 ]
 }
-]
+],
+"lead": "46fde5bf02b7dc4b"
 },
 {
 "id": "ai",
@@ -518,6 +562,7 @@
 "when": "12:00",
 "also": [],
 "lang": "en",
+"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
 "excerpt": ""
 },
 {
@@ -528,6 +573,7 @@
 "when": "Tue 20:15",
 "also": [],
 "lang": "en",
+"image": "https://www.databricks.com/sites/default/files/2026-10/2026-10-Blog-Introducing-MemCurrent-A-Benchmark-and-Memory-System-for-Enterprise-Agents-OG-1200x628-2-2x.png",
 "excerpt": "AI tools have made it easy to vibe code agents. Building and maintaining an enterprise..."
 },
 {
@@ -538,6 +584,7 @@
 "when": "Tue 19:26",
 "also": [],
 "lang": "en",
+"image": "https://www.databricks.com/sites/default/files/2026-10/2026-10-Blog-MemLake-Announcement-OG-1200x628-2x.png",
 "excerpt": "Today we're introducing agent memory on Agent Bricks, Databricks' agent developer..."
 },
 {
@@ -548,6 +595,7 @@
 "when": "Tue 16:45",
 "also": [],
 "lang": "en",
+"image": "https://www.databricks.com/sites/default/files/blog_images/how-hamlet-uses-databricks-lakebase-postgres-to-blog-img-og.png",
 "excerpt": "Hamlet, an AI-powered platform that makes local government decision-making accessible..."
 },
 {
@@ -558,6 +606,7 @@
 "when": "Wed 21:58",
 "also": [],
 "lang": "en",
+"image": "https://www.snowflake.com/content/dam/snowflake-site/blog/2026/10/startup-spotlight-dust.png",
 "excerpt": "Dust Co-Founder and CTO Stanislas Polu explains the vision behind Dust and how it helps companies own their AI by enabling control over agentic traces."
 },
 {
@@ -568,6 +617,7 @@
 "when": "Wed 19:55",
 "also": [],
 "lang": "en",
+"image": null,
 "excerpt": ""
 },
 {
@@ -578,6 +628,7 @@
 "when": "Tue 01:58",
 "also": [],
 "lang": "en",
+"image": null,
 "excerpt": ""
 },
 {
@@ -588,11 +639,13 @@
 "when": "Mon 20:22",
 "also": [],
 "lang": "en",
+"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_Algo.jpg?resize=1200,600",
 "excerpt": ""
 }
 ]
 }
-]
+],
+"lead": "5830843e0d05f048"
 }
 ]
 }
