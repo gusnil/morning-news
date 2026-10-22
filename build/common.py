@@ -31,8 +31,8 @@ def load_config(path: Path | str | None = None) -> dict:
 
 
 def active_sources(cfg: dict) -> list[dict]:
-    """Sources the nightly build fetches: have a URL and are not dropped."""
-    return [s for s in cfg["sources"] if s.get("url") and s.get("status") != "dropped"]
+    """Sources the nightly build fetches: have a URL and are not dropped or blocked."""
+    return [s for s in cfg["sources"] if s.get("url") and s.get("status") not in ("dropped", "blocked")]
 
 
 def http_get(url: str, timeout: float = 15, ua: str = DEFAULT_UA) -> tuple[int, bytes, str, str]:

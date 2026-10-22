@@ -18,7 +18,12 @@
 #   include     regex (case-insensitive) on title+excerpt; item kept only if it matches
 #   require     second regex that must also match (AND)
 #   exclude     regex; item dropped if it matches
-#   status      verified | unverified | dropped   (written after validate_feeds.py)
+#   status      verified    feed checked from GitHub Actions on 2026-10-22, fetched nightly
+#               stale       feed works but posts rarely; fetched nightly
+#               unverified  could not be checked; fetched nightly
+#               blocked     site refuses GitHub's runners (bot protection); not fetched,
+#                           still re-checked by the weekly validate-feeds workflow
+#               dropped     no feed exists; not fetched
 #   note        free text
 
 settings:
@@ -107,6 +112,7 @@ sources:
     weight: 5
     region: EU
     lang: en
+    status: verified
   - id: aljazeera
     name: Al Jazeera
     section: world
@@ -114,6 +120,7 @@ sources:
     weight: 4
     region: ME
     lang: en
+    status: verified
   - id: dw
     name: DW
     section: world
@@ -121,6 +128,7 @@ sources:
     weight: 4
     region: EU
     lang: en
+    status: verified
   - id: bbc
     name: BBC World
     section: world
@@ -128,6 +136,7 @@ sources:
     weight: 3
     region: EU
     lang: en
+    status: verified
   - id: nhk
     name: NHK World
     section: world
@@ -140,6 +149,8 @@ sources:
     weight: 4
     region: ASIA
     lang: en
+    status: dropped
+    note: "No news feed since NHK World relaunch (old URLs 404; only a stale features feed /nhkworld/data/en/news/backstory/rss.xml remains)."
   - id: thehindu
     name: The Hindu
     section: world
@@ -147,6 +158,7 @@ sources:
     weight: 4
     region: ASIA
     lang: en
+    status: verified
   - id: scmp
     name: SCMP
     section: world
@@ -154,6 +166,7 @@ sources:
     weight: 3
     region: ASIA
     lang: en
+    status: verified
   - id: africanews
     name: Africanews
     section: world
@@ -163,6 +176,7 @@ sources:
     weight: 4
     region: AFR
     lang: en
+    status: verified
   - id: elpais
     name: El País English
     section: world
@@ -170,6 +184,7 @@ sources:
     weight: 3
     region: [EU, LATAM]
     lang: en
+    status: verified
   - id: folha
     name: Folha
     section: world
@@ -180,6 +195,7 @@ sources:
     weight: 3
     region: LATAM
     lang: en
+    status: verified
   - id: swissinfo
     name: swissinfo
     section: world
@@ -191,6 +207,8 @@ sources:
     weight: 3
     region: EU
     lang: en
+    status: dropped
+    note: "All swissinfo.ch WordPress feeds return 410 No feed available (checked /eng/rss, /eng/feed, ?feed=rss2, category feeds)."
   - id: apnews
     name: AP News
     section: world
@@ -198,7 +216,8 @@ sources:
     weight: 5
     region: US
     lang: en
-    note: "No official AP feed; RSSHub mirror, drop if unstable."
+    note: "rsshub.app returns 403 to feed readers and says it is for testing only; no official AP feed."
+    status: dropped
 
   # ---------------------------------------------------------------- Basel / Switzerland
   - id: bzbasel
@@ -214,10 +233,12 @@ sources:
     weight: 5
     scope: Basel
     lang: de
+    status: blocked
+    note: "Cloudflare challenge (403) for GitHub Actions runners on every URL incl. homepage; feed URL could not be verified."
   - id: baz
     name: Basler Zeitung
     section: basel
-    url: null
+    url: https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel
     homepage: https://www.bazonline.ch/
     candidates:
       - https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel
@@ -228,6 +249,7 @@ sources:
     scope: Basel
     lang: de
     note: "Paywalled; headlines still useful."
+    status: verified
   - id: srf_basel
     name: SRF Regionaljournal
     section: basel
@@ -235,6 +257,7 @@ sources:
     weight: 5
     scope: Basel
     lang: de
+    status: verified
   - id: primenews
     name: Prime News
     section: basel
@@ -246,10 +269,12 @@ sources:
     weight: 4
     scope: Basel
     lang: de
+    status: dropped
+    note: "No feed: homepage advertises none; /feed, /rss, /rss.xml, /api/rss-feed all 404."
   - id: onlinereports
     name: OnlineReports
     section: basel
-    url: null
+    url: https://onlinereports.ch/api/rss-feed
     homepage: https://www.onlinereports.ch/
     candidates:
       - https://www.onlinereports.ch/rss
@@ -258,6 +283,7 @@ sources:
     weight: 3
     scope: Basel
     lang: de
+    status: verified
   - id: baseljetzt
     name: Baseljetzt
     section: basel
@@ -270,6 +296,8 @@ sources:
     weight: 3
     scope: Basel
     lang: de
+    status: dropped
+    note: "baseljetzt.ch now redirects to telebasel.ch, which publishes no feed."
   - id: telebasel
     name: Telebasel
     section: basel
@@ -281,6 +309,8 @@ sources:
     weight: 3
     scope: Basel
     lang: de
+    status: dropped
+    note: "No feed: homepage advertises none; /feed, /rss, /rss.xml, /api/rss all 404."
   - id: baselland
     name: Kanton BL
     section: basel
@@ -295,6 +325,8 @@ sources:
     weight: 3
     scope: BL
     lang: de
+    status: blocked
+    note: "Cloudflare challenge (403) for GitHub Actions runners; feed could not be discovered or verified."
   - id: muenchenstein
     name: Gemeinde Münchenstein
     section: basel
@@ -309,6 +341,8 @@ sources:
     weight: 3
     scope: Local
     lang: de
+    status: dropped
+    note: "No feed: i-web CMS page embeds news as JSON, no RSS link; common paths 404."
   - id: srf_news
     name: SRF News
     section: basel
@@ -316,6 +350,7 @@ sources:
     weight: 4
     scope: CH
     lang: de
+    status: verified
   - id: nzz
     name: NZZ
     section: basel
@@ -325,6 +360,7 @@ sources:
     weight: 3
     scope: CH
     lang: de
+    status: verified
   - id: swissinfo_ch
     name: swissinfo
     section: basel
@@ -336,6 +372,8 @@ sources:
     scope: CH
     lang: en
     include: "Swiss|Switzerland|Bern|Zurich|Geneva|Basel|Lausanne|Lucerne|Lugano|canton|Federal Council|parliament|SNB|franc"
+    status: dropped
+    note: "Same swissinfo feed, gone (410)."
 
   # ---------------------------------------------------------------- Sport: cycling
   - id: cyclingnews
@@ -351,6 +389,7 @@ sources:
     weight: 5
     lang: en
     exclude: &gear "\\bdeals?\\b|Black Friday|Prime Day|\\bsale\\b|buyer'?s guide|\\bbest .* (bikes|shoes|helmets|lights|tyres|tires|jerseys|bib)|\\breview\\b|tested"
+    status: verified
   - id: velo
     name: Velo
     section: sport
@@ -364,12 +403,13 @@ sources:
     weight: 4
     lang: en
     exclude: *gear
+    status: verified
   - id: cyclingweekly
     name: Cycling Weekly
     section: sport
     sub: cycling
     discipline: cycling
-    url: https://www.cyclingweekly.com/feed
+    url: https://www.cyclingweekly.com/feeds.xml
     candidates:
       - https://www.cyclingweekly.com/feeds/all
       - https://www.cyclingweekly.com/feeds.xml
@@ -377,6 +417,7 @@ sources:
     weight: 3
     lang: en
     exclude: *gear
+    status: verified
   - id: escape
     name: Escape Collective
     section: sport
@@ -386,6 +427,7 @@ sources:
     weight: 4
     lang: en
     exclude: *gear
+    status: verified
   - id: uci
     name: UCI
     section: sport
@@ -402,6 +444,8 @@ sources:
       - https://www.uci.org/news
     weight: 4
     lang: en
+    status: dropped
+    note: "No feed: uci.org advertises none; /rss, /feed, /news/rss all 404."
   - id: pinkbike
     name: Pinkbike
     section: sport
@@ -412,6 +456,7 @@ sources:
     lang: en
     include: &xco "XCO|XCC|cross-country|cross country|World Cup|Worlds|World Championship|Olympic"
     exclude: &gravity "\\bDH\\b|downhill|enduro|\\bEDR\\b|freeride|Rampage|slopestyle"
+    status: verified
   - id: mtbnews
     name: MTB-News.de
     section: sport
@@ -425,6 +470,7 @@ sources:
     lang: de
     include: "XCO|XCC|cross-country|Cross Country|World Cup|Weltcup|Worlds|World Championship|Weltmeisterschaft|\\bWM\\b|Olympi"
     exclude: "\\bDH\\b|Downhill|Enduro|\\bEDR\\b|Freeride|Rampage|Slopestyle"
+    status: verified
 
   # ---------------------------------------------------------------- Sport: teams
   - id: patriots
@@ -433,13 +479,14 @@ sources:
     sub: teams
     team: patriots
     discipline: nfl
-    url: https://www.patriots.com/rss/article
+    url: https://www.patriots.com/rss/news
     candidates:
       - https://www.patriots.com/rss/news
       - https://www.patriots.com/rss
     homepage: https://www.patriots.com/news/
     weight: 3
     lang: en
+    status: verified
   - id: espn_nfl
     name: ESPN
     section: sport
@@ -450,6 +497,8 @@ sources:
     weight: 3
     lang: en
     include: "Patriots|New England"
+    status: blocked
+    note: "ESPN answers GitHub runners with an AWS WAF challenge (HTTP 202 HTML), not the feed."
   - id: celtics
     name: Celtics.com
     section: sport
@@ -463,6 +512,8 @@ sources:
       - https://www.nba.com/celtics/rss
     weight: 3
     lang: en
+    status: dropped
+    note: "nba.com/celtics publishes no feed (page has no feed link; rss.xml 403 Akamai)."
   - id: espn_nba
     name: ESPN
     section: sport
@@ -472,6 +523,8 @@ sources:
     weight: 3
     lang: en
     include: "Celtics"
+    status: blocked
+    note: "ESPN AWS WAF challenge for GitHub runners."
   - id: redsox
     name: MLB.com
     section: sport
@@ -480,6 +533,7 @@ sources:
     url: https://www.mlb.com/redsox/feeds/news/rss.xml
     weight: 3
     lang: en
+    status: verified
   - id: uconn
     name: UConn Huskies
     section: sport
@@ -490,6 +544,7 @@ sources:
       - https://uconnhuskies.com/rss.aspx?path=mbball
     weight: 3
     lang: en
+    status: verified
   - id: fcb
     name: FC Basel
     section: sport
@@ -506,6 +561,8 @@ sources:
       - https://www.fcb.ch/news
     weight: 3
     lang: de
+    status: dropped
+    note: "No feed: fcb.ch advertises none; common paths 404 or HTML."
   - id: bz_fcb
     name: bz Basel
     section: sport
@@ -520,12 +577,25 @@ sources:
     weight: 3
     lang: de
     include: "\\bFCB\\b|FC Basel|Rotblau|Rotblaue"
+    status: blocked
+    note: "bzbasel.ch Cloudflare challenge for GitHub runners."
+  - id: srf_fcb
+    name: SRF Regionaljournal
+    section: sport
+    sub: teams
+    team: fcbasel
+    url: https://www.srf.ch/news/bnf/rss/1890
+    weight: 3
+    lang: de
+    include: "\\bFCB\\b|FC Basel|Rotblau|Rotblaue|St\\. Jakob-Park"
+    status: verified
+    note: "Fallback for FC Basel (official site and bz Basel unavailable): the §5.2 SRF Basel feed filtered to FCB."
   - id: mff
     name: Malmö FF
     section: sport
     sub: teams
     team: malmoff
-    url: null
+    url: https://www.mff.se/nyheter/feed/
     homepage: https://www.mff.se/
     candidates:
       - https://www.mff.se/feed/
@@ -536,12 +606,13 @@ sources:
       - https://www.mff.se/nyheter/
     weight: 3
     lang: sv
+    status: verified
   - id: sydsvenskan
     name: Sydsvenskan
     section: sport
     sub: teams
     team: malmoff
-    url: null
+    url: https://www.sydsvenskan.se/feeds/section/sport/feed.xml
     homepage: https://www.sydsvenskan.se/
     candidates:
       - https://www.sydsvenskan.se/rss.xml?sport=1
@@ -553,6 +624,7 @@ sources:
     weight: 3
     lang: sv
     include: "\\bMFF\\b|Malmö FF|Himmelsblå"
+    status: verified
   - id: fotbollskanalen
     name: Fotbollskanalen
     section: sport
@@ -567,12 +639,14 @@ sources:
     lang: sv
     include: "landslaget|Sverige|Blågult|förbundskapten"
     exclude: "damlandslag|\\bdamer\\b|U\\d{2}|F\\d{2}|P\\d{2}"
+    status: dropped
+    note: "No feed: /rss/ and common paths 404; homepage advertises none."
   - id: svff
     name: SvFF
     section: sport
     sub: teams
     team: sweden
-    url: null
+    url: https://www.svenskfotboll.se/rss.xml
     homepage: https://www.svenskfotboll.se/
     candidates:
       - https://www.svenskfotboll.se/rss/
@@ -583,7 +657,9 @@ sources:
     weight: 3
     lang: sv
     include: "herrlandslag|landslaget|Blågult|Sverige"
-    exclude: "damlandslag|\\bdamer\\b|U\\d{2}|F\\d{2}|P\\d{2}|futsal|beach"
+    exclude: "damlandslag|\\bdamer\\b|efotboll|U\\d{2}|F\\d{2}|P\\d{2}|futsal|beach"
+    status: verified
+    note: "Items carry no dates; first-seen time is used."
 
   # ---------------------------------------------------------------- Sport: college football
   - id: espn_cfb
@@ -596,6 +672,8 @@ sources:
     lang: en
     include: "Top 25|No\\. ?[1-9]|No\\. ?10|ranked|AP poll|CFP|playoff"
     require: "\\bNo\\. ?(?:[1-9]|10)\\b|playoff"
+    status: blocked
+    note: "ESPN AWS WAF challenge for GitHub runners; college football has no other listed source."
 
   # ---------------------------------------------------------------- Sport: sumo
   - id: tachiai
@@ -606,14 +684,18 @@ sources:
     url: https://tachiai.org/feed/
     weight: 4
     lang: en
+    status: verified
   - id: japantimes_sumo
     name: Japan Times
     section: sport
     sub: sumo
     discipline: sumo
-    url: https://www.japantimes.co.jp/sports/sumo/feed/
+    url: https://www.japantimes.co.jp/sports/feed/
     weight: 4
     lang: en
+    status: verified
+    include: "sumo|basho|yokozuna|ozeki|makuuchi|rikishi|banzuke|sekiwake|komusubi"
+    note: "/sports/sumo/feed/ redirects to the homepage; uses the Japan Times sports feed filtered to sumo."
   - id: nhk_sumo
     name: NHK World Sumo
     section: sport
@@ -623,6 +705,8 @@ sources:
     homepage: https://www3.nhk.or.jp/nhkworld/en/tv/sumo/
     weight: 4
     lang: en
+    status: dropped
+    note: "No feed on the NHK World sumo page."
   - id: jsa
     name: Japan Sumo Association
     section: sport
@@ -635,6 +719,8 @@ sources:
       - https://www.sumo.or.jp/rss/
     weight: 4
     lang: en
+    status: dropped
+    note: "No feed on sumo.or.jp/En/."
 
   # ---------------------------------------------------------------- Chess
   - id: chesscom
@@ -643,6 +729,7 @@ sources:
     url: https://www.chess.com/rss/news
     weight: 4
     lang: en
+    status: verified
   - id: lichess
     name: Lichess
     section: chess
@@ -651,6 +738,7 @@ sources:
       - https://lichess.org/@/Lichess/blog.atom
     weight: 3
     lang: en
+    status: verified
   - id: chessbase
     name: ChessBase
     section: chess
@@ -660,10 +748,11 @@ sources:
     homepage: https://en.chessbase.com/
     weight: 5
     lang: en
+    status: verified
   - id: fide
     name: FIDE
     section: chess
-    url: null
+    url: https://www.fide.com/feed/
     homepage: https://www.fide.com/
     candidates:
       - https://www.fide.com/rss
@@ -674,10 +763,11 @@ sources:
       - https://www.fide.com/news
     weight: 5
     lang: en
+    status: verified
   - id: twic
     name: The Week in Chess
     section: chess
-    url: null
+    url: https://theweekinchess.com/twic-rss-feed
     homepage: https://theweekinchess.com/
     candidates:
       - https://theweekinchess.com/twic-rss-feed
@@ -685,12 +775,15 @@ sources:
       - https://theweekinchess.com/rss
     weight: 4
     lang: en
+    status: verified
   - id: chessdom
     name: Chessdom
     section: chess
     url: https://www.chessdom.com/feed/
     weight: 3
     lang: en
+    status: stale
+    note: "Feed works but newest item was 2026-08-31 at validation; kept, costs nothing."
 
   # ---------------------------------------------------------------- AI / decision support
   - id: databricks
@@ -703,6 +796,7 @@ sources:
     homepage: https://www.databricks.com/blog
     weight: 5
     lang: en
+    status: verified
   - id: databricks_eng
     name: Databricks Engineering
     section: ai
@@ -714,6 +808,8 @@ sources:
       - https://www.databricks.com/blog/category/product/feed
     weight: 5
     lang: en
+    status: dropped
+    note: "No separate engineering/product feed; the category page links to the main /feed."
   - id: thebatch
     name: The Batch
     section: ai
@@ -724,14 +820,18 @@ sources:
     homepage: https://www.deeplearning.ai/the-batch/
     weight: 4
     lang: en
+    status: blocked
+    note: "deeplearning.ai returns 403 (Cloudflare) to GitHub runners."
   - id: importai
     name: Import AI
     section: ai
-    url: https://importai.substack.com/feed
+    url: https://jack-clark.net/feed/
     candidates:
       - https://jack-clark.net/feed/
     weight: 4
     lang: en
+    status: verified
+    note: "importai.substack.com returns 403 to GitHub runners; jack-clark.net carries the same issues."
   - id: mittr
     name: MIT Technology Review
     section: ai
@@ -740,6 +840,7 @@ sources:
       - https://www.technologyreview.com/feed/
     weight: 3
     lang: en
+    status: verified
   - id: benevans
     name: Benedict Evans
     section: ai
@@ -749,6 +850,8 @@ sources:
     homepage: https://www.ben-evans.com/
     weight: 3
     lang: en
+    status: stale
+    note: "Low-frequency essays; newest item 2026-09-03 at validation."
   - id: willison
     name: Simon Willison
     section: ai
@@ -757,10 +860,11 @@ sources:
       - https://simonwillison.net/atom/entries/
     weight: 3
     lang: en
+    status: verified
   - id: mckinsey
     name: McKinsey
     section: ai
-    url: null
+    url: https://www.mckinsey.com/insights/rss
     homepage: https://www.mckinsey.com/capabilities/quantumblack/our-insights
     candidates:
       - https://www.mckinsey.com/insights/rss
@@ -772,6 +876,7 @@ sources:
     weight: 3
     lang: en
     include: "\\bAI\\b|artificial intelligence|analytics|data|gen ?AI|agent|automation|digital"
+    status: verified
   - id: gartner
     name: Gartner
     section: ai
@@ -783,6 +888,8 @@ sources:
       - https://www.gartner.com/en/rss
     weight: 3
     lang: en
+    status: blocked
+    note: "gartner.com returns 403 to GitHub runners."
   - id: powerbi
     name: Power BI blog
     section: ai
@@ -793,10 +900,11 @@ sources:
     homepage: https://powerbi.microsoft.com/en-us/blog/
     weight: 2
     lang: en
+    status: verified
   - id: tableau
     name: Tableau blog
     section: ai
-    url: null
+    url: https://www.tableau.com/feed.rss
     homepage: https://www.tableau.com/blog
     candidates:
       - https://www.tableau.com/blog/rss.xml
@@ -804,10 +912,12 @@ sources:
       - https://www.tableau.com/rss.xml
     weight: 2
     lang: en
+    status: stale
+    note: "Feed works; newest item 2026-07-20 at validation."
   - id: snowflake
     name: Snowflake blog
     section: ai
-    url: null
+    url: https://www.snowflake.com/feed/
     homepage: https://www.snowflake.com/en/blog/
     candidates:
       - https://www.snowflake.com/feed/
@@ -815,3 +925,4 @@ sources:
       - https://www.snowflake.com/blog/feed/
     weight: 2
     lang: en
+    status: verified
