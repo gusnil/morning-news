@@ -1,0 +1,1005 @@
+{{short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Use dmy dates|date=December 2025}}
+{{Year nav sports topic5|2026|sumo}}
+
+The following are the events in professional [[sumo]] during [[2026]].
+
+==Tournaments==
+===January===
+'''{{translit|ja|Hatsu [[honbasho|basho]]}}'''
+
+[[Ryōgoku Kokugikan]], [[Sumida, Tokyo]], 11 January – 25 January<ref name="tournaments">{{cite web|url=http://www.sumo.or.jp/EnTicket/year_schedule/|title=Grand Tournament Schedule |publisher=[[Japan Sumo Association]]|accessdate=21 December 2025}}</ref>
+{| class="wikitable" style="text-align:center"
+! colspan="17" |2026 Hatsu basho results - Makuuchi Division
+|-
+!{{abbr|W|Wins}}
+!
+!{{abbr|L|Losses}}
+!
+!{{abbr|A|Absences}}
+! colspan="3" |East
+!Rank
+! colspan="3" |West
+!{{abbr|W|Wins}}
+!
+!{{abbr|L|Losses}}
+!
+!{{abbr|A|Absences}}
+|-
+| 10 || - || 5 || - || 0
+|   ||{{flagicon|Mongolia}} ||style="text-align:left;"| '''[[Hōshōryū Tomokatsu|Hōshōryū]]'''
+|[[Yokozuna|Y]]
+|   ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Ōnosato Daiki|Ōnosato]]'''
+| 10 || - || 5 || - || 0
+|-
+| 8 || - || 7 || - || 0
+|   ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Kotozakura Masakatsu II|Kotozakura]]'''
+|[[Makuuchi#Ōzeki|O]]
+|   ||{{flagicon|Ukraine}} ||style="text-align:left; background:palegreen;"| '''[[Aonishiki Arata|Aonishiki]]'''*
+| 12 || - || 3 || - || 0
+|-
+| 11 || - || 4 || - || 0
+|   ||{{flagicon|Mongolia}} ||style="text-align:left;"| '''[[Kirishima Tetsuo|Kirishima]]''' 
+|[[Sekiwake|S]]
+|   ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Takayasu Akira|Takayasu]]'''
+| 8 || - || 7 || - || 0
+|-
+| 4 || - || 11 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Ōhō Kōnosuke|Ōhō]] 
+|[[Komusubi|K]]
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Wakamotoharu Minato|Wakamotoharu]]'''
+| 8 || - || 7 || - || 0
+|-
+| 4 || - || 11 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Ichiyamamoto Daiki|Ichiyamamoto]]  
+|[[Maegashira|M1]]
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Yoshinofuji Naoya|Yoshinofuji]]'''
+| 8 || - || 7 || - || 0
+|-
+| 4 || - || 11 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Ura Kazuki|Ura]]
+|M2
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Wakatakakage Atsushi|Wakatakakage]]'''
+| 9 || - || 6 || - || 0
+|-
+| 5 || - || 10 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Takanoshō Nobuaki|Takanoshō]]   
+|M3 
+| ø ||{{flagicon|Japan}} ||style="text-align:left;"| [[Hakunofuji Tetsuya|Hakunofuji]]  
+| 5 || - || 8 || - || 2
+|-
+| 7 || - || 8 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Daieishō Hayato|Daieishō]]   
+|M4
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Atamifuji Sakutarō|Atamifuji]]'''
+| 12 || - || 3 || - || 0
+|-
+| 5 || - || 10 || - || 0
+|  ||{{flagicon|Mongolia}} ||style="text-align:left;"| [[Tamawashi Ichirō|Tamawashi]] 
+|M5
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Churanoumi Yoshihisa|Churanoumi]]'''
+| 9 || - || 6 || - || 0
+|-
+| 9 || - || 6 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"|  '''[[Hiradoumi Yūki|Hiradoumi]]'''
+|M6
+|  ||{{flagicon|Mongolia}} ||style="text-align:left;"| [[Ōnokatsu Kazuhiro|Ōnokatsu]]
+| 7 || - || 8 || - || 0
+|-
+| 7 || - || 8 || - || 0
+|  ||{{flagicon|Mongolia}} ||style="text-align:left;"| [[Ōshōma Degi|Ōshōma]]
+|M7
+|  ||{{flagicon|Japan}} ||style="text-align:left;"|  '''[[Fujinokawa Seigō|Fujinokawa]]'''
+| 10 || - || 5 || - || 0
+|-
+| 7 || - || 8 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"|  [[Shōdai Naoya|Shōdai]] 
+|M8
+|  ||{{flagicon|Kazakhstan}} ||style="text-align:left;"| [[Kinbōzan Haruki|Kinbōzan]]   
+| 4 || - || 11 || - || 0
+|-
+| 7 || - || 8 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Gōnoyama Tōki|Gōnoyama]] 
+|M9
+|  ||{{flagicon|Russia}} ||style="text-align:left;"| [[Rōga Tokiyoshi|Rōga]]
+| 7 || - || 8 || - || 0
+|-
+| 8 || - || 7 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Tokihayate Hideki|Tokihayate]]'''
+|M10
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Kotoshōhō Yoshinari|Kotoshōhō]]'''
+| 9 || - || 6 || - || 0
+|-
+| 6 || - || 9 || - || 0
+|  ||{{flagicon|Mongolia}} ||style="text-align:left;"| [[Chiyoshōma Fujio|Chiyoshōma]]
+|M11
+| ø ||{{flagicon|Japan}} ||style="text-align:left;"| [[Nishikifuji Ryūsei|Nishikifuji]]
+| 6 || - || 6 || - || 3
+|-
+| 6 || - || 9 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Midorifuji Kazunari|Midorifuji]]
+|M12
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Abi Masatora|Abi]]'''
+| 10 || - || 5 || - || 0
+|-
+| 7 || - || 8 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Tobizaru Masaya|Tobizaru]] 
+|M13
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Tomokaze Sōdai|Tomokaze]] 
+| 4 || - || 11 || - || 0
+|-
+| 9 || - || 6 || - || 0
+|  ||{{flagicon|Ukraine}} ||style="text-align:left;"| '''[[Shishi Masaru|Shishi]]'''
+|M14
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Mitakeumi Hisashi|Mitakeumi]]  
+| 7 || - || 8 || - || 0
+|-
+| 6 || - || 9 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Ryūden Gōshi|Ryūden]]
+|M15
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Asakōryū Takuma|Asakōryū]]'''
+| 9 || - || 6 || - || 0
+|-
+| 9 || - || 6 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Asanoyama Hiroki|Asanoyama]]'''
+|M16
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Ōshōumi Seiya|Ōshōumi]]'''
+| 10 || - || 5 || - || 0
+|-
+| 8 || - || 7 || - || 0
+|  ||{{flagicon|Mongolia}} ||style="text-align:left;"| '''[[Asahakuryū Tarō|Asahakuryū]]'''
+|M17
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Hatsuyama Shō|Hatsuyama]]
+| 2 || - || 13 || - || 0
+|-
+|}
+'''Playoff'''
+
+[[Aonishiki Arata|Aonishiki]] beats [[Atamifuji Sakutarō|Atamifuji]]
+{| class="wikitable"
+|ø - Indicates a pull-out or absent rank
+|-
+|'''winning record in bold'''
+|-
+|style="background: PaleGreen;"|'''[[Yūshō]] Winner'''<br/> '''* Won Playoff'''
+|}
+
+===March===
+'''{{translit|ja|Haru basho}}'''
+
+[[Osaka Prefectural Gymnasium]], [[Osaka]], 8 March – 22 March<ref name="tournaments"/>
+{| class="wikitable" style="text-align:center"
+! colspan="17" |2026 Haru basho results - Makuuchi Division
+|-
+!{{abbr|W|Wins}}
+!
+!{{abbr|L|Losses}}
+!
+!{{abbr|A|Absences}}
+! colspan="3" |East
+!Rank
+! colspan="3" |West
+!{{abbr|W|Wins}}
+!
+!{{abbr|L|Losses}}
+!
+!{{abbr|A|Absences}}
+|-
+| 11 || - || 4 || - || 0
+|   ||{{flagicon|Mongolia}} ||style="text-align:left;"| '''[[Hōshōryū Tomokatsu|Hōshōryū]]'''
+|[[Yokozuna|Y]]
+| ø ||{{flagicon|Japan}} ||style="text-align:left;"| [[Ōnosato Daiki|Ōnosato]]
+| 0 || - || 4 || - || 11
+|-
+| 7 || - || 8 || - || 0
+|   ||{{flagicon|Ukraine}} ||style="text-align:left;"| [[Aonishiki Arata|Aonishiki]]
+|[[Makuuchi#Ōzeki|O]]
+|   ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Kotozakura Masakatsu II|Kotozakura]]'''
+| 10 || - || 5 || - || 0
+|-
+| 12 || - || 3 || - || 0
+|   ||{{flagicon|Mongolia}} ||style="text-align:left; background:palegreen;"| '''[[Kirishima Tetsuo|Kirishima]]'''
+|[[Sekiwake|S]]
+|   ||{{flagicon|Japan}} ||style="text-align:left;"| [[Takayasu Akira|Takayasu]]
+| 7 || - || 8 || - || 0
+|-
+| 3 || - || 12 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Wakamotoharu Minato|Wakamotoharu]]
+|[[Komusubi|K]]
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Atamifuji Sakutarō|Atamifuji]]'''
+| 9 || - || 6 || - || 0
+|-
+| 8 || - || 6 || - || 1
+| ø ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Wakatakakage Atsushi|Wakatakakage]]'''
+|[[Maegashira|M1]]
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Yoshinofuji Naoya|Yoshinofuji]]
+| 7 || - || 8 || - || 0
+|-
+| 8 || - || 7 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"|  '''[[Fujinokawa Seigō|Fujinokawa]]'''
+|M2
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Churanoumi Yoshihisa|Churanoumi]]
+| 4 || - || 11 || - || 0
+|-
+| 7 || - || 8 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"|  [[Hiradoumi Yūki|Hiradoumi]]
+|M3
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Ōhō Kōnosuke|Ōhō]]
+| 7 || - || 8 || - || 0
+|-
+| 7 || - || 8 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Daieishō Hayato|Daieishō]]
+|M4
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Takanoshō Nobuaki|Takanoshō]]'''
+| 9 || - || 6 || - || 0
+|-
+| 4 || - || 6 || - || 5
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Abi Masatora|Abi]]
+|M5
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Kotoshōhō Yoshinari|Kotoshōhō]]'''
+| 11 || - || 4 || - || 0
+|-
+| 9 || - || 6 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Ichiyamamoto Daiki|Ichiyamamoto]]'''
+|M6
+| ø  ||{{flagicon|Mongolia}} ||style="text-align:left;"| [[Ōnokatsu Kazuhiro|Ōnokatsu]]
+| 1 || - || 6 || - || 8
+|-
+| 6 || - || 9 || - || 0
+|  ||{{flagicon|Mongolia}} ||style="text-align:left;"| [[Ōshōma Degi|Ōshōma]]
+|M7
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Hakunofuji Tetsuya|Hakunofuji]]
+| 5 || - || 6 || - || 4
+|-
+| 5 || - || 10 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Ura Kazuki|Ura]]
+|M8
+|  ||{{flagicon|Japan}} ||style="text-align:left;"|  '''[[Shōdai Naoya|Shōdai]]'''
+| 8 || - || 7 || - || 0
+|-
+| 5 || - || 10 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Tokihayate Hideki|Tokihayate]]
+|M9
+|  ||{{flagicon|Mongolia}} ||style="text-align:left;"| [[Tamawashi Ichirō|Tamawashi]]
+| 5 || - || 10 || - || 0
+|-
+| 10 || - || 5 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Gōnoyama Tōki|Gōnoyama]]'''
+|M10
+|  ||{{flagicon|Russia}} ||style="text-align:left;"| [[Rōga Tokiyoshi|Rōga]]
+| 5 || - || 10 || - || 0
+|-
+| 6 || - || 9 || - || 0
+|  ||{{flagicon|Ukraine}} ||style="text-align:left;"| [[Shishi Masaru|Shishi]]
+|M11
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Ōshōumi Seiya|Ōshōumi]]
+| 5 || - || 10 || - || 0
+|-
+| 9 || - || 6 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Asakōryū Takuma|Asakōryū]]'''
+|M12
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Asanoyama Hiroki|Asanoyama]]'''
+| 8 || - || 7 || - || 0
+|-
+| 6 || - || 9 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| [[Tobizaru Masaya|Tobizaru]]
+|M13
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''{{interlanguage link|Fujiseiun Tatsuki|ja|3=藤青雲龍輝|lt=Fujiseiun}}'''
+| 10 || - || 5 || - || 0
+|-
+| 10 || - || 5 || - || 0
+|  ||{{flagicon|Mongolia}} ||style="text-align:left;"| '''[[Chiyoshōma Fujio|Chiyoshōma]]'''
+|M14
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Nishikifuji Ryūsei|Nishikifuji]]'''
+| 9 || - || 6 || - || 0
+|-
+| 0 || - || 0 || - || 15
+| ø ||{{flagicon|Japan}} ||style="text-align:left;"| [[Midorifuji Kazunari|Midorifuji]]
+|M15
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Mitakeumi Hisashi|Mitakeumi]]'''
+| 8 || - || 7 || - || 0
+|-
+| 10 || - || 5 || - || 0
+|  ||{{flagicon|Mongolia}} ||style="text-align:left;"| '''[[Asahakuryū Tarō|Asahakuryū]]'''
+|M16
+|  ||{{flagicon|Kazakhstan}} ||style="text-align:left;"| '''[[Kinbōzan Haruki|Kinbōzan]]'''
+| 9 || - || 6 || - || 0
+|-
+| 7 || - || 8 || - || 0
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| {{interlanguage link|Fujiryōga Masaharu|ja|3=藤凌駕雅治|lt=Fujiryōga}}
+|M17
+|  ||{{flagicon|Japan}} ||style="text-align:left;"| '''[[Kotoeihō Hiroki|Kotoeihō]]'''
+| 9 || - || 6 || - || 0
+|-
+|}
+{| class="wikitable"
+|ø - Indicates a pull-out or absent rank
+|-
+|'''winning record in bold'''
+|-
+|style="background: PaleGreen;"|'''[[Yūshō]] Winner'''
+|}
+
+===May===
+'''{{translit|ja|Natsu basho}}'''
+
+Ryōgoku Kokugikan, Tokyo, 10 May – 24 May<ref name="tournaments"/>
+{| class="wikitable" style="text-align:center"
+! colspan="17" |2026 Natsu basho results - Makuuchi Division
+|-
+!{{abbr|W|Wins}}
+!
+!{{abbr|L|Losses}}
+!
+!{{abbr|A|Absences}}
+! colspan="3" |East
+!Rank
+! colspan="3" |West
+!{{abbr|W|Wins}}
+!
+!{{abbr|L|Losses}}
+!
+!{{abbr|A|Absences}}
+|-
+| 0 || - || 2 || - || 13
+| ø ||{{flagicon|Mongolia}}|| style="text-align:left;" | [[Hōshōryū Tomokatsu|Hōshōryū]]
+|[[Yokozuna|Y]]
+| ø ||{{flagicon|Japan}}|| style="text-align:left;" | [[Ōnosato Daiki|Ōnosato]]
+| 0 || - || 0 || - || 15
+|-
+| 3 || - || 9 || - || 3
+| ø ||{{flagicon|Japan}}|| style="text-align:left;" | [[Kotozakura Masakatsu II|Kotozakura]]
+|[[Makuuchi#Ōzeki|O]]
+| ø ||{{flagicon|Ukraine}}|| style="text-align:left;" | [[Aonishiki Arata|Aonishiki]]
+| 0 || - || 0 || - || 15
+|-
+| 12 || - || 3 || - || 0
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | '''[[Kirishima Tetsuo|Kirishima]]'''
+|O
+| ø || || || || || || ||
+|-
+| 9 || - || 6 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Atamifuji Sakutarō|Atamifuji]]'''
+|[[Sekiwake|S]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Kotoshōhō Yoshinari|Kotoshōhō]]'''
+| 9 || - || 6 || - || 0
+|-
+| 12 || - || 3 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;background:palegreen;" | '''[[Wakatakakage Atsushi|Wakatakakage]]'''*
+|[[Komusubi|K]]
+| ø ||{{flagicon|Japan}}|| style="text-align:left;" | [[Takayasu Akira|Takayasu]]
+| 2 || - || 2 || - || 11
+|-
+| 7 || - || 8 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Fujinokawa Seigō|Fujinokawa]]
+|[[Maegashira|M1]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Takanoshō Nobuaki|Takanoshō]]
+| 7 || - || 8 || - || 0
+|-
+| 11 || - || 4 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" |  '''[[Yoshinofuji Naoya|Yoshinofuji]]'''
+|M2
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Ichiyamamoto Daiki|Ichiyamamoto]]
+| 6 || - || 9 || - || 0
+|-
+| 7 || - || 8 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" |  [[Hiradoumi Yūki|Hiradoumi]]
+|M3
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Ōhō Kōnosuke|Ōhō]]'''
+| 9 || - || 6 || - || 0
+|-
+| 7 || - || 8 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Daieishō Hayato|Daieishō]]
+|M4
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Gōnoyama Tōki|Gōnoyama]]'''
+| 8 || - || 7 || - || 0
+|-
+| 5 || - || 10 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Wakamotoharu Minato|Wakamotoharu]]
+|M5
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Shōdai Naoya|Shōdai]]
+| 6 || - || 9 || - || 0
+|-
+| 9 || - || 6 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Churanoumi Yoshihisa|Churanoumi]]'''
+|M6
+| ||{{flagicon|Japan}}|| style="text-align:left;" | {{interlanguage link|Fujiseiun Tatsuki|ja|3=藤青雲龍輝|lt=Fujiseiun}}
+| 7 || - || 8 || - || 0
+|-
+| 5 || - || 10 || - || 0
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | [[Chiyoshōma Fujio|Chiyoshōma]]
+|M7
+| ø ||{{flagicon|Japan}}|| style="text-align:left;" | [[Asakōryū Takuma|Asakōryū]]
+| 3 || - || 4 || - || 8
+|-
+| 8 || - || 7 || - || 0
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | '''[[Ōshōma Degi|Ōshōma]]'''
+|M8
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" |  [[Asahakuryū Tarō|Asahakuryū]]
+| 5 || - || 10 || - || 0
+|-
+| 5 || - || 10 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Abi Masatora|Abi]]
+|M9
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Nishikifuji Ryūsei|Nishikifuji]]
+| 5 || - || 10 || - || 0
+|-
+| 7 || - || 5 || - || 3
+| ø ||{{flagicon|Japan}}|| style="text-align:left;" | [[Asanoyama Hiroki|Asanoyama]]
+|M10
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Hakunofuji Tetsuya|Hakunofuji]]'''
+| 11 || - || 4 || - || 0
+|-
+| 10 || - || 5 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Ura Kazuki|Ura]]'''
+|M11
+| ||{{flagicon|Kazakhstan}}|| style="text-align:left;" | [[Kinbōzan Haruki|Kinbōzan]]
+| 6 || - || 9 || - || 0
+|-
+| 6 || - || 9 || - || 0
+| ||{{flagicon|Ukraine}}|| style="text-align:left;" | [[Shishi Masaru|Shishi]]
+|M12
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Tokihayate Hideki|Tokihayate]]
+| 4 || - || 11 || - || 0
+|-
+| 10 || - || 5 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Kotoeihō Hiroki|Kotoeihō]]'''
+|M13
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | [[Tamawashi Ichirō|Tamawashi]]
+| 2 || - || 13 || - || 0
+|-
+| 8 || - || 7 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Mitakeumi Hisashi|Mitakeumi]]'''
+|M14
+| ||{{flagicon|Russia}}|| style="text-align:left;" | '''[[Rōga Tokiyoshi|Rōga]]'''
+| 9 || - || 6 || - || 0
+|-
+| 9 || - || 6 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Tobizaru Masaya|Tobizaru]]'''
+|M15
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Ōshōumi Seiya|Ōshōumi]]
+| 4 || - || 11 || - || 0
+|-
+| 9 || - || 6 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | {{interlanguage link|Wakanoshō Eidō|ja|3=若ノ勝栄道|lt='''Wakanoshō'''}}
+|M16
+| ||{{flagicon|Japan}}||style="text-align:left;" | [[Ryūden Gōshi|Ryūden]]
+| 5 || - || 10 || - || 0
+|-
+| 10 || - || 5 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | {{interlanguage link|Fujiryōga Masaharu|ja|3=藤凌駕雅治|lt='''Fujiryōga'''}}
+|M17
+| ø || || || || || || ||
+|-
+|}
+'''Playoff'''
+
+[[Wakatakakage Atsushi|Wakatakakage]] beats [[Kirishima Tetsuo|Kirishima]]
+{| class="wikitable"
+|ø - Indicates a pull-out or absent rank
+|-
+|'''winning record in bold'''
+|-
+|style="background: PaleGreen;"|'''[[Yūshō]] Winner'''<br/> '''* Won Playoff'''
+|}
+
+===July ===
+'''Nagoya {{translit|ja|basho}}'''
+
+[[IG Arena]], [[Nagoya]], 12 July – 26 July<ref name="tournaments"/>
+{| class="wikitable" style="text-align:center"
+! colspan="17" |2026 Nagoya basho results - Makuuchi Division
+|-
+!{{abbr|W|Wins}}
+!
+!{{abbr|L|Losses}}
+!
+!{{abbr|A|Absences}}
+! colspan="3" |East
+!Rank
+! colspan="3" |West
+!{{abbr|W|Wins}}
+!
+!{{abbr|L|Losses}}
+!
+!{{abbr|A|Absences}}
+|-
+| 7 || - || 7 || - || 1
+| ø||{{flagicon|Mongolia}}|| style="text-align:left;" | [[Hōshōryū Tomokatsu|Hōshōryū]]
+|[[Yokozuna|Y]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Ōnosato Daiki|Ōnosato]]'''
+| 9 || - || 6 || - || 0
+|-
+| 12 || - || 3 || - || 0
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | '''[[Kirishima Tetsuo|Kirishima]]'''
+|[[Makuuchi#Ōzeki|O]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Kotozakura Masakatsu II|Kotozakura]]'''
+| 8 || - || 7 || - || 0
+|-
+| 12 || - || 3 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Atamifuji Sakutarō|Atamifuji]]'''
+|[[Sekiwake|S1]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Kotoshōhō Yoshinari|Kotoshōhō]]
+| 6 || - || 9 || - || 0
+|-
+| 0 || - || 0 || - || 15
+| ø ||{{flagicon|Japan}}|| style="text-align:left;" | [[Wakatakakage Atsushi|Wakatakakage]]
+|[[Sekiwake|S2]]
+| ||{{flagicon|Ukraine}}|| style="text-align:left; background:palegreen;" | '''[[Aonishiki Arata|Aonishiki]]*'''
+| 12 || - || 3 || - || 0
+|-
+| 6 || - || 9 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" |  [[Yoshinofuji Naoya|Yoshinofuji]]
+|[[Komusubi|K]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Ōhō Kōnosuke|Ōhō]]
+| 2 || - || 13 || - || 0
+|-
+| 8 || - || 7 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Fujinokawa Seigō|Fujinokawa]]'''
+|[[Maegashira|M1]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Takanoshō Nobuaki|Takanoshō]]
+| 6 || - || 9 || - || 0
+|-
+| 7 || - || 8 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Gōnoyama Tōki|Gōnoyama]]
+|M2
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Churanoumi Yoshihisa|Churanoumi]]
+| 7 || - || 8 || - || 0
+|-
+| 4 || - || 11 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" |  [[Hiradoumi Yūki|Hiradoumi]]
+|M3
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Hakunofuji Tetsuya|Hakunofuji]]'''
+| 9 || - || 6 || - || 0
+|-
+| 10 || - || 5 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Daieishō Hayato|Daieishō]]'''
+|M4
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Ichiyamamoto Daiki|Ichiyamamoto]]
+| 6 || - || 9 || - || 0
+|-
+| 5 || - || 10 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Ura Kazuki|Ura]]
+|M5
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | [[Ōshōma Degi|Ōshōma]]
+| 7 || - || 8 || - || 0
+|-
+| 5 || - || 10 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Shōdai Naoya|Shōdai]]
+|M6
+| ||{{flagicon|Japan}}|| style="text-align:left;" | {{interlanguage link multi|Fujiseiun Tatsuki|ja|3=藤青雲龍輝|lt=Fujiseiun}}
+| 7 || - || 8 || - || 0
+|-
+| 11 || - || 4 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Kotoeihō Hiroki|Kotoeihō]]'''
+|M7
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Takayasu Akira|Takayasu]]'''
+| 11 || - || 4 || - || 0
+|-
+| 6 || - || 9 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Wakamotoharu Minato|Wakamotoharu]]
+|M8
+| ||{{flagicon|Russia}}|| style="text-align:left;" | '''[[Rōga Tokiyoshi|Rōga]]'''
+| 9 || - || 6 || - || 0
+|-
+| 10 || - || 5 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''{{ill|Fujiryōga Masaharu|ja|藤凌駕雅治|lt=Fujiryōga}}'''
+|M9
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Tobizaru Masaya|Tobizaru]]
+| 5 || - || 10 || - || 0
+|-
+| 9 || - || 6 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Asanoyama Hiroki|Asanoyama]]'''
+|M10
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | [[Chiyoshōma Fujio|Chiyoshōma]]
+| 5 || - || 10 || - || 0
+|-
+| 5 || - || 2 || - || 8
+| ø||{{flagicon|Japan}}|| style="text-align:left;" | {{ill|Wakanoshō Eidō|ja|若ノ勝栄道|lt=Wakanoshō}}
+|M11
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Mitakeumi Hisashi|Mitakeumi]]
+| 2 || - || 13 || - || 0
+|-
+| 7 || - || 8 || - || 0
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" |  [[Asahakuryū Tarō|Asahakuryū]]
+|M12
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Abi Masatora|Abi]]
+| 7 || - || 8 || - || 0
+|-
+| 10 || - || 5 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Nishikifuji Ryūsei|Nishikifuji]]'''
+|M13
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Takerufuji Mikiya|Takerufuji]]'''
+| 10 || - || 5 || - || 0
+|-
+| 9 || - || 6 || - || 0
+| ||{{flagicon|Kazakhstan}}|| style="text-align:left;" | '''[[Kinbōzan Haruki|Kinbōzan]]'''
+|M14
+| ||{{flagicon|Ukraine}}|| style="text-align:left;" | '''[[Shishi Masaru|Shishi]]'''
+| 10 || - || 5 || - || 0
+|-
+| 4 || - || 11 || - || 0
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" |  [[Ōnokatsu Kazuhiro|Ōnokatsu]]
+|M15
+| ||{{flagicon|Japan}}|| style="text-align:left;" | {{ill|Kazuma Torakaze|lt=Kazuma|ja|一意虎風}}
+| 5 || - || 10 || - || 0
+|-
+| 6 || - || 9 || - || 0
+| ||{{flagicon|China}}|| style="text-align:left;" | {{ill|Daiseizan Daisuke|lt=Daiseizan|ja|大青山大介}}
+|M16
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Asakōryū Takuma|Asakōryū]]'''
+| 9 || - || 6 || - || 0
+|-
+|}
+{| class="wikitable"
+|ø - Indicates a pull-out or absent rank
+|-
+|'''winning record in bold'''
+|-
+|style="background: PaleGreen;"|'''[[Yūshō]] Winner'''<br/>'''* Won 3-way Playoff'''
+|}
+
+====Playoff====
+(Two consecutive victories required to win the Playoff and the ''yūshō'')
+*'''Match 1:''' [[Atamifuji Sakutarō|Atamifuji]] defeated [[Kirishima Tetsuo|Kirishima]]
+*'''Match 2:''' [[Aonishiki Arata|Aonishiki]] defeated Atamifuji
+*'''Match 3:''' Aonishiki defeated Kirishima
+
+===September===
+'''{{translit|ja|Aki basho}}'''
+
+Ryōgoku Kokugikan, Tokyo, 13 September – 27 September<ref name="tournaments"/>
+
+{| class="wikitable" style="text-align:center"
+! colspan="17" |2026 Aki basho results - Makuuchi Division
+|-
+!{{abbr|W|Wins}}
+!
+!{{abbr|L|Losses}}
+!
+!{{abbr|A|Absences}}
+! colspan="3" |East
+!Rank
+! colspan="3" |West
+!{{abbr|W|Wins}}
+!
+!{{abbr|L|Losses}}
+!
+!{{abbr|A|Absences}}
+|-
+| 12 || - || 3 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left; background:palegreen;" | '''[[Ōnosato Daiki|Ōnosato]]'''
+|[[Yokozuna|Y]]
+| ø ||{{flagicon|Mongolia}}|| style="text-align:left; | [[Hōshōryū Tomokatsu|Hōshōryū]]
+| 0 || - || 0 || - || 15
+|-
+| 8 || - || 7 || - || 0
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | '''[[Kirishima Tetsuo|Kirishima]]'''
+|[[Makuuchi#Ōzeki|O1]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Kotozakura Masakatsu II|Kotozakura]]'''
+| 9 || - || 6 || - || 0
+|-
+| 11 || - || 4 || - || 0
+| ||{{flagicon|Ukraine}}|| style="text-align:left;" | '''[[Aonishiki Arata|Aonishiki]]'''
+|[[Makuuchi#Ōzeki|O2]]
+| ø || || || || || || ||
+|-
+| 8 || - || 7 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Atamifuji Sakutarō|Atamifuji]]'''
+|[[Sekiwake|S]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Fujinokawa Seigō|Fujinokawa]]'''
+| 11 || - || 4 || - || 0
+|-
+| 5 || - || 10 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Hakunofuji Tetsuya|Hakunofuji]]
+|[[Komusubi|K]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Daieishō Hayato|Daieishō]]
+| 5 || - || 10 || - || 0
+|-
+| 5 || - || 7 || - || 3
+| ø ||{{flagicon|Japan}}|| style="text-align:left;" | [[Kotoshōhō Yoshinari|Kotoshōhō]]
+|[[Maegashira|M1]]
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Kotoeihō Hiroki|Kotoeihō]]
+| 5 || - || 10 || - || 0
+|-
+| 7 || - || 8 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Takayasu Akira|Takayasu]]
+|M2
+| ||{{flagicon|Japan}}|| style="text-align:left;" |  '''[[Yoshinofuji Naoya|Yoshinofuji]]'''
+| 9 || - || 6 || - || 0
+|-
+| 6 || - || 9 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Gōnoyama Tōki|Gōnoyama]]
+|M3
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Churanoumi Yoshihisa|Churanoumi]]'''
+| 10 || - || 5 || - || 0
+|-
+| 4 || - || 9 || - || 2
+| ø ||{{flagicon|Japan}}|| style="text-align:left;" | [[Takanoshō Nobuaki|Takanoshō]]
+|M4
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Fujiryōga Masaharu|Fujiryōga]]'''
+| 8 || - || 7 || - || 0
+|-
+| 6 || - || 9 || - || 0
+| ||{{flagicon|Russia}}|| style="text-align:left;" | [[Rōga Tokiyoshi|Rōga]]
+|M5
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | [[Ōshōma Degi|Ōshōma]]
+| 6 || - || 9 || - || 0
+|-
+| 10 || - || 5 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Asanoyama Hiroki|Asanoyama]]'''
+|M6
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Ichiyamamoto Daiki|Ichiyamamoto]]
+| 4 || - || 11 || - || 0
+|-
+| 9 || - || 6 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Fujiseiun Tatsuki|Fujiseiun]]'''
+|M7
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Nishikifuji Ryūsei|Nishikifuji]]
+| 7 || - || 8 || - || 0
+|-
+| 9 || - || 6 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Takerufuji Mikiya|Takerufuji]]'''
+|M8
+| ||{{flagicon|Japan}}|| style="text-align:left;" |  '''[[Hiradoumi Yūki|Hiradoumi]]'''
+| 9 || - || 6 || - || 0
+|-
+| 10 || - || 5 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Ura Kazuki|Ura]]'''
+|M9
+| ||{{flagicon|Ukraine}}|| style="text-align:left;" | [[Shishi Masaru|Shishi]]
+| 7 || - || 8 || - || 0
+|-
+| 7 || - || 8 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Ōhō Kōnosuke|Ōhō]]
+|M10
+| ||{{flagicon|Kazakhstan}}|| style="text-align:left;" | '''[[Kinbōzan Haruki|Kinbōzan]]'''
+| 9 || - || 6 || - || 0
+|-
+| 10 || - || 5 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Wakamotoharu Minato|Wakamotoharu]]'''
+|M11
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Shōdai Naoya|Shōdai]]
+| 3 || - || 12 || - || 0
+|-
+| 0 || - || 0 || - || 15
+| ø ||{{flagicon|Japan}}|| style="text-align:left;" | [[Wakatakakage Atsushi|Wakatakakage]]
+|M12
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" |  '''[[Asahakuryū Tarō|Asahakuryū]]'''
+| 8 || - || 7 || - || 0
+|-
+| 9 || - || 6 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Asakōryū Takuma|Asakōryū]]'''
+|M13
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Abi Masatora|Abi]]'''
+| 8 || - || 7 || - || 0
+|-
+| 4 || - || 11 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Tobizaru Masaya|Tobizaru]]
+|M14
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | [[Chiyoshōma Fujio|Chiyoshōma]]
+| 5 || - || 10 || - || 0
+|-
+| 8 || - || 7 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''{{ill|Asasuiryū Ryōma|lt=Asasuiryū|ja|朝翠龍涼馬}}'''
+|M15
+| ||{{flagicon|Japan}}|| style="text-align:left;" | '''[[Tokihayate Hideki|Tokihayate]]'''
+| 8 || - || 7 || - || 0
+|-
+| 0 || - || 0 || - || 15
+| ø ||{{flagicon|Japan}}|| style="text-align:left;" | [[Wakanoshō Eidō|Wakanoshō]]
+|M16
+| ||{{flagicon|Mongolia}}|| style="text-align:left;" | '''{{ill|Toshinofuji Taisei|ja|若寿之富士大聖|lt=Toshinofuji}}'''
+| 9 || - || 6 || - || 0
+|-
+| 3 || - || 12 || - || 0
+| ||{{flagicon|Japan}}|| style="text-align:left;" | [[Shōnannoumi Momotarō|Shōnannoumi]]
+|M17
+| ø || || || || || || ||
+|-
+|}
+{| class="wikitable"
+|ø - Indicates a pull-out or absent rank
+|-
+|'''winning record in bold'''
+|-
+|style="background: PaleGreen;"|'''[[Yūshō]] Winner'''
+|}
+
+===November===
+'''Kyushu {{translit|ja|basho}}'''
+
+[[Fukuoka Kokusai Center]], [[Kyushu]], 8 November – 22 November<ref name="tournaments"/>
+
+==News==
+===January===
+*9: The [[Japan Sumo Association]] announces that [[Emperor of Japan|Emperor]] [[Naruhito]] will attend the sumo tournament in Tokyo on 18 January (Day 8). It will be the first {{nihongo||天覧相撲|[[Glossary of sumo terms#tenran-zumō|tenran-zumō]]}}–sumo performed in the presence of the Emperor–in six years.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202601090000893.html|title=初場所8日目に天覧相撲　20年初場所14日目以来6年ぶり|date=9 January 2026|publisher=Nikkan Sports|language=ja|access-date=9 January 2026}}</ref>
+*10: The Sumo Association announces a record number of {{translit|ja|[[Glossary of sumo terms#kenshō-kin|kenshō-kin]]}} (prize money envelope) applications at the upcoming January grand sumo tournament. There are applications for a total of 3,469 prize envelopes, which breaks the record set in September of last year. There are also 258 envelopes set to be distributed on 11 January, which will break the previous single-day record set in January of last year.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202601100000428.html|title=松嶋菜々子＆斉藤和義も登場、初場所の懸賞申し込みが史上最多3469本　従来を361本上回る|date=10 January 2026|publisher=Nikkan Sports|language=ja|access-date=10 January 2026}}</ref>
+*14: Top {{translit|ja|maegashira}} [[Yoshinofuji Naoya|Yoshinofuji]] defeats [[Ōnosato Daiki|Ōnosato]] after winning against [[Hōshōryū Tomokatsu|Hōshōryū]] the previous day, becoming the first {{translit|ja|maegashira}} competitor in six years to defeat two {{translit|ja|yokozuna}} on consecutive days.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202601140001085.html|title=大の里が義ノ富士の左上手投げに屈し初黒星、両大関が初黒星　勝ちっ放しは霧島と欧勝馬、阿炎|date=14 January 2026|publisher=Nikkan Sports|access-date=14 January 2026|language=ja}}</ref> This feat would be repeated later by [[Atamifuji Sakutarō|Atamifuji]], who entered the tournament having never earned a {{translit|ja|[[kinboshi]]}}.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202601200001441.html|title=熱海富士２日連続金星　部屋の関取で最速勝ち越し　前夜は伊勢ケ浜親方に感謝の懸賞46本|date=20 January 2026|publisher=Nikkan Sports|access-date=20 January 2026|language=ja}}</ref>
+*16: The Sumo Association announces the retirement of former {{translit|ja|maegashira}} [[Daiamami Genki|Daiamami]].<ref>{{cite web|url=https://www.sanspo.com/article/20260116-56P4FOOER5N77OCINXH456OFJA/|title=元幕内大奄美が引退　鹿児島県出身の33歳|date=16 January 2026|publisher=Sankei Sports|access-date=16 January 2026|language=ja}}</ref>
+*18: [[Hakunofuji Tetsuya|Hakunofuji]] defeats [[Ōnosato Daiki|Ōnosato]] in front of Emperor Naruhito, becoming the third wrestler since the start of the [[Shōwa era]] to collect at least one {{translit|ja|kinboshi}} in four consecutive tournaments.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202601180001105.html|title=伯乃富士が４場所連続４個目の金星「陛下にみていただいて、光栄」敗れた大の里は左肩を気にする|date=18 January 2026|publisher=Nikkan Sports|access-date=21 January 2026|language=ja}}</ref>
+*22: [[Nishikifuji Ryūsei|Nishikifuji]] withdraws on Day 12 of the January 2026 tournament. His [[Terunofuji Haruo|stablemaster]] cites returning neck and elbow pain stemming from earlier injuries.<ref>{{cite web|url=https://www.sanspo.com/article/20260122-33SDFSBYLJN2LNEELRNN3O3S44/|title=幕内・錦富士が12日目から休場　古傷の首と肘の痛みが悪化／初場所|date=22 January 2026|publisher=Sankei Sports|access-date=22 January 2026|language=ja}}</ref>
+*23: Hakunofuji withdraws on Day 13 of the January 2026 tournament due to a ligament injury in his left big toe. Two days earlier, he appeared to collapse from his left knee during his loss to [[Aonishiki Arata|Aonishiki]]. Hakunofuji's scheduled opponent, [[Ōnokatsu Kazuhiro|Ōnokatsu]]–who was Nishikifuji's scheduled opponent the day before–becomes the fourth sumo wrestler in history to win two consecutive matches by [[Glossary of sumo terms#fusenshō|default]].<ref>{{cite web|url=https://www.sponichi.co.jp/sports/news/2026/01/23/articles/20260123s00005000067000c.html|title=伯乃富士が13日目から休場…足を引きずる様子も　阿武剋は2日連続不戦勝で史上4例目の珍事|date=23 January 2026|publisher=Sports Nippon|access-date=23 January 2026|language=ja}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202601230000750.html|title=伯乃富士は「左母趾MTP側副靱帯損傷」と診断　約４週間の安静加療…13日目から休場|date=23 January 2026|publisher=Nikkan Sports|access-date=23 January 2026|language=ja}}</ref><br>The [[Japan Sumo Association]] announces that the election of directors and deputy directors for the new two-year term at the head of the organization will not be subject to a vote for the fourth consecutive term, as the number of candidates matches the number of positions up for election. It has also been announced that the exact occupancy of the positions will be revealed on 8 March.<ref>{{cite web |url=https://www.nikkansports.com/battle/sumo/news/202601230000910.html|title=相撲協会理事候補選は４期連続無投票　春場所後に承認後、八角理事長が続投へ|date=23 January 2026|publisher=Nikkan Sports|access-date=1 February 2026|language=ja}}</ref>
+*25: The January 2026 tournament concludes with {{translit|ja|ōzeki}} [[Aonishiki Arata|Aonishiki]] winning the championship [[Glossary of sumo terms#kettei-sen|playoff]] against [[Makuuchi#Maegashira|rank-and-file]] wrestler [[Atamifuji Sakutarō|Atamifuji]], securing his second consecutive [[Yūshō|Emperor's Cup]]. Aonishiki and Atamifuji were tied in the standings entering Day 15 with eleven wins each. After Atamifuji won his scheduled Day 15 contest, which eliminated opponent [[Ōshōumi Seiya|Ōshōumi]] and three others ([[Abi Masatora|Abi]], [[Kirishima Tetsuo|Kirishima]] and [[Ōnosato Daiki|Ōnosato]]) from title contention, Aonishiki defeated {{translit|ja|ōzeki}} [[Kotozakura Masakatsu II|Kotozakura]] to force a playoff–just like he did in the previous tournament last November. The two ({{Win-loss record|w=12|l=3}}) leaders faced each other in the playoff, where Atamifuji pushed Aonishiki to the edge of the ring before Aonishiki stayed low and took his opponent down with a [[Kimarite#Kubinage|headlock throw]]. Aonishiki's victory marks the first time in almost 20 years, since [[Hakuhō Shō|Hakuhō]] in the May 2006 tournament, that a newly promoted {{translit|ja|ōzeki}} has won the championship. He is also the first wrestler in 89 years (since [[Futabayama Sadaji|Futabayama]] in 1937) to win consecutive titles as a newly promoted {{translit|ja|sekiwake}} and a newly promoted {{translit|ja|ōzeki}}. Aonishiki will be a candidate for potential {{translit|ja|yokozuna}} promotion at the next tournament in March. The [[Japan Sumo Association|Sumo Association]] awards runner-up Atamifuji with his third Fighting Spirit prize, one of three [[Sanshō (sumo)|special prizes]] handed out. A Fighting Spirit prize is also awarded to Kirishima ({{Win-loss record|w=11|l=4}}) for the fourth time in his career. [[Yoshinofuji Naoya|Yoshinofuji]] ({{Win-loss record|w=8|l=7}}) collects his first Outstanding Performance prize; he has now collected at least one Special Prize in three of his four career tournaments in the top division.<ref>{{cite web |url=https://mainichi.jp/articles/20260125/k00/00m/050/069000c |title=安青錦がV　双葉山以来の「新関脇と新大関で連覇」　大相撲初場所 |language=Japanese |publisher=[[Mainichi Shimbun]] |date=January 25, 2026 |access-date=January 25, 2026}}</ref><ref>{{cite web |url=https://english.kyodonews.net/articles/-/69196|title=Sumo: Ukrainian ozeki Aonishiki wins back-to-back championships in playoff|date=25 January 2026|publisher=Kyodo News|access-date=25 January 2026}}</ref><br/>The {{translit|ja|jūryō}} division championship is won by 22-year-old [[Tochigi Prefecture|Tochigi]] native {{interlanguage link|Wakanoshō Eidō|ja|3=若ノ勝栄道|lt=Wakanoshō}} ({{Win-loss record|w=12|l=3}}), who collects his first professional sumo title.<ref>{{cite web|url=https://www.sanspo.com/article/20260125-Y22DIVZ6OBOSHDLSZKW2TENJD4/|title=十両は若ノ勝が初V　序ノ口は旭富士が優勝決定戦制す／初場所|date=25 January 2026|publisher=Sankei Sports|access-date=25 January 2026|language=ja}}</ref>
+*26: Two months after it was announced, Tokiwayama stable is transferred from the retiring Tokiwayama (former {{translit|ja|komusubi}} [[Takamisugi Takakatsu|Takamisugi]]) to Minatogawa (former {{translit|ja|ōzeki}} [[Takakeishō Takanobu|Takakeishō]]) and becomes [[Minatogawa stable]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202511270000912.html|title=元大関貴景勝の湊川親方が常盤山部屋を継承し、来年初場所後に湊川部屋へ　相撲協会が承認|date=27 November 2025|publisher=Nikkan Sports|access-date=27 January 2026|language=ja}}</ref>
+*28: Three promotions from {{translit|ja|makushita}} to {{translit|ja|jūryō}} are announced for the March tournament by the Sumo Association. One of two wrestlers promoted to {{translit|ja|[[sekitori]]}} for the first time is 25-year-old Mongolian {{interlanguage link|Toshinofuji Taisei|ja|3=若寿之富士大聖|lt=Toshinofuji}}, a recruit of {{translit|ja|yokozuna}} [[Hakuhō Shō|Hakuhō]] with two years of professional experience and one lower-division championship. He is the first {{translit|ja|sekitori}} promotion for former {{translit|ja|yokozuna}} [[Terunofuji]] since taking over [[Isegahama stable (2007)|Isegahama stable]] last year. The other is 19-year-old {{interlanguage link|Fukuzaki Maaru|ja|3=福崎真逢輝|lt=Fukuzaki}}, an All Japan Sumo Championship quarterfinalist as a high school student who debuted as a {{translit|ja|[[Glossary of sumo terms#makushita tsukedashi|makushita tsukedashi]]}} competitor one year ago. In the March 2026 tournament he will take on the new {{translit|ja|[[shikona]]}} of {{nihongo|Fujitensei|藤天晴}}. Former {{translit|ja|maegashira}} competitor [[Shimazuumi Sora|Shimazuumi]] returns to the second-highest sumo division after six tournaments.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202601280000141.html|title=寿之富士、福崎改め藤天晴が新十両、島津海が再十両に昇進/春場所番付編成会議|date=28 January 2026|publisher=Nikkan Sports|language=ja|access-date=28 January 2026}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202601280000186.html|title=寿之富士が入門２年で関取昇進、元照ノ富士の伊勢ケ浜親方が部屋継承後最初の新十両|date=28 January 2026|publisher=Nikkan Sports|language=ja|access-date=28 January 2026}}</ref><br/>The Sumo Association announced multiple retirements including former {{translit|ja|makushita}} {{Nihongo|Kaorufuji|香富士}}, a 23-year veteran and the last remaining active wrestler from the former [[Mihogaseki stable]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202601280000160.html|title=元前頭大奄美、三保ケ関部屋知る最後の現役だった香富士ら８人の引退を発表／春場所番付編成会議|date=28 January 2026|publisher=Nikkan Sports|language=ja|access-date=28 January 2026}}</ref>
+*30: [[Sanae Takaichi]], the first female [[Prime Minister of Japan]], says that she will respect [[Controversies in professional sumo#Women and sumo|sumo traditions regarding women]] and not enter the {{translit|ja|[[dohyō]]}}. The remarks are in relation to the presentation of the Prime Minister's Cup, which is awarded to the winner of the [[makuuchi|top division]] at every grand sumo tournament. In the January tournament, special advisor [[Takahiro Inoue]] presented the Prime Minister's Cup to [[Aonishiki]] on her behalf.<ref>{{Cite news |title=Takaichi vows to respect tradition and not step on sumo dohyo|url=https://www.asahi.com/ajw/articles/16323098 |archive-url=https://web.archive.org/web/20260131123826/https://www.asahi.com/ajw/articles/16323098 |archive-date=31 January 2026 |access-date=16 February 2026|work=The Asahi Shimbun |url-status=live}}</ref><ref>{{cite web|url=https://japannews.yomiuri.co.jp/sports/sumo/20260131-308068/|title=Prime Minister Sanae Takaichi Vows to Never Enter Sumo Ring, Per Sport's Tradition of Banning Women|date=31 January 2026|publisher=Yomiuri Shimbun|work=The Japan News|language=ja|access-date=16 February 2026}}</ref>
+*31: The [[Glossary of sumo terms#danpatsu-shiki|retirement ceremony]] is held at the [[Ryōgoku Kokugikan]] for the 73rd {{translit|ja|yokozuna}} [[Terunofuji Haruo|Terunofuji]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202601310000817.html|title=大きな体で話題の伊勢ケ浜親方の長男てむじんくん　また成長し３歳児平均の約２倍の29キロに|date=31 January 2026|publisher=Nikkan Sports|language=ja|access-date=31 January 2026}}</ref>
+
+===February===
+*1: The [[Glossary of sumo terms#danpatsu-shiki|retirement ceremony]] for former {{translit|ja|[[maegashira]]}} [[Mitoryū Takayuki|Mitoryū]] is held at the [[Ryōgoku Kokugikan]].<ref>{{cite web|url=https://www.sponichi.co.jp/sports/news/2026/02/01/articles/20260201s00005000266000c.html |title=元幕内・水戸龍が断髪式「何回かウルッときた」　結婚公表、娘は3人「第二の人生、踏ん張っていかないと」 |date=1 February 2026|work=Sports Nippon|accessdate=1 February 2026|language=ja}}</ref>
+*7: The {{interlanguage link|NHK Charity Sumo Tournament|ja|3=NHK福祉大相撲}} is held at the Ryōgoku Kokugikan with over 4,300 in attendance. Among the musicians performing songs with sumo wrestlers was idol group [[STU48]] and singers [[Miyuki Kawanaka]] and [[Kaori Mizumori]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202602070001596.html|title=NHK福祉大相撲で親方、幕内力士が美声披露　若元春ら参加５人全員のデュエット＆ソロ曲目を紹介|date=7 February 2026|publisher=Nikkan Sports|access-date=8 February 2026|language=ja}}</ref>
+*8: {{translit|ja|Yokozuna}} [[Hōshōryū Tomokatsu|Hōshōryū]] wins the 50th Japan Grand Sumo Tournament, a one-day tournament held for professional sumo wrestlers at the Ryōgoku Kokugikan, before 9,030 attendees. It is his second career win in the tournament. The Fighting Spirit prize recipient was {{translit|ja|maegashira}} [[Hiradoumi Yūki|Hiradoumi]], who had only lost in semi-finals to eventual tournament champion.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202602080001180.html|title=豊昇龍が２大会ぶり２度目Ｖ、賞金250万円獲得　準Ｖは阿炎、敢闘賞は平戸海|date=8 February 2026|publisher=Nikkan Sports|access-date=8 February 2026|language=ja}}</ref>
+*13: Former top-division wrestler [[Daishōhō Kiyohiro|Daishōhō]] announces his retirement after a final tournament in the {{translit|ja|[[sandanme]]}} division where he had recorded a negative score.<ref>{{cite web |url=https://www.sponichi.co.jp/sports/news/2026/02/13/articles/20260213s00005000241000c.html|title=元幕内・大翔鵬が引退 幕内在位9場所 日本相撲協会が発表|date=13 February 2026|publisher=Sports Nippon|access-date=13 February 2026|language=ja}}</ref>
+*24: The Sumo Association releases the [[banzuke|rankings]] for the March 2026 tournament in Osaka, in which Ukrainian {{translit|ja|ōzeki}} [[Aonishiki Arata|Aonishiki]] vies for his third straight [[yūshō|Emperor's Cup]] and promotion to ''[[Makuuchi#Yokozuna|yokozuna]]''. The only change among the {{translit|ja|san'yaku}} ranks is the elevation of January runner-up [[Atamifuji Sakutarō|Atamifuji]] to the fourth-highest rank of {{translit|ja|komusubi}} for the first time in his career. He is the first wrestler from [[Shizuoka Prefecture]] to be promoted to the upper ranks of sumo since [[Tenryū Saburō|Tenryū]] was promoted to {{translit|ja|sekiwake}} in 1930. There are two new promotions to the top division: {{interlanguage link|Fujiseiun Tatsuki|ja|3=藤青雲龍輝|lt=Fujiseiun}} and {{interlanguage link|Fujiryōga Masaharu|ja|3=藤凌駕雅治|lt=Fujiryōga}}, both from [[Fujishima stable (2010)|Fujishima stable]]. 28-year-old Fujiseiun is a five-year veteran with four championships in the lower divisions, most recently in May 2024. Fujiryōga, who is promoted a few days before his 23rd birthday, is a {{translit|ja|[[Glossary of sumo terms#makushita tsukedashi|makushita tsukedashi]] competitor}} who placed high in three amateur tournaments in 2024 before he debuted for Fujishima stable in March 2025. He picked up the {{transl|ja|jūryō}} title in his fifth professional tournament last November. Returning to the top division is 22-year-old [[Kotoeihō Hiroki|Kotoeihō]], whose only other tournament as a {{translit|ja|maegashira}} was in July of last year. Mongolian [[Tamawashi Ichirō|Tamawashi]] will appear in his 99th tournament in the top division, tying him with Ōshima (former {{translit|ja|sekiwake}} [[Kyokutenhō Masaru|Kyokutenhō]]) for the third-most {{translit|ja|makuuchi}} tournament appearances in sumo history. As a result of the latest rankings, [[Kasugano stable]] is left without a {{translit|ja|[[sekitori]]}}-ranked wrestler for the first time in 91 years.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202602230001698.html|title=【春場所新番付】安青錦が東の大関で綱取り挑戦　阿炎が今場所では幕内最高の７枚上がる|date=24 February 2026|publisher=Nikkan Sports|language=ja|access-date=24 February 2026}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202602230001581.html|title=【春場所新番付】熱海富士96年ぶり静岡県出身三役、安青錦は最短２場所で大関通過へ／三役以上編|date=24 February 2026|publisher=Nikkan Sports|language=ja|access-date=24 February 2026}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202602230001123.html|title=【春場所新番付】玉鷲が幕内99場所目、歴代３位の旭天鵬に並んだ　幕内出場はあと３回で１位|date=24 February 2026|publisher=Nikkan Sports|language=ja|access-date=24 February 2026}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202602230001612.html|title=【春場所新番付】名門春日野部屋91年ぶり関取不在に、先場所十両の栃大海が途中休場／番外編|date=24 February 2026|publisher=Nikkan Sports|language=ja|access-date=24 February 2026}}</ref>
+*27: It is reported that the Japan Sumo Association's compliance committee is investigating alleged violent behavior by Isegahama (the 73rd {{translit|ja|yokozuna}} [[Terunofuji Haruo|Terunofuji]]) against [[Isegahama stable (2007)|Isegahama stable]] wrestler [[Hakunofuji Tetsuya|Hakunofuji]]. According to reports, Isegahama himself informed the Sumo Association about the matter, and he along with Hakunofuji and [[Nishikifuji Ryūsei|Nishikifuji]] had been questioned by the compliance committee earlier in the week. On the same day that the news was reported, Isegahama admits to the press that he committed an act of violence.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202602260001524.html|title=元照ノ富士の伊勢ケ浜親方、弟子の伯乃富士への暴力行為で相撲協会から事情聴取　自ら報告も…|date=27 February 2026|publisher=Nikkan Sports|language=ja|access-date=27 February 2026}}</ref><ref>{{cite web|url=https://www.sanspo.com/article/20260227-X3Z5IHVLGBKBHAC5T47PNSY5OM/|title=元照ノ富士の伊勢ケ浜親方、弟子・伯乃富士に暴力　相撲協会から事情聴取|date=27 February 2026|publisher=Sankei Sports|language=ja|access-date=27 February 2026}}</ref><ref>{{cite web|url=https://english.kyodonews.net/articles/-/71307|title=Sumo: Stablemaster Isegahama questioned by association over wrestler abuse|date=27 February 2026|publisher=Kyodo News|access-date=27 February 2026}}</ref>
+
+=== March ===
+*6: The Sumo Association announces that [[Midorifuji Kazunari|Midorifuji]] will be absent from the upcoming March tournament due to heart failure. His medical certificate indicates one month of treatment. His absence from the entire tournament will likely result in his demotion to {{translit|ja|jūryō}} in May.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603060000407.html|title=伊勢ケ浜部屋の翠富士が休場　心不全で加療約１カ月　途中出場なければ十両への陥落確実|date=6 March 2026|publisher=Nikkan Sports|language=ja|access-date=23 March 2026}}</ref>
+*9: Two {{translit|ja|[[Makuuchi#Maegashira|maegashira]]}} withdraw from the tournament following opening day losses. [[Ōnokatsu Kazuhiro|Ōnokatsu]] is diagnosed with a left ankle sprain after appearing to land awkwardly in his defeat to [[Ichiyamamoto Daiki|Ichiyamamoto]]. [[Hakunofuji Tetsuya|Hakunofuji]] re-aggravates a foot injury he sustained in the previous tournament.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603090000343.html|title=阿武剋が２日目から休場　初日の一山本戦で左足首負傷、再出場の可能性も|date=9 March 2026|publisher=Nikkan Sports|language=ja|access-date=23 March 2026}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603130000505.html|title=２日目から休場の伯乃富士が再出場　場所前に師匠・伊勢ケ浜親方による暴力行為を受け注目度上昇|date=9 March 2026|publisher=Nikkan Sports|language=ja|access-date=23 March 2026}}</ref> Both wrestlers would later re-enter the tournament, but Ōnokatsu is later forced to pull out for the second time.<ref>{{cite web|url=https://sp.m.jiji.com/article/show/3734300|title=阿武剋が再び休場 大相撲春場所|date=16 March 2026|publisher=Jiji Press|language=ja|access-date=23 March 2026}}</ref>
+*10: [[Abi Masatora|Abi]] withdraws from the tournament due to a diagnosed [[spinal fracture]] following his loss to [[Ichiyamamoto Daiki|Ichiyamamoto]] on Day 2. He is the fourth {{translit|ja|[[sekitori]]}} to withdraw from this tournament.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603100000154.html|title=阿炎が腰の骨を骨折、春場所３日目から休場　対戦相手の欧勝馬は不戦勝|date=10 March 2026|publisher=Nikkan Sports|language=ja|access-date=23 March 2026}}</ref> He later returned to the tournament on Day 9.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603150000769.html|title=３日目から休場していた阿炎が９日目から再出場、美ノ海と対戦する|date=15 March 2026|publisher=Nikkan Sports|language=ja|access-date=23 March 2026}}</ref>
+*21: {{translit|ja|Sekiwake}} [[Kirishima Tetsuo|Kirishima]] maintains a two-win lead on the second-to-last day of the March 2026 tournament to officially clinch his third {{translit|ja|[[Emperor's Cup|yūshō]]}} in the top division. Entering Day 14 as the leader with both [[Hōshōryū Tomokatsu|Hōshōryū]] and [[Kotoshōhō Yoshinari|Kotoshōhō]] behind him by two wins, Kirishima needed to defeat [[Aonishiki Arata|Aonishiki]]–whose {{translit|ja|yokozuna}} promotion bid already fell apart. Although Kirishima was defeated in his match, so were Hōshōryū and Kotoshōhō in their respective contests, resulting in their elimination from championship contention. Despite Kirishima's Day 14 loss, has totaled 34 victories over the last three tournaments as either a {{translit|ja|sekiwake}} or {{translit|ja|komusubi}}, which passes the 33-win threshold for a second promotion to {{translit|ja|ōzeki}}.<ref>{{cite web|url=https://english.kyodonews.net/articles/-/72738|title=Sumo: Kirishima seals Spring title despite loss after rivals also falter|date=21 March 2026|publisher=Kyodo News|access-date=23 March 2026}}</ref><br/>Earlier in the day, it is announced that top {{translit|ja|maegashira}} [[Wakatakakage Atsushi|Wakatakakage]] would withdraw after injuring his right arm in his Day 13 win, which gave him his [[Glossary of sumo terms#kachi-koshi|eighth victory]] of the tournament.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603210000234.html|title=若隆景が14日目から休場　右肘を痛めており、すでに勝ち越し　相手の大栄翔は不戦勝|date=21 March 2026|publisher=Nikkan Sports|language=ja|access-date=23 March 2026}}</ref>
+*22: Kirishima loses his final match against [[Kotozakura Masakatsu II|Kotozakura]], but his promotion to sumo's second-highest rank is all but assured as a request is made to Sumo Association president [[Hokutoumi Nobuyoshi|Hakkaku]] to convene an extraordinary meeting of the Board of Directors. Four [[Sanshō (sumo)|special prizes]] are handed out to four wrestlers. Tournament champion [[Kirishima Tetsuo|Kirishima]] collects his first Outstanding Performance prize for his third special prize in a row and ninth overall. Tournament runner-up [[Kotoshōhō Yoshinari|Kotoshōhō]] wins his third Fighting Spirit prize. A Fighting Spirit prize is also awarded to {{translit|ja|maegashira}} debutant {{interlanguage link|Fujiseiun Tatsuki|ja|3=藤青雲龍輝|lt=Fujiseiun}}. The Technique prize is awarded to [[Fujinokawa Seigō|Fujinokawa]] who collected the first two [[kinboshi|gold stars]] of his career at the tournament, having defeated both {{translit|ja|yokozuna}} Ōnosato and Hōshōryū on the third and fourth day, respectively. Meanwhile Aonishiki, who entered the tournament with the chance at {{translit|ja|yokozuna}} promotion, instead finds himself battling to [[Makuuchi#Demotion from ōzeki|keep]] his {{translit|ja|ōzeki}} rank in the next tournament after [[Glossary of sumo terms#make-koshi|losing his eighth match]].<ref>{{cite web|url=https://english.kyodonews.net/articles/-/72764|title=Sumo: Kirishima set for ozeki return as Aonishiki ends with losing record|date=22 March 2026|publisher=Kyodo News|access-date=23 March 2026}}</ref><br/>25-year-old Mongolian {{interlanguage link|Dewanoryū Kazuki|ja|3=出羽ノ龍和希|lt=Dewanoryū}} ({{Win-loss record|w=11|l=4}}) clinches the {{translit|ja|jūryō}} championship with a playoff victory over {{interlanguage link|Wakanoshō Eidō|ja|3=若ノ勝栄道|lt=Wakanoshō}} ({{Win-loss record|w=11|l=4}}),<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603220001762.html|title=十両優勝はモンゴル出身の出羽ノ龍「引かないように前へ圧力」決定戦で若ノ勝を下す|date=22 March 2026|publisher=Nikkan Sports|language=ja|access-date=26 March 2026}}</ref> while former {{translit|ja|maegashira}} [[Tsurugishō Momotarō|Tsurugishō]] becomes the first {{translit|ja|jūryō}} competitor in six years to post 15 straight losses in a tournament.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603220000283.html|title=十両剣翔が15戦全敗、十両では富士東以来６年ぶり|date=22 March 2026|publisher=Nikkan Sports|language=ja|access-date=26 March 2026}}</ref>
+*23: Hakkaku (the 61st {{translit|ja|yokozuna}} [[Hokutoumi Nobuyoshi|Hokutoumi]]) is elected for the sixth straight time as chairman of the [[Japan Sumo Association]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603230000534.html|title=日本相撲協会の八角理事長が続投　新理事による理事会の互選で決定　実質６期目、任期は２年|date=23 March 2026|publisher=Nikkan Sports|language=ja|access-date=23 March 2026}}</ref> Four {{translit|ja|[[oyakata]]}} are elected as association directors for the first time: Fujishima (former {{translit|ja|ōzeki}} [[Musōyama Masashi|Musōyama]]), Onoe (former {{translit|ja|komusubi}} [[Hamanoshima Keishi|Hamanoshima]]), Kataonami (former {{translit|ja|sekiwake}} [[Tamakasuga Ryōji|Tamakasuga]]) and Oitekaze (former {{translit|ja|maegashira}} [[Daishōyama Naoki|Daishōyama]]).<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603230000517.html|title=新理事に藤島親方、尾上親方、片男波親方、追手風親方選出　日本相撲協会評議員会|date=23 March 2026|publisher=Nikkan Sports|language=ja|access-date=23 March 2026}}</ref><br/>The Sumo Association announces the retirements of former {{translit|ja|maegashira}} [[Chiyomaru Kazuki|Chiyomaru]] and [[Hidenoumi Takuya|Hidenoumi]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603230001343.html|title=元幕内の千代丸、英乃海が現役引退　千代丸は元小結千代鳳、英乃海は幕内翔猿を弟に持ち注目された|date=25 March 2026|publisher=Nikkan Sports|language=ja|access-date=25 March 2026}}</ref>
+*25: Kirishima's second promotion to {{translit|ja|ōzeki}} is unanimously approved by the Sumo Association. He becomes the third wrestler since the introduction of the [[Makuuchi#Demotion from ōzeki|{{translit|ja|kadoban}} system]] in 1969 to return to the {{translit|ja|ōzeki}} rank after failing to immediately do so.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603250000002.html|title=霧島の大関昇進が満場一致で決定　特例を除く２度目の昇進は魁傑、照ノ富士に次いで３人目の快挙|date=25 March 2026|publisher=Nikkan Sports|language=ja|access-date=25 March 2026}}</ref><br/>Following the Sumo Association board meeting to determine the May tournament rankings, four promotions to {{translit|ja|jūryō}} are announced. The lone first-time promotion to sumo's second-highest rank is 24-year-old {{interlanguage link|Ōkaryū Kazuma|ja|3=大花竜勝磨|lt=Ōkaryū}}, who entered professional sumo two years ago as a {{translit|ja|[[Glossary of sumo terms#sandanme tsukedashi|sandanme tsukedashi]]}} competitor. Three others return to {{translit|ja|jūryō}}: {{interlanguage link|Hakuyōzan Ryōsuke|ja|3=白鷹山亨将|lt=Hakuyōzan}}, [[Tochitaikai Yū|Tochitaikai]], and [[Enhō Yūya|Enhō]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603250000207.html|title=新十両に大花竜　栃大海、白鷹山、炎鵬は再昇進／番付編成会議|date=25 March 2026|publisher=Nikkan Sports|language=ja|access-date=25 March 2026}}</ref>
+*26: Sumo Association's director of public relations Fujishima (former {{translit|ja|ōzeki}} [[Musōyama Masashi|Musōyama]]), announces that the Sumo Association will hold an extraordinary meeting on 9 April to discuss the allegations of physical abuse involving Isegahama (the 73rd {{translit|ja|yokozuna}} [[Terunofuji Haruo|Terunofuji]]). Earlier in the month, it was announced that Terunofuji would not be participating in the March tournament as a provisional measure.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603260000913.html|title=元照ノ富士の伊勢ケ浜親方の暴力問題は４・９臨時理事会で話し合い　同日に処分決定へ|date=26 March 2026|publisher=Nikkan Sports|language=ja|access-date=26 March 2026}}</ref>
+
+The spring {{translit|ja|[[Glossary of sumo terms#jungyō|jungyō]]}} (regional tours) are held at the following locations in March:<ref name=jungyo2026>{{cite web|url=https://www.sumo.or.jp/Jungyo/schedule_2026/|title=Jungyo Schedule 2026|work=Japan Sumo Association|language=Japanese|access-date=28 May 2026|archive-url=https://web.archive.org/web/20260913005650/https://www.sumo.or.jp/Jungyo/schedule_2026/|archive-date=13 September 2026}}</ref>
+
+*29: [[Ise Grand Shrine|Ise Shrine]], [[Mie Prefecture|Mie]] (Ceremonial tournament)
+*30: [[Neyagawa, Osaka]]
+*31: [[Kobe]]
+
+===April===
+*6: The Sumo Association has announced the retirement of former {{translit|ja|[[maegashira]]}} [[Tsurugishō Momotarō|Tsurugishō]] following his final {{translit|ja|[[jūryō]]}} rank tournament; a tournament in which he failed to secure a single victory.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202604060001175.html |title=元幕内剣翔が引退、春場所は15戦全敗だった　６月に挙式・披露宴を予定 |date=6 April 2026|publisher=Nikkan Sports|language=ja|access-date=6 April 2026}}</ref>
+*10: After accusations of physical abuse at [[Isegahama stable (active)|Isegahama stable]] by stablemaster Isegahama (the former [[Terunofuji Haruo|Terunofuji]]), the [[Japan Sumo Association|JSA]] board of directors has announced that Terunofuji will be demoted two ranks in the hierarchy of {{translit|ja|[[toshiyori]]}}. He will face a 10% pay cut for three months- a lighter punishment than usual due to his remorse, his self-reporting, and the fact that wrestler [[Hakunofuji Tetsuya|Hakunofuji]], the victim of the violence, had also had "[[Sexual harassment|intolerable behavior]]" that warranted reprimands from his master. As a result of his behavior, Hakunofuji is also receiving a formal warning.<ref>{{cite web|url=https://hochi.news/articles/20260409-OHT1T51164.html?page=1&utm_abtest=B |title=２階級降格処分の伊勢ケ浜親方、協会が暴力行為の詳細を公表　酒席で女性に不適切行為の伯乃富士を素手で殴打…発表全文 |date=9 April 2026 |publisher=Sports Hochi |language=ja |access-date=11 April 2026}}</ref><ref>{{cite web|author=Daiki Iioka |url=https://www.nikkansports.com/battle/sumo/news/202604090001224.html?Page=1 |title=伊勢ケ浜親方の処分は２階級降格＆３カ月の報酬減額　部屋閉鎖などの厳罰は回避　弟子に暴力行為 |date=9 April 2026 |publisher=Nikkan Sports |language=ja |access-date=11 April 2026}}</ref>
+*27: The Japan Sumo Association publishes the {{tlit|ja|[[banzuke]]}} for the May 2026 tournament in Tokyo. The release of the {{translit|ja|makuuchi}} rankings also finalizes the list of wrestlers who will participate in the international tour taking place in Paris in June.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202604260001164.html |title=【夏場所新番付】31年ぶりパリ公演開催…幕内力士が６月13、14日に参加予定 |date=27 April 2026|publisher=Nikkan Sports |access-date=27 April 2026 |language=ja}}</ref><br>[[Kirishima Tetsuo|Kirishima]] had his second promotion to {{translit|ja|[[Makuuchi#Ōzeki|ōzeki]]}} following his championship victory at the March tournament. [[Atamifuji Sakutarō|Atamifuji]], who was just promoted to the {{translit|ja|[[san'yaku]]}} ranks for the March tournament, moves up another rank to become a {{translit|ja|[[sekiwake]]}}. [[Kotoshōhō Yoshinari|Kotoshōhō]] is promoted to {{translit|ja|[[sekiwake]]}}, whose promotion after 35 tournaments in {{translit|ja|[[makuuchi]]}} makes him the tenth-slowest wrestler to reach this rank. [[Fujinokawa Seigō|Fujinokawa]], one of the division’s youngest wrestlers, is promoted to the top of the {{translit|ja|[[maegashira]]}} ranks, just one rank away from making his {{translit|ja|san'yaku}} debut. {{interlanguage link|Wakanoshō Eidō|ja|3=若ノ勝栄道|lt=Wakanoshō}}, the former January {{translit|ja|[[jūryō]]}} champion, makes his top-division debut after another standout performance in March. In doing so, he becomes the fifth wrestler from [[Tochigi Prefecture]] to enter {{translit|ja|makuuchi}} since the end of [[World War II]] and the first wrestler from [[Minatogawa stable]] to earn this promotion since the stable was taken over by former [[Takakeishō Takanobu|Takakeishō]].<ref>{{cite web|last=Gunning|first=John|author-link=John Gunning (journalist)|title=Kirishima back at ōzeki in sumo's latest banzuke rankings |url=https://www.japantimes.co.jp/sports/2026/04/29/sumo/may-basho-2026-banzuke/ |publisher=[[The Japan Times]] |url-access=subscription|date=29 April 2026 |access-date=1 May 2026 |url-status=live}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202604270000985.html |title=霧島「やっと」２年ぶり大関昇進…小１長女の“ひらがな”に刺激　夏場所「みんな優勝狙ってる」 |date=27 April 2026|publisher=Nikkan Sports |access-date=27 April 2026|language=ja}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202604270000672.html |title=新関脇の琴勝峰スロー昇進に「やっとかという気持ち」師匠は大関琴桜と「２人で綱」期待 |date=27 April 2026|publisher=Nikkan Sports |access-date=27 April 2026 |language=ja}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202604260001089.html |title=【夏場所新番付】22歳の若ノ勝が新入幕、元大関貴景勝の湊川親方が部屋継承後初／平幕編 |date=27 April 2026|publisher=Nikkan Sports |access-date=27 April 2026 |language=ja}}</ref> [[Enhō Yūya|Enhō]], the popular wrestler and former {{translit|ja|makuuchi}} member, is also making his return to the [[sekitori|salaried ranks]], becoming the first former top-division wrestler in sumo history to return to the {{translit|ja|sekitori}} ranks after being demoted to {{translit|ja|[[jonokuchi]]}}.<ref>{{Cite web |title=関取復帰の炎鵬は西十両１４枚目　２３年夏場所以来、１８場所ぶり十両……夏場所番付発表 |url=https://hochi.news/articles/20260427-OHT1T51048.html?page=1&utm_abtest=D |date=27 April 2026 |access-date=27 April 2026 |website=Sports Hochi |language=ja}}</ref>
+
+The spring {{translit|ja|[[Glossary of sumo terms#jungyō|jungyō]]}} (regional tours) are held at the following locations in April:<ref name=jungyo2026/>
+*1: [[Takarazuka, Hyōgo]]
+*2: [[Yasu, Shiga]]
+*3: [[Mukō]]
+*4: [[Himi, Toyama]]
+*5: [[Nagano (city)|Nagano]]
+*7: [[Komatsu, Ishikawa]]
+*8: [[Anjō]]
+*9: [[Mishima, Shizuoka]]
+*10: [[Narita, Chiba]]
+*11: [[Fujisawa, Kanagawa]]
+*12: [[Takasaki]]
+*13: [[Yasukuni Shrine|Yasukuni Shrine, Tokyo]] (ceremonial tournament)
+*15: [[Kashima, Ibaraki]]
+*16: [[Yokohama]]
+*17: [[Kasama, Ibaraki]]
+*18: [[Tokorozawa, Saitama]]
+*19: [[Utsunomiya]]
+*20: [[Ishioka, Ibaraki]]
+*21: [[Adachi, Tokyo]]
+*22: [[Ōta, Tokyo]]
+*23: [[Fuchū, Tokyo]]
+*24: [[Saitama (city)|Saitama, Saitama]]
+*25: [[Funabashi]]
+*26: [[Iruma, Saitama]]
+
+=== May ===
+*11: On the first day of the tournament, [[Hōshōryū Tomokatsu|Hōshōryū]], the only {{translit|ja|[[yokozuna]]}} participating in the tournament, withdraws from the tournament after losing to {{translit|ja|[[komusubi]]}} [[Takayasu Akira|Takayasu]].<ref>{{cite web |url=https://english.kyodonews.net/articles/-/75685|title=Sumo: Hoshoryu withdraws from summer tournament after Day 1|date=11 May 2026|publisher=Kyodo News|access-date=28 May 2026}}</ref>
+*13: On the fourth day of the tournament, {{translit|ja|Komusubi}} Takayasu withdraws after sustaining an injury on the third day during his match against [[Hiradoumi Yūki|Hiradoumi]].<ref>{{cite web|url=https://hochi.news/articles/20260513-OHT1T51088.html?page=1 |title=高安が休場 ３日目の平戸海戦で土俵下に転落 |date=13 May 2026|work=Sports Hochi |accessdate=28 May 2026|language=ja}}</ref>
+*21: On the eleventh day of the tournament, {{translit|ja|[[Makuuchi#Ōzeki|Ōzeki]]}} [[Kotozakura Masakatsu II|Kotozakura]] withdraws after suffering a losing record. This withdrawal puts him in a {{translit|ja|[[Kadoban (sumo)|kadoban]]}} situation for the Nagoya tournament.<ref>{{cite web|url=https://hochi.news/articles/20260521-OHT1T51055.html?page=1 |title=大関・琴桜が休場…２横綱２大関が不在に　前日に夏場所負け越しが決まり、名古屋場所はカド番 |date=21 May 2026|work=Sports Hochi |accessdate=28 May 2026|language=ja}}</ref><br>On the same day, {{translit|ja|[[maegashira]]}} and former {{translit|ja|ōzeki}} [[Asanoyama Hiroki|Asanoyama]] withdraws from competition, citing a Lisfranc ligament injury in his left leg.<ref>{{cite web|url=https://hochi.news/articles/20260521-OHT1T51197.html?page=1 |title=休場の幕内・朝乃山の診断書公表　「左足リスフラン靱帯損傷　約４週間の治療期間を要する見込み」…再出場の可能性も |date=21 May 2026|work=Sports Hochi |accessdate=28 May 2026|language=ja}}</ref>
+*24: The May tournament concludes with a playoff match between [[Wakatakakage Atsushi|Wakatakakage]] and [[Kirishima Tetsuo|Kirishima]]. Both wrestlers entered the match with 12 wins and 3 losses each. This was their second meeting of the tournament, with Kirishima having emerged victorious in their previous bout on the eleventh day. Wakatakakage defeats the {{translit|ja|ōzeki}} by {{translit|ja|[[Kimarite#Oshidashi|oshidashi]]}} and wins the second [[List of sumo trophies|Emperor's Cup]] of his career. Although he had regained {{translit|ja|ōzeki}} status, Kirishima failes to win two consecutive titles, which would have allowed him to move toward the supreme rank of {{translit|ja|yokozuna}}.<ref>{{cite web |url=https://english.kyodonews.net/articles/-/76604|title=Sumo: Wakatakakage beats Kirishima in tiebreaker, claims 2nd Emperor's Cup|date=24 May 2026|publisher=Kyodo News|access-date=28 May 2026}}</ref><ref name=yomiurimay2026>{{cite web|url=https://japannews.yomiuri.co.jp/sports/sumo/20260524-329176/ |title=Wakatakakage Wins Playoff, Claims 2nd Title |date=24 May 2026|work=The Japan News |publisher=The Yomiuri Shimbun |accessdate=28 May 2026}}</ref> With this championship, Wakatakakage became only the eleventh wrestler ranked as komusubi to win a tournament since 1931. Given his performance, which was widely regarded as nearly flawless from a technical standpoint, many commentators expressed optimism about a possible promotion to the rank of ōzeki later in the year.<ref>{{cite web|last=Gunning|first=John|author-link=John Gunning (journalist)|title=Rare komusubi title win bodes well for Wakatakakage's future |url=https://www.japantimes.co.jp/sports/2026/05/27/sumo/komusubi-title-wakatakakage/ |publisher=[[The Japan Times]] |url-access=subscription|date=27 May 2026 |access-date=28 May 2026 |url-status=live}}</ref> The tournament's [[Sanshō (sumo)|special prizes]] are presented to Wakatakakage, who wins his seventh Technique prize, as well as to [[Hakunofuji Tetsuya|Hakunofuji]] and [[Yoshinofuji Naoya|Yoshinofuji]], who each win their second Fighting Spirit prize, both wrestlers finishing the tournament with a {{Win-loss record|w=11|l=4}} record.<ref name=yomiurimay2026/><br>This month's {{translit|ja|[[jūryō]]}} tournament is won by {{interlanguage link|Kazuma Torakaze|ja|3=一意虎風|lt=Kazuma}} ([[Kise stable]]), who claims his fourth championship overall and his first as a {{translit|ja|[[sekitori]]}}, boosting his chances of promotion to the {{translit|ja|[[makuuchi]]}} division for the July tournament.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202605240000747.html |title=一意が十両初優勝「うれしい」来場所新入幕も有力に「TVで見ていた…そこに立てるのは感無量」 |date=24 May 2026|work=Nikkan Sports |accessdate=28 May 2026|language=ja}}</ref><br>In a rare occurrence, the {{translit|ja|makushita}} division title was decided in a playoff involving seven different wrestlers, with Ikarigata —the younger brother of {{translit|ja|makuuchi}} wrestler [[Fujinokawa Seigō|Fujinokawa]]— emerging victorious.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202605240001048.html |title=碇潟が７人の決勝トーナメント制し幕下初優勝　天空海を変化で下し「絶対決まると思っていた」|date=24 May 2026|work=Nikkan Sports |accessdate=28 May 2026|language=ja}}</ref>
+*27: The [[Japan Sumo Association]] announces that only one wrestler, {{interlanguage link|Arashifuji Kanato|ja|3=嵐富士奏凪人|lt=Arashifuji}} ([[Isegahama stable]]), will be promoted to the {{translit|ja|jūryō}} division for the Nagoya tournament. His promotion, coming just two years after his professional debut, makes him the ninth {{translit|ja|sekitori}} in his stable.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202605270000624.html |title=新十両嵐富士の誕生は照ノ富士流「まずは体作り」伊勢ケ浜部屋９人目関取に個別メニューで稽古 |date=27 May 2026|work=Nikkan Sports |accessdate=28 May 2026|language=ja}}</ref><br>A series of retirements is announced, among them is that of Wakatakamoto ([[Arashio stable]]), the older brother of top-division wrestlers [[Wakamotoharu Minato|Wakamotoharu]] and [[Wakatakakage Atsushi|Wakatakakage]]. Although he failed to secure a promotion to the {{translit|ja|jūryō}} division—which would have made his family the second in the sport's history to have three brothers ranked as {{translit|ja|sekitori}}—Wakatakamoto will remain employed by the association as a {{translit|ja|[[Glossary of sumo terms#Wakaimonogashira|wakaimonogashira]]}}.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202605260001449.html |title=若隆元が引退　次男若元春、三男若隆景「大波三兄弟」井筒以来２組目の三兄弟関取ならず 若者頭に |date=27 May 2026|work=Nikkan Sports |accessdate=28 May 2026|language=ja}}</ref> Another wrestler to retire is the former {{translit|ja|jūryō}} wrestler {{ill|Yūma Takeru|lt=Yūma|ja|勇磨猛}} ([[Ōnomatsu stable]]).
+*28: The Japan Sumo Association announces the permanent closure of the [[Miyagino stable]], citing the fact that more than two years had passed since the Miyagino staff had been placed under the supervision of [[Isegahama stable]], that one year had passed since the departure of former {{translit|ja|yokozuna}} [[Hakuhō Shō|Hakuhō]], and that no request to reopen Miyagino stable had been submitted to the board as of that date. Consequently, the decision considers the members of the former Miyagino stable to be fully part of the Isegahama stable.<ref>{{cite web|url=https://hochi.news/articles/20260528-OHT1T51140.html?page=1 |title=旧宮城野部屋が消滅　日本相撲協会が理事会で預かりの解除を決定　力士ら全員が伊勢ケ浜部屋の所属へ |date=28 May 2026|work=Sports Hochi |accessdate=28 May 2026|language=ja}}</ref>
+*30: The [[Glossary of sumo terms#danpatsu-shiki|retirement ceremony]] for former {{Transliteration|ja|[[komusubi]]}} [[Hokutofuji Daiki|Hokutofuji]] is held at the [[Ryōgoku Kokugikan]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202605300001150.html|title=元北勝富士、満員の国技館で断髪式「グッと来た時もありました」松山千春、愛甲猛氏らがはさみ|language=ja|date=30 May 2026|publisher=Nikkan Sports|access-date=31 May 2026}}</ref>
+*31: The retirement ceremony for former {{Transliteration|ja|[[sekiwake]]}} [[Takarafuji Daisuke|Takarafuji]] is held at the Ryōgoku Kokugikan.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202605310001135.html |title=元関脇宝富士の桐山親方が泣いた　母からのはさみに涙が止まらずコンタクトレンズ紛失|language=ja|date=31 May 2026|publisher=Nikkan Sports|access-date=31 May 2026}}</ref><br>The Japan Sumo Association announces new arrangements for regional tours ({{translit|ja|jungyō}}) starting in 2027. The number of events will be capped at 70 per year, and they will last longer in each location. These decisions follow numerous absences from official tournaments due to injuries, which may be linked to the busy schedule that does not allow for proper preparation or rest.<ref>{{cite web|url=https://www.tokyo-sports.co.jp/articles/-/390140 |title=【大相撲】夏場所の休場続出は巡業の過密日程が原因？ 高田川巡業部長が明言「来年以降は減らしていく」|language=ja|date=31 May 2026|publisher=Tokyo Sports|access-date=31 May 2026}}</ref>
+
+===June===
+*6: The [[Glossary of sumo terms#danpatsu-shiki|retirement ceremony]] for former {{translit|ja|[[maegashira]]}} [[Tsurugishō Momotarō|Tsurugishō]] is being held in a hotel in [[Tokyo]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202606060001766.html |title=元幕内剣翔　涙の披露宴＆断髪式「急にきました」現役CA妻と両親で相談した新しい髪形は… |language=ja|date=6 June 2026 |publisher=Nikkan Sports |access-date=7 June 2026}}</ref>
+[[File:2026 Paris sumo tournament (20).jpg|thumb|right|[[Toshiyori|Executives]], [[Rikishi|wrestlers]] and [[Gyōji|referees]] greet the audience at the [[Accor Arena]] in [[Paris]] at the opening of the 2026 Paris Sumo Tournament.|alt=A crowd of figures dressed in black kimonos gathers around a clay ring in the center of an arena surrounded by bleachers]]
+*13: A two-day exhibition tournament sanctioned by the [[Japan Sumo Association]] begins at the [[Accor Arena]] in [[Paris]]. The tournament consists of two single-day competitions, with the winner of each day facing off on the final day to determine the overall champion. On the first day of competition, [[Kotozakura Masakatsu II|Kotozakura]] emerges victorious with a win over fellow-{{translit|ja|[[Makuuchi#Ōzeki|ōzeki]]}} [[Kirishima Tetsuo|Kirishima]].<ref>{{Cite web |url=https://english.kyodonews.net/articles/-/77858 |title=Sumo: Kotozakura beats Kirishima to win opening day of Paris exhibition |date=14 June 2026|publisher=Kyodo News|access-date=14 June 2026}}</ref> This is the first time in 31 years that the [[France|French]] capital has hosted a sumo tournament.<ref>{{cite web |author=Kuniyuki Kamimura |url=https://japannews.yomiuri.co.jp/sports/sumo/20260612-332293/ |title=Sumo Scene / Paris to Host 3rd Exhibition Event, 1st in Over 30 Years |date=12 June 2026 |work=The Japan News |publisher=[[Yomiuri Shimbun]] |access-date=14 June 2026 |language=ja}}</ref>
+*14: {{translit|ja|[[Makuuchi#Ōzeki|Ōzeki]]}} Kotozakura wins the Paris tournament by defeating {{translit|ja|[[yokozuna]]}} [[Hōshōryū Tomokatsu|Hōshōryū]], who lost by {{translit|ja|[[yorikiri]]}} (frontal force out).<ref>{{Cite web |url=https://english.kyodonews.net/articles/-/77888 |title=Sumo: Kotozakura beats Hoshoryu to win Paris exhibition tourney |date=15 June 2026|publisher=Kyodo News|access-date=15 June 2026}}</ref><ref>{{cite web|url=https://www.sponichi.co.jp/sports/news/2026/06/15/articles/20260615s00005000161000c.html |title=大相撲パリ公演が閉幕　総合優勝は琴桜　決定戦で豊昇龍を破る |date=15 June 2026|work=Sports Nippon |accessdate=15 June 2026|language=ja}}</ref>
+*29: The [[Japan Sumo Association]] unveils the {{translit|ja|[[banzuke]]}} for the July 2026 tournament. This tournament presents {{translit|ja|[[Makuuchi#Ōzeki|ōzeki]]}} [[Kirishima Tetsuo|Kirishima]] with his second opportunity to be promoted to the highest rank of {{translit|ja|[[yokozuna]]}} if he manages to win the title. The {{translit|ja|ōzeki}} rank is also weakened by [[Kotozakura Masakatsu II|Kotozakura]], who faces {{translit|ja|[[Kadoban (sumo)|kadoban]]}} status for the second time in his career after withdrawing from the May tournament due to a back injury.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202606280001257.html |title=【名古屋場所新番付】琴桜が自身２度目カド番 霧島は綱とりへ、両横綱は休場明け／横綱、大関編 |date=29 June 2026|work=Nikkan Sports |accessdate=29 June 2026|language=ja}}</ref> Former {{translit|ja|ōzeki}} [[Aonishiki Arata|Aonishiki]] is demoted to the rank of {{translit|ja|[[sekiwake]]}} after missing the entire last tournament due to injury. This tournament still presents him with a chance to immediately return to the second-highest rank by winning at least 10 bouts. [[Wakatakakage Atsushi|Wakatakakage]], the winner of the last tournament, is also competing as a {{translit|ja|sekiwake}} after spending the last tournament as a {{translit|ja|[[komusubi]]}}. This tournament represents an opportunity for him to build on his success in May and secure a promotion to {{translit|ja|ōzeki}} for the November tournament. [[Kotoshōhō Yoshinari|Kotoshōhō]] and [[Atamifuji Sakutarō|Atamifuji]] both retain their {{translit|ja|sekiwake}} ranks, which they have held for two and three tournaments, respectively.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202606280001258.html |title=【名古屋場所新番付】24年秋以来４関脇　若隆景大関足場固めへ、安青錦は大関から陥落／関脇編 |date=29 June 2026|work=Nikkan Sports |accessdate=29 June 2026|language=ja}}</ref> The {{translit|ja|komusubi}} rank is held by [[Ōhō Kōnosuke|Ōhō]], who is returning to this level of competition for the first time since January. The second spot is held by [[Yoshinofuji Naoya|Yoshinofuji]], who is making his debut at this rank and, in doing so, reaches the highest rank of his career so far.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202606280001260.html |title=【名古屋場所新番付】義ノ富士が東小結に昇進、王鵬は西小結で三役定着へ／新三役、三役復帰編 |date=29 June 2026|work=Nikkan Sports |accessdate=29 June 2026|language=ja}}</ref> Two wrestlers have been promoted to the {{translit|ja|[[makuuchi]]}} division for the first time: {{ill|Kazuma Torakaze|lt=Kazuma|ja|一意虎風}}, who won the most recent {{translit|ja|[[jūryō]]}} tournament, and {{ill|Daiseizan Daisuke|lt=Daiseizan|ja|大青山大介}}, the second [[China|Chinese]] wrestler—since [[Sōkokurai Eikichi|Sōkokurai]] in 2010—to reach the top division.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202606280001262.html |title=【名古屋場所新番付】十両優勝の一意と大青山が新入幕　尊富士、阿武剋は再入幕／平幕編 |date=29 June 2026|work=Nikkan Sports |accessdate=29 June 2026|language=ja}}</ref> Another notable ranking change is that of "Iron Man" [[Tamawashi Ichirō|Tamawashi]], who is relegated to the {{translit|ja|jūryō}} division. With this demotion, there are no longer any wrestlers in the top division who were born during the [[Shōwa era]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202606280001273.html |title=【名古屋場所新番付】昭和生まれの幕内力士不在に、玉鷲が十両に陥落し76年間の記録ストップ |date=29 June 2026|work=Nikkan Sports |accessdate=29 June 2026|language=ja}}</ref>
+
+===July===
+*6: It is announced that defending champion [[Wakatakakage Atsushi|Wakatakakage]] will sit out from the Nagoya tournament after suffering a thigh injury during a training session on July 1st.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202607060001463.html |title=先場所Ｖ若隆景が入院「大腿コンパートメント症候群」救急搬送、壊死おそれ緊急手術「容体安定」 |date=6 July 2026|work=Nikkan Sports |accessdate=6 July 2026|language=ja}}</ref>
+*14: [[Fujinokawa Seigō|Fujinokawa]] remains undefeated against both {{translit|ja|[[yokozuna]]}}, becoming only the fourth wrestler in sumo history to win four consecutive bouts against a {{translit|ja|yokozuna}}. This has not been accomplished since the January 1931 tournament, when [[Musashiyama Takeshi|Musashiyama]] won his fourth straight victory against {{translit|ja|yokozuna}} [[Miyagiyama Fukumatsu|Miyagiyama]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202607140001703.html |title=２日で懸賞101本606万円ゲット…横綱キラー藤ノ川「今日こそ焼き肉」戦後初４連続金星 |date=14 July 2026|work=Nikkan Sports|language=ja |access-date=15 July 2026}}</ref>
+*18: [[Wakanoshō Eidō|Wakanoshō]] withdraws from the tournament after suffering a contusion to his right femur during his match the previous day.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202607180000355.html |title=休場の若ノ勝は「右大腿骨骨挫傷」　湊川親方「捲土重来の一言。精神的に成長できる」 |language=ja|date=18 July 2026 |work=Nikkan Sports |access-date=18 July 2026}}</ref>
+*25: [[Hōshōryū Tomokatsu|Hōshōryū]] withdraws from the tournament. His medical report cited an injury to his right medial collateral ligament and his right hamstrings, requiring approximately six weeks of recovery.<ref>{{Cite web |title=Sumo: Yokozuna Hoshoryu pulls out, keeps Kirishima in title contention |url=https://english.kyodonews.net/articles/-/80694 |date=25 July 2026 |access-date=25 July 2026 |website=Kyodo News}}</ref><ref>{{Cite web |title=Yokozuna Hoshoryu Withdraws from Nagoya Tournament on Day 14 |url=https://japannews.yomiuri.co.jp/sports/sumo/20260725-339957/ |date=25 July 2026 |access-date=25 July 2026 |website=The Japan News |publisher=Yomiuri Shimbun}}</ref>
+*25: The Sumo Association announces the retirement of former {{translit|ja|[[maegashira]]}} [[Daishōmaru Shōgo|Daishōmaru]].<ref>{{cite web | title=元幕内大翔丸が引退 35歳 千秋楽に師匠同席で引退会見　通算405勝440敗１休 |url=https://www.nikkansports.com/battle/sumo/news/202607250000590.html| publisher=Nikkan Sports| date=25 July 2026 | accessdate=26 July 2026}}</ref>
+*26: The July tournament concludes with the victory of {{translit|ja|[[sekiwake]]}} [[Aonishiki Arata|Aonishiki]] following a three-way playoff ({{translit|ja|tomoesen}})—a first in nine tournaments. On the final day, three wrestlers ([[Atamifuji Sakutarō|Atamifuji]], [[Kirishima Tetsuo|Kirishima]] and Aonishiki) were still in contention for the championship, with Aonishiki leading the title race by a single victory. In the match between Aonishiki and Atamifuji, Atamifuji emerged victorious, bringing both wrestlers to a {{win loss record|w=12|l=3}} record and ensuring a playoff. They are joined in the penultimate match by Kirishima, who also secured a {{win loss record|w=12|l=3}} record after defeating {{translit|ja|[[Makuuchi#Ōzeki|ōzeki]]}} [[Kotozakura Masakatsu II|Kotozakura]]. After a coin toss, Atamifuji wins his first match against Kirishima before losing to Aonishiki, who in turn wins his second match against Kirishima, claiming the championship with a {{translit|ja|[[Kimarite#yorikiri|yorikiri]]}} victory. Aonishiki had already secured his return to the rank of {{translit|ja|ōzeki}} on the eleventh day by recording his tenth victory and, riding that momentum, went on to win his third [[List of sumo trophies|Emperor's Cup]]. This performance makes him the first wrestler in the history of the sport to be demoted from the {{translit|ja|ōzeki}} rank, regain that rank in a single tournament, and win the championship in the process.<ref>{{cite web |url=https://english.kyodonews.net/articles/-/80731 |title=Sumo: Ukrainian star Aonishiki wins 3-way playoff to clinch Nagoya title|date=26 July 2026|publisher=Kyodo News|access-date=26 July 2026}}</ref><ref>{{cite web|url=https://www.sponichi.co.jp/sports/news/2026/07/26/articles/20260726s00005000218000c.html |title=安青錦　史上初！大関返り咲き場所で優勝　左足限界も…優勝決定巴戦制して3場所ぶり3度目V|date=26 July 2026|publisher=Sports Nippon|language=ja|access-date=26 July 2026}}</ref> The [[Japan Sumo Association]] honors {{translit|ja|[[makuuchi]]}} wrestlers by awarding the [[Sanshō (sumo)|special prizes]]. The first wrestler to receive an award is [[Fujinokawa Seigō|Fujinokawa]], who is honored with the Outstanding Performance prize for defeating both {{translit|ja|[[yokozuna]]}}. The Fighting Spirit prize is awarded to wrestlers who were among the top performers: [[Kotoeihō Hiroki|Kotoeihō]] and Atamifuji, as well as [[Takayasu Akira|Takayasu]], who collects his seventh such award. Aonishiki, for his part, is awarded the Technique prize for the fourth time in his career.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202607260000454.html |title=熱海富士が敢闘賞、安青錦が技能賞　千秋楽勝てばの条件付きで殊勲賞に藤ノ川、敢闘賞に高安ら |date=26 July 2026|publisher=Nikkan Sports |access-date=26 July 2026|language=ja}}</ref><br>The {{translit|ja|[[jūryō]]}} division championship is won by [[Shōnannoumi Momotarō|Shōnannoumi]] ({{Win loss record|w=11|l=4}}) after a playoff involving four wrestlers (along with {{ill|Asasuiryū Ryōma|lt=Asasuiryū|ja|朝翠龍涼馬}}, {{ill|Toshinofuji Taisei|lt=Toshinofuji|ja|寿之富士大聖}} and {{ill|Arashifuji Kanato|lt=Arashifuji|ja|嵐富士奏凪人}}).<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202607260000927.html |title=湘南乃海が十両優勝　本割は敗戦も…４人による優勝決定戦で連勝し初の各段優勝 |date=26 July 2026|publisher=Nikkan Sports |access-date=26 July 2026|language=ja}}</ref>
+*29: The [[Japan Sumo Association]] announces the promotion of three wrestlers to the {{translit|ja|[[jūryō]]}} division. The newcomers to the division are {{ill|Tanji Jun|lt=Tanji|ja|丹治純}} of [[Arashio stable]], who is making his {{translit|ja|[[sekitori]]}} debut after debuting at the March 2022 tournament, and {{ill|Tokifudō Kō|lt=Tokifudō|ja|時不動虹}} of [[Tokitsukaze stable]], whose promotion marks the first time a native of [[Shizuoka Prefecture]] has reached the division since [[Atamifuji Sakutarō|Atamifuji]]'s promotion in March 2022. The third wrestler promoted is {{ill|Nabatame Tatsuya|lt=Nabatame|ja|生田目竜也}} of [[Futagoyama stable (2018)|Futagoyama stable]], who is returning to the division for the first time since July 2025 after an injury-induced demotion in the {{translit|ja|[[sandanme]]}} division.<ref>{{cite web|url=https://www.sponichi.co.jp/sports/news/2026/07/29/articles/20260729s00005000076000c.html |title=【秋場所番付編制会議】20歳の丹治と22歳の時不動が新十両 生田目が十両に復帰 |date=29 July 2026|publisher=Sports Nippon |access-date=29 July 2026|language=ja}}</ref><br>The retirement from the ring of five sumo wrestlers is confirmed, including former {{translit|ja|maegashira}} Daishōmaru.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202607290000163.html |title=大翔丸、立王尚、朝勝令、朝平井、錦桜の５人が... |date=29 July 2026|publisher=Nikkan Sports |access-date=29 July 2026|language=ja}}</ref>
+*30: The [[Japan Sumo Association]] announces an increase in ticket prices for most tournaments starting in January 2027, with the exception of the Nagoya (July) and Kyūshū (November) tournaments. The pricing system currently sets different prices for weekdays, holidays, and weekends, and now prices for the last two days of each tournament will also be adjusted separately and increased.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202607300000785.html |title=本場所の入場料値上げへ…最高は３万円に　14日目＆千秋楽はさらに増額、名古屋九州は変更なし |date=30 July 2026|publisher=Nikkan Sports |access-date=30 July 2026|language=ja}}</ref><br>Another reform, effective January 2027, will also adjust the [[Rikishi#Salary|salaries and bonuses]] of sumo wrestlers, for the first time in eight years. {{translit|ja|[[Sekitori]]}}'s monthly salaries will increase by 10%, while wrestlers in the lower divisions will see a 6% to 9% increase in tournament allowances according to their ranks. Tour participation allowances will also be raised by 20% to 50%, depending on ranking. Bonuses for division champions will also be increased, as will those for wrestlers who receive the three [[Sanshō (sumo)|special prizes]].<ref>{{cite web|url=https://hochi.news/articles/20260730-OHT1T51238.html?page=1 |title=幕内優勝賞金、１０００万円増の２０００万円に 日本相撲協会が３３年ぶりに改定 |date=30 July 2026|publisher=Sports Hochi |access-date=30 July 2026|language=ja}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202607300000730.html |title=横綱月給30万円アップ、関取給与を８年ぶり改定へ…来年初場所から 大関以下はいくら？／一覧 |date=30 July 2026|publisher=Nikkan Sports |access-date=30 July 2026|language=ja}}</ref>
+
+===August===
+*7: The [[Japan Sumo Association]] announces the retirement of Izutsu (former {{translit|ja|[[maegashira]]}} [[Akiseyama Mitsuhiko|Akiseyama]]) as a sumo elder. He had served as a coach at [[Kise stable (2003)|Kise stable]] upon concluding his competitive sumo career in 2023.<ref>{{cite web |url=https://www.nikkansports.com/battle/sumo/news/202608070001129.html |title=元幕内明瀬山の井筒親方が日本相撲協会を退職 23年秋場所で引退後、木瀬部屋付きで指導|date=7 August 2026|publisher=Nikkan Sports|access-date=7 August 2026|language=ja}}</ref>
+*31:The [[Japan Sumo Association]] releases the {{translit|ja|[[banzuke]]}} for the September tournament. {{translit|ja|[[Makuuchi#Ōzeki|Ōzeki]]}} [[Kirishima Tetsuo|Kirishima]] is in position to claim the highest rank in the hierarchy for the second consecutive time after losing in the July tournament's playoff. Also ranked as an {{translit|ja|ōzeki}}, [[Aonishiki Arata|Aonishiki]] returns to that rank after recording the required minimum of ten wins and winning the last tournament, becoming the fourteenth wrestler of the [[Shōwa era]] to be promoted back to the second-highest rank. A strong performance in September would allow him to challenge for the supreme title of {{translit|ja|yokozuna}} later that year at the November tournament.<ref>{{cite web |url=https://www.nikkansports.com/battle/sumo/news/202608300001360.html |title=【秋場所新番付】霧島が２場所連続の綱とり、名古屋Ｖ安青錦が大関に復帰／横綱大関編|date=31 August 2026|publisher=Nikkan Sports|access-date=31 August 2026|language=ja}}</ref> Further down the rankings, [[Fujinokawa Seigō|Fujinokawa]] makes his debut as {{translit|ja|[[sekiwake]]}}, becoming the first wrestler from [[Kyoto Prefecture]] to reach this rank in nearly 200 years, a first since [[Hiodoshi Rikiya|Hiodoshi]] in 1828. Also newly promoted to {{translit|ja|[[sanyaku]]}} is [[Hakunofuji Tetsuya|Hakunofuji]], who makes his debut as {{translit|ja|[[komusubi]]}}. He becomes the second wrestler from [[Tottori Prefecture]], after [[Kotozakura Masakatsu I|Kotozakura]], to reach this rank and the first since 1964.<ref>{{cite web |url=https://www.nikkansports.com/battle/sumo/news/202608300001365.html |title=【秋場所新番付】21歳藤ノ川が関脇に昇進、京都出身は約200年ぶり 伯乃富士は小結／三役編|date=31 August 2026|publisher=Nikkan Sports|access-date=31 August 2026|language=ja}}</ref> The brothers [[Kotoshōhō Yoshinari|Kotoshōhō]] and [[Kotoeihō Hiroki|Kotoeihō]] are both listed at the highest rank in the {{translit|ja|[[maegashira]]}} ranks, with the latter having made the biggest jump in position (six spots) in this ranking. Meanwhile, the wrestler who dropped the most places was [[Wakatakakage Atsushi|Wakatakakage]], who had to withdraw from the last tournament, and was demoted from {{translit|ja|sekiwake}} to {{translit|ja|maegashira}} 12 east. The other wrestler who has dropped the most in the rankings is [[Ōhō Kōnosuke|Ōhō]], who has been demoted from the rank of {{translit|ja|komusubi}} to {{translit|ja|maegashira}} 10 east.<ref>{{cite web |url=https://www.nikkansports.com/battle/sumo/news/202608300001382.html |title=【秋場所新番付】琴勝峰と琴栄峰が兄弟で前頭筆頭　朝乃山と一山本は前頭６枚目／平幕編 |date=31 August 2026|publisher=Nikkan Sports|access-date=31 August 2026|language=ja}}</ref> Two new wrestlers are making their debuts in the top division. [[Asasuiryū Ryōma|Asasuiryū]] is joining the division after a strong performance in July, despite failing to win the championship. With his promotion, he and his brother [[Asakōryū Takuma|Asakōryū]] become the fourteenth pair of brothers to be ranked simultaneously in {{translit|ja|makuuchi}}. The other newcomer is [[Toshinofuji Taisei|Toshinofuji]], who becomes the sixth wrestler from [[Isegahama stable]] to compete in the top division. [[Tokihayate Hideki|Tokihayate]] and [[Shōnannoumi Momotarō|Shōnannoumi]] are also making their returns to the division.<ref>{{cite web |url=https://www.nikkansports.com/battle/sumo/news/202608300001397.html |title=【秋場所新番付】新入幕に朝翠龍と寿之富士 朝翠龍は史上14組目の兄弟幕内／新入幕、再入幕編 |date=31 August 2026|publisher=Nikkan Sports|access-date=31 August 2026|language=ja}}</ref>
+
+The summer {{translit|ja|[[Glossary of sumo terms#jungyō|jungyō]]}} (regional tours) are held at the following locations in August:<ref name=jungyo2026/>
+*2: [[Gifu]]
+*3: [[Yamagata (city)|Yamagata]]
+*4: [[Kōfu]]
+*5: [[Kōriyama]]
+*6: [[Kitakata, Fukushima|Kitakata]]
+*7: [[Sakata, Yamagata|Sakata]]
+*8: [[Shinjō, Yamagata|Shinjō]]
+*9: [[Shiroishi, Miyagi|Shiroishi]]
+*10-11: [[Sendai]]
+*12: [[Ōshū, Iwate|Ōshū]]
+*13: [[Sukagawa]]
+*14: [[Yokote]]
+*15: [[Akita (city)|Akita]]
+*16: [[Hirosaki]]
+*18: [[Aomori]]
+*19: [[Misawa, Aomori|Misawa]]
+*20: [[Kesennuma]]
+*21: [[Ōsaki]]
+*22: [[Fukushima (city)|Fukushima]]
+*23: [[Ōtawara]]
+*24: [[Kumagaya]]
+*25: [[Nagareyama]]
+*26: [[Kawasaki, Kanagawa|Kawasaki]]
+*27: [[Mito, Ibaraki|Mito]]
+*28: [[Tsukubamirai]]
+*29: [[Sōka]]
+*30: [[Tachikawa]]
+
+===September===
+*11: [[Hōshōryū Tomokatsu|Hōshōryū]] officially announces his decision not to participate in the September tournament due to his recovery period following knee surgery in July. The {{translit|ja|[[yokozuna]]}} will miss part of a tournament for the third consecutive time, missing the first day for the first time since 2018.<ref>{{cite web |url=https://english.kyodonews.net/articles/-/84702 |title=Injured yokozuna Hoshoryu withdraws from Autumn meet |date=11 September 2026|publisher=Kyodo News |access-date=13 September 2026}}</ref>
+*19: Faced with growing difficulties in managing sold-out tournaments, the [[Japan Sumo Association]] announces a reform of its ticket reservation system to address the recurring dissatisfaction of fans who have been unable to secure tickets. In addition to penalties against [[Ticket resale|ticket scalpers]] (including banning their accounts on ticketing sites and prohibiting entry if the ticket is merely a screenshot), the JSA announces that, starting in January 2027, association staff will have less leeway to reserve seats near the [[dohyō|ring]] for their relatives. Reservation requests will no longer be processed on an individual basis but will be managed within the {{translit|ja|[[Heya (sumo)|heya]]}} to reduce their number. Reservations will become impossible once the allocated quota is reached. A cap is also being implemented, limiting the number of seats a {{translit|ja|heya}} can reserve per tournament day to one {{glossary link|glossary=Glossary of sumo terms|term=masuseki|text=box}} and 15 seats.<ref>{{cite web |first=Ichiro |last=Sasaki |url=https://www.nikkansports.com/battle/column/sumo/news/202609180002110.html |title=大相撲チケットの転売対策あれこれ 来年初場所からは協会員への事前申し込みルールも変更 |date=19 September 2026|publisher=Nikkan Sports |language=ja |access-date=19 September 2026}}</ref>
+*20: The Japan Sumo Association recordes 333 consecutive days of sold-out tournaments, reaching the halfway point of the record of 666 sold-out days set during the [[Wakanohana Masaru|Waka]][[Takanohana Kōji|Taka]] era, from the 11th day of the [[1989 in sumo#November|November 1989]] tournament to the first day of the [[1997 in sumo#May|May 1997]] tournament. The current streak has been ongoing since the sixth day of the [[2023 in sumo#January 2|January 2023]] tournament.<ref>{{cite web |first=Ichiro |last=Sasaki |url=https://www.nikkansports.com/battle/sumo/news/202609200000712.html |title=秋場所８日目で333日連続満員御礼 最長記録の666日連続まであと半分、４年後に到達なるか |date=20 September 2026|publisher=Nikkan Sports |language=ja |access-date=20 September 2026}}</ref>
+*24: [[Kotoshōhō Yoshinari|Kotoshōhō]] withdraws on Day 12 of the 2026 September tournament after suffering a concussion during his eleventh match against [[Churanoumi Yoshihisa|Churanoumi]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202609240000341.html |title=休場の琴勝峰は脳しんとうで入院、再出場せず　佐渡ケ嶽親方「取組の記憶飛んでる」24日にも退院 |date=24 September 2026|publisher=Nikkan Sports |access-date=24 September 2026 |language=ja}}</ref>
+*25: [[Takanoshō Nobuaki|Takanoshō]] withdraws on Day 13 of the September 2026 tournament, citing a ligament injury to his left ankle sustained during his twelfth match against [[Kotoeihō Hiroki|Kotoeihō]] and requiring one month of treatment.<ref>{{cite web |url=https://www.nikkansports.com/m/battle/sumo/news/202609250000299_m.html?mode=all |title=隆の勝が秋場所13日目から休場　左足首を痛め、再出場はなし|date=25 September 2026|publisher=Nikkan Sports|access-date=25 September 2026|language=ja}}</ref><br>The Sumo Association announces the retirement of former {{translit|ja|[[maegashira]]}} [[Yago Takanori|Yago]].<ref>{{cite web |url=https://www.nikkansports.com/m/battle/sumo/news/202609250000736_m.html?mode=all |title=元幕内の矢後が引退、ひざのケガに泣き「潮時だと思いました」14日目に引退会見|date=25 September 2026|publisher=Nikkan Sports|access-date=25 September 2026|language=ja}}</ref>
+*27: [[Ōnosato Daiki|Ōnosato]] defeats [[Aonishiki Arata|Aonishiki]], with both wrestlers tied with a record of {{win loss record|w=11|l=3}} on the final day of the tournament. The tournament's sole {{translit|ja|[[yokozuna]]}} claims his first [[Yūshō|championship]] of the year and his first since the September 2025 tournament. Ōnosato then appeares emotional for the traditional post-tournament interview, in which he praises his performance after a full year of battling injuries.<ref name=yomiurisept>{{cite web |url=https://japannews.yomiuri.co.jp/sports/sumo/20260927-350878/ |title=Yokozuna Onosato Claims 6th Career Victory in Autumn Grand Sumo Tournament (UPDATE1) |date=27 September 2026 |website=The Japan News |publisher=Yomiuri Shimbun |access-date=27 September 2026}}</ref> Aonishiki, for his part, failes to secure a second consecutive championship victory, which would have propelled him into his second quest for the supreme title of {{translit|ja|yokozuna}}.<ref name=septembereset>{{cite web |url=https://hochi.news/articles/20260927-OHT1T51294.html?page=1 |title=大関・安青錦は九州場所で綱取りにならず　１１勝で優勝次点 ８勝の熱海富士は大関昇進出直しへ…浅香山審判部長が見解を示す |date=27 September 2026|publisher=Sports Hochi|access-date=27 September 2026|language=ja}}</ref> [[Kirishima Tetsuo|Kirishima]], who battled for his own bid, fails to claim the supreme rank and finishes the tournament with a barely achieved positive record.<ref>{{cite web |url=https://www.sponichi.co.jp/sports/news/2026/09/27/articles/20260927s00005000267000c.html |title=大関・霧島　綱獲り場所は千秋楽で何とか勝ち越し 大関・琴桜を破る |date=27 September 2026|publisher=Sports Nippon|access-date=27 September 2026|language=ja}}</ref> For his part, {{translit|ja|[[sekiwake]]}} [[Atamifuji Sakutarō|Atamifuji]], who had been in contention for the {{translit|ja|[[Makuuchi#Ōzeki|ōzeki]]}} rank, also finishes with a barely achived {{translit|ja|[[kachi-koshi]]}} score and will have to start his run from scratch.<ref name=septembereset/> Two wrestlers receive [[Sanshō (sumo)|special prizes]] for Fighting Spirit awarded during this tournament. {{translit|ja|Sekiwake}} [[Fujinokawa Seigō|Fujinokawa]] ({{win loss record|w=11|l=4}}) finishes the tournament on a roll toward the {{translit|ja|ōzeki}} title, while {{translit|ja|[[maegashira]]}} [[Churanoumi Yoshihisa|Churanoumi]] ({{win loss record|w=10|l=5}}) solidifies his case for a promotion to the {{translit|ja|[[sanyaku]]}} ranks for the November tournament.<ref name=yomiurisept/><br>In the {{translit|ja|[[jūryō]]}} division, [[Kitanowaka Daisuke|Kitanowaka]] claims the championship after a three-way playoff, first defeating [[Kagayaki Taishi|Kagayaki]] and then [[Kayō Yasutoki|Kayō]] to win the championship.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202609270000981.html|title=北の若が十両Ｖ　本割＆ともえ戦の１日３勝で初の各段優勝|language=ja|date=27 September 2026|work=Nikkan Sports|access-date=27 September 2026}}</ref>
+*28 : The Japan Sumo Association announces that it will hold an exhibition tournament in [[Bangkok]], likely scheduled for June 2027. The tour marks the association's third consecutive overseas appearance, following events in [[London]] in [[2025 in sumo#October_2|2025]] and [[Paris]] in 2026. The year 2027 will mark the 140th anniversary of [[Japan–Thailand relations|diplomatic relations between Japan and Thailand]], and the tour will be the association's first on the Asian continent in 14 years, following its performance in [[Jakarta]] in [[2013 in sumo|2013]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202609270001874.html |title=来年６月に大相撲バンコク公演開催へ 来月10月には現地でPRイベント実施予定 |date=28 September 2026|publisher=Nikkan Sports |access-date=28 September 2026 |language=ja}}</ref>
+*30 : The Japan Sumo Association announces the promotion of two wrestlers to the {{translit|ja|[[jūryō]]}} division. The first is {{ill|Asahifuji Hideki|lt=Asahifuji|ja|旭富士英毅}} ([[Isegahama stable]]). The Mongolian wrestler joins the ranks of the {{translit|ja|[[sekitori]]}} in just six tournaments since his debut, matching the promotion records set by [[Itai Keisuke|Itai]], [[Tosayutaka Yūya|Tosayutaka]], [[Jōkōryū Takayuki|Jōkōryū]] and [[Enhō Yūya|Enhō]]. A star recruit for his {{translit|ja|[[Heya (sumo)|heya]]}}, Asahifuji is nicknamed the "most powerful recruit in history" after winning every division championship along the way—an achievement that notably earned him the {{translit|ja|[[shikona]]}} (ring name) of former {{translit|ja|[[yokozuna]]}} [[Asahifuji Seiya]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202609290001347.html |title=旭富士が最速タイの所要6場所で新十両 63代横綱からしこ名を継承した24歳が関取に|language=ja|date=30 September 2026|work=Nikkan Sports|access-date=30 September 2026}}</ref> The second wrestler is {{ill|Ryūhō Kazuma|lt=Ryūhō|ja|竜鳳和真}} ([[Otowayama stable]]). The former junior high shcool champion and stablemate of [[Kirishima Tetsuo|Kirishima]] becomes the first {{translit|ja|sekitori}} trained by former {{translit|ja|yokozuna}} [[Kakuryū Rikisaburō|Kakuryū]]  in his stable since its founding.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202609290001390.html |title=元中学横綱の19歳竜鳳の新十両昇進が決定 音羽山部屋で大関霧島に続く２人目の関取が誕生 |language=ja|date=30 September 2026|work=Nikkan Sports|access-date=30 September 2026}}</ref><br>The Sumo Association also announces the retirement of nine wrestlers, including Yamanobe ([[Dewanoumi stable]]), the great-grandson of former {{translit|ja|yokozuna}} [[Tsunenohana Kan'ichi|Tsunenohana]], and Dewanojo (Dewanoumi stable), the [[List of the heaviest sumo wrestlers|heaviest active wrestler]] in the sport.<ref>{{cite web|url=https://hochi.news/articles/20260930-OHT1T51056.html?page=1 |title=朝阪神と３１代横綱・常ノ花の玄孫ら９人が引退…日本相撲協会が発表 |language=ja|date=30 September 2026|work=Sports Hochi|access-date=30 September 2026}}</ref>
+
+===October===
+*1: The [[Japan Sumo Association]] announces a donation of 10 million [[Japanese yen|yen]] to support reconstruction efforts in [[Kumamoto Prefecture]] following the [[2026 Kumamoto earthquake]]. ¥10 million is also being donated to [[Chiba Prefecture]] to support reconstruction efforts following the [[2026 Chiba flood]]. ¥671,181 of the ¥20 million was raised from the public during the September tournament.<ref>{{cite web|url=https://hochi.news/articles/20261001-OHT1T51173.html?page=1 |title=日本相撲協会が「令和８年熊本地震」「令和８年８月千葉豪雨」の被災地に義援金各１０００万円を寄付 |language=ja|date=1 October 2026|work=Sports Hochi|access-date=1 October 2026}}</ref><br>The Sumo Association also announces an update to its competition rules. The change in question concerns Rule 9 of the competition rules, which stipulates that a wrestler loses the match if his hair touches the ground, except in cases where the wrestler whose hair touches the ground is in the process of throwing his opponent, regardless of whether the hair touches the ground before the opponent does. Under the new rules, any wrestler whose hair touches the ground first will be declared the loser, regardless of whether he is executing a technique on his opponent.<ref>{{cite web|url=https://hochi.news/articles/20261001-OHT1T51203.html?page=1 |title=相撲規則改訂「相手を倒しながら瞬時早く髪がついたときは負けにならない」削除 １９８０年秋の貴ノ花―高見山などが例 |language=ja|date=1 October 2026|work=Sports Hochi|access-date=1 October 2026}}</ref>
+*3: The [[Glossary of sumo terms#danpatsu-shiki|retirement ceremony]] for former {{translit|ja|[[maegashira]]}} [[Hidenoumi Takuya|Hidenoumi]] is held at the [[Ryōgoku Kokugikan]].<ref>{{cite web|url=https://www.daily.co.jp/general/2026/10/03/0020888381.shtml |title=大相撲の元幕内・英乃海が断髪式で弟の翔猿と最後の一番「手を抜いてくれた。現役バリバリは強い」白星で飾る |date=3 October 2026|work=[[Daily Sports]] |accessdate=3 October 2026|language=ja}}</ref>
+*4: The retirement ceremony for former {{translit|ja|maegashira}} [[Daishōhō Kiyohiro|Daishōhō]] is held at the Ryōgoku Kokugikan.<ref>{{cite web|url=https://www.sponichi.co.jp/sports/news/2026/10/04/articles/20261004s00005000330000c.html |title=【大相撲】元大翔鵬断髪式　将来の夢は「追手風部屋のタニマチになりたい」 |date=4 October 2026|work=Sports Nippon |accessdate=4 October 2026|language=ja}}</ref>
+*6: [[Wakamotoharu Minato|Wakamotoharu]] wins the All Japan {{translit|ja|Rikishi}} Championship, a [[Meiji Shrine]] sponsored charity tournament, after defeating [[Ura Kazuki|Ura]]. He wins the tournament for the first time and just one day after his birthday.<ref>{{cite web|url=https://www.sponichi.co.jp/sports/news/2026/10/06/articles/20261006s00005000026000c.html |title=【大相撲】全日本力士選手権　若元春　33歳バースデーV「いい誕生日にできた」 |language=ja|date=6 October 2026|work=Sports Nippon|access-date=7 October 2026}}</ref>
+
+The autumn {{translit|ja|[[Glossary of sumo terms#jungyō|jungyō]]}} (regional tours) are held at the following locations in October:<ref name=jungyo2026/>
+*6: [[Tsukuba]]
+*7: [[Ebina, Kanagawa|Ebina]]
+*8: [[Sayama]]
+*9: [[Chichibu, Saitama|Chichibu]]
+*10: [[Matsumoto, Nagano|Matsumoto]]
+*11: [[Imizu]]
+*12: [[Kanazawa]]
+*13: [[Kahoku, Ishikawa|Kahoku]]
+*14: [[Takayama, Gifu|Takayama]]
+*15: [[Nagahama, Shiga|Nagahama]]
+*16: [[Kyoto]]
+*17: [[Osaka]]
+*18: [[Himeji]]
+*20: [[Akashi, Hyōgo|Akashi]]
+*21: [[Okayama]]
+*22: [[Wake, Okayama|Wake]]
+*23: [[Kasaoka]]
+*24: [[Hiroshima]]
+*25: [[Ube, Yamaguchi|Ube]]
+
+==Deaths==
+*29 January: Former {{translit|ja|[[maegashira]]}} [[Sentoryū Henri|Sentoryū]], aged 56, of lung disease.<ref>{{cite web|url=https://www.chunichi.co.jp/article/1201479|title=元幕内・戦闘竜が死去、56歳、03年に引退し格闘家へ転身、元大関魁皇の浅香山親方は29日にお見舞いも体調急変し会えず|date=30 January 2026|publisher=Chunichi Shimbun|access-date=30 January 2026|language=ja}}</ref>
+*8 February: Former {{translit|ja|[[komusubi]]}} [[Takanofuji Tadao|Takanofuji]], aged 62, of unknown cause.<ref>{{cite web|url=https://www.tokyo-sports.co.jp/articles/-/376866|title=【新日本】安田忠夫さんの追悼１０カウントゴングを実施　入場曲の「燃えよ荒鷲」が鳴り響く|date=11 February 2026|publisher=Tokyo Sports|access-date=13 February 2026|language=ja}}</ref>
+*15 March: Former {{translit|ja|[[Makuuchi#Ōzeki|ōzeki]]}} [[Wakashimazu Mutsuo|Wakashimazu]], aged 69, of pneumonia.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603150002548.html |title=若嶋津さん死去、元小結松鳳山の松谷裕也さん「まったく実感が…稽古場は厳しい親方でした」|date=15 March 2026|publisher=Nikkan Sports|access-date=15 March 2026|language=ja}}</ref><ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202603240000154.html |title=元大関若嶋津さん告別式、千葉・市川市内で営まれる|date=24 March 2026|publisher=Nikkan Sports|access-date=24 March 2026|language=ja}}</ref>
+*3 April: Former {{translit|ja|[[jūryō]]}} {{interlanguage link|Mutsuhokkai Katsuaki|ja|3=陸奥北海勝昭|lt=Mutsuhokkai}}, aged 61, of a heart condition.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202604030000349.html |title=相撲協会の世話人、陸奥北海さんが２日に死去　北海道出身61歳 |date=3 April 2026|publisher=Nikkan Sports|access-date=3 April 2026|language=ja}}</ref>
+*31 May: Former {{translit|ja|[[sekiwake]]}} [[Hasegawa Katsutoshi|Hasegawa]], aged 81, due to [[pancreatic cancer]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202606080000437.html |title=元関脇長谷川の長谷川勝敏さん、81歳で５月31日に死去　膵臓がんを患っていた |language=ja|date=8 June 2026 |publisher=Nikkan Sports |access-date=8 June 2026}}</ref>
+*26 July: Former {{translit|ja|sekiwake}} [[Kitaseumi Hiromitsu|Kitaseumi]], aged 78, from natural causes.<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202607280001309.html |title=元関脇北瀬海の土谷孝さんが78歳で死去　引退後は君ケ浜親方として後進を指導 |language=ja|date=28 July 2026 |publisher=Nikkan Sports |access-date=28 July 2026}}</ref>
+*10 September: Former {{translit|ja|komusubi}} [[Futagodake Takeshi|Futagodake]], aged 82, of [[hepatocellular carcinoma]].<ref>{{cite web|url=https://www.nikkansports.com/battle/sumo/news/202609130000640.html |title=元小結二子岳の山中武さんが肝細胞がんで死去、82歳　青森県出身 |language=ja|date=13 September 2026 |publisher=Nikkan Sports |access-date=13 September 2026}}</ref>
+
+==See also==
+*[[Glossary of sumo terms]]
+*[[List of active sumo wrestlers]]
+*[[List of years in sumo]]
+
+==References==
+{{Reflist}}
+
+{{Years in sumo}}
+
+[[Category:2026 in Japanese sport]]
+[[Category:2026 in martial arts]]
+[[Category:Sumo by year]]
+[[Category:2026 in sports|Sumo]]
+[[Category:2026 in martial arts|Sumo]]
+[[Category:2026 sport-related lists]]

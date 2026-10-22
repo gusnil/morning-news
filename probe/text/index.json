@@ -1,0 +1,222 @@
+[
+ {
+  "url": "https://www.srf.ch/news/bnf/rss/1890",
+  "status": 200,
+  "ctype": "text/xml; charset=UTF-8",
+  "file": "www_srf_ch_news_bnf_rss_1890.txt",
+  "feed_title": "Schweiz \u2013 News aus dem Inland \u2013 SRF",
+  "feed_link": "https://www.srf.ch/news/schweiz"
+ },
+ {
+  "url": "https://www.srf.ch/news/bnf/rss/1646",
+  "status": 200,
+  "ctype": "text/xml; charset=UTF-8",
+  "file": "www_srf_ch_news_bnf_rss_1646.txt",
+  "feed_title": "Aktuelle News aus der Schweiz und weltweit \u2013 SRF",
+  "feed_link": "https://www.srf.ch/news"
+ },
+ {
+  "url": "https://www.srf.ch/news/regional/basel-baselland",
+  "status": 404
+ },
+ {
+  "url": "https://www.srf.ch/allgemeines/rss-feeds",
+  "status": 404
+ },
+ {
+  "url": "https://www.srf.ch/news/rss",
+  "status": 404
+ },
+ {
+  "url": "https://www.srf.ch/rss",
+  "status": 200,
+  "ctype": "text/html; charset=UTF-8",
+  "file": "www_srf_ch_rss.txt",
+  "alternates": [],
+  "rss_snips": [
+   " name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\"> <title>Really Simple Syndication - RSS-Feeds von SRF - Home - SRF</title> <link rel=\"preconnect\" href=\"//app.usercentrics.eu\" crossori",
+   "tatus:progress:heard\" content=\"Bereits #JS-PLACEHOLDER#% geh\u00f6rt.\"><meta name=\"description\" content=\"Die SRF-Inhalte als RSS Newsfeeds abonnieren.\" > <meta name=\"srf:urn\" content=\"urn:srf:article:19959347\" > <meta name=\"srf:content:id\" content=",
+   "eta property=\"article:section\" content=\"Home\"> <link rel=\"canonical\" href=\"https://www.srf.ch/really-simple-syndication-rss-feeds-von-srf\" > <meta name=\"twitter:card\" content=\"summary_large_image\"> <meta name=\"twitter:site\" content=\"@srf\"> <me",
+   "large_image\"> <meta name=\"twitter:site\" content=\"@srf\"> <meta name=\"twitter:title\" content=\"Really Simple Syndication - RSS-Feeds von SRF\"> <meta name=\"twitter:description\" content=\"Die SRF-Inhalte als RSS Newsfeeds abonnieren.\"> <meta name=\"t",
+   " content=\"Really Simple Syndication - RSS-Feeds von SRF\"> <meta name=\"twitter:description\" content=\"Die SRF-Inhalte als RSS Newsfeeds abonnieren.\"> <meta name=\"twitter:url\" content=\"https://www.srf.ch/really-simple-syndication-rss-feeds-von-sr",
+   "-Inhalte als RSS Newsfeeds abonnieren.\"> <meta name=\"twitter:url\" content=\"https://www.srf.ch/really-simple-syndication-rss-feeds-von-srf\"><meta name=\"twitter:image\" content=\"https://www.srf.ch/static/cms/images/640w/374230.jpg\"> <meta proper",
+   "\"https://www.srf.ch/static/cms/images/640w/374230.jpg\"> <meta property=\"og:title\" content=\"Really Simple Syndication - RSS-Feeds von SRF\"> <meta property=\"og:description\" content=\"Die SRF-Inhalte als RSS Newsfeeds abonnieren.\"> <meta property",
+   "\" content=\"Really Simple Syndication - RSS-Feeds von SRF\"> <meta property=\"og:description\" content=\"Die SRF-Inhalte als RSS Newsfeeds abonnieren.\"> <meta property=\"og:url\" content=\"https://www.srf.ch/really-simple-syndication-rss-feeds-von-srf",
+   "F-Inhalte als RSS Newsfeeds abonnieren.\"> <meta property=\"og:url\" content=\"https://www.srf.ch/really-simple-syndication-rss-feeds-von-srf\"><meta property=\"og:image\" content=\"https://www.srf.ch/static/cms/images/640w/374230.jpg\"> <meta property",
+   "g:site_name\" content=\"Schweizer Radio und Fernsehen (SRF)\"> <meta name=\"DC.title\" content=\"Really Simple Syndication - RSS-Feeds von SRF\"> <link rel=\"manifest\" href=\"https://www.srf.ch/manifest.webmanifest\" crossorigin=\"use-credentials\"><meta",
+   "t\"></div> <link itemprop=\"mainEntityOfPage\" href=\"https://www.srf.ch/really-simple-syndication-rss-feeds-von-srf\"><meta itemprop=\"articleSection\" content=\"Home\"> <meta itemprop=\"datePublished\" content=\"2013-01-25T13:14",
+   "ation\"> - </span> <span class=\"article-title__text\" data-news-landmark=\"article-title-text\">RSS-Feeds von SRF</span> </h1> <div class=\"article-author \" data-news-landmark=\"articl",
+   "event_name=share-flyout&event_value=open\" data-share-link=\"https://www.srf.ch/really-simple-syndication-rss-feeds-von-srf\" data-share-title=\"RSS-Feeds von SRF\" > <span class=\"h-offscreen\">Teilen</span> <sp",
+   " data-share-link=\"https://www.srf.ch/really-simple-syndication-rss-feeds-von-srf\" data-share-title=\"RSS-Feeds von SRF\" > <span class=\"h-offscreen\">Teilen</span> <span class=\"button-wrapper button-wrapper--svg-icon\" ar",
+   "-url=\"https://facebook.com/dialog/feed?app_id=520407055363160&link=https%3A%2F%2Fwww.srf.ch%2Freally-simple-syndication-rss-feeds-von-srf%3Fsrg_sm_medium%3Dfb&display=popup\" data-share-width=\"655\" data-share-height=\"400\" data-event-track=\"even"
+  ]
+ },
+ {
+  "url": "https://en.wikipedia.org/w/index.php?title=2027_UCI_World_Tour&action=raw",
+  "status": 200,
+  "ctype": "text/x-wiki; charset=UTF-8",
+  "file": "en_wikipedia_org_w_index_php_title_2027_UCI_World_Tour_action_raw.txt",
+  "alternates": [],
+  "rss_snips": []
+ },
+ {
+  "url": "https://en.wikipedia.org/w/index.php?title=2026_UCI_World_Tour&action=raw",
+  "status": 200,
+  "ctype": "text/x-wiki; charset=UTF-8",
+  "file": "en_wikipedia_org_w_index_php_title_2026_UCI_World_Tour_action_raw.txt",
+  "alternates": [],
+  "rss_snips": []
+ },
+ {
+  "url": "https://www.domestiquecycling.com/en/2027-uci-worldtour-calendar/",
+  "status": 200,
+  "ctype": "text/html; charset=UTF-8",
+  "file": "www_domestiquecycling_com_en_2027_uci_worldtour_calendar_.txt",
+  "alternates": [
+   "<link\n                    rel=\"alternate\"\n                    type=\"application/atom+xml\"\n                    title=\"RSS Feed for Domestique Cycling\"\n                    href=\"https://www.domestiquecycling.com/en/feed/news.xml\"\n                />"
+  ],
+  "rss_snips": [
+   "t> <link rel=\"alternate\" type=\"application/atom+xml\" title=\"RSS Feed for Domestique Cycling\" href=\"https://www.domestiquecycling.com/en/feed/news.xml\" "
+  ]
+ },
+ {
+  "url": "https://en.brujulabike.com/the-super-worlds-force-some-date-changes-uci-confirms-the-2027-worldtour-calendar/",
+  "status": 200,
+  "ctype": "text/html; charset=UTF-8",
+  "file": "en_brujulabike_com_the_super_worlds_force_some_date_changes_uci_confirms_the_2027_worldtou.txt",
+  "alternates": [
+   "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Feed Brujulabike\" href=\"https://feeds.feedburner.com/brujulabike\" />"
+  ],
+  "rss_snips": [
+   "intext .google-discover-card { padding: 10px 16px; } } </style> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Feed Brujulabike\" href=\"https://feeds.feedburner.com/brujulabike\" /> <link rel=\"apple-touch-icon\" "
+  ]
+ },
+ {
+  "url": "https://en.brujulabike.com/a-draft-of-the-2027-xco-world-cup-calendar-has-been-leaked-it-will-expand-to-12-events/",
+  "status": 200,
+  "ctype": "text/html; charset=UTF-8",
+  "file": "en_brujulabike_com_a_draft_of_the_2027_xco_world_cup_calendar_has_been_leaked_it_will_expa.txt",
+  "alternates": [
+   "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Feed Brujulabike\" href=\"https://feeds.feedburner.com/brujulabike\" />"
+  ],
+  "rss_snips": [
+   "intext .google-discover-card { padding: 10px 16px; } } </style> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Feed Brujulabike\" href=\"https://feeds.feedburner.com/brujulabike\" /> <link rel=\"apple-touch-icon\" "
+  ]
+ },
+ {
+  "url": "https://ryanmtb.substack.com/p/2027-uci-world-cup-calendar",
+  "status": 403
+ },
+ {
+  "url": "https://en.wikipedia.org/w/index.php?title=2027_UCI_Mountain_Bike_World_Cup&action=raw",
+  "status": 404
+ },
+ {
+  "url": "https://en.wikipedia.org/w/index.php?title=2026_UCI_Mountain_Bike_World_Cup&action=raw",
+  "status": 200,
+  "ctype": "text/x-wiki; charset=UTF-8",
+  "file": "en_wikipedia_org_w_index_php_title_2026_UCI_Mountain_Bike_World_Cup_action_raw.txt",
+  "alternates": [],
+  "rss_snips": []
+ },
+ {
+  "url": "https://escapecollective.com/2027-haute-savoie-super-worlds-schedule-is-out/",
+  "status": 200,
+  "ctype": "text/html; charset=utf-8",
+  "file": "escapecollective_com_2027_haute_savoie_super_worlds_schedule_is_out_.txt",
+  "alternates": [
+   "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Escape Collective\" href=\"https://escapecollective.com/rss/\">"
+  ],
+  "rss_snips": [
+   "-is-out/\" } </script> <meta name=\"generator\" content=\"Ghost 6.53\"> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Escape Collective\" href=\"https://escapecollective.com/rss/\"> <script defer src=\"https://cdn.jsdelivr.ne",
+   ".53\"> <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Escape Collective\" href=\"https://escapecollective.com/rss/\"> <script defer src=\"https://cdn.jsdelivr.net/ghost/portal@~2.69/umd/portal.min.js\" data-i18n=\"true\" data-ghost=\"h"
+  ]
+ },
+ {
+  "url": "https://www.tuttobiciweb.it/article/2026/07/20/1784555955/cycling-2027-world-championships-haute-savoie-uci-world-championships?lang=en",
+  "status": 200,
+  "ctype": "text/html; charset=UTF-8",
+  "file": "www_tuttobiciweb_it_article_2026_07_20_1784555955_cycling_2027_world_championships_haute_s.txt",
+  "alternates": [],
+  "rss_snips": []
+ },
+ {
+  "url": "https://en.wikipedia.org/w/index.php?title=2027_UCI_Cycling_World_Championships&action=raw",
+  "status": 404
+ },
+ {
+  "url": "https://www.sumo.or.jp/En/",
+  "status": 200,
+  "ctype": "text/html; charset=UTF-8",
+  "file": "www_sumo_or_jp_En_.txt",
+  "alternates": [],
+  "rss_snips": []
+ },
+ {
+  "url": "https://maezumou.com/tournament_schedule/",
+  "status": 200,
+  "ctype": "text/html; charset=utf-8",
+  "file": "maezumou_com_tournament_schedule_.txt",
+  "alternates": [],
+  "rss_snips": []
+ },
+ {
+  "url": "https://selfguidejapan.com/blog/grand-sumo-january-2027",
+  "status": 200,
+  "ctype": "text/html; charset=utf-8",
+  "file": "selfguidejapan_com_blog_grand_sumo_january_2027.txt",
+  "alternates": [
+   "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"BluePlanet Japan Travel Blog\" href=\"/rss.xml\"/>"
+  ],
+  "rss_snips": [
+   "s.googleapis.com/icon?family=Material+Icons+Sharp&amp;display=swap\" as=\"style\"/><link rel=\"alternate\" type=\"application/rss+xml\" title=\"BluePlanet Japan Travel Blog\" href=\"/rss.xml\"/><link href=\"https://fonts.googleapis.com/icon?family=Materia",
+   ";display=swap\" as=\"style\"/><link rel=\"alternate\" type=\"application/rss+xml\" title=\"BluePlanet Japan Travel Blog\" href=\"/rss.xml\"/><link href=\"https://fonts.googleapis.com/icon?family=Material+Icons+Sharp&amp;display=swap\" rel=\"stylesheet\" medi",
+   "\\\\\":\\\\\\\"required name=search_term_string\\\\\\\"}}\\\"}}]],[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"alternate\\\",\\\"type\\\":\\\"application/rss+xml\\\",\\\"title\\\":\\\"BluePlanet Japan Travel Blog\\\",\\\"href\\\":\\\"/rss.xml\\\"}],[\\\"$\\\",\\\"$L2\\\",null,{\\\"id\\\":\\\"cookie-consent-b",
+   "k\\\",null,{\\\"rel\\\":\\\"alternate\\\",\\\"type\\\":\\\"application/rss+xml\\\",\\\"title\\\":\\\"BluePlanet Japan Travel Blog\\\",\\\"href\\\":\\\"/rss.xml\\\"}],[\\\"$\\\",\\\"$L2\\\",null,{\\\"id\\\":\\\"cookie-consent-bootstrap\\\",\\\"strategy\\\":\\\"beforeInteractive\\\",\\\"children\\\":\\\"\\\\n "
+  ]
+ },
+ {
+  "url": "https://en.wikipedia.org/w/index.php?title=2026_in_sumo&action=raw",
+  "status": 200,
+  "ctype": "text/x-wiki; charset=UTF-8",
+  "file": "en_wikipedia_org_w_index_php_title_2026_in_sumo_action_raw.txt",
+  "alternates": [],
+  "rss_snips": []
+ },
+ {
+  "url": "https://en.wikipedia.org/w/index.php?title=2027_in_sumo&action=raw",
+  "status": 404
+ },
+ {
+  "url": "https://fbschedules.com/college-football-playoff-sets-2026-27-schedule-kickoff-times-tv-designations/",
+  "status": 200,
+  "ctype": "text/html; charset=UTF-8",
+  "file": "fbschedules_com_college_football_playoff_sets_2026_27_schedule_kickoff_times_tv_designatio.txt",
+  "alternates": [],
+  "rss_snips": [
+   "AsLCwocHBocHBoJCQkcHBobGxocypYdHRsLCwscHBodHRocHBsdHRsdHRscHBsUFBMG4ocTExIWFhUcHBocHBocHBsdHRsXFxYAwogcHBocHBocHBocHBsdHRsSEhEPDw4QEA4RERAcHBodHRsGxIocHBoeHhwaGhkXFxUVFRQSEhEQEA8NDQwLCwoAwogcHBodHRseHhsUFBMUFBMTExESEhIODg0dHRsfHx0fHx0XFxYXFxUW",
+   "ERljiKI90jQg+3HMi0p3KAjPQgXleb1zuy43esUmT66vHizkDO/hxRC950LpW+VGa11pb/3UiZVIaJ8wCP4Gz4DZImPh8nWLf0Z/dH9/XQNiWY+x8Nd06V/pRsSQzZ0qSztkidauyNoa+FdmjJhfPsebkh2Z2Y0Te1TDf8p3Lm4o6W/+QtYAAAAASUVORK5CYII=\";var xt=\"data:image/png;base64,iVBORw0KGgoAAAA",
+   " <li><a href=\"https://fbschedules.com/feed/\" target=\"_blank\"><span class=\"fa fa-rss-square fa-2x\"></span></a></li> <li><a href=\"https://fee"
+  ]
+ },
+ {
+  "url": "https://en.wikipedia.org/w/index.php?title=2026%E2%80%9327_College_Football_Playoff&action=raw",
+  "status": 404
+ },
+ {
+  "url": "https://en.wikipedia.org/w/index.php?title=2026_NFL_season&action=raw",
+  "status": 200,
+  "ctype": "text/x-wiki; charset=UTF-8",
+  "file": "en_wikipedia_org_w_index_php_title_2026_NFL_season_action_raw.txt",
+  "alternates": [],
+  "rss_snips": []
+ },
+ {
+  "url": "https://en.wikipedia.org/w/index.php?title=Super_Bowl_LXI&action=raw",
+  "status": 200,
+  "ctype": "text/x-wiki; charset=UTF-8",
+  "file": "en_wikipedia_org_w_index_php_title_Super_Bowl_LXI_action_raw.txt",
+  "alternates": [],
+  "rss_snips": []
+ }
+]

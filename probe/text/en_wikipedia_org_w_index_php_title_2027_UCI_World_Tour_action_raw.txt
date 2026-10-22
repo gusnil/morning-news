@@ -1,0 +1,252 @@
+{{Short description|Road cycling competitions}}
+{{for|the Women's 2027 UCI World Tour|2027 UCI Women's World Tour}}
+{{Infobox cycling season
+| name          = 2027 UCI World Tour
+| edition       = 17
+| competition   = [[UCI WorldTour]]
+| dates         = 19 January – 17 October
+| location      = {{unbulleted list|Australia|Canada|China|Europe|United Arab Emirates}}
+| rounds        = 36
+| previous      = [[2026 UCI World Tour|2026]]
+| next          = ''2028''
+}}
+
+The '''2027 UCI World Tour''' is a series of races that includes thirty-six events throughout the [[2027 in men's road cycling|2027 cycling season]].<ref>{{cite news |title=UCI reveals 2027 WorldTour racing calendars with 'Super' World Championships in France forcing changes |url=https://www.cyclingnews.com/pro-cycling/racing/uci-reveals-2027-worldtour-racing-calendars-with-super-world-championships-in-france-forcing-changes/ |access-date=20 October 2026 |agency=Cyclingnews |date=6 June 2026}}</ref> The tour will start with the [[2027 Tour Down Under|Tour Down Under]] on 19 January and will conclude with the [[2027 Tour of Guangxi|Tour of Guangxi]] on 17 October.
+
+== Events ==
+The most significant change compared to the [[2026 UCI World Tour|2026 calendar]] was the rescheduling of the [[2027 Vuelta a España|Vuelta a España]], which moved from its traditional late-August start to 4 September. This change was made to accommodate the [[2027 UCI Road World Championships|UCI Road World Championships]], part of the second edition of the UCI "Super World Championships", held in [[Haute-Savoie]], France, from 24 August to 5 September 2027.<ref>{{Cite web |title=2027 UCI Cycling World Championships Haute-Savoie Mont-Blanc |url=https://www.uci.org/event-hub/2027-uci-cycling-world-championships/3eK8O5bGa5sfvNlGaTPCb3 |website=UCI |access-date=20 October 2026}}</ref><ref>{{Cite web |title=Discover the calendar for the 2027 UCI Cycling World Championships in Haute-Savoie Mont-Blanc |url=https://www.uci.org/pressrelease/discover-the-calendar-for-the-2027-uci-cycling-world-championships-in-haute-savoie-mont-blanc/1tEIUtEoRq13aaef4p3bdx |website=UCI |access-date=20 October 2026}}</ref>
+
+{| class="wikitable plainrowheaders"
+|+ Races in the 2027 UCI World Tour
+! scope="col" | Race
+! scope="col" | Date
+! scope="col" | Winner
+! scope="col" | Second
+! scope="col" | Third
+|-
+! scope="row" |{{flagicon|AUS}} [[2027 Tour Down Under|Tour Down Under]]
+|19–24 January
+|
+|
+|
+|-
+! scope="row" |{{flagicon|AUS}} [[2027 Cadel Evans Great Ocean Road Race|Cadel Evans Great Ocean Road Race]]
+|31 January
+|
+|
+|
+|-
+! scope="row" |{{flagicon|UAE}} [[2027 UAE Tour|UAE Tour]]
+|15–21 February
+|
+|
+|
+|-
+! scope="row" |{{flagicon|BEL}} [[2027 Omloop Het Nieuwsblad|Omloop Het Nieuwsblad]]
+|27 February
+|
+|
+|
+|-
+! scope="row" |{{flagicon|ITA}} [[2027 Strade Bianche|Strade Bianche]]
+|6 March
+|
+|
+|
+|-
+! scope="row" |{{flagicon|FRA}} [[2027 Paris–Nice|Paris–Nice]]
+|7–14 March
+|
+|
+|
+|-
+! scope="row" |{{flagicon|ITA}} [[2027 Tirreno–Adriatico|Tirreno–Adriatico]]
+|8–14 March
+|
+|
+|
+|-
+! scope="row" |{{flagicon|ITA}} [[2027 Milan–San Remo|Milan–San Remo]]
+|20 March
+|
+|
+|
+|-
+! scope="row" |{{flagicon|ESP}} [[2027 Volta a Catalunya|Volta a Catalunya]]
+|22–28 March
+|
+|
+|
+|-
+! scope="row" |{{flagicon|BEL}} [[2027 Classic Brugge–De Panne|Classic Brugge–De Panne]]
+|24 March
+|
+|
+|
+|-
+! scope="row" |{{flagicon|BEL}} [[2027 E3 Saxo Classic|E3 Saxo Classic]]
+|26 March
+|
+|
+|
+|-
+! scope="row" |{{flagicon|BEL}} [[2027 Gent-Wevelgem|Gent-Wevelgem]]
+|28 March
+|
+|
+|
+|-
+! scope="row" |{{flagicon|BEL}} [[2027 Dwars door Vlaanderen|Dwars door Vlaanderen]]
+|31 March
+|
+|
+|
+|-
+! scope="row" |{{flagicon|BEL}} [[2027 Tour of Flanders (men's race)|Tour of Flanders]]
+|4 April
+|
+|
+|
+|-
+! scope="row" |{{flagicon|ESP}} [[2027 Tour of the Basque Country|Tour of the Basque Country]]
+|5–10 April
+|
+|
+|
+|-
+! scope="row" |{{flagicon|FRA}} [[2027 Paris–Roubaix|Paris–Roubaix]]
+|11 April
+|
+|
+|
+|-
+! scope="row" |{{flagicon|NED}} [[2027 Amstel Gold Race|Amstel Gold Race]]
+|18 April
+|
+|
+|
+|-
+! scope="row" |{{flagicon|BEL}} [[2027 La Flèche Wallonne|La Flèche Wallonne]]
+|21 April
+|
+|
+|
+|-
+! scope="row" |{{flagicon|BEL}} [[2027 Liège–Bastogne–Liège|Liège–Bastogne–Liège]]
+|25 April
+|
+|
+|
+|-
+! scope="row" |{{flagicon|SUI}} [[2027 Tour de Romandie|Tour de Romandie]]
+|27 April – 2 May
+|
+|
+|
+|-
+! scope="row" |{{flagicon|GER}} [[2027 Eschborn–Frankfurt|Eschborn–Frankfurt]]
+|1 May
+|
+|
+|
+|-
+! scope="row" |{{flagicon|ITA}} [[2027 Giro d'Italia|Giro d'Italia]]
+|8–30 May
+|
+|
+|
+|-
+! scope="row" |{{flagicon|FRA}} [[2027 Tour Auvergne-Rhône-Alpes|Tour Auvergne-Rhône-Alpes]]
+|6–13 June
+|
+|
+|
+|-
+! scope="row" |{{flagicon|DEN}} [[2027 Copenhagen Sprint (men's race)|Copenhagen Sprint]]
+|13 June
+|
+|
+|
+|-
+! scope="row" |{{flagicon|SUI}} [[2027 Tour de Suisse|Tour de Suisse]]
+|16–20 June
+|
+|
+|
+|-
+! scope="row" |{{flagicon|FRA}} [[2027 Tour de France|Tour de France]]
+|2–25 July
+|
+|
+|
+|-
+! scope="row" |{{flagicon|ESP}} [[2027 Clásica de San Sebastián|Clásica de San Sebastián]]
+|31 July
+|
+|
+|
+|-
+! scope="row" |{{flagicon|POL}} [[2027 Tour de Pologne|Tour de Pologne]]
+|2–8 August
+|
+|
+|
+|-
+! scope="row" |{{flagicon|GER}} [[2027 Hamburg Cyclassics|Hamburg Cyclassics]]
+|15 August
+|
+|
+|
+|-
+! scope="row" |{{flagicon|BEL}}/{{flagicon|NED}} [[2027 Renewi Tour|Renewi Tour]]
+|18–22 August
+|
+|
+|
+|-
+! scope="row" |{{flagicon|FRA}} [[2027 Bretagne Classic Ouest-France|Bretagne Classic]]
+|22 August
+|
+|
+|
+|-
+! scope="row" |{{flagicon|ESP}} [[2027 Vuelta a España|Vuelta a España]]
+|4–24 September
+|
+|
+|
+|-
+! scope="row" |{{flagicon|CAN}} [[2027 Grand Prix Cycliste de Québec|Grand Prix Cycliste de Québec]]
+|10 September
+|
+|
+|
+|-
+! scope="row" |{{flagicon|CAN}} [[2027 Grand Prix Cycliste de Montréal|Grand Prix Cycliste de Montréal]]
+|12 September
+|
+|
+|
+|-
+! scope="row" |{{flagicon|ITA}} [[2027 Il Lombardia|Il Lombardia]]
+|9 October
+|
+|
+|
+|-
+! scope="row" |{{flagicon|CHN}} [[2027 Tour of Guangxi|Tour of Guangxi]]
+|12–17 October
+|
+|
+|
+|}
+
+
+== References ==
+{{Reflist}}
+
+==External links==
+*{{official website|https://www.uci.org/road/events/uci-worldtour}}
+
+{{UCI World Tour}}
+[[Category:UCI World Tour]]

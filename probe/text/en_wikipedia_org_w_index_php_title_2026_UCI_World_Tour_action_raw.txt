@@ -1,0 +1,286 @@
+{{Short description|Road cycling competitions}}
+{{for|the Women's 2026 UCI World Tour|2026 UCI Women's World Tour}}
+{{Infobox cycling season
+| name          = 2026 UCI World Tour
+| edition       = 16
+| competition   =[[UCI WorldTour]] 
+| dates         = 20 January – 18 October
+| location      = {{unbulleted list|Australia|Canada|China|Europe|United Arab Emirates}}
+| rounds        = 36
+| previous = [[2025 UCI World Tour|2025]]
+| next     = ''[[2027 UCI World Tour|2027]]''
+}}
+
+The '''2026 UCI World Tour''' was a series of races that included thirty-six events throughout the [[2026 in men's road cycling|2026 men's cycling season]]. The tour started with the [[2026 Tour Down Under|Tour Down Under]] on 20 January, and concluded with the [[2026 Tour of Guangxi|Tour of Guangxi]] on 18 October.<ref name="Calendar">{{Cite web |title=UCI World Tour races |url=https://www.procyclingstats.com/races.php?year=2026&circuit=1&class=&filter=Filter |access-date=10 December 2025 |website=ProCyclingStats}}</ref>
+
+== Events ==
+The race calendar for the 2026 season was announced in June 2025, with thirty-six races scheduled.<ref name=":0">{{Cite web |date=14 June 2024 |title=The UCI approves the 2026 calendars for the UCI Women’s WorldTour and UCI WorldTour, and takes measures to support the development of cycling |url=https://www.uci.org/pressrelease/the-uci-approves-the-2026-calendars-for-the-uci-womens-worldtour-and-uci/4Eom6DCpjNwy5BeppuLXg3 |access-date=2025-12-10 |website=www.uci.org |language=en-gb}}</ref> The calendar was similar to [[2025 UCI World Tour|2025]].<ref name="UCIcalendar">{{Cite web |title=2026 UCI WorldTour calendar |url=https://www.domestiquecycling.com/en/2026-uci-worldtour-calendar/ |access-date=10 December 2024 |work=Domestique Cycling}}</ref>
+
+{| class="wikitable plainrowheaders"
+|+Races in the 2026 UCI World Tour<ref name="Calendar" />
+! scope="col" |Race
+! scope="col" |Date
+! scope="col" |Winner
+! scope="col" |Second
+! scope="col" |Third
+|-
+! scope="row" |{{flagicon|AUS}} [[2026 Tour Down Under|Tour Down Under]]
+|20–25 January
+| {{Flagathlete|[[Jay Vine]]|AUS}}
+| {{Flagathlete|[[Mauro Schmid]]|SUI}}
+| {{Flagathlete|[[Harry Sweeny]]|AUS}}
+|-
+! scope="row" |{{flagicon|AUS}} [[2026 Cadel Evans Great Ocean Road Race|Cadel Evans Great Ocean Road Race]]
+|1 February
+| {{Flagathlete|[[Tobias Lund Andresen]]|DEN}}
+| {{Flagathlete|[[Matthew Brennan (cyclist)|Matthew Brennan]]|GBR}}
+| {{Flagathlete|[[Brady Gilmore]]|AUS}}
+|-
+! scope="row" |{{Flagicon|UAE}} [[2026 UAE Tour|UAE Tour]]
+|16–22 February
+| {{Flagathlete|[[Isaac del Toro]]|MEX}}
+| {{Flagathlete|[[Antonio Tiberi]]|ITA}}
+| {{Flagathlete|[[Luke Plapp]]|AUS}}
+|-
+! scope="row" |{{Flagicon|BEL}} [[2026 Omloop Het Nieuwsblad|Omloop Het Nieuwsblad]]
+|28 February
+| {{Flagathlete|[[Mathieu van der Poel]]|NED}}
+| {{Flagathlete|[[Tim van Dijke]]|NED}}
+| {{Flagathlete|[[Florian Vermeersch]]|BEL}}
+|-
+! scope="row" |{{Flagicon|ITA}} [[2026 Strade Bianche|Strade Bianche]]
+|7 March
+| {{Flagathlete|[[Tadej Pogačar]]|SLO}}
+| {{Flagathlete|[[Paul Seixas]]|FRA}}
+| {{Flagathlete|[[Isaac del Toro]]|MEX}}
+|-
+! scope="row" |{{Flagicon|FRA}} [[2026 Paris–Nice|Paris–Nice]]
+|8–15 March
+| {{Flagathlete|[[Jonas Vingegaard]]|DEN}}
+| {{Flagathlete|[[Daniel Martínez (cyclist)|Daniel Martínez]]|COL}}
+| {{Flagathlete|[[Georg Steinhauser]]|GER}}
+|-
+! scope="row" |{{Flagicon|ITA}} [[2026 Tirreno–Adriatico|Tirreno–Adriatico]]
+|9–15 March
+| {{Flagathlete|[[Isaac del Toro]]|MEX}}
+| {{Flagathlete|[[Matteo Jorgenson]]|USA}}
+| {{Flagathlete|[[Giulio Pellizzari]]|ITA}}
+|-
+! scope="row" |{{Flagicon|ITA}} [[2026 Milan–San Remo|Milan–San Remo]]
+|21 March
+| {{Flagathlete|[[Tadej Pogačar]]|SLO}}
+| {{Flagathlete|[[Tom Pidcock]]|GBR}}
+| {{Flagathlete|[[Wout van Aert]]|BEL}}
+|-
+! scope="row" |{{Flagicon|ESP}} [[2026 Volta a Catalunya|Volta a Catalunya]]
+|23–29 March
+| {{Flagathlete|[[Jonas Vingegaard]]|DEN}}
+| {{Flagathlete|[[Lenny Martinez (cyclist)|Lenny Martinez]]|FRA}}
+| {{Flagathlete|[[Florian Lipowitz]]|GER}}
+|-
+! scope="row" |{{Flagicon|BEL}} [[2026 Tour of Bruges|Tour of Bruges]]
+|25 March
+| {{Flagathlete|[[Dylan Groenewegen]]|NED}}
+| {{Flagathlete|[[Jasper Philipsen]]|BEL}}
+| {{Flagathlete|[[Max Kanter]]|GER}}
+|-
+! scope="row" |{{Flagicon|BEL}} [[2026 E3 Saxo Classic|E3 Saxo Classic]]
+|27 March
+| {{Flagathlete|[[Mathieu van der Poel]]|NED}}
+| {{Flagathlete|[[Per Strand Hagenes]]|NOR}}
+| {{Flagathlete|[[Florian Vermeersch]]|BEL}}
+|-
+! scope="row" |{{Flagicon|BEL}} [[2026 Gent–Wevelgem|Gent–Wevelgem]]
+|29 March
+| {{Flagathlete|[[Jasper Philipsen]]|BEL}}
+| {{Flagathlete|[[Tobias Lund Andresen]]|DEN}}
+| {{Flagathlete|[[Christophe Laporte]]|FRA}}
+|-
+! scope="row" |{{Flagicon|BEL}} [[2026 Dwars door Vlaanderen|Dwars door Vlaanderen]]
+|1 April
+| {{Flagathlete|[[Filippo Ganna]]|ITA}}
+| {{Flagathlete|[[Wout van Aert]]|BEL}}
+| {{Flagathlete|[[Søren Wærenskjold]]|NOR}}
+|-
+! scope="row" |{{Flagicon|BEL}} [[2026 Tour of Flanders (men's race)|Tour of Flanders]]
+|5 April
+| {{Flagathlete|[[Tadej Pogačar]]|SLO}}
+| {{Flagathlete|[[Mathieu van der Poel]]|NED}}
+| {{Flagathlete|[[Remco Evenepoel]]|BEL}}
+|-
+! scope="row" |{{Flagicon|ESP}} [[2026 Tour of the Basque Country|Tour of the Basque Country]]
+|6–11 April
+| {{Flagathlete|[[Paul Seixas]]|FRA}}
+| {{Flagathlete|[[Florian Lipowitz]]|GER}}
+| {{Flagathlete|[[Tobias Halland Johannessen]]|NOR}}
+|-
+! scope="row" |{{Flagicon|FRA}} [[2026 Paris–Roubaix|Paris–Roubaix]]
+|12 April
+| {{Flagathlete|[[Wout van Aert]]|BEL}}
+| {{Flagathlete|[[Tadej Pogačar]]|SLO}}
+| {{Flagathlete|[[Jasper Stuyven]]|BEL}}
+|-
+! scope="row" |{{Flagicon|NED}} [[2026 Amstel Gold Race|Amstel Gold Race]]
+|19 April
+| {{Flagathlete|[[Remco Evenepoel]]|BEL}}
+| {{Flagathlete|[[Mattias Skjelmose]]|DEN}}
+| {{Flagathlete|[[Benoît Cosnefroy]]|FRA}}
+|-
+! scope="row" |{{Flagicon|BEL}} [[2026 La Flèche Wallonne|La Flèche Wallonne]]
+|22 April
+| {{Flagathlete|[[Paul Seixas]]|FRA}}
+| {{Flagathlete|[[Mauro Schmid]]|SUI}}
+| {{Flagathlete|[[Ben Tulett]]|GBR}}
+|-
+! scope="row" |{{Flagicon|BEL}} [[2026 Liège–Bastogne–Liège|Liège–Bastogne–Liège]]
+|26 April
+| {{Flagathlete|[[Tadej Pogačar]]|SLO}}
+| {{Flagathlete|[[Paul Seixas]]|FRA}}
+| {{Flagathlete|[[Remco Evenepoel]]|BEL}}
+|-
+! scope="row" |{{Flagicon|SUI}} [[2026 Tour de Romandie|Tour de Romandie]]
+|28 April – 3 May
+| {{Flagathlete|[[Tadej Pogačar]]|SLO}}
+| {{Flagathlete|[[Florian Lipowitz]]|GER}}
+| {{Flagathlete|[[Lenny Martinez (cyclist)|Lenny Martinez]]|FRA}}
+|-
+! scope="row" |{{Flagicon|GER}} [[2026 Eschborn–Frankfurt|Eschborn–Frankfurt]]
+|1 May
+| {{Flagathlete|[[Georg Zimmermann]]|GER}}
+| {{Flagathlete|[[Tom Pidcock]]|GBR}}
+| {{Flagathlete|[[Ben Tulett]]|GBR}}
+|-
+! scope="row" |{{Flagicon|ITA}} [[2026 Giro d'Italia|Giro d'Italia]]
+|8–31 May
+| {{Flagathlete|[[Jonas Vingegaard]]|DEN}}
+| {{Flagathlete|[[Felix Gall]]|AUT}}
+| {{Flagathlete|[[Jai Hindley]]|AUS}}
+|-
+! scope="row" |{{Flagicon|FRA}} [[2026 Tour Auvergne-Rhône-Alpes|Tour Auvergne-Rhône-Alpes]]
+|7–14 June
+| {{flagathlete|[[Isaac del Toro]]|MEX}}
+| {{flagathlete|[[Luke Tuckwell]]|AUS}}
+| {{flagathlete|[[Juan Ayuso]]|ESP}}
+|-
+! scope="row" |{{Flagicon|DEN}} [[2026 Copenhagen Sprint (men's race)|Copenhagen Sprint]]
+|14 June
+| {{flagathlete|[[Jasper Philipsen]]|BEL}}
+| {{flagathlete|[[Tobias Lund Andresen]]|DEN}}
+| {{flagathlete|[[Sam Welsford]]|AUS}}
+|-
+! scope="row" |{{Flagicon|SUI}} [[2026 Tour de Suisse|Tour de Suisse]]
+|17–21 June
+| {{flagathlete|[[Tadej Pogačar]]|SLO}}
+| {{flagathlete|[[Richard Carapaz]]|ECU}}
+| {{flagathlete|[[Mathias Vacek]]|CZE}}
+|-
+! scope="row" |{{Flagicon|FRA}} [[2026 Tour de France|Tour de France]]
+|4–26 July
+| {{flagathlete|[[Tadej Pogačar]]|SLO}}
+| {{flagathlete|[[Remco Evenepoel]]|BEL}}
+| {{flagathlete|[[Isaac del Toro]]|MEX}}
+|-
+! scope="row" |{{Flagicon|ESP}} [[2026 Clásica de San Sebastián|Clásica de San Sebastián]]
+|1 August
+| {{flagathlete|[[Remco Evenepoel]]|BEL}}
+| {{flagathlete|[[Richard Carapaz]]|ECU}}
+| {{flagathlete|[[Ben Tulett]]|GBR}}
+|-
+! scope="row" |{{Flagicon|POL}} [[2026 Tour de Pologne|Tour de Pologne]]
+|3–9 August
+| {{flagathlete|[[Marco Brenner]]|GER}}
+| {{flagathlete|[[Finn Fisher-Black]]|NZL}}
+| {{flagathlete|[[Iván Romeo]]|ESP}}
+|-
+! scope="row" |{{Flagicon|GER}} [[2026 Hamburg Cyclassics|Hamburg Cyclassics]]
+|16 August
+| {{flagathlete|[[Paul Magnier]]|FRA}}
+| {{flagathlete|[[Mike Teunissen]]|NED}}
+| {{flagathlete|[[Laurence Pithie]]|NZL}}
+|-
+! scope="row" |{{Flagicon|BEL}}/{{Flagicon|NED}} [[2026 Renewi Tour|Renewi Tour]]
+|19–23 August
+| {{flagathlete|[[Jasper Philipsen]]|BEL}}
+| {{flagathlete|[[Jenno Berckmoes]]|BEL}}
+| {{flagathlete|[[Olav Kooij]]|NED}}
+|-
+! scope="row" |{{Flagicon|ESP}} [[2026 Vuelta a España|Vuelta a España]]
+|22 August – 13 September
+| {{flagathlete|[[Enric Mas]]|ESP}}
+| {{flagathlete|[[Primož Roglič]]|SLO}}
+| {{flagathlete|[[Felix Gall]]|AUT}}
+|-
+! scope="row" |{{Flagicon|FRA}} [[2026 Bretagne Classic|Bretagne Classic]]
+|30 August
+| {{flagathlete|[[Alex Aranburu]]|ESP}}
+| {{flagathlete|[[Alexander Kamp]]|DEN}}
+| {{flagathlete|[[Alessandro Borgo]]|ITA}}
+|-
+! scope="row" |{{Flagicon|CAN}} [[2026 Grand Prix Cycliste de Québec|Grand Prix Cycliste de Québec]]
+|11 September
+| {{flagathlete|[[Remco Evenepoel]]|BEL}}
+| {{flagathlete|[[Giulio Ciccone]]|ITA}}
+| {{flagathlete|[[Anthon Charmig]]|DEN}}
+|-
+! scope="row" |{{Flagicon|CAN}} [[2026 Grand Prix Cycliste de Montréal|Grand Prix Cycliste de Montréal]]
+|13 September
+| {{flagathlete|[[Isaac del Toro]]|MEX}}
+| {{flagathlete|[[Paul Seixas]]|FRA}}
+| {{flagathlete|[[Brandon McNulty]]|USA}}
+|-
+! scope="row" |{{Flagicon|ITA}} [[2026 Il Lombardia|Il Lombardia]]
+|10 October
+| {{flagathlete|[[Paul Seixas]]|FRA}}
+| {{flagathlete|[[Enric Mas]]|ESP}}
+| {{flagathlete|[[Giulio Ciccone]]|ITA}}
+|-
+! scope="row" |{{Flagicon|CHN}} [[2026 Tour of Guangxi|Tour of Guangxi]]
+|13–18 October
+| {{flagathlete|[[Jarno Widar]]|BEL}}
+| {{flagathlete|[[Tom Pidcock]]|GBR}}
+| {{flagathlete|[[Louis Barré]]|FRA}}
+|}
+
+== Teams ==
+The eighteen [[UCI WorldTeam|WorldTeams]] were automatically invited to compete in events based on the results of the previous three year ranking (from 2023–2025). 
+
+{{columns-list|
+* {{UCI team code|APT|2026}}
+* {{UCI team code|DCT|2026}}
+* {{UCI team code|EFE|2026}}
+* {{UCI team code|GFC|2026}}
+* {{UCI team code|LTK men|2026}}
+* {{UCI team code|LOI|2026}}
+* {{UCI team code|MOV men|2026}}
+* {{UCI team code|IGD|2026b}}
+* {{UCI team code|NSN|2026}}
+* {{UCI team code|RBH|2026}}
+* {{UCI team code|SOQ|2026}}
+* {{UCI team code|TBV|2026}}
+* {{UCI team code|JAY men|2026}}
+* {{UCI team code|TPP men|2026}}
+* {{UCI team code|UAD men|2026}}
+* {{UCI team code|UXM men|2026}}
+* {{UCI team code|TVL men|2026}}
+* {{UCI team code|XAT|2026}}
+|colwidth=width}}
+
+Additionally, three ProTeams were invited to all the [[UCI World Tour]] races based on the ranking of the 2025 season.<ref>{{Cite web |last=Stuart |first=Peter |date=2025-12-21 |title='Historic measure' gives top three ProTeams full automatic WorldTour invitations from 2026 |url=https://veloracycling.com/news/proteams-guaranteed-worldtour-invitations-2026 |access-date=2026-02-08 |website=veloracycling.com |language=en}}</ref>
+
+* {{UCI team code|COF men|2026}}
+* {{UCI team code|PQT|2026}}
+* {{UCI team code|TUD|2026}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+*{{official website|https://www.uci.org/road/events/uci-worldtour}}
+
+{{UCI World Tour}}
+{{2026 UCI World Tour}}
+{{2026 in road cycling}}
+
+[[Category:2026 UCI World Tour| ]]
+[[Category:UCI World Tour]]
+[[Category:2026 in men's road cycling|World Tour]]

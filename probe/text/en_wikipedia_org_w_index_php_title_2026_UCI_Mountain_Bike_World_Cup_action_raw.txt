@@ -1,0 +1,3028 @@
+{{Short description|Series of races for all-terrain bicyclists}}
+{{ Infobox cycling season
+<!-- Details -->
+| name = 2026 UCI Mountain Bike World Cup
+| edition = 37
+| competition = UCI Mountain Bike World Cup
+| image = 
+| image_caption = 
+| image_alt = 
+| image_size = 
+| dates = February–October 2026
+| location =
+| rounds = 10 (XCO)<br/>10 (DHI)
+<!-- Winners -->
+| individual_champion = 
+| individual_champion_team = 
+| male_individual_champion = <!-- {{flagicon|USA}} [[Christopher Blevins]] (XCO)<br/>{{flagicon|CAN}} [[Jackson Goldstone]] (DH) -->
+| male_individual_champion_team = 
+| female_individual_champion = <!-- {{flagicon|NZL}} [[Sammie Maxwell]] (XCO)<br/>{{flagicon|AUT}} [[Valentina Höll]] (DH) -->
+| female_individual_champion_team = 
+| teams_champion = 
+| nations_champion = 
+| previous = [[2025 UCI Mountain Bike World Cup|2025]]
+| next = [[2027 UCI Mountain Bike World Cup|2027]]
+}}
+The '''2026 [[UCI Mountain Bike World Cup]]''' is a series of races in [[Cross-country cycling|Olympic Cross-Country (XCO)]], [[Cross-country eliminator|Cross-Country Eliminator (XCE)]], and [[Downhill mountain biking|Downhill (DHI)]]. Each discipline has an Elite Men and an Elite Women category. There are also under-23 categories in the XCO and junior categories in the DHI. The series has eight rounds both cross-country and downhill, some of which are held concurrently. In 2023, [[Enduro (mountain biking)|enduro]] was added to the UCI World Cup series.<ref>{{cite news |title=Lower Hutt teen claims world series enduro mountain bike win |url= https://www.cyclingnewzealand.nz/news-2/news/lower-hutt-teen-claims-world-series-enduro-mountain-bike-win/ |access-date=2 September 2023 |work=[[Cycling New Zealand]] |date=2 April 2023}}</ref>
+
+== Cross-country ==
+===Elite===
+{| class="wikitable" width=70% style="font-size: 95%;"
+! Date
+! width=20% |Venue
+! width=29% |Podium (Men)
+! width=29% |Podium (Women)
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 3 May
+| rowspan=3 | {{flagicon|KOR}} [[Mona Yongpyong]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_xco_me_results_y.pdf|title=Mona Yongpyong XCO men's elite results|date=3 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_xco_we_results.pdf|title=Mona Yongpyong XCO women's elite results|date=3 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Dario Lillo]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Luca Martin (cyclist)|Luca Martin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Charlie Aldridge]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Madigan Munro]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 24 May
+| nowrap rowspan=3 | {{flagicon|CZE}} [[Nové Město na Moravě]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260522_mtb/nome_xco_me_results_y.pdf|title=Nové Město XCO men's elite results|date=24 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260522_mtb/nome_xco_we_results.pdf|title=Nové Město XCO women's elite results|date=24 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Tom Pidcock]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Laura Stigger]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Luca Martin (cyclist)|Luca Martin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Filippo Colombo]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 14 June
+| nowrap rowspan=3 | {{flagicon|AUT}} [[Saalfelden]]–[[Leogang]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_xco_me_results_y.pdf|title=Saalfelden–Leogang XCO men's elite results|date=14 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_xco_we_results.pdf|title=Saalfelden–Leogang XCO women's elite results|date=14 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Boichis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Luca Martin (cyclist)|Luca Martin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Puck Pieterse]]|NED}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Bjorn Riley]]|USA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Alessandra Keller]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 21 June
+| rowspan=3 | {{flagicon|SUI}} [[Lenzerheide]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_xco_me_results_y.pdf|title=Lenzerheide XCO men's elite results|date=21 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_xco_we_results.pdf|title=Lenzerheide XCO women's elite results|date=21 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Luca Martin (cyclist)|Luca Martin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Boichis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Ronja Blöchlinger]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Bjorn Riley]]|USA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Savilia Blunk]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 5 July
+| rowspan=3 | {{flagicon|ITA}} [[La Thuile, Aosta Valley|La Thuile]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_xco_me_results_y.pdf|title=La Thuile XCO men's elite results|date=5 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_xco_we_results.pdf|title=La Thuile XCO women's elite results|date=5 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref> 
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Luca Martin (cyclist)|Luca Martin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Martina Berta]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Mathis Azzaro]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Savilia Blunk]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Boichis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Laura Stigger]]|AUT}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 12 July
+| rowspan=3 | {{flagicon|AND}} [[Pal, Andorra|Pal]]–[[Arinsal]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_xco_me_results_y.pdf|title=Pal–Arinsal XCO men's elite results|date=12 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_xco_we_results.pdf|title=Pal–Arinsal XCO women's elite results|date=12 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Boichis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Mathis Azzaro]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Martina Berta]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Luca Schwarzbauer]]|GER}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 23 August
+| rowspan=3 | {{flagicon|FRA}} [[Les Gets]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_xco_me_results_y.pdf|title=Les Gets XCO men's elite results|date=23 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_xco_we_results.pdf|title=Les Gets XCO women's elite results|date=23 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Boichis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Mathieu van der Poel]]|NED}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Martín Vidaurre]]|CHL}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Savilia Blunk]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 20 September
+| rowspan=3 | {{flagicon|USA}} [[Soldier Hollow]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260919_mtb/soho_xco_me_results_y.pdf|title=Soldier Hollow XCO men's elite results|date=20 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260919_mtb/soho_xco_we_results.pdf|title=Soldier Hollow XCO women's elite results|date=20 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Martín Vidaurre]]|CHL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Martina Berta]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Cole Punchard]]|CAN}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Gwendalyn Gibson]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Mathis Guay]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 3 October
+| rowspan=3 | {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xco_me_results_y.pdf|title=Lake Placid XCO men's elite results|date=3 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xco_we_results.pdf|title=Lake Placid XCO women's elite results|date=3 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Charlie Aldridge]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Filippo Colombo]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Martina Berta]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Martín Vidaurre]]|CHL}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sammie Maxwell]]|NZL}}
+|}
+
+===Under 23===
+{| class="wikitable" width=70% style="font-size: 95%;"
+! Date
+! width=20% |Venue
+! width=29% |Podium (Men)
+! width=29% |Podium (Women)
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 3 May
+| rowspan=3 | {{flagicon|KOR}} [[Mona Yongpyong]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_xco_mu_results.pdf|title=Mona Yongpyong XCO men's Under 23 results|date=3 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_xco_wu_results.pdf|title=Mona Yongpyong XCO women's Under 23 results|date=3 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Nicolas Halter]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Elina Benoit]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Thibaut François (cyclist)|Thibaut François]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Bailey Cioppa]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 23 May
+| nowrap rowspan=3 | {{flagicon|CZE}} [[Nové Město na Moravě]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260522_mtb/nome_xco_mu_results.pdf|title=Nové Město XCO men's Under 23 results|date=23 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260522_mtb/nome_xco_wu_results.pdf|title=Nové Město XCO women's Under 23 results|date=23 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Thibaut François (cyclist)|Thibaut François]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Katrin Embacher]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Alix André-Gallis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Anina Hutter]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Naël Rouffiac]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 14 June
+| nowrap rowspan=3 | {{flagicon|AUT}} [[Saalfelden]]–[[Leogang]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_xco_mu_results.pdf|title=Saalfelden–Leogang XCO men's Under 23 results|date=14 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_xco_wu_results.pdf|title=Saalfelden–Leogang XCO women's Under 23 results|date=14 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Alix André-Gallis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Fiona Schibler]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Naël Rouffiac]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Monique Halter]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 21 June
+| rowspan=3 | {{flagicon|SUI}} [[Lenzerheide]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_xco_mu_results.pdf|title=Lenzerheide XCO men's Under 23 results|date=21 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_xco_wu_results.pdf|title=Lenzerheide XCO women's Under 23 results|date=21 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Thibaut François (cyclist)|Thibaut François]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lisa Kristine Jorde]]|NOR}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Rens Teunissen van Manen]]|NED}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Makena Kellerman]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 5 July
+| rowspan=3 | {{flagicon|ITA}} [[La Thuile, Aosta Valley|La Thuile]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_xco_mu_results.pdf|title=La Thuile XCO men's Under 23 results|date=5 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_xco_wu_results.pdf|title=La Thuile XCO women's Under 23 results|date=5 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Nicolas Halter]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Monique Halter]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Lucas Teste]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Ella MacPhee]]|CAN}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 12 July
+| rowspan=3 | {{flagicon|AND}} [[Pal, Andorra|Pal]]–[[Arinsal]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_xco_mu_results.pdf |title=Pal–Arinsal XCO men's Under 23 results|date=12 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_xco_wu_results.pdf|title=Pal–Arinsal XCO women's Under 23 results|date=12 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Thibaut François (cyclist)|Thibaut François]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Ella MacPhee]]|CAN}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Nicolas Halter]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Fiona Schibler]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 23 August
+| rowspan=3 | {{flagicon|FRA}} [[Les Gets]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_xco_mu_results.pdf|title=Les Gets XCO men's Under 23 results|date=23 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_xco_wu_results.pdf|title=Les Gets XCO women's Under 23 results|date=23 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Gustav Heby Pedersen]]|DEN}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Benjamin Krüger]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Anina Hutter]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Katrin Embacher]]|AUT}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 20 September
+| rowspan=3 | {{flagicon|USA}} [[Soldier Hollow]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260919_mtb/soho_xco_mu_results.pdf|title=Soldier Hollow XCO men's Under 23 results|date=20 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260919_mtb/soho_xco_wu_results.pdf|title=Soldier Hollow XCO women's Under 23 results|date=20 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Benjamin Krüger]]|GER}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Naël Rouffiac]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Rafaelle Carrier]]|CAN}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Alejandro García Vázquez]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Makena Kellerman]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 3 October
+| rowspan=3 | {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xco_mu_results.pdf|title=Lake Placid XCO men's Under 23 results|date=3 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xco_wu_results.pdf|title=Lake Placid XCO women's Under 23 results|date=3 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Naël Rouffiac]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Fiona Schibler]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Benjamin Krüger]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lisa Kristine Jorde]]|NOR}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Alix André-Gallis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Anina Hutter]]|SUI}}
+|}
+
+== Cross-country short track ==
+===Elite===
+{| class="wikitable" width=70% style="font-size: 95%;"
+! Date
+! width=20% |Venue
+! width=29% |Podium (Men)
+! width=29% |Podium (Women)
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 1 May
+| rowspan=3 | {{flagicon|KOR}} [[Mona Yongpyong]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_xcc_me_results.pdf|title=Mona Yongpyong XCC men's elite results|date=1 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_xcc_we_results_y.pdf|title=Mona Yongpyong XCC women's elite results|date=1 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Mathis Azzaro]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Simone Avondetto]]|ITA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Evie Richards]]|GBR}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Dario Lillo]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Martina Berta]]|ITA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 23 May
+| nowrap rowspan=3 | {{flagicon|CZE}} [[Nové Město na Moravě]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260522_mtb/nome_xcc_me_results.pdf|title=Nové Město XCC men's elite results|date=23 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260522_mtb/nome_xcc_we_results_y.pdf|title=Nové Město XCC women's elite results|date=23 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Mathis Azzaro]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Puck Pieterse]]|NED}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Tom Pidcock]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Laura Stigger]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Dario Lillo]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Nicole Koller]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 12 June
+| nowrap rowspan=3 | {{flagicon|AUT}} [[Saalfelden]]–[[Leogang]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_xcc_me_results.pdf|title=Saalfelden–Leogang XCC men's elite results|date=12 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_xcc_we_results_y.pdf|title=Saalfelden–Leogang XCC women's elite results|date=12 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Simon Andreassen]]|DEN}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Filippo Colombo]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Luca Martin (cyclist)|Luca Martin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Alessandra Keller]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 19 June
+| rowspan=3 | {{flagicon|SUI}} [[Lenzerheide]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_xcc_me_results.pdf|title=Lenzerheide XCC men's elite results|date=19 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_xcc_we_results_y.pdf|title=Lenzerheide XCC women's elite results|date=19 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Boichis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Savilia Blunk]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Luca Martin (cyclist)|Luca Martin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Ronja Blöchlinger]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Bjorn Riley]]|USA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Alessandra Keller]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 3 July
+| rowspan=3 | {{flagicon|ITA}} [[La Thuile, Aosta Valley|La Thuile]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_xcc_me_results.pdf|title=La Thuile XCC men's elite results|date=3 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_xcc_we_results_y.pdf|title=La Thuile XCC women's elite results|date=3 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref> 
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Boichis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Luca Martin (cyclist)|Luca Martin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Charlie Aldridge]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Savilia Blunk]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 10 July
+| rowspan=3 | {{flagicon|AND}} [[Pal, Andorra|Pal]]–[[Arinsal]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_xcc_me_results.pdf |title=Pal–Arinsal XCC men's elite results|date=10 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_xcc_we_results_y.pdf|title=Pal–Arinsal XCC women's elite results|date=10 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Bjorn Riley]]|USA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Boichis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Laura Stigger]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Christopher Blevins]]|USA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Ronja Blöchlinger]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 21 August
+| rowspan=3 | {{flagicon|FRA}} [[Les Gets]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_xcc_me_results.pdf|title=Les Gets XCC men's elite results|date=21 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_xcc_we_results_y.pdf|title=Les Gets XCC women's elite results|date=21 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref> 
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Boichis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Luca Martin (cyclist)|Luca Martin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[David List]]|GER}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Savilia Blunk]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 19 September
+| rowspan=3 | {{flagicon|USA}} [[Soldier Hollow]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260919_mtb/soho_xcc_me_results.pdf|title=Soldier Hollow XCC men's elite results|date=19 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260919_mtb/soho_xcc_we_results_y.pdf|title=Soldier Hollow XCC women's elite results|date=19 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Sam Gaze]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Martina Berta]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Luca Martin (cyclist)|Luca Martin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Alessandra Keller]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Charlie Aldridge]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 2 October
+| rowspan=3 | {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xcc_me_results.pdf|title=Lake Placid XCC men's elite results|date=2 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xcc_we_results_y.pdf|title=Lake Placid XCC women's elite results|date=2 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Martín Vidaurre]]|CHL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Martina Berta]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Luca Schwarzbauer]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Jenny Rissveds]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Filippo Colombo]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sina Frei]]|SUI}}
+|}
+
+===Under 23===
+{| class="wikitable" width=70% style="font-size: 95%;"
+! Date
+! width=20% |Venue
+! width=29% |Podium (Men)
+! width=29% |Podium (Women)
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 1 May
+| rowspan=3 | {{flagicon|KOR}} [[Mona Yongpyong]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_xcc_mu_results.pdf|title=Mona Yongpyong XCC men's Under 23 results|date=1 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_xcc_wu_results.pdf|title=Mona Yongpyong XCC women's Under 23 results|date=1 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Thibaut François (cyclist)|Thibaut François]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Makena Kellerman]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Gustav Heby Pedersen]]|DEN}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Elina Benoit]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 22 May
+| nowrap rowspan=3 | {{flagicon|CZE}} [[Nové Město na Moravě]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260522_mtb/nome_xcc_mu_results.pdf|title=Nové Město XCC men's Under 23 results|date=22 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260522_mtb/nome_xcc_wu_results.pdf|title=Nové Město XCC women's Under 23 results|date=22 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Makena Kellerman]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Naël Rouffiac]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lisa Kristine Jorde]]|NOR}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Alix André-Gallis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 12 June
+| nowrap rowspan=3 | {{flagicon|AUT}} [[Saalfelden]]–[[Leogang]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_xcc_mu_results.pdf|title=Saalfelden–Leogang XCC men's Under 23 results|date=12 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_xcc_wu_results.pdf|title=Saalfelden–Leogang XCC women's Under 23 results|date=12 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Monique Halter]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Thibaut François (cyclist)|Thibaut François]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Bloeme Kalis]]|NED}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Benjamin Krüger]]|GER}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Katrin Embacher]]|AUT}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 19 June
+| rowspan=3 | {{flagicon|SUI}} [[Lenzerheide]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_xcc_mu_results.pdf|title=Lenzerheide XCC men's Under 23 results|date=19 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_xcc_wu_results.pdf|title=Lenzerheide XCC women's Under 23 results|date=19 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Bloeme Kalis]]|NED}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Naël Rouffiac]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Thibaut François (cyclist)|Thibaut François]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Rafaelle Carrier]]|CAN}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 3 July
+| rowspan=3 | {{flagicon|ITA}} [[La Thuile, Aosta Valley|La Thuile]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_xcc_mu_results.pdf|title=La Thuile XCC men's Under 23 results|date=3 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_xcc_wu_results.pdf|title=La Thuile XCC women's Under 23 results|date=3 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Thibaut François (cyclist)|Thibaut François]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Bloeme Kalis]]|NED}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Nicolas Halter]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Monique Halter]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 10 July
+| rowspan=3 | {{flagicon|AND}} [[Pal, Andorra|Pal]]–[[Arinsal]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20250709_mtb/valn_xco_mu_results.pdf |title=Pal–Arinsal XCC men's Under 23 results|date=10 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_xcc_mu_results.pdf|title=Pal–Arinsal XCC women's Under 23 results|date=10 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Thibaut François (cyclist)|Thibaut François]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lisa Kristine Jorde]]|NOR}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Nicolas Halter]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Rafaelle Carrier]]|CAN}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 21 August
+| rowspan=3 | {{flagicon|FRA}} [[Les Gets]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_xcc_mu_results.pdf|title=Les Gets XCC men's Under 23 results|date=21 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_xcc_wu_results.pdf|title=Les Gets XCC women's Under 23 results|date=21 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Gustav Heby Pedersen]]|DEN}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Corvi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Paul Schehl]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Monique Halter]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Benjamin Krüger]]|GER}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Anina Hutter]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 19 September
+| rowspan=3 | {{flagicon|USA}} [[Soldier Hollow]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260919_mtb/soho_xcc_mu_results.pdf|title=Soldier Hollow XCC men's Under 23 results|date=19 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260919_mtb/soho_xcc_wu_results.pdf|title=Soldier Hollow XCC women's Under 23 results|date=19 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Nicolas Halter]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Rafaelle Carrier]]|CAN}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Nikolaj Hougs]]|DEN}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Makena Kellerman]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Gustav Heby Pedersen]]|DEN}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Bloeme Kalis]]|NED}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 2 October
+| rowspan=3 | {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xcc_mu_results.pdf|title=Lake Placid XCC men's Under 23 results|date=2 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xcc_wu_results.pdf|title=Lake Placid XCC women's Under 23 results|date=2 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Alix André-Gallis]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Bethany-Ann Jackson]]|GBR}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Benjamin Krüger]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Rafaelle Carrier]]|CAN}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Naël Rouffiac]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Makena Kellerman]]|USA}}
+|}
+
+==Downhill==
+===Elite===
+{| class="wikitable" width=70% style="font-size: 95%;"
+! Date
+! width=20% |Venue
+! width=29% |Podium (Men)
+! width=29% |Podium (Women)
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 2 May
+| rowspan=3 | {{flagicon|KOR}} [[Mona Yongpyong]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_dhi_me_results_f.pdf|title=Mona Yongpyong DHI men's elite results|date=2 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_dhi_we_results_f.pdf|title=Mona Yongpyong DHI women's elite results|date=2 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Asa Vermette]]|USA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Höll]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Loïc Bruni]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Gloria Scarsi]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Amaury Pierron]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Myriam Nicole]]|FRA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 31 May
+| nowrap rowspan=3 | {{flagicon|FRA}} [[Loudenvielle]]–[[Peyragudes]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260528_mtb/loud_dhi_me_results_f.pdf|title=Loudenvielle–Peyragudes DHI men's elite results|date=31 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260528_mtb/loud_dhi_we_results_f.pdf|title=Loudenvielle–Peyragudes DHI women's elite results|date=31 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Luca Shaw]]|USA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Höll]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Benoît Coulanges]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Gracey Hemstreet]]|CAN}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Jordan Williams (cyclist)|Jordan Williams]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Lisa Baumann]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 13 June
+| rowspan=3 | {{flagicon|AUT}} [[Saalfelden]]–[[Leogang]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_dhi_me_results_f.pdf|title=Saalfelden–Leogang DHI men's elite results|date=13 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_dhi_we_results_f.pdf|title=Saalfelden–Leogang DHI women's elite results|date=13 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Finn Iles]]|CAN}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Höll]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Amaury Pierron]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Marine Cabirou]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Henri Kiefer]]|GER}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Anna Newkirk]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 20 June
+| rowspan=3 | {{flagicon|SUI}} [[Lenzerheide]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_dhi_me_results_f.pdf|title=Lenzerheide DHI men's elite results|date=20 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_dhi_we_results_f.pdf|title=Lenzerheide DHI women's elite results|date=20 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref> 
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Finn Iles]]|CAN}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Anna Newkirk]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Amaury Pierron]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lisa Baumann]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Asa Vermette]]|USA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Gloria Scarsi]]|ITA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 4 July
+| rowspan=3 | {{flagicon|ITA}} [[La Thuile, Aosta Valley|La Thuile]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_dhi_me_results_f.pdf|title=La Thuile DHI men's elite results|date=4 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_dhi_we_results_f.pdf|title=La Thuile DHI women's elite results|date=4 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jordan Williams (cyclist)|Jordan Williams]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Höll]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Asa Vermette]]|USA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lisa Baumann]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Jackson Goldstone]]|CAN}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sacha Earnest]]|NZL}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 11 July
+| rowspan=3 | {{flagicon|AND}} [[Pal, Andorra|Pal]]–[[Arinsal]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_dhi_me_results_f.pdf|title=Pal–Arinsal DHI men's elite results|date=11 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_dhi_we_results_f.pdf|title=Pal–Arinsal DHI women's elite results|date=11 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jordan Williams (cyclist)|Jordan Williams]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Höll]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Reece Wilson]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Gracey Hemstreet]]|CAN}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Ryan Pinkerton]]|USA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sacha Earnest]]|NZL}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 22 August
+| rowspan=3 | {{flagicon|FRA}} [[Les Gets]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_dhi_me_results_f.pdf|title=Les Gets DHI men's elite results|date=22 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_dhi_we_results_f.pdf|title=Les Gets DHI women's elite results|date=22 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Max Alran]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Harriet Harnden]]|GBR}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Andreas Kolb]]|AUT}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Marine Cabirou]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Jackson Goldstone]]|CAN}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Höll]]|AUT}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 27 September
+| rowspan=3 | {{flagicon|CAN}} [[Whistler, British Columbia|Whistler]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260925_mtb/whis_dhi_me_results_f.pdf|title=Whistler DHI men's elite results|date=27 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260925_mtb/whis_dhi_we_results_f.pdf|title=Whistler DHI women's elite results|date=27 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref> 
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Asa Vermette]]|USA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Höll]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Max Alran]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Gracey Hemstreet]]|CAN}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Amaury Pierron]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Lisa Bouladou]]|FRA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 4 October
+| rowspan=3 | {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_dhi_me_results_f.pdf|title=Lake Placid DHI men's elite results|date=4 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_dhi_we_results_f.pdf|title=Lake Placid DHI women's elite results|date=4 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref> 
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Luke Meier-Smith]]|AUS}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Lisa Bouladou]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Andreas Kolb]]|AUT}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Valentina Höll]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Lachlan Stevens-McNab]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Tahnée Seagrave]]|GBR}}
+|}
+
+===Junior===
+{| class="wikitable" width=70% style="font-size: 95%;"
+! Date
+! width=20% |Venue
+! width=29% |Podium (Men)
+! width=29% |Podium (Women)
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 2 May
+| rowspan=3 | {{flagicon|KOR}} [[Mona Yongpyong]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_dhi_mj_results_f.pdf|title=Mona Yongpyong DHI men's junior results|date=2 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260501_mtb/skor_dhi_wj_results_f.pdf|title=Mona Yongpyong DHI women's junior results|date=2 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jonty Williamson]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Aletha Ostgaard]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Malik Boatwright]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Rosa Zierl]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sacha Brizin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Tilly Boadle]]|AUS}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 31 May
+| nowrap rowspan=3 | {{flagicon|FRA}} [[Loudenvielle]]–[[Peyragudes]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260528_mtb/loud_dhi_mj_results_f.pdf|title=Loudenvielle–Peyragudes DHI men's junior results|date=31 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260528_mtb/loud_dhi_wj_results_f.pdf|title=Loudenvielle–Peyragudes DHI women's junior results|date=31 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jonty Williamson]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Rosa Zierl]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Raoul Schneeberger]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lina Frener]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sacha Brizin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Aletha Ostgaard]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 13 June
+| rowspan=3 | {{flagicon|AUT}} [[Saalfelden]]–[[Leogang]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_dhi_mj_results_f.pdf|title=Saalfelden–Leogang DHI men's junior results|date=13 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_dhi_wj_results_f.pdf|title=Saalfelden–Leogang DHI women's junior results|date=13 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jonty Williamson]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Lina Frener]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Malik Boatwright]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Aletha Ostgaard]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Kasper Hickman]]|FIN}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Rosa Marie Jensen]]|DEN}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 20 June
+| rowspan=3 | {{flagicon|SUI}} [[Lenzerheide]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_dhi_mj_results_f.pdf|title=Lenzerheide DHI men's junior results|date=20 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260619_mtb/lenz_dhi_wj_results_f.pdf|title=Lenzerheide DHI women's junior results|date=20 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jonty Williamson]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Lina Frener]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Felix Griffiths]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Aletha Ostgaard]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Ažbe Kalinšek]]|SLO}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Rosa Marie Jensen]]|DEN}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 4 July
+| rowspan=3 | {{flagicon|ITA}} [[La Thuile, Aosta Valley|La Thuile]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_dhi_mj_results_f.pdf|title=La Thuile DHI men's junior results|date=4 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_dhi_wj_results_f.pdf|title=La Thuile DHI women's junior results|date=4 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Kasper Hickman]]|FIN}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Aletha Ostgaard]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Malik Boatwright]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lina Frener]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Sacha Brizin]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Cassandre Peizerat]]|FRA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 11 July
+| rowspan=3 | {{flagicon|AND}} [[Pal, Andorra|Pal]]–[[Arinsal]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_dhi_mj_results_f.pdf|title=Pal–Arinsal DHI men's junior results|date=11 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260708_mtb/valn_dhi_wj_results_f.pdf|title=Pal–Arinsal DHI women's junior results|date=11 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jonty Williamson]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Aletha Ostgaard]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Kasper Hickman]]|FIN}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lina Frener]]|AUT}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Malik Boatwright]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Rosa Marie Jensen]]|DEN}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 22 August
+| rowspan=3 | {{flagicon|FRA}} [[Les Gets]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_dhi_mj_results_f.pdf|title=Les Gets DHI men's junior results|date=22 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260821_mtb/gets_dhi_wj_results_f.pdf|title=Les Gets DHI women's junior results|date=22 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jonty Williamson]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Aletha Ostgaard]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Malik Boatwright]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Cassandre Peizerat]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Elliot Smith (cyclist)|Elliot Smith]]|GBR}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Rosa Marie Jensen]]|DEN}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 27 September
+| rowspan=3 | {{flagicon|CAN}} [[Whistler, British Columbia|Whistler]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260925_mtb/whis_dhi_mj_results_f.pdf|title=Whistler DHI men's junior results|date=27 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260925_mtb/whis_dhi_wj_results_f.pdf|title=Whistler DHI women's junior results|date=27 September 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Camden Rutherfurd]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Aletha Ostgaard]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lois Eller]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Cassandre Peizerat]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Boston Bryant]]|USA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Tilly Boadle]]|AUS}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 4 October
+| rowspan=3 | {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_dhi_mj_results_f.pdf|title=Lake Placid DHI men's junior results|date=4 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_dhi_wj_results_f.pdf|title=Lake Placid DHI women's junior results|date=4 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref> 
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Ryder Wilson]]|CAN}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Tilly Boadle]]|AUS}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Malik Boatwright]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Indy Deavoll]]|NZL}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Noé Forlin]]|SUI}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Aletha Ostgaard]]|NOR}}
+|}
+
+==Cross-country eliminator==
+
+{| class="wikitable" width=70% style="font-size: 95%;"
+! Date
+! width=20% |Venue
+! width=29% |Podium (Men)
+! width=29% |Podium (Women)
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 14 June
+| rowspan=3 | {{flagicon|TUR}} [[Adapazarı|Sakarya]]<ref>{{cite web|url=https://my.raceresult.com/385649/results#1_DA4857|title=Sakarya XCE men's elite results|date=14 June 2026|website=my.raceresult.com|publisher= |access-date= }}</ref><ref>{{cite web|url=https://my.raceresult.com/385649/results#1_B75BB8|title=Sakarya XCE women's elite results|date=14 June 2026|website=my.raceresult.com|publisher= |access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jakob Klemenčič]]|SLO}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Mariia Sukhopalova]]|UKR}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Theo Hauser]]|AUT}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Marion Fromberger]]|GER}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Máté Szakács]]|ROM}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Didi de Vries]]|NED}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 27 June
+| rowspan=3 | {{flagicon|POL}} [[Gdynia]]<ref>{{cite web|url=https://my.raceresult.com/385650/results#1_DA4857|title=Gdynia XCE men's elite results|date=27 June 2026|website=my.raceresult.com|publisher= |access-date= }}</ref><ref>{{cite web|url=https://my.raceresult.com/385650/results#1_272879|title=Gdynia XCE women's elite results|date=27 June 2026|website=my.raceresult.com|publisher= |access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Matic Kranjec Žagar]]|SLO}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Mariia Sukhopalova]]|UKR}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Simon Gegenheimer]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Marion Fromberger]]|GER}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Ede-Károly Molnár]]|ROM}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Didi de Vries]]|NED}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 11 July
+| rowspan=3 | {{flagicon|GER}} [[Aalen]]<ref>{{cite web|url=https://my.raceresult.com/385651/results#1_0BD165|title=Aalen XCE men's elite results|date=11 July 2026|website=my.raceresult.com|publisher= |access-date= }}</ref><ref>{{cite web|url=https://my.raceresult.com/385651/results#1_272879|title=Aalen XCE women's elite results|date=11 July 2026|website=my.raceresult.com|publisher= |access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jakob Klemenčič]]|SLO}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Gaia Tormena]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Theo Hauser]]|AUT}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Marion Fromberger]]|GER}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Jarne Vandersteen]]|BEL}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Mariia Sukhopalova]]|UKR}}
+|}
+
+==Enduro==
+In [[Enduro (mountain biking)|enduro]] races, the downhills are timed and the uphills are mandatory but not timed.
+
+===Elite===
+{| class="wikitable" width=70% style="font-size: 95%;"
+! Date
+! width=20% |Venue
+! width=29% |Podium (Men)
+! width=29% |Podium (Women)
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 30 May
+| nowrap rowspan=3 | {{flagicon|FRA}} [[Loudenvielle]]–[[Peyragudes]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260528_mtb/loud_edr_me_result.pdf|title=Loudenvielle–Peyragudes EDR men's elite results|date=30 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260528_mtb/loud_edr_we_result.pdf|title=Loudenvielle–Peyragudes EDR women's elite results|date=30 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Alex Rudeau]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Ella Conolly]]|GBR}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Raphaël Giambi]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Mélanie Pugin]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Ryan Gilchrist]]|AUS}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Raphaela Richter]]|GER}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 14 June
+| rowspan=3 | {{flagicon|AUT}} [[Saalfelden]]–[[Leogang]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_edr_me_result.pdf|title=Saalfelden-Leogang EDR men's elite results|date=14 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_edr_we_result.pdf|title=Saalfelden-Leogang EDR women's elite results|date=14 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Sławomir Łukasik]]|POL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Winnifred Goldsbury]]|NZL}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lief Rodgers]]|CAN}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Ella Conolly]]|GBR}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Marius Tenet]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Mélanie Pugin]]|FRA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 27–28 June
+| rowspan=3 | {{flagicon|ITA}} [[Fassa Valley|Val di Fassa]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260626_mtb/vdfa_edr_me_result.pdf|title=Val di Fassa EDR men's elite results|date=28 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260626_mtb/vdfa_edr_we_result.pdf|title=Val di Fassa EDR women's elite results|date=28 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Tristan Botteram]]|NED}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Mélanie Pugin]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Tommaso Calonaci]]|ITA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Ella Conolly]]|GBR}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Tommaso Francardo]]|ITA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Winnifred Goldsbury]]|NZL}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 4 July
+| rowspan=3 | {{flagicon|ITA}} [[La Thuile, Aosta Valley|La Thuile]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_edr_me_result.pdf|title=La Thuile EDR men's elite results|date=4 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_edr_we_result.pdf|title=La Thuile EDR women's elite results|date=4 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Raphaël Giambi]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Ella Conolly]]|GBR}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Dailly]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Mélanie Pugin]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Alex Rudeau]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Raphaela Richter]]|GER}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 18–19 July
+| rowspan=3 | {{flagicon|SUI}} [[:fr:Aletsch Arena|Aletsch Arena]]–[[Bellwald]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260717_edr/alet_edr_me_result.pdf|title=Aletsch Arena–Bellwald EDR men's elite results|date=19 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260717_edr/alet_edr_we_result.pdf|title=Aletsch Arena–Bellwald EDR women's elite results|date=19 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Ryan Gilchrist]]|AUS}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Ella Conolly]]|GBR}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Lief Rodgers]]|CAN}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Elly Hoskin]]|CAN}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Dailly]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Nadine Ellecosta]]|ITA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 15–16 August
+| rowspan=3 | {{flagicon|FRA}} [[Morillon, Haute-Savoie|Morillon]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260814_edr/moril_edr_me_result.pdf|title=Morillon EDR men's elite results|date=16 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260814_edr/moril_edr_we_result.pdf|title=Morillon EDR women's elite results|date=16 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Adrien Dailly]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Morgane Charre]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Tarmo Ryynänen]]|FIN}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Nadine Ellecosta]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Gabriel Sainthuile]]|BEL}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Helen Weber]]|GER}}
+|}
+
+===Junior===
+{| class="wikitable" width=70% style="font-size: 95%;"
+! Date
+! width=20% |Venue
+! width=29% |Podium (Men)
+! width=29% |Podium (Women)
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 30 May
+| nowrap rowspan=3 | {{flagicon|FRA}} [[Loudenvielle]]–[[Peyragudes]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260528_mtb/loud_edr_mj_result.pdf|title=Loudenvielle–Peyragudes EDR men's junior results|date=30 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260528_mtb/loud_edr_wj_result.pdf|title=Loudenvielle–Peyragudes EDR women's junior results|date=30 May 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Hugo Marti (cyclist)|Hugo Marti]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Romy Williams]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Harper Nelmes]]|AUS}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Bélinda Baudet]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Jules Janniaud]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Keely Bathurst]]|CAN}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 14 June
+| rowspan=3 | {{flagicon|AUT}} [[Saalfelden]]–[[Leogang]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_edr_mj_result.pdf|title=Saalfelden-Leogang EDR men's junior results|date=14 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260611_mtb/leog_edr_wj_result.pdf|title=Saalfelden-Leogang EDR women's junior results|date=14 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Hugo Marti (cyclist)|Hugo Marti]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Nežka Libnik]]|SLO}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Quirin Bach]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Ella Mårtensson]]|SWE}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Šimon Lehký]]|CZE}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Malin Emily Hoyle]]|SUI}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 27–28 June
+| rowspan=3 | {{flagicon|ITA}} [[Fassa Valley|Val di Fassa]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260626_mtb/vdfa_edr_mj_result.pdf|title=Val di Fassa EDR men's junior results|date=28 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260626_mtb/vdfa_edr_wj_result.pdf|title=Val di Fassa EDR women's junior results|date=28 June 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Harper Nelmes]]|AUS}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Nežka Libnik]]|SLO}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Hugo Marti (cyclist)|Hugo Marti]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Elena Frei]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Lorenzo Cesari]]|ITA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Romy Williams]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 4 July
+| rowspan=3 | {{flagicon|ITA}} [[La Thuile, Aosta Valley|La Thuile]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_edr_mj_result.pdf|title=La Thuile EDR men's junior results|date=4 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260703_mtb/thui_edr_wj_result.pdf|title=La Thuile EDR women's junior results|date=4 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Hugo Marti (cyclist)|Hugo Marti]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Nežka Libnik]]|SLO}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Jules Janniaud]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Bélinda Baudet]]|FRA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Tommy Bougon]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Romy Williams]]|USA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 18–19 July
+| rowspan=3 | {{flagicon|SUI}} [[:fr:Aletsch Arena|Aletsch Arena]]–[[Bellwald]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260717_edr/alet_edr_mj_result.pdf|title=Aletsch Arena–Bellwald EDR men's junior results|date=19 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260717_edr/alet_edr_wj_result.pdf|title=Aletsch Arena–Bellwald EDR women's junior results|date=19 July 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Hugo Marti (cyclist)|Hugo Marti]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Elena Frei]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Nico Schroder]]|NZL}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Romy Williams]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Jules Janniaud]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Nežka Libnik]]|SLO}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 15–16 August
+| rowspan=3 | {{flagicon|FRA}} [[Morillon, Haute-Savoie|Morillon]]<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260814_edr/moril_edr_mj_result.pdf|title=Morillon EDR men's junior results|date=16 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref><ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260814_edr/moril_edr_wj_result.pdf|title=Morillon EDR women's junior results|date=16 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Hugo Marti (cyclist)|Hugo Marti]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Nežka Libnik]]|SLO}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Jules Janniaud]]|FRA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Romy Williams]]|USA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Lorenzo Cesari]]|ITA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Julia Gay]]|FRA}}
+|}
+
+==Marathon==
+
+{| class="wikitable" width=70% style="font-size: 95%;"
+! Date
+! width=20% |Venue
+! width=29% |Podium (Men)
+! width=29% |Podium (Women)
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 21 February
+| nowrap rowspan=3 | {{flagicon|ESP}} [[Calpe]]–[[Benissa]]<ref>{{cite web|url=https://www.uci.org/competition-details/2026/MTB/77198|title=Calpe–Benissa XCM results|date=21 February 2026|website=uci.org|publisher=Union Cycliste Internationale|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Wout Alleman]]|BEL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Anna Weinbeer]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Andreas Seewald]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Natalia Fischer]]|ESP}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[David Valero]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Rosa van Doorn]]|NED}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 9 May
+| nowrap rowspan=3 | {{flagicon|ITA}} [[Capoliveri]]<ref>{{cite web|url=https://www.uci.org/competition-details/2026/MTB/77073|title=Capoliveri XCM results|date=9 May 2026|website=uci.org|publisher=Union Cycliste Internationale|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Jakob Dorigoni]]|ITA}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Anna Weinbeer]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Stefano Goria]]|ITA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Natalia Fischer]]|ESP}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Gioele De Cosmo]]|ITA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Lejla Njemčević]]|BIH}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 31 May
+| rowspan=3 | {{flagicon|AND}} [[Sant Julià de Lòria|Andorra]]<ref>{{cite web|url=https://www.uci.org/competition-details/2026/MTB/77074|title=Andorra XCM results|date=31 May 2026|website=uci.org|publisher=Union Cycliste Internationale|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[David Valero]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Anna Weinbeer]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Héctor Leonardo Páez|Héctor Páez]]|COL}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Natalia Fischer]]|ESP}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Gerardo Ulloa]]|MEX}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Claudia Peretti]]|ITA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 13 June
+| rowspan=3 | {{flagicon|ITA}} [[Sëlva|Selva Val Gardena]]<ref>{{cite web|url=https://www.uci.org/competition-details/2026/MTB/77075|title=Selva Val Gardena XCM results|date=13 June 2026|website=uci.org|publisher=Union Cycliste Internationale|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[David Valero]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Claudia Peretti]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Diego Rosa (cyclist)|Diego Rosa]]|ITA}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Rosa van Doorn]]|NED}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Tim Smeenge]]|NED}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Paula Gorycka]]|POL}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 26 July
+| rowspan=3 | {{flagicon|GER}} [[Kirchzarten]]<ref>{{cite web|url=https://www.uci.org/competition-details/2026/MTB/77076|title=Kirchzarten XCM results|date=26 July 2026|website=uci.org|publisher=Union Cycliste Internationale|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Wout Alleman]]|BEL}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Anna Weinbeer]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[David Valero]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Natalia Fischer]]|ESP}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Davide Foccoli]]|ITA}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Claudia Peretti]]|ITA}}
+|-
+|- bgcolor="#EFEFEF"
+| colspan=4 |
+|- bgcolor="#EFEFEF"
+| rowspan=3 | 20 September
+| rowspan=3 | {{flagicon|ESP}} [[Girona|Girona/Costa Brava]]<ref>{{cite web|url=https://www.uci.org/competition-details/2026/MTB/77078|title=Girona/Costa Brava XCM results|date=20 September 2026|website=uci.org|publisher=Union Cycliste Internationale|access-date= }}</ref>
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[David Valero]]|ESP}}
+| bgcolor="#ffffff" | [[Image:Gold medal icon.svg]] &nbsp; {{flagathlete|[[Anna Weinbeer]]|SUI}}
+|-
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Andreas Seewald]]|GER}}
+| bgcolor="#ffffff" | [[Image:Silver medal icon.svg]] &nbsp; {{flagathlete|[[Claudia Peretti]]|ITA}}
+|-
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Eskil Evensen-Lie]]|NOR}}
+| bgcolor="#ffffff" | [[Image:Bronze medal icon.svg]] &nbsp; {{flagathlete|[[Natalia Fischer]]|ESP}}
+|}
+
+==World Cup standings==
+'''bold''' denotes race winners.
+
+===Cross-country===
+====Men's====
+{{col-begin}}
+{{col-break}}
+
+{| class="wikitable sortable"
+|-
+!colspan=29 align="center"|'''Top 5 men's elite standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xco_me_standings.pdf |title=Men's Elite Standings|date=3 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|KOR<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CZE<br>{{flagicon|CZE|size=20px}}|Nové Město na Moravě}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Soldier Hollow}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|FRA}} '''[[Luca Martin (cyclist)|Luca Martin]]'''
+|align=center|{{tooltip|2=0 points in XCC, 200 points in XCO|200}}
+|align=center|{{tooltip|2=37 points in XCC, 200 points in XCO|237}}
+|align=center|{{tooltip|2=50 points in XCC, 200 points in XCO|250}}
+|align=center|{{tooltip|2=65 points in XCC, 250 points in XCO|'''315'''}}
+|align=center|{{tooltip|2=65 points in XCC, 250 points in XCO|'''315'''}}
+|align=center|{{tooltip|2=40 points in XCC, 62 points in XCO|102}}
+|align=center|{{tooltip|2=65 points in XCC, 150 points in XCO|215}}
+|align=center|{{tooltip|2=65 points in XCC, 120 points in XCO|185}}
+|align=center|{{tooltip|2=40 points in XCC, 140 points in XCO|180}}
+|align=center|'''1999'''
+|-
+|align=center|2
+|{{flagicon|FRA}} [[Adrien Boichis]]
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=36 points in XCC, 130 points in XCO|166}}
+|align=center|{{tooltip|2=38 points in XCC, 250 points in XCO|'''288'''}}
+|align=center|{{tooltip|2=80 points in XCC, 200 points in XCO|280}}
+|align=center|{{tooltip|2=80 points in XCC, 160 points in XCO|240}}
+|align=center|{{tooltip|2=65 points in XCC, 250 points in XCO|'''315'''}}
+|align=center|{{tooltip|2=80 points in XCC, 250 points in XCO|'''330'''}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|'''1619'''
+|-
+|align=center|3
+|{{flagicon|CHL}} [[Martín Vidaurre]]
+|align=center|{{tooltip|2=32 points in XCC, 66 points in XCO|98}}
+|align=center|{{tooltip|2=40 points in XCC, 150 points in XCO|190}}
+|align=center|{{tooltip|2=37 points in XCC, 62 points in XCO|99}}
+|align=center|{{tooltip|2=40 points in XCC, 150 points in XCO|190}}
+|align=center|{{tooltip|2=0 points in XCC, 0 points in XCO|0}}
+|align=center|{{tooltip|2=25 points in XCC, 120 points in XCO|145}}
+|align=center|{{tooltip|2=33 points in XCC, 160 points in XCO|193}}
+|align=center|{{tooltip|2=0 points in XCC, 250 points in XCO|'''250'''}}
+|align=center|{{tooltip|2=80 points in XCC, 160 points in XCO|240}}
+|align=center|'''1405'''
+|-
+|align=center|4
+|{{flagicon|ITA}} [[Simone Avondetto]]
+|align=center|{{tooltip|2=65 points in XCC, 70 points in XCO|135}}
+|align=center|{{tooltip|2=6 points in XCC, 0 points in XCO|6}}
+|align=center|{{tooltip|2=36 points in XCC, 150 points in XCO|186}}
+|align=center|{{tooltip|2=37 points in XCC, 140 points in XCO|177}}
+|align=center|{{tooltip|2=34 points in XCC, 130 points in XCO|164}}
+|align=center|{{tooltip|2=37 points in XCC, 140 points in XCO|177}}
+|align=center|{{tooltip|2=38 points in XCC, 140 points in XCO|178}}
+|align=center|{{tooltip|2=29 points in XCC, 74 points in XCO|103}}
+|align=center|{{tooltip|2=25 points in XCC, 130 points in XCO|155}}
+|align=center|'''1281'''
+|-
+|align=center|5
+|{{flagicon|USA}} [[Bjorn Riley]]
+|align=center|{{tooltip|2=0 points in XCC, 90 points in XCO|90}}
+|align=center|{{tooltip|2=34 points in XCC, 60 points in XCO|94}}
+|align=center|{{tooltip|2=29 points in XCC, 160 points in XCO|189}}
+|align=center|{{tooltip|2=50 points in XCC, 160 points in XCO|210}}
+|align=center|{{tooltip|2=40 points in XCC, 150 points in XCO|190}}
+|align=center|{{tooltip|2=80 points in XCC, 130 points in XCO|210}}
+|align=center|{{tooltip|2=34 points in XCC, 66 points in XCO|100}}
+|align=center|{{tooltip|2=14 points in XCC, 130 points in XCO|144}}
+|align=center|{{tooltip|2=36 points in XCC, 0 points in XCO|36}}
+|align=center|'''1263'''
+<!-- 
+|-
+|align=center|6
+|{{flagicon|GBR}} [[Charlie Aldridge]]
+|align=center|{{tooltip|2=31 points in XCC, 160 points in XCO|191}}
+|align=center|{{tooltip|2=38 points in XCC, 90 points in XCO|128}}
+|align=center|{{tooltip|2=26 points in XCC, 36 points in XCO|62}}
+|align=center|{{tooltip|2=34 points in XCC, 64 points in XCO|98}}
+|align=center|{{tooltip|2=50 points in XCC, 110 points in XCO|160}}
+|align=center|{{tooltip|2=13 points in XCC, 58 points in XCO|71}}
+|align=center|{{tooltip|2=17 points in XCC, 78 points in XCO|95}}
+|align=center|{{tooltip|2=50 points in XCC, 38 points in XCO|88}}
+|align=center|{{tooltip|2=31 points in XCC, 250 points in XCO|'''281'''}}
+|align=center|'''1174'''
+|-
+|align=center|7
+|{{flagicon|SUI}} [[Dario Lillo]]
+|align=center|{{tooltip|2=50 points in XCC, 250 points in XCO|'''300'''}}
+|align=center|{{tooltip|2=50 points in XCC, 120 points in XCO|170}}
+|align=center|{{tooltip|2=0 points in XCC, 90 points in XCO|90}}
+|align=center|{{tooltip|2=38 points in XCC, 95 points in XCO|133}}
+|align=center|{{tooltip|2=38 points in XCC, 38 points in XCO|76}}
+|align=center|{{tooltip|2=26 points in XCC, 85 points in XCO|111}}
+|align=center|{{tooltip|2=26 points in XCC, 110 points in XCO|136}}
+|align=center|{{tooltip|2=28 points in XCC, 42 points in XCO|70}}
+|align=center|{{tooltip|2=35 points in XCC, 52 points in XCO|87}}
+|align=center|'''1173'''
+|-
+|align=center|9
+|{{flagicon|SUI}} [[Filippo Colombo]]
+|align=center|{{tooltip|2=38 points in XCC, 110 points in XCO|148}}
+|align=center|{{tooltip|2=30 points in XCC, 160 points in XCO|190}}
+|align=center|{{tooltip|2=65 points in XCC, 110 points in XCO|175}}
+|align=center|{{tooltip|2=36 points in XCC, 110 points in XCO|146}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=24 points in XCC, 76 points in XCO|100}}
+|align=center|{{tooltip|2=18 points in XCC, 78 points in XCO|96}}
+|align=center|{{tooltip|2=50 points in XCC, 200 points in XCO|250}}
+|align=center|'''1105'''
+ -->
+|}
+
+{{col-break|gap=1em}}
+
+{| class="wikitable sortable"
+|-
+!colspan=29 align="center"|'''Top 5 men's under 23 standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xco_mu_standings_x.pdf|title=Men's Under 23 Standings|date=3 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|KOR<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CZE<br>{{flagicon|CZE|size=20px}}|Nové Město na Moravě}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Soldier Hollow}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|GER}} '''[[Paul Schehl]]'''
+|align=center|{{tooltip|2=25 points in XCC, 100 points in XCO|125}}
+|align=center|{{tooltip|2=40 points in XCC, 0 points in XCO|40}}
+|align=center|{{tooltip|2=40 points in XCC, 125 points in XCO|'''165'''}}
+|align=center|{{tooltip|2=40 points in XCC, 125 points in XCO|'''165'''}}
+|align=center|{{tooltip|2=40 points in XCC, 125 points in XCO|'''165'''}}
+|align=center|{{tooltip|2=40 points in XCC, 125 points in XCO|'''165'''}}
+|align=center|{{tooltip|2=30 points in XCC, 80 points in XCO|110}}
+|align=center|{{tooltip|2=19 points in XCC, 65 points in XCO|84}}
+|align=center|{{tooltip|2=19 points in XCC, 28 points in XCO|47}}
+|align=center|'''1066'''
+|-
+|align=center|2
+|{{flagicon|ESP}} [[Thibaut François (cyclist)|Thibaut François]]
+|align=center|{{tooltip|2=40 points in XCC, 80 points in XCO|120}}
+|align=center|{{tooltip|2=17 points in XCC, 125 points in XCO|'''142'''}}
+|align=center|{{tooltip|2=30 points in XCC, 70 points in XCO|100}}
+|align=center|{{tooltip|2=25 points in XCC, 100 points in XCO|125}}
+|align=center|{{tooltip|2=30 points in XCC, 75 points in XCO|105}}
+|align=center|{{tooltip|2=30 points in XCC, 100 points in XCO|130}}
+|align=center|{{tooltip|2=15 points in XCC, 45 points in XCO|60}}
+|align=center|{{tooltip|2=14 points in XCC, 34 points in XCO|48}}
+|align=center|{{tooltip|2=18 points in XCC, 52 points in XCO|70}}
+|align=center|'''900'''
+|-
+|align=center|3
+|{{flagicon|SUI}} [[Nicolas Halter]]
+|align=center|{{tooltip|2=20 points in XCC, 125 points in XCO|'''145'''}}
+|align=center|{{tooltip|2=20 points in XCC, 55 points in XCO|75}}
+|align=center|{{tooltip|2=18 points in XCC, 75 points in XCO|93}}
+|align=center|{{tooltip|2=18 points in XCC, 49 points in XCO|67}}
+|align=center|{{tooltip|2=25 points in XCC, 100 points in XCO|125}}
+|align=center|{{tooltip|2=25 points in XCC, 80 points in XCO|105}}
+|align=center|{{tooltip|2=17 points in XCC, 65 points in XCO|82}}
+|align=center|{{tooltip|2=40 points in XCC, 51 points in XCO|91}}
+|align=center|{{tooltip|2=17 points in XCC, 55 points in XCO|72}}
+|align=center|'''855'''
+|-
+|align=center|4
+|{{flagicon|DEN}} [[Gustav Heby Pedersen]]
+|align=center|{{tooltip|2=30 points in XCC, 43 points in XCO|73}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=16 points in XCC, 42 points in XCO|58}}
+|align=center|{{tooltip|2=14 points in XCC, 70 points in XCO|84}}
+|align=center|{{tooltip|2=20 points in XCC, 70 points in XCO|90}}
+|align=center|{{tooltip|2=19 points in XCC, 75 points in XCO|94}}
+|align=center|{{tooltip|2=40 points in XCC, 125 points in XCO|'''165'''}}
+|align=center|{{tooltip|2=25 points in XCC, 55 points in XCO|80}}
+|align=center|{{tooltip|2=15 points in XCC, 65 points in XCO|80}}
+|align=center|'''724'''
+|-
+|align=center|5
+|{{flagicon|GER}} [[Benjamin Krüger]]
+|align=center|{{tooltip|2=18 points in XCC, 47 points in XCO|65}}
+|align=center|{{tooltip|2=0 points in XCC, 39 points in XCO|39}}
+|align=center|{{tooltip|2=25 points in XCC, 25 points in XCO|50}}
+|align=center|{{tooltip|2=0 points in XCC, 60 points in XCO|60}}
+|align=center|{{tooltip|2=0 points in XCC, 50 points in XCO|50}}
+|align=center|{{tooltip|2=15 points in XCC, 26 points in XCO|41}}
+|align=center|{{tooltip|2=25 points in XCC, 100 points in XCO|125}}
+|align=center|{{tooltip|2=15 points in XCC, 125 points in XCO|'''140'''}}
+|align=center|{{tooltip|2=30 points in XCC, 130 points in XCO|130}}
+|align=center|'''700'''
+<!-- 
+|-
+|align=center|6
+|{{flagicon|FRA}} [[Naël Rouffiac]]
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=30 points in XCC, 80 points in XCO|110}}
+|align=center|{{tooltip|2=17 points in XCC, 80 points in XCO|97}}
+|align=center|{{tooltip|2=30 points in XCC, 65 points in XCO|95}}
+|align=center|{{tooltip|2=17 points in XCC, 37 points in XCO|54}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=0 points in XCC, 70 points in XCO|70}}
+|align=center|{{tooltip|2=18 points in XCC, 100 points in XCO|118}}
+|align=center|{{tooltip|2=25 points in XCC, 125 points in XCO|'''150'''}}
+|align=center|'''694'''
+|-
+|align=center|7
+|{{flagicon|FRA}} [[Alix André-Gallis]]
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=25 points in XCC, 100 points in XCO|125}}
+|align=center|{{tooltip|2=20 points in XCC, 100 points in XCO|120}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=16 points in XCC, 43 points in XCO|59}}
+|align=center|{{tooltip|2=18 points in XCC, 65 points in XCO|83}}
+|align=center|{{tooltip|2=20 points in XCC, 75 points in XCO|95}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=40 points in XCC, 80 points in XCO|120}}
+|align=center|'''602'''
+|-
+|align=center|8
+|{{flagicon|NED}} [[Rens Teunissen van Manen]]
+|align=center|{{tooltip|2=0 points in XCC, 52 points in XCO|52}}
+|align=center|{{tooltip|2=19 points in XCC, 70 points in XCO|89}}
+|align=center|{{tooltip|2=15 points in XCC, 45 points in XCO|60}}
+|align=center|{{tooltip|2=20 points in XCC, 80 points in XCO|100}}
+|align=center|{{tooltip|2=4 points in XCC, 52 points in XCO|56}}
+|align=center|{{tooltip|2=11 points in XCC, 51 points in XCO|62}}
+|align=center|{{tooltip|2=0 points in XCC, 46 points in XCO|46}}
+|align=center|{{tooltip|2=0 points in XCC, 42 points in XCO|42}}
+|align=center|{{tooltip|2=0 points in XCC, 60 points in XCO|60}}
+|align=center|'''567'''
+ -->
+|}
+
+{{col-end}}
+
+====Women's====
+{{col-begin}}
+{{col-break}}
+
+{| class="wikitable sortable"
+|-
+!colspan=29 align="center"|'''Top 5 women's elite standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xco_we_standings.pdf|title=Women's Elite Standings|date=3 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|KOR<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CZE<br>{{flagicon|CZE|size=20px}}|Nové Město na Moravě}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Soldier Hollow}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|SWE}} '''[[Jenny Rissveds]]'''
+|align=center|{{tooltip|2=38 points in XCC, 200 points in XCO|238}}
+|align=center|{{tooltip|2=35 points in XCC, 200 points in XCO|235}}
+|align=center|{{tooltip|2=65 points in XCC, 250 points in XCO|'''315'''}}
+|align=center|{{tooltip|2=34 points in XCC, 250 points in XCO|'''284'''}}
+|align=center|{{tooltip|2=80 points in XCC, 150 points in XCO|230}}
+|align=center|{{tooltip|2=80 points in XCC, 250 points in XCO|'''330'''}}
+|align=center|{{tooltip|2=65 points in XCC, 200 points in XCO|265}}
+|align=center|{{tooltip|2=38 points in XCC, 110 points in XCO|148}}
+|align=center|{{tooltip|2=65 points in XCC, 90 points in XCO|155}}
+|align=center|'''2200'''
+|-
+|align=center|2
+|{{flagicon|SUI}} [[Sina Frei]]
+|align=center|{{tooltip|2=80 points in XCC, 250 points in XCO|'''330'''}}
+|align=center|{{tooltip|2=38 points in XCC, 160 points in XCO|198}}
+|align=center|{{tooltip|2=80 points in XCC, 100 points in XCO|180}}
+|align=center|{{tooltip|2=37 points in XCC, 150 points in XCO|187}}
+|align=center|{{tooltip|2=65 points in XCC, 130 points in XCO|195}}
+|align=center|{{tooltip|2=35 points in XCC, 160 points in XCO|195}}
+|align=center|{{tooltip|2=80 points in XCC, 250 points in XCO|'''330'''}}
+|align=center|{{tooltip|2=50 points in XCC, 160 points in XCO|210}}
+|align=center|{{tooltip|2=50 points in XCC, 250 points in XCO|'''300'''}}
+|align=center|'''2125'''
+|-
+|align=center|3
+|{{flagicon|ITA}} [[Martina Berta]]
+|align=center|{{tooltip|2=50 points in XCC, 140 points in XCO|190}}
+|align=center|{{tooltip|2=34 points in XCC, 85 points in XCO|119}}
+|align=center|{{tooltip|2=29 points in XCC, 130 points in XCO|159}}
+|align=center|{{tooltip|2=25 points in XCC, 130 points in XCO|155}}
+|align=center|{{tooltip|2=37 points in XCC, 250 points in XCO|'''287'''}}
+|align=center|{{tooltip|2=34 points in XCC, 200 points in XCO|234}}
+|align=center|{{tooltip|2=36 points in XCC, 120 points in XCO|156}}
+|align=center|{{tooltip|2=80 points in XCC, 250 points in XCO|'''330'''}}
+|align=center|{{tooltip|2=80 points in XCC, 200 points in XCO|280}}
+|align=center|'''1910'''
+|-
+|align=center|4
+|{{flagicon|USA}} [[Savilia Blunk]]
+|align=center|{{tooltip|2=27 points in XCC, 80 points in XCO|107}}
+|align=center|{{tooltip|2=28 points in XCC, 130 points in XCO|158}}
+|align=center|{{tooltip|2=37 points in XCC, 140 points in XCO|177}}
+|align=center|{{tooltip|2=80 points in XCC, 160 points in XCO|240}}
+|align=center|{{tooltip|2=50 points in XCC, 200 points in XCO|250}}
+|align=center|{{tooltip|2=37 points in XCC, 150 points in XCO|187}}
+|align=center|{{tooltip|2=50 points in XCC, 160 points in XCO|210}}
+|align=center|{{tooltip|2=32 points in XCC, 150 points in XCO|182}}
+|align=center|{{tooltip|2=35 points in XCC, 110 points in XCO|145}}
+|align=center|'''1656'''
+|-
+|align=center|5
+|{{flagicon|AUT}} [[Laura Stigger]]
+|align=center|{{tooltip|2=40 points in XCC, 130 points in XCO|170}}
+|align=center|{{tooltip|2=65 points in XCC, 250 points in XCO|'''315'''}}
+|align=center|{{tooltip|2=24 points in XCC, 52 points in XCO|76}}
+|align=center|{{tooltip|2=36 points in XCC, 140 points in XCO|176}}
+|align=center|{{tooltip|2=32 points in XCC, 160 points in XCO|192}}
+|align=center|{{tooltip|2=65 points in XCC, 140 points in XCO|205}}
+|align=center|{{tooltip|2=38 points in XCC, 95 points in XCO|133}}
+|align=center|{{tooltip|2=33 points in XCC, 95 points in XCO|128}}
+|align=center|{{tooltip|2=33 points in XCC, 120 points in XCO|153}}
+|align=center|'''1548'''
+|}
+
+{{col-break|gap=1em}}
+{| class="wikitable sortable"
+|-
+!colspan=29 align="center"|'''Top 5 women's under 23 standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xco_wu_standings.pdf|title=Women's Under 23 Standings|date=3 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date= }}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|KOR<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CZE<br>{{flagicon|CZE|size=20px}}|Nové Město na Moravě}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Soldier Hollow}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|ITA}} '''[[Valentina Corvi]]'''
+|align=center|{{tooltip|2=30 points in XCC, 125 points in XCO|'''155'''}}
+|align=center|{{tooltip|2=25 points in XCC, 80 points in XCO|105}}
+|align=center|{{tooltip|2=14 points in XCC, 125 points in XCO|'''139'''}}
+|align=center|{{tooltip|2=30 points in XCC, 125 points in XCO|'''155'''}}
+|align=center|{{tooltip|2=40 points in XCC, 125 points in XCO|'''165'''}}
+|align=center|{{tooltip|2=40 points in XCC, 125 points in XCO|'''165'''}}
+|align=center|{{tooltip|2=40 points in XCC, 125 points in XCO|'''165'''}}
+|align=center|{{tooltip|2=19 points in XCC, 125 points in XCO|'''144'''}}
+|align=center|{{tooltip|2=0 points in XCC, 0 points in XCO|0}}
+|align=center|'''1193'''
+|-
+|align=center|2
+|{{flagicon|SUI}} [[Fiona Schibler]]
+|align=center|{{tooltip|2=20 points in XCC, 65 points in XCO|85}}
+|align=center|{{tooltip|2=11 points in XCC, 65 points in XCO|76}}
+|align=center|{{tooltip|2=0 points in XCC, 100 points in XCO|100}}
+|align=center|{{tooltip|2=10 points in XCC, 75 points in XCO|85}}
+|align=center|{{tooltip|2=Did not start in XCC, 35 points in XCO|35}}
+|align=center|{{tooltip|2=7 points in XCC, 80 points in XCO|87}}
+|align=center|{{tooltip|2=4 points in XCC, 55 points in XCO|59}}
+|align=center|{{tooltip|2=14 points in XCC, 75 points in XCO|89}}
+|align=center|{{tooltip|2=11 points in XCC, 125 points in XCO|136}}
+|align=center|'''760'''
+|-
+|align=center|3
+|{{flagicon|NOR}} [[Lisa Kristine Jorde]]
+|align=center|{{tooltip|2=12 points in XCC, 45 points in XCO|57}}
+|align=center|{{tooltip|2=30 points in XCC, 60 points in XCO|90}}
+|align=center|{{tooltip|2=13 points in XCC, 0 points in XCO|13}}
+|align=center|{{tooltip|2=17 points in XCC, 100 points in XCO|117}}
+|align=center|{{tooltip|2=19 points in XCC, 75 points in XCO|94}}
+|align=center|{{tooltip|2=30 points in XCC, 42 points in XCO|72}}
+|align=center|{{tooltip|2=20 points in XCC, 40 points in XCO|60}}
+|align=center|{{tooltip|2=20 points in XCC, 65 points in XCO|85}}
+|align=center|{{tooltip|2=18 points in XCC, 100 points in XCO|118}}
+|align=center|'''726'''
+|-
+|align=center|4
+|{{flagicon|SUI}} [[Monique Halter]]
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=6 points in XCC, 50 points in XCO|56}}
+|align=center|{{tooltip|2=40 points in XCC, 80 points in XCO|120}}
+|align=center|{{tooltip|2=20 points in XCC, 65 points in XCO|85}}
+|align=center|{{tooltip|2=25 points in XCC, 100 points in XCO|125}}
+|align=center|{{tooltip|2=18 points in XCC, 50 points in XCO|68}}
+|align=center|{{tooltip|2=30 points in XCC, 75 points in XCO|105}}
+|align=center|{{tooltip|2=11 points in XCC, 60 points in XCO|71}}
+|align=center|{{tooltip|2=8 points in XCC, 70 points in XCO|78}}
+|align=center|'''712'''
+|-
+|align=center|5
+|{{flagicon|CAN}} [[Rafaelle Carrier]]
+|align=center|{{tooltip|2=14 points in XCC, 51 points in XCO|65}}
+|align=center|{{tooltip|2=9 points in XCC, 36 points in XCO|45}}
+|align=center|{{tooltip|2=18 points in XCC, 47 points in XCO|65}}
+|align=center|{{tooltip|2=25 points in XCC, 52 points in XCO|77}}
+|align=center|{{tooltip|2=13 points in XCC, 40 points in XCO|53}}
+|align=center|{{tooltip|2=20 points in XCC, 40 points in XCO|65}}
+|align=center|{{tooltip|2=19 points in XCC, 60 points in XCO|79}}
+|align=center|{{tooltip|2=40 points in XCC, 100 points in XCO|140}}
+|align=center|{{tooltip|2=30 points in XCC, 75 points in XCO|105}}
+|align=center|'''694'''
+<!-- 
+|-
+|align=center|6
+|{{flagicon|AUT}} [[Katrin Embacher]]
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=20 points in XCC, 125 points in XCO|'''145'''}}
+|align=center|{{tooltip|2=25 points in XCC, 75 points in XCO|100}}
+|align=center|{{tooltip|2=16 points in XCC, 55 points in XCO|71}}
+|align=center|{{tooltip|2=18 points in XCC, 65 points in XCO|81}}
+|align=center|{{tooltip|2=14 points in XCC, 70 points in XCO|84}}
+|align=center|{{tooltip|2=14 points in XCC, 80 points in XCO|94}}
+|align=center|{{tooltip|2=7 points in XCC, 42 points in XCO|49}}
+|align=center|{{tooltip|2=4 points in XCC, 52 points in XCO|56}}
+|align=center|'''687'''
+|-
+|align=center|7
+|{{flagicon|USA}} [[Makena Kellerman]]
+|align=center|{{tooltip|2=40 points in XCC, 55 points in XCO|95}}
+|align=center|{{tooltip|2=40 points in XCC, 45 points in XCO|85}}
+|align=center|{{tooltip|2=10 points in XCC, 52 points in XCO|62}}
+|align=center|{{tooltip|2=19 points in XCC, 80 points in XCO|99}}
+|align=center|{{tooltip|2=0 points in XCC, 41 points in XCO|41}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=18 points in XCC, 43 points in XCO|61}}
+|align=center|{{tooltip|2=30 points in XCC, 80 points in XCO|110}}
+|align=center|{{tooltip|2=25 points in XCC, 51 points in XCO|76}}
+|align=center|'''629'''
+|-
+|align=center|8
+|{{flagicon|CAN}} [[Ella MacPhee]]
+|align=center|{{tooltip|2=18 points in XCC, 52 points in XCO|70}}
+|align=center|{{tooltip|2=15 points in XCC, 70 points in XCO|85}}
+|align=center|{{tooltip|2=19 points in XCC, 50 points in XCO|69}}
+|align=center|{{tooltip|2=14 points in XCC, 0 points in XCO|14}}
+|align=center|{{tooltip|2=17 points in XCC, 80 points in XCO|97}}
+|align=center|{{tooltip|2=15 points in XCC, 100 points in XCO|115}}
+|align=center|{{tooltip|2=13 points in XCC, 65 points in XCO|78}}
+|align=center|{{tooltip|2=15 points in XCC, 70 points in XCO|85}}
+|align=center|{{tooltip|2=10 points in XCC, 0 points in XCO|10}}
+|align=center|'''623'''
+ -->
+|}
+
+{{col-end}}
+
+===Cross-country short track===
+====Elite====
+
+{{col-begin}}
+{{col-break}}
+
+{| class="wikitable sortable"
+|-
+!colspan=28 align="center"|'''Top 5 men's elite standings'''<ref>{{cite web |url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xcc_me_standings.pdf |title=Men's elite standings|date=2 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=2 October 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|KOR<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CZE<br>{{flagicon|CZE|size=20px}}|Nové Město na Moravě}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Soldier Hollow}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|FRA}} '''[[Luca Martin (cyclist)|Luca Martin]]'''
+|align=center|0
+|align=center|130
+|align=center|160
+|align=center|200
+|align=center|200
+|align=center|150
+|align=center|200
+|align=center|200
+|align=center|150
+|align=center|'''1390'''
+|-
+|align=center|2
+|{{flagicon|FRA}} [[Adrien Boichis]]
+|align=center|DNS
+|align=center|120
+|align=center|140
+|align=center|'''250'''
+|align=center|'''250'''
+|align=center|200
+|align=center|'''250'''
+|align=center|DNS
+|align=center|DNS
+|align=center|'''1210'''
+|-
+|align=center|3
+|{{flagicon|FRA}} [[Mathis Azzaro]]
+|align=center|'''250'''
+|align=center|'''250'''
+|align=center|95
+|align=center|110
+|align=center|110
+|align=center|29
+|align=center|150
+|align=center|150
+|align=center|DNS
+|align=center|'''1144'''
+|-
+|align=center|4
+|{{flagicon|USA}} [[Bjorn Riley]]
+|align=center|0
+|align=center|100
+|align=center|78
+|align=center|160
+|align=center|150
+|align=center|'''250'''
+|align=center|100
+|align=center|48
+|align=center|120
+|align=center|'''1006'''
+|-
+|align=center|5
+|{{flagicon|ITA}} [[Simone Avondetto]]
+|align=center|200
+|align=center|32
+|align=center|120
+|align=center|130
+|align=center|100
+|align=center|130
+|align=center|140
+|align=center|78
+|align=center|70
+|align=center|'''1000'''
+|}
+ 
+{{col-break|gap=1em}}
+
+{| class="wikitable sortable"
+|-
+!colspan=28 align="center"|'''Top 5 elite standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xcc_we_standings.pdf|title=Women's elite standings|date=2 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=2 October 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|KOR<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CZE<br>{{flagicon|CZE|size=20px}}|Nové Město na Moravě}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Soldier Hollow}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|SUI}} '''[[Sina Frei]]'''
+|align=center|'''250'''
+|align=center|140
+|align=center|'''250'''
+|align=center|130
+|align=center|200
+|align=center|110
+|align=center|'''250'''
+|align=center|160
+|align=center|160
+|align=center|'''1650'''
+|-
+|align=center|2
+|{{flagicon|SWE}} [[Jenny Rissveds]]
+|align=center|140
+|align=center|110
+|align=center|200
+|align=center|100
+|align=center|'''250'''
+|align=center|'''250'''
+|align=center|200
+|align=center|140
+|align=center|200
+|align=center|'''1590'''
+|-
+|align=center|3
+|{{flagicon|ITA}} [[Martina Berta]]
+|align=center|160
+|align=center|100
+|align=center|78
+|align=center|70
+|align=center|130
+|align=center|100
+|align=center|120
+|align=center|'''250'''
+|align=center|'''250'''
+|align=center|'''1258'''
+|-
+|align=center|4
+|{{flagicon|USA}} [[Savilia Blunk]]
+|align=center|74
+|align=center|76
+|align=center|130
+|align=center|'''250'''
+|align=center|160
+|align=center|130
+|align=center|160
+|align=center|90
+|align=center|110
+|align=center|'''1180'''
+|-
+|align=center|5
+|{{flagicon|AUT}} [[Laura Stigger]]
+|align=center|150
+|align=center|200
+|align=center|68
+|align=center|120
+|align=center|90
+|align=center|200
+|align=center|140
+|align=center|95
+|align=center|95
+|align=center|'''1158'''
+|}
+{{col-end}}
+
+====Under 23====
+
+{{col-begin}}
+{{col-break}}
+
+{| class="wikitable sortable"
+|-
+!colspan=28 align="center"|'''Top 5 men's under 23 standings'''<ref>{{cite web |url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xcc_mu_standings.pdf |title=Men's under 23 standings|date=2 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=2 October 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|KOR<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CZE<br>{{flagicon|CZE|size=20px}}|Nové Město na Moravě}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Soldier Hollow}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|GER}} '''[[Paul Schehl]]'''
+|align=center|80
+|align=center|'''125'''
+|align=center|'''125'''
+|align=center|'''125'''
+|align=center|'''125'''
+|align=center|'''125'''
+|align=center|100
+|align=center|70
+|align=center|70
+|align=center|'''945'''
+|-
+|align=center|2
+|{{flagicon|ESP}} [[Thibaut François (cyclist)|Thibaut François]]
+|align=center|'''125'''
+|align=center|60
+|align=center|100
+|align=center|80
+|align=center|100
+|align=center|100
+|align=center|52
+|align=center|51
+|align=center|65
+|align=center|'''733'''
+|-
+|align=center|3
+|{{flagicon|SUI}} [[Nicolas Halter]]
+|align=center|75
+|align=center|75
+|align=center|65
+|align=center|65
+|align=center|80
+|align=center|80
+|align=center|60
+|align=center|'''125'''
+|align=center|60
+|align=center|'''685'''
+|-
+|align=center|4
+|{{flagicon|DEN}} [[Gustav Heby Pedersen]]
+|align=center|100
+|align=center|DNS
+|align=center|55
+|align=center|51
+|align=center|75
+|align=center|70
+|align=center|'''125'''
+|align=center|80
+|align=center|52
+|align=center|'''608'''
+|-
+|align=center|5
+|{{flagicon|FRA}} [[Naël Rouffiac]]
+|align=center|DNS
+|align=center|100
+|align=center|60
+|align=center|100
+|align=center|60
+|align=center|DNS
+|align=center|38
+|align=center|65
+|align=center|80
+|align=center|'''503'''
+|}
+ 
+{{col-break|gap=1em}}
+
+{| class="wikitable sortable"
+|-
+!colspan=28 align="center"|'''Top 5 women's under 23 standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_xcc_wu_standings.pdf|title=Women's under 23 standings|date=2 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=2 October 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|KOR<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CZE<br>{{flagicon|CZE|size=20px}}|Nové Město na Moravě}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Soldier Hollow}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|ITA}} '''[[Valentina Corvi]]'''
+|align=center|100
+|align=center|80
+|align=center|51
+|align=center|100
+|align=center|'''125'''
+|align=center|'''125'''
+|align=center|'''125'''
+|align=center|70
+|align=center|0
+|align=center|'''776'''
+|-
+|align=center|2
+|{{flagicon|CAN}} [[Rafaelle Carrier]]
+|align=center|51
+|align=center|46
+|align=center|65
+|align=center|80
+|align=center|50
+|align=center|80
+|align=center|70
+|align=center|'''125'''
+|align=center|100
+|align=center|'''667'''
+|-
+|align=center|3
+|{{flagicon|USA}} [[Makena Kellerman]]
+|align=center|'''125'''
+|align=center|'''125'''
+|align=center|47
+|align=center|70
+|align=center|35
+|align=center|DNS
+|align=center|65
+|align=center|100
+|align=center|80
+|align=center|'''647'''
+|-
+|align=center|4
+|{{flagicon|NED}} [[Bloeme Kalis]]
+|align=center|DNS
+|align=center|65
+|align=center|100
+|align=center|'''125'''
+|align=center|100
+|align=center|70
+|align=center|32
+|align=center|80
+|align=center|75
+|align=center|'''647'''
+|-
+|align=center|5
+|{{flagicon|NOR}} [[Lisa Kristine Jorde]]
+|align=center|49
+|align=center|100
+|align=center|50
+|align=center|60
+|align=center|70
+|align=center|100
+|align=center|75
+|align=center|75
+|align=center|65
+|align=center|'''644'''
+|}
+{{col-end}}
+
+===Downhill===
+====Men's====
+{{col-begin}}
+{{col-break}}
+
+{| class="wikitable sortable"
+|-
+!colspan=27 align="center"|'''Top 5 men's elite standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_dhi_me_standings.pdf|title=Men's Elite Standings|date=4 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=5 October 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|POL<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Loudenvielle–Peyragudes}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CAN<br>{{flagicon|CAN|size=20px}}|Whistler}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|USA}} '''[[Asa Vermette]]'''
+|align=center|{{tooltip|2=Qualification=50 points, Final=250 points|'''300'''}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=0 points|0}}
+|align=center|{{tooltip|2=Qualification=15 points, Final=30 points|45}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=180 points|180}}
+|align=center|{{tooltip|2=Qualification=22 points, Final=210 points|232}}
+|align=center|{{tooltip|2=Qualification=5 points, Final=160 points|165}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=125 points|125}}
+|align=center|{{tooltip|2=Qualification=50 points, Final=250 points|'''300'''}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=95 points|95}}
+|align=center|'''1442'''
+|-
+|align=center|2
+|{{flagicon|GBR}} [[Jordan Williams (cyclist)|Jordan Williams]]
+|align=center|{{tooltip|2=Qualification=14 points, Final=36 points|50}}
+|align=center|{{tooltip|2=Qualification=50 points, Final=180 points|230}}
+|align=center|{{tooltip|2=Qualification=20 points, Final=46 points|66}}
+|align=center|{{tooltip|2=Qualification=10 points, Final=125 points|135}}
+|align=center|{{tooltip|2=Qualification=50 points, Final=250 points|'''300'''}}
+|align=center|{{tooltip|2=Qualification=22 points, Final=250 points|'''272'''}}
+|align=center|{{tooltip|2=Qualification=25 points, Final=110 points|135}}
+|align=center|{{tooltip|2=Qualification=15 points, Final=48 points|63}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=125 points|125}}
+|align=center|'''1376'''
+|-
+|align=center|3
+|{{flagicon|FRA}} [[Amaury Pierron]]
+|align=center|{{tooltip|2=Qualification=40 points, Final=180 points|220}}
+|align=center|{{tooltip|2=Qualification=40 points, Final=50 points|90}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=210 points|210}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=210 points|210}}
+|align=center|{{tooltip|2=Qualification=12 points, Final=110 points|122}}
+|align=center|{{tooltip|2=Qualification=20 points, Final=36 points|56}}
+|align=center|{{tooltip|2=Qualification=22 points, Final=38 points|60}}
+|align=center|{{tooltip|2=Qualification=25 points, Final=180 points|205}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=Did not start|0}}
+|align=center|'''1173'''
+|-
+|align=center|4
+|{{flagicon|CAN}} [[Finn Iles]]
+|align=center|{{tooltip|2=Qualification=13 points, Final=32 points|45}}
+|align=center|{{tooltip|2=Qualification=22 points, Final=160 points|182}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=250 points|'''250'''}}
+|align=center|{{tooltip|2=Qualification=30 points, Final=250 points|'''280'''}}
+|align=center|{{tooltip|2=Qualification=8 points, Final=50 points|58}}
+|align=center|{{tooltip|2=Qualification=30 points, Final=140 points|170}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=Did not start|0}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=140 points|140}}
+|align=center|'''1125'''
+|-
+|align=center|5
+|{{flagicon|FRA}} [[Max Alran]]
+|align=center|{{tooltip|2=Qualification=0 points, Final=80 points|80}}
+|align=center|{{tooltip|2=Qualification=12 points, Final=95 points|107}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=140 points|140}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=Did not start|0}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=65 points|65}}
+|align=center|{{tooltip|2=Qualification=15 points, Final=68 points|83}}
+|align=center|{{tooltip|2=Qualification=50 points, Final=250 points|'''300'''}}
+|align=center|{{tooltip|2=Qualification=40 points, Final=210 points|250}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=58 points|58}}
+|align=center|'''1083'''
+|}
+
+{{col-break|gap=1em}}
+{| class="wikitable sortable"
+|-
+!colspan=27 align="center"|'''Top 5 men's junior standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_dhi_mj_standings.pdf|title=Men's Junior Standings|date=4 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=5 October 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|POL<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Loudenvielle–Peyragudes}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CAN<br>{{flagicon|CAN|size=20px}}|Whistler}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|NZL}} '''[[Jonty Williamson]]'''
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|9
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|DNS
+|align=center|DNS
+|align=center|'''369'''
+|-
+|align=center|2
+|{{flagicon|NZL}} [[Malik Boatwright]]
+|align=center|50
+|align=center|DNS
+|align=center|50
+|align=center|0
+|align=center|50
+|align=center|45
+|align=center|50
+|align=center|10
+|align=center|50
+|align=center|'''305'''
+|-
+|align=center|3
+|{{flagicon|NZL}} [[Camden Rutherfurd]]
+|align=center|40
+|align=center|DNS
+|align=center|DNS
+|align=center|40
+|align=center|8
+|align=center|24
+|align=center|30
+|align=center|'''60'''
+|align=center|35
+|align=center|'''237'''
+|-
+|align=center|4
+|{{flagicon|FRA}} [[Sacha Brizin]]
+|align=center|45
+|align=center|45
+|align=center|DNS
+|align=center|28
+|align=center|45
+|align=center|35
+|align=center|26
+|align=center|DNS
+|align=center|DNS
+|align=center|'''224'''
+|-
+|align=center|5
+|{{flagicon|SUI}} [[Raoul Schneeberger]]
+|align=center|24
+|align=center|50
+|align=center|35
+|align=center|8
+|align=center|40
+|align=center|28
+|align=center|DNS
+|align=center|DNS
+|align=center|30
+|align=center|'''215'''
+|}
+{{col-end}}
+
+====Women's====
+{{col-begin}}
+{{col-break}}
+{| class="wikitable sortable"
+|-
+!colspan=27 align="center"|'''Top 5 women's elite standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_dhi_we_standings.pdf|title=Women's Elite Standings|date=4 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=5 October 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|POL<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Loudenvielle–Peyragudes}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CAN<br>{{flagicon|CAN|size=20px}}|Whistler}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|AUT}} '''[[Valentina Höll]]'''
+|align=center|{{tooltip|2=Qualification=16 points, Final=250 points|'''266'''}}
+|align=center|{{tooltip|2=Qualification=50 points, Final=250 points|'''300'''}}
+|align=center|{{tooltip|2=Qualification=30 points, Final=250 points|'''280'''}}
+|align=center|{{tooltip|2=Qualification=14 points, Final=50 points|64}}
+|align=center|{{tooltip|2=Qualification=50 points, Final=250 points|'''300'''}}
+|align=center|{{tooltip|2=Qualification=50 points, Final=250 points|'''300'''}}
+|align=center|{{tooltip|2=Qualification=50 points, Final=180 points|230}}
+|align=center|{{tooltip|2=Qualification=20 points, Final=250 points|'''270'''}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=210 points|210}}
+|align=center|'''2220'''
+|-
+|align=center|2
+|{{flagicon|GBR}} [[Harriet Harnden]]
+|align=center|{{tooltip|2=Qualification=50 points, Final=150 points|200}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=90 points|90}}
+|align=center|{{tooltip|2=Qualification=20 points, Final=80 points|100}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=120 points|120}}
+|align=center|{{tooltip|2=Qualification=10 points, Final=60 points|70}}
+|align=center|{{tooltip|2=Qualification=10 points, Final=60 points|70}}
+|align=center|{{tooltip|2=Qualification=30 points, Final=250 points|'''280'''}}
+|align=center|{{tooltip|2=Qualification=25 points, Final=90 points|115}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=90 points|90}}
+|align=center|'''1135'''
+|-
+|align=center|3
+|{{flagicon|CAN}} [[Gracey Hemstreet]]
+|align=center|{{tooltip|2=Qualification=0 points, Final=80 points|80}}
+|align=center|{{tooltip|2=Qualification=30 points, Final=210 points|240}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=90 points|90}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=Did not start|0}}
+|align=center|{{tooltip|2=Qualification=25 points, Final=90 points|115}}
+|align=center|{{tooltip|2=Qualification=25 points, Final=210 points|235}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=40 points|40}}
+|align=center|{{tooltip|2=Qualification=30 points, Final=210 points|240}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=80 points|80}}
+|align=center|'''1120'''
+|-
+|align=center|4
+|{{flagicon|ITA}} [[Gloria Scarsi]]
+|align=center|{{tooltip|2=Qualification=30 points, Final=210 points|240}}
+|align=center|{{tooltip|2=Did not start|DNS}}
+|align=center|{{tooltip|2=Qualification=14 points, Final=150 points|164}}
+|align=center|{{tooltip|2=Qualification=5 points, Final=180 points|185}}
+|align=center|{{tooltip|2=Qualification=20 points, Final=70 points|90}}
+|align=center|{{tooltip|2=Qualification=30 points, Final=50 points|80}}
+|align=center|{{tooltip|2=Qualification=12 points, Final=150 points|162}}
+|align=center|{{tooltip|2=Qualification=12 points, Final=120 points|132}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=48 points|48}}
+|align=center|'''1101'''
+|-
+|align=center|5
+|{{flagicon|SUI}} [[Lisa Baumann]]
+|align=center|{{tooltip|2=Qualification=20 points, Final=50 points|70}}
+|align=center|{{tooltip|2=Qualification=10 points, Final=180 points|190}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=50 points|50}}
+|align=center|{{tooltip|2=Qualification=12 points, Final=210 points|222}}
+|align=center|{{tooltip|2=Qualification=40 points, Final=210 points|250}}
+|align=center|{{tooltip|2=Qualification=20 points, Final=40 points|60}}
+|align=center|{{tooltip|2=Qualification=10 points, Final=90 points|100}}
+|align=center|{{tooltip|2=Qualification=14 points, Final=35 points|49}}
+|align=center|{{tooltip|2=Qualification=0 points, Final=70 points|70}}
+|align=center|'''1061'''
+|}
+
+{{col-break|gap=1em}}
+{| class="wikitable sortable"
+|-
+!colspan=27 align="center"|'''Top 5 women's junior standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20261002_mtb/lake_dhi_wj_standings.pdf|title=Women's Junior Standings|date=4 October 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=5 October 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|POL<br>{{flagicon|KOR|size=20px}}|Mona Yongpyong}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Loudenvielle–Peyragudes}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Lenzerheide}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Pal–Arinsal}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Les Gets}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|CAN<br>{{flagicon|CAN|size=20px}}|Whistler}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|USA<br>{{flagicon|USA|size=20px}}|Lake Placid}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|USA}} '''[[Aletha Ostgaard]]'''
+|align=center|'''60'''
+|align=center|45
+|align=center|50
+|align=center|50
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|45
+|align=center|'''490'''
+|-
+|align=center|2
+|{{flagicon|AUT}} [[Lina Frener]]
+|align=center|30
+|align=center|50
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|50
+|align=center|50
+|align=center|DNS
+|align=center|5
+|align=center|DNS
+|align=center|'''315'''
+|-
+|align=center|3
+|{{flagicon|DEN}} [[Rosa Marie Jensen]]
+|align=center|35
+|align=center|40
+|align=center|45
+|align=center|45
+|align=center|40
+|align=center|45
+|align=center|45
+|align=center|DNS
+|align=center|DNS
+|align=center|'''295'''
+|-
+|align=center|4
+|{{flagicon|NZL}} [[Indy Deavoll]]
+|align=center|25
+|align=center|35
+|align=center|DNS
+|align=center|40
+|align=center|25
+|align=center|40
+|align=center|15
+|align=center|DNS
+|align=center|50
+|align=center|'''230'''
+|-
+|align=center|5
+|{{flagicon|AUS}} [[Tilly Boadle]]
+|align=center|45
+|align=center|DNS
+|align=center|DNS
+|align=center|DNS
+|align=center|DNS
+|align=center|35
+|align=center|30
+|align=center|45
+|align=center|'''60'''
+|align=center|'''215'''
+<!-- 
+|-
+|align=center|6
+|{{flagicon|FRA}} [[Cassandre Peizerat]]
+|align=center|DNS
+|align=center|30
+|align=center|DNS
+|align=center|5
+|align=center|45
+|align=center|DNS
+|align=center|50
+|align=center|50
+|align=center|35
+|align=center|'''215'''
+|-
+|align=center|7
+|{{flagicon|SUI}} [[Gianna Nef]]
+|align=center|40
+|align=center|DNS
+|align=center|30
+|align=center|35
+|align=center|35
+|align=center|30
+|align=center|40
+|align=center|DNS
+|align=center|DNS
+|align=center|'''210'''
+ -->
+|}
+{{col-end}}
+
+===Cross-country eliminator===
+<!-- ''Only the four best results are taken into account for the final ranking'' -->
+
+{{col-begin}}
+{{col-break}}
+
+{| class="wikitable sortable"
+|-
+!colspan=8 align="center"|'''Top 5 men's elite standings'''<ref>{{cite web|url=https://my.raceresult.com/370167/list#0_E0FCF5|title=Men's Elite Standings|date=11 July 2026|website=my.raceresult.com|publisher= |access-date= }}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|TUR<br>{{flagicon|TUR|size=20px}}|Sakarya}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|POL<br>{{flagicon|POL|size=20px}}|Gdynia}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|GER<br>{{flagicon|GER|size=20px}}|Aalen}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|SLO}} '''[[Jakob Klemenčič]]'''
+|align=center|'''100'''
+|align=center|55
+|align=center|'''90'''
+|align=center|'''245'''
+|-
+|align=center|1
+|{{flagicon|SLO}} [[Matic Kranjec Žagar]]
+|align=center|65
+|align=center|'''100'''
+|align=center|50
+|align=center|'''215'''
+|-
+|align=center|3
+|{{flagicon|AUT}} [[Theo Hauser]]
+|align=center|78
+|align=center|33
+|align=center|'''90'''
+|align=center|'''201'''
+|-
+|align=center|4
+|{{flagicon|SWE}} [[Edvin Lindh]]
+|align=center|0
+|align=center|60
+|align=center|48
+|align=center|'''108'''
+|-
+|align=center|5
+|{{flagicon|GER}} [[Simon Gegenheimer]]
+|align=center|DNS
+|align=center|75
+|align=center|33
+|align=center|'''108'''
+<!-- 
+|-
+|align=center|6
+|{{flagicon|ROM}} [[Ede-Károly Molnár]]
+|align=center|36
+|align=center|64
+|align=center|5
+|align=center|
+|align=center|
+|align=center|'''105'''
+|-
+|align=center|7
+|{{flagicon|ROM}} [[Máté Szakács]]
+|align=center|70
+|align=center|5
+|align=center|24
+|align=center|
+|align=center|
+|align=center|'''99'''
+ -->
+|}
+{{col-break|gap=1em}}
+
+{| class="wikitable sortable"
+|-
+!colspan=8 align="center"|'''Top 5 women's elite standings'''<ref>{{cite web|url=https://my.raceresult.com/370167/list#0_B71511|title=Women's Elite Standings|date=11 July 2026|website=my.raceresult.com|publisher= |access-date= }}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|TUR<br>{{flagicon|TUR|size=20px}}|Sakarya}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|POL<br>{{flagicon|POL|size=20px}}|Gdynia}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|GER<br>{{flagicon|GER|size=20px}}|Aalen}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|UKR}} '''[[Mariia Sukhopalova]]'''
+|align=center|'''100'''
+|align=center|'''95'''
+|align=center|75
+|align=center|'''270'''
+|-
+|align=center|2
+|{{flagicon|GER}} [[Marion Fromberger]]
+|align=center|85
+|align=center|80
+|align=center|80
+|align=center|'''245'''
+|-
+|align=center|3
+|{{flagicon|NED}} [[Didi de Vries]]
+|align=center|70
+|align=center|68
+|align=center|47
+|align=center|'''185'''
+|-
+|align=center|4
+|{{flagicon|FRA}} [[Madison Boissière]]
+|align=center|48
+|align=center|70
+|align=center|36
+|align=center|'''154'''
+|-
+|align=center|5
+|{{flagicon|CZE}} [[Adéla Pernická]]
+|align=center|53
+|align=center|DNS
+|align=center|58
+|align=center|'''111'''
+<!-- 
+|-
+|align=center|6
+|{{flagicon|ITA}} [[Gaia Tormena]]
+|align=center|DNS
+|align=center|DNS
+|align=center|'''100'''
+|align=center|
+|align=center|
+|align=center|'''100'''
+|-
+|align=center|7
+|{{flagicon|NED}} [[Hilde Pennings]]
+|align=center|31
+|align=center|47
+|align=center|DNS
+|align=center|
+|align=center|
+|align=center|'''78'''
+ -->
+|}
+{{col-end}}
+
+===Enduro===
+====Elite====
+{{col-begin}}
+{{col-break}}
+
+{| class="wikitable sortable"
+|-
+!colspan=24 align="center"|'''Top 5 EDR men's elite standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260814_edr/moril_edr_me_standing.pdf |title=EDR men's elite standings|date=16 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=16 August 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Loudenvielle–Peyragudes}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|Val di Fassa}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Aletsch Arena–Bellwald}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Morillon}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|FRA}} '''[[Adrien Dailly]]'''
+|align=center|140
+|align=center|140
+|align=center|68
+|align=center|210
+|align=center|180
+|align=center|'''250'''
+|align=center|'''988'''
+|-
+|align=center|2
+|{{flagicon|CAN}} [[Lief Rodgers]]
+|align=center|80
+|align=center|210
+|align=center|160
+|align=center|160
+|align=center|210
+|align=center|125
+|align=center|'''945'''
+|-
+|align=center|3
+|{{flagicon|AUS}} [[Ryan Gilchrist]]
+|align=center|180
+|align=center|110
+|align=center|63
+|align=center|54
+|align=center|'''250'''
+|align=center|95
+|align=center|'''752'''
+|-
+|align=center|4
+|{{flagicon|FRA}} [[Marius Tenet]]
+|align=center|95
+|align=center|180
+|align=center|95
+|align=center|125
+|align=center|75
+|align=center|160
+|align=center|'''730'''
+|-
+|align=center|5
+|{{flagicon|FRA}} [[Raphaël Giambi]]
+|align=center|210
+|align=center|56
+|align=center|75
+|align=center|'''250'''
+|align=center|110
+|align=center|DNS
+|align=center|'''701'''
+<!-- 
+|-
+|align=center|6
+|{{flagicon|FRA}} [[Alex Rudeau]]
+|align=center|'''250'''
+|align=center|125
+|align=center|140
+|align=center|180
+|align=center|DNS
+|align=center|DNS
+|align=center|'''695'''
+|-
+|align=center|7
+|{{flagicon|USA}} [[JT Fisher]]
+|align=center|160
+|align=center|DNS
+|align=center|65
+|align=center|140
+|align=center|125
+|align=center|140
+|align=center|'''630'''
+|-
+|align=center|8
+|{{flagicon|ITA}} [[Tommaso Francardo]]
+|align=center|52
+|align=center|160
+|align=center|180
+|align=center|58
+|align=center|95
+|align=center|75
+|align=center|'''620'''
+ -->
+|}
+
+{{col-break|gap=1em}}
+
+{| class="wikitable sortable"
+|-
+!colspan=24 align="center"|'''Top 5 EDR women's elite standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260814_edr/moril_edr_we_standing.pdf |title=EDR women's elite standings|date=16 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=16 August 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Loudenvielle–Peyragudes}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|Val di Fassa}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Aletsch Arena–Bellwald}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Morillon}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|GBR}} '''[[Ella Conolly]]'''
+|align=center|'''250'''
+|align=center|210
+|align=center|210
+|align=center|'''250'''
+|align=center|'''250'''
+|align=center|120
+|align=center|'''1290'''
+|-
+|align=center|2
+|{{flagicon|FRA}} [[Mélanie Pugin]]
+|align=center|210
+|align=center|180
+|align=center|'''250'''
+|align=center|210
+|align=center|150
+|align=center|70
+|align=center|'''1070'''
+|-
+|align=center|3
+|{{flagicon|CAN}} [[Elly Hoskin]]
+|align=center|70
+|align=center|120
+|align=center|150
+|align=center|150
+|align=center|210
+|align=center|90
+|align=center|'''790'''
+|-
+|align=center|4
+|{{flagicon|GER}} [[Raphaela Richter]]
+|align=center|180
+|align=center|150
+|align=center|120
+|align=center|180
+|align=center|DNS
+|align=center|150
+|align=center|'''780'''
+|-
+|align=center|5
+|{{flagicon|ITA}} [[Nadine Ellecosta]]
+|align=center|120
+|align=center|80
+|align=center|90
+|align=center|50
+|align=center|180
+|align=center|210
+|align=center|'''730'''
+<!-- 
+|-
+|align=center|6
+|{{flagicon|NZL}} [[Winnifred Goldsbury]]
+|align=center|150
+|align=center|'''250'''
+|align=center|180
+|align=center|DNS
+|align=center|DNS
+|align=center|DNS
+|align=center|'''580'''
+ -->
+|}
+{{col-end}}
+
+====Junior====
+
+{{col-begin}}
+{{col-break}}
+
+{| class="wikitable sortable"
+|-
+!colspan=24 align="center"|'''Top 5 EDR men's junior standings'''<ref>{{cite web |url=https://chronorace.blob.core.windows.net/webresources/20260814_edr/moril_edr_mj_standing.pdf |title=EDR men's junior standings|date=16 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=16 August 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Loudenvielle–Peyragudes}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|Val di Fassa}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Aletsch Arena–Bellwald}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Morillon}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|FRA}} '''[[Hugo Marti (cyclist)|Hugo Marti]]'''
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|50
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|'''350'''
+|-
+|align=center|2
+|{{flagicon|FRA}} [[Jules Janniaud]]
+|align=center|45
+|align=center|DNS
+|align=center|30
+|align=center|50
+|align=center|45
+|align=center|50
+|align=center|'''220'''
+|-
+|align=center|3
+|{{flagicon|ITA}} [[Lorenzo Cesari]]
+|align=center|26
+|align=center|28
+|align=center|45
+|align=center|26
+|align=center|26
+|align=center|45
+|align=center|'''196'''
+|-
+|align=center|4
+|{{flagicon|FRA}} [[Tommy Bougon]]
+|align=center|30
+|align=center|35
+|align=center|40
+|align=center|45
+|align=center|DNS
+|align=center|DNS
+|align=center|'''150'''
+|-
+|align=center|5
+|{{flagicon|AUS}} [[Harper Nelmes]]
+|align=center|50
+|align=center|DNS
+|align=center|'''60'''
+|align=center|35
+|align=center|DNS
+|align=center|DNS
+|align=center|'''145'''
+|}
+ 
+{{col-break|gap=1em}}
+
+{| class="wikitable sortable"
+|-
+!colspan=24 align="center"|'''Top 5 EDR women's junior standings'''<ref>{{cite web|url=https://chronorace.blob.core.windows.net/webresources/20260814_edr/moril_edr_wj_standing.pdf |title=EDR women's junior standings|date=16 August 2026|website=prod.chronorace.be|publisher=ChronoRace|access-date=16 August 2026}}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Loudenvielle–Peyragudes}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AUT<br>{{flagicon|AUT|size=20px}}|Saalfelden–Leogang}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|Val di Fassa}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|La Thuile}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|SUI<br>{{flagicon|SUI|size=20px}}|Aletsch Arena–Bellwald}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|FRA<br>{{flagicon|FRA|size=20px}}|Morillon}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|SLO}} '''[[Nežka Libnik]]'''
+|align=center|DNS
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|'''60'''
+|align=center|45
+|align=center|'''60'''
+|align=center|'''285'''
+|-
+|align=center|2
+|{{flagicon|USA}} [[Romy Williams]]
+|align=center|'''60'''
+|align=center|DNS
+|align=center|45
+|align=center|45
+|align=center|50
+|align=center|50
+|align=center|'''250'''
+|-
+|align=center|3
+|{{flagicon|ITA}} [[Alice Farinelli]]
+|align=center|DNS
+|align=center|40
+|align=center|25
+|align=center|DNS
+|align=center|40
+|align=center|35
+|align=center|'''140'''
+|-
+|align=center|4
+|{{flagicon|FRA}} [[Bélinda Baudet]]
+|align=center|50
+|align=center|DNS
+|align=center|15
+|align=center|50
+|align=center|DNS
+|align=center|DNS
+|align=center|'''115'''
+|-
+|align=center|5
+|{{flagicon|SUI}} [[Elena Frei]]
+|align=center|DNS
+|align=center|DNS
+|align=center|50
+|align=center|DNS
+|align=center|'''60'''
+|align=center|DNS
+|align=center|'''110'''
+|}
+{{col-end}}
+
+===Marathon===
+{{col-begin}}
+{{col-break}}
+
+{| class="wikitable sortable"
+|-
+!colspan=9 align="center"|'''Top 5 men's elite standings'''<ref name="XCM Standings">{{cite web|url=https://datasport.com/live/ranking/?racenr=281217#0_1D2472|title=Men's & Women's Standings|date=20 September 2026|website=datasport.com|publisher=Datasport |access-date= }}</ref>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ESP<br>{{flagicon|ESP|size=20px}}|Calpe–Benissa}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|Capoliveri}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Andorra}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|Selva Val Gardena}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|GER<br>{{flagicon|GER|size=20px}}|Kirchzarten}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ESP<br>{{flagicon|ESP|size=20px}}|Girona}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|ESP}} '''[[David Valero]]'''
+|align=center|160
+|align=center|80
+|align=center|'''250'''
+|align=center|'''250'''
+|align=center|200
+|align=center|'''250'''
+|align=center|'''1190'''
+|-
+|align=center|2
+|{{flagicon|BEL}} [[Wout Alleman]]
+|align=center|'''250'''
+|align=center|150
+|align=center|85
+|align=center|130
+|align=center|'''250'''
+|align=center|140
+|align=center|'''1005'''
+|-
+|align=center|3
+|{{flagicon|COL}} [[Héctor Leonardo Páez|Héctor Páez]]
+|align=center|76
+|align=center|120
+|align=center|200
+|align=center|150
+|align=center|150
+|align=center|74
+|align=center|'''770'''
+|-
+|align=center|4
+|{{flagicon|ITA}} [[Samuele Porro]]
+|align=center|85
+|align=center|80
+|align=center|120
+|align=center|110
+|align=center|140
+|align=center|150
+|align=center|'''685'''
+|-
+|align=center|5
+|{{flagicon|GER}} [[Andreas Seewald]]
+|align=center|200
+|align=center|52
+|align=center|DNS
+|align=center|120
+|align=center|100
+|align=center|200
+|align=center|'''672'''
+<!-- 
+|-
+|align=center|6
+|{{flagicon|ITA}} [[Stefano Goria]]
+|align=center|95
+|align=center|200
+|align=center|90
+|align=center|80
+|align=center|85
+|align=center|95
+|align=center|'''645'''
+ -->
+|}
+
+{{col-break|gap=1em}}
+
+{| class="wikitable sortable"
+|-
+!colspan=9 align="center"|'''Top 5 women's elite standings'''<ref name="XCM Standings"/>
+|-
+|- style="font-size:8pt;font-weight:bold"
+! align="center"|Rank
+! align="center"|Rider
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ESP<br>{{flagicon|ESP|size=20px}}|Calpe–Benissa}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|Capoliveri}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|AND<br>{{flagicon|AND|size=20px}}|Andorra}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ITA<br>{{flagicon|ITA|size=20px}}|Selva Val Gardena}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|GER<br>{{flagicon|GER|size=20px}}|Kirchzarten}}</small>
+! class=unsortable style="background:#E5E4E2;"|<small>{{tooltip|ESP<br>{{flagicon|ESP|size=20px}}|Girona}}</small>
+! align="center"|Total<br />Points
+|-
+|align=center|1
+|{{flagicon|SUI}} '''[[Anna Weinbeer]]'''
+|align=center|'''250'''
+|align=center|'''250'''
+|align=center|'''250'''
+|align=center|150
+|align=center|'''250'''
+|align=center|'''250'''
+|align=center|'''1400'''
+|-
+|align=center|2
+|{{flagicon|ESP}} [[Natalia Fischer]]
+|align=center|200
+|align=center|200
+|align=center|200
+|align=center|95
+|align=center|200
+|align=center|160
+|align=center|'''1055'''
+|-
+|align=center|3
+|{{flagicon|ITA}} [[Claudia Peretti]]
+|align=center|100
+|align=center|110
+|align=center|160
+|align=center|'''250'''
+|align=center|160
+|align=center|200
+|align=center|'''980'''
+|-
+|align=center|4
+|{{flagicon|POL}} [[Paula Gorycka]]
+|align=center|150
+|align=center|150
+|align=center|150
+|align=center|160
+|align=center|110
+|align=center|150
+|align=center|'''870'''
+|-
+|align=center|5
+|{{flagicon|SWE}} [[Amanda Bohlin]]
+|align=center|74
+|align=center|140
+|align=center|120
+|align=center|120
+|align=center|130
+|align=center|130
+|align=center|'''714'''
+<!-- 
+|-
+|align=center|6
+|{{flagicon|BIH}} [[Lejla Njemčević]]
+|align=center|130
+|align=center|160
+|align=center|DNS
+|align=center|110
+|align=center|DNS
+|align=center|120
+|align=center|'''520'''
+|-
+|align=center|7
+|{{flagicon|NED}} [[Rosa van Doorn]]
+|align=center|160
+|align=center|DNS
+|align=center|140
+|align=center|200
+|align=center|DNS
+|align=center|DNS
+|align=center|'''500'''
+ -->
+|}
+
+{{col-end}}
+
+==See also==
+*[[2026 UCI Cycling World Championships]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.ucimtbworldseries.com/ 2026 UCI Mountain Bike World Series]
+*[https://www.uci.org/competition-hub/2026-whoop-uci-mountain-bike-world-series/3XHx0nVpEoTZEBk1eaWA4V 2026 UCI Mountain Bike World Cup]
+<!-- *[https://prod.chronorace.be/angular/results.html#/uci/mtb?ll=174393014314 2025 UCI Mountain Bike World Cup at ChronoRace] -->
+*[https://www.citymountainbike.com/ 2026 UCI Mountain Bike Eliminator World Cup]
+*[https://www.worldebikeseries.com/ 2026 UCI E-Mountain Bike Cross Country World Cup]
+*[https://www.heroucimarathonworldcup.com/ 2026 UCI Cross-country Marathon World Cup]
+
+{{UCI Mountain Bike World Cup}}
+
+{{DEFAULTSORT:2026 UCI Mountain Bike World Cup}}
+[[Category:UCI Mountain Bike World Cup]]
+[[Category:2026 in mountain biking|World Cup]]
