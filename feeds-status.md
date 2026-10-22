@@ -1,4 +1,4 @@
-Feed validation run 2026-10-22 11:37 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
+Feed validation run 2026-10-22 11:38 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
 
 | id | section | result | working URL | items | newest | note |
 |---|---|---|---|---|---|---|
@@ -14,15 +14,10 @@ Feed validation run 2026-10-22 11:37 UTC (criteria: parseable, >= 1 item, newest
 | bzbasel | basel | dead |  | 0 |  | www.bzbasel.ch/ -> HTTP 403; HTTP 403 |
 | baz | basel | ok | https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel | 36 | 2026-10-22 |  |
 | onlinereports | basel | ok | https://onlinereports.ch/api/rss-feed | 50 | 2026-10-22 |  |
-| 20min_basel | basel | found | https://partner-feeds.20min.ch/rss/20minuten/regionen/basel | 129 | 2026-10-21 |  |
-| blick_basel | basel | found | https://www.blick.ch/schweiz/basel/rss.xml | 1 | 2026-10-13 |  |
-| bajour | basel | found | https://bajour.ch/api/rss-feed | 50 | 2026-10-22 |  |
-| bs_medien | basel | found | https://www.bs.ch/rss | 50 | undated |  |
-| nau_basel | basel | dead |  | 0 |  | www.nau.ch/ort/basel-stadt -> HTTP 404; HTTP 404 |
-| barfi | basel | dead |  | 0 |  | www.barfi.ch/ -> network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed; network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed |
-| wochenblatt_birseck | basel | dead |  | 0 |  | HTTP 404 |
-| riehener_zeitung | basel | dead |  | 0 |  | no items / unparseable; not a feed |
-| srf_regi_podcast | basel | dead |  | 0 |  | www.srf.ch/audio/regionaljournal-basel-baselland/podcasts -> HTTP 404; HTTP 404; not a feed |
+| 20min_basel | basel | ok | https://partner-feeds.20min.ch/rss/20minuten/regionen/basel | 129 | 2026-10-21 |  |
+| blick_basel | basel | ok | https://www.blick.ch/schweiz/basel/rss.xml | 1 | 2026-10-13 |  |
+| bajour | basel | ok | https://bajour.ch/api/rss-feed | 50 | 2026-10-22 |  |
+| bs_medien | basel | ok | https://www.bs.ch/rss | 50 | undated |  |
 | baselland | basel | dead |  | 0 |  | www.baselland.ch/ -> HTTP 403; www.baselland.ch/politik-und-behorden/regierungsrat/medienmitteilungen -> HTTP 403; HTTP 403 |
 | srf_news | basel | ok | https://www.srf.ch/news/bnf/rss/1890 | 60 | 2026-10-22 |  |
 | nzz | basel | ok | https://www.nzz.ch/recent.rss | 16 | 2026-10-22 |  |
@@ -63,4 +58,4 @@ Feed validation run 2026-10-22 11:37 UTC (criteria: parseable, >= 1 item, newest
 | tableau | ai | dead |  | 0 |  | configured url: stale: newest item 93 days old. HTTP 404; stale: newest item 93 days old |
 | snowflake | ai | ok | https://www.snowflake.com/feed/ | 20 | 2026-10-21 |  |
 
-44 of 60 sources have a working feed.
+44 of 55 sources have a working feed.
