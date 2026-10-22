@@ -1,7 +1,9 @@
 name: validate-feeds
 # Runs build/validate_feeds.py from GitHub's network and commits the report
-# to feeds-status.md. Manual, or automatically when feeds.yaml changes.
+# to feeds-status.md. Weekly, manual, or automatically when feeds.yaml changes.
 on:
+  schedule:
+    - cron: "17 4 * * 0"   # weekly, Sunday; re-checks blocked/stale feeds too
   workflow_dispatch:
   push:
     branches: [main]
