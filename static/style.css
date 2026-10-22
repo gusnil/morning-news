@@ -25,3 +25,4 @@ ol.items li>a{font-weight:500}
 li.kf{box-shadow:-10px 0 0 -7px var(--accent)}
 footer{margin-top:2rem;padding-top:.6rem;border-top:1px solid var(--rule);color:var(--muted);font-size:.85rem}
 footer a{color:var(--muted);text-decoration:underline}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}

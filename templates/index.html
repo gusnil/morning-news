@@ -10,6 +10,7 @@
   <span class="date">{% if is_archive %}<a href="../index.html">today</a> · {% endif %}<time datetime="{{ page.date }}">{{ page.date | nicedate }}</time></span>
 </nav>
 <main>
+<h1 class="vh">Morning news, {{ page.date | nicedate }}</h1>
 {% for s in page.sections %}
 <section id="{{ s.id }}" aria-labelledby="h-{{ s.id }}">
   <h2 id="h-{{ s.id }}">{{ s.title }}</h2>
