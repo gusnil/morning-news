@@ -1,4 +1,4 @@
-Feed validation run 2026-10-22 14:21 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
+Feed validation run 2026-10-22 14:41 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
 
 | id | section | result | working URL | items | newest | note |
 |---|---|---|---|---|---|---|
@@ -20,7 +20,7 @@ Feed validation run 2026-10-22 14:21 UTC (criteria: parseable, >= 1 item, newest
 | bs_medien | basel | ok | https://www.bs.ch/rss | 50 | undated |  |
 | baselland | basel | dead |  | 0 |  | www.baselland.ch/ -> HTTP 403; www.baselland.ch/politik-und-behorden/regierungsrat/medienmitteilungen -> HTTP 403; HTTP 403 |
 | srf_news | basel | ok | https://www.srf.ch/news/bnf/rss/1890 | 60 | 2026-10-22 |  |
-| nzz | basel | ok | https://www.nzz.ch/recent.rss | 15 | 2026-10-22 |  |
+| nzz | basel | ok | https://www.nzz.ch/recent.rss | 14 | 2026-10-22 |  |
 | cyclingnews | sport | ok | https://www.cyclingnews.com/feeds/all/ | 50 | 2026-10-22 |  |
 | velo | sport | ok | https://velo.outsideonline.com/feed/ | 25 | 2026-10-22 |  |
 | cyclingweekly | sport | ok | https://www.cyclingweekly.com/feeds.xml | 50 | 2026-10-22 |  |
@@ -64,7 +64,5 @@ Feed validation run 2026-10-22 14:21 UTC (criteria: parseable, >= 1 item, newest
 | statnews | rd | ok | https://www.statnews.com/category/pharma/feed/ | 20 | 2026-10-22 |  |
 | fda | rd | ok | https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml | 20 | 2026-10-20 |  |
 | ema | rd | ok | https://www.ema.europa.eu/en/news.xml | 10 | 2026-10-16 |  |
-| nrdd | rd | dead |  | 0 |  | configured url: not a feed. not a feed |
-| astellas | rd | dead |  | 0 |  | HTTP 404; not a feed |
 
-51 of 64 sources have a working feed.
+51 of 62 sources have a working feed.
