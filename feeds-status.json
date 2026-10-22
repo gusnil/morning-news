@@ -72,14 +72,14 @@
   "configured": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "result": "ok",
   "working_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "items": 40,
+  "items": 38,
   "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "ok": true,
-    "items": 40,
+    "items": 38,
     "newest": "2026-10-22",
     "error": null,
     "title": "BBC News",
@@ -355,6 +355,806 @@
     "error": null,
     "title": "OnlineReports",
     "final_url": "https://onlinereports.ch/api/rss-feed"
+   }
+  ]
+ },
+ {
+  "id": "20min_basel",
+  "name": "20 Minuten Basel",
+  "section": "basel",
+  "configured": null,
+  "result": "dead",
+  "working_url": null,
+  "items": 0,
+  "newest": null,
+  "note": "HTTP 404; no items / unparseable",
+  "tried": [
+   {
+    "url": "https://partner-feeds.20min.ch/rss/20minuten/basel",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://partner-feeds.publishing.tamedia.ch/rss/20minuten/basel",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "no items / unparseable",
+    "title": null,
+    "final_url": "https://partner-feeds.publishing.tamedia.ch/rss/20minuten/basel"
+   },
+   {
+    "url": "https://api.20min.ch/rss/view/1?region=basel",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/rss/basel",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/rss/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/rss.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/feed.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/atom.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/index.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.20min.ch/blog/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   }
+  ]
+ },
+ {
+  "id": "blick_basel",
+  "name": "Blick Basel",
+  "section": "basel",
+  "configured": null,
+  "result": "found",
+  "working_url": "https://www.blick.ch/schweiz/basel/rss.xml",
+  "items": 1,
+  "newest": "2026-10-13",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://www.blick.ch/schweiz/basel/rss.xml",
+    "ok": true,
+    "items": 1,
+    "newest": "2026-10-13",
+    "error": null,
+    "title": "Basel - Alle News, Analysen, Bilder & Videos | Blick.ch",
+    "final_url": "https://www.blick.ch/schweiz/basel/rss.xml"
+   }
+  ]
+ },
+ {
+  "id": "bajour",
+  "name": "Bajour",
+  "section": "basel",
+  "configured": null,
+  "result": "found",
+  "working_url": "https://bajour.ch/api/rss-feed",
+  "items": 50,
+  "newest": "2026-10-22",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://bajour.ch/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://bajour.ch/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://bajour.ch/rss.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://bajour.ch/api/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://bajour.ch/api/rss-feed",
+    "ok": true,
+    "items": 50,
+    "newest": "2026-10-22",
+    "error": null,
+    "title": "Bajour",
+    "final_url": "https://bajour.ch/api/rss-feed"
+   }
+  ]
+ },
+ {
+  "id": "bs_medien",
+  "name": "Kanton Basel-Stadt",
+  "section": "basel",
+  "configured": null,
+  "result": "found",
+  "working_url": "https://www.bs.ch/rss",
+  "items": 50,
+  "newest": "undated",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://www.bs.ch/medienmitteilungen.rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.bs.ch/medienmitteilungen/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.bs.ch/rss/medienmitteilungen",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.medien.bs.ch/nm.rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.bs.ch/medien"
+   },
+   {
+    "url": "https://www.medien.bs.ch/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.bs.ch/medien"
+   },
+   {
+    "url": "https://www.bs.ch/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.bs.ch/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.bs.ch/rss",
+    "ok": true,
+    "items": 50,
+    "newest": "undated",
+    "error": null,
+    "title": "Medienmitteilungen",
+    "final_url": "https://www.bs.ch/rss"
+   }
+  ]
+ },
+ {
+  "id": "nau_basel",
+  "name": "Nau.ch Basel",
+  "section": "basel",
+  "configured": null,
+  "result": "dead",
+  "working_url": null,
+  "items": 0,
+  "newest": null,
+  "note": "www.nau.ch/ort/basel-stadt -> HTTP 404; HTTP 404",
+  "tried": [
+   {
+    "url": "https://www.nau.ch/ort/basel/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/ort/basel.rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/rss/ort/basel",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/rss/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/rss.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/feed.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/atom.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/index.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.nau.ch/blog/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   }
+  ]
+ },
+ {
+  "id": "barfi",
+  "name": "barfi.ch",
+  "section": "basel",
+  "configured": null,
+  "result": "dead",
+  "working_url": null,
+  "items": 0,
+  "newest": null,
+  "note": "www.barfi.ch/ -> network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed; network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+  "tried": [
+   {
+    "url": "https://www.barfi.ch/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+    "title": null
+   },
+   {
+    "url": "https://www.barfi.ch/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+    "title": null
+   },
+   {
+    "url": "https://www.barfi.ch/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+    "title": null
+   },
+   {
+    "url": "https://www.barfi.ch/rss/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+    "title": null
+   },
+   {
+    "url": "https://www.barfi.ch/rss.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+    "title": null
+   },
+   {
+    "url": "https://www.barfi.ch/feed.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+    "title": null
+   },
+   {
+    "url": "https://www.barfi.ch/atom.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+    "title": null
+   },
+   {
+    "url": "https://www.barfi.ch/index.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+    "title": null
+   },
+   {
+    "url": "https://www.barfi.ch/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+    "title": null
+   },
+   {
+    "url": "https://www.barfi.ch/blog/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed",
+    "title": null
+   }
+  ]
+ },
+ {
+  "id": "wochenblatt_birseck",
+  "name": "Wochenblatt Birseck",
+  "section": "basel",
+  "configured": null,
+  "result": "dead",
+  "working_url": null,
+  "items": 0,
+  "newest": null,
+  "note": "HTTP 404",
+  "tried": [
+   {
+    "url": "https://www.wochenblatt.ch/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.wochenblatt.ch/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.wochenblatt.ch/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.wochenblatt.ch/rss/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.wochenblatt.ch/rss.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.wochenblatt.ch/feed.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.wochenblatt.ch/atom.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.wochenblatt.ch/index.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.wochenblatt.ch/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.wochenblatt.ch/blog/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   }
+  ]
+ },
+ {
+  "id": "riehener_zeitung",
+  "name": "Riehener Zeitung",
+  "section": "basel",
+  "configured": null,
+  "result": "dead",
+  "working_url": null,
+  "items": 0,
+  "newest": null,
+  "note": "no items / unparseable; not a feed",
+  "tried": [
+   {
+    "url": "https://www.riehener-zeitung.ch/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/riehener-zeitung/"
+   },
+   {
+    "url": "https://www.riehener-zeitung.ch/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/riehener-zeitung/"
+   },
+   {
+    "url": "https://www.lokalzeitungen.ch/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "no items / unparseable",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/feed/"
+   },
+   {
+    "url": "https://www.lokalzeitungen.ch/comments/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "no items / unparseable",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/comments/feed/"
+   },
+   {
+    "url": "https://www.riehener-zeitung.ch/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/riehener-zeitung/"
+   },
+   {
+    "url": "https://www.riehener-zeitung.ch/rss/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/riehener-zeitung/"
+   },
+   {
+    "url": "https://www.riehener-zeitung.ch/rss.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/riehener-zeitung/"
+   },
+   {
+    "url": "https://www.riehener-zeitung.ch/feed.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/riehener-zeitung/"
+   },
+   {
+    "url": "https://www.riehener-zeitung.ch/atom.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/riehener-zeitung/"
+   },
+   {
+    "url": "https://www.riehener-zeitung.ch/index.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/riehener-zeitung/"
+   },
+   {
+    "url": "https://www.riehener-zeitung.ch/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/riehener-zeitung/"
+   },
+   {
+    "url": "https://www.riehener-zeitung.ch/blog/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.lokalzeitungen.ch/riehener-zeitung/"
+   }
+  ]
+ },
+ {
+  "id": "srf_regi_podcast",
+  "name": "SRF Regionaljournal Basel (podcast)",
+  "section": "basel",
+  "configured": null,
+  "result": "dead",
+  "working_url": null,
+  "items": 0,
+  "newest": null,
+  "note": "www.srf.ch/audio/regionaljournal-basel-baselland/podcasts -> HTTP 404; HTTP 404; not a feed",
+  "tried": [
+   {
+    "url": "https://www.srf.ch/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.srf.ch/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.srf.ch/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "not a feed",
+    "title": null,
+    "final_url": "https://www.srf.ch/really-simple-syndication-rss-feeds-von-srf?srg_shorturl_source=rss"
+   },
+   {
+    "url": "https://www.srf.ch/rss/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.srf.ch/rss.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.srf.ch/feed.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.srf.ch/atom.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.srf.ch/index.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.srf.ch/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://www.srf.ch/blog/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
    }
   ]
  },
@@ -1368,14 +2168,14 @@
   "result": "ok",
   "working_url": "https://www.fide.com/feed/",
   "items": 10,
-  "newest": "2026-10-21",
+  "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
     "url": "https://www.fide.com/feed/",
     "ok": true,
     "items": 10,
-    "newest": "2026-10-21",
+    "newest": "2026-10-22",
     "error": null,
     "title": "International Chess Federation",
     "final_url": "https://www.fide.com/feed/"

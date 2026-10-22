@@ -1,11 +1,11 @@
-Feed validation run 2026-10-22 11:22 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
+Feed validation run 2026-10-22 11:35 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
 
 | id | section | result | working URL | items | newest | note |
 |---|---|---|---|---|---|---|
 | france24 | world | ok | https://www.france24.com/en/rss | 24 | 2026-10-22 |  |
 | aljazeera | world | ok | https://www.aljazeera.com/xml/rss/all.xml | 25 | 2026-10-22 |  |
 | dw | world | ok | https://rss.dw.com/rdf/rss-en-all | 134 | 2026-10-22 |  |
-| bbc | world | ok | https://feeds.bbci.co.uk/news/world/rss.xml | 40 | 2026-10-22 |  |
+| bbc | world | ok | https://feeds.bbci.co.uk/news/world/rss.xml | 38 | 2026-10-22 |  |
 | thehindu | world | ok | https://www.thehindu.com/news/international/feeder/default.rss | 60 | 2026-10-22 |  |
 | scmp | world | ok | https://www.scmp.com/rss/91/feed | 50 | 2026-10-22 |  |
 | africanews | world | ok | https://www.africanews.com/feed/rss | 50 | 2026-10-22 |  |
@@ -14,6 +14,15 @@ Feed validation run 2026-10-22 11:22 UTC (criteria: parseable, >= 1 item, newest
 | bzbasel | basel | dead |  | 0 |  | www.bzbasel.ch/ -> HTTP 403; HTTP 403 |
 | baz | basel | ok | https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel | 36 | 2026-10-22 |  |
 | onlinereports | basel | ok | https://onlinereports.ch/api/rss-feed | 50 | 2026-10-22 |  |
+| 20min_basel | basel | dead |  | 0 |  | HTTP 404; no items / unparseable |
+| blick_basel | basel | found | https://www.blick.ch/schweiz/basel/rss.xml | 1 | 2026-10-13 |  |
+| bajour | basel | found | https://bajour.ch/api/rss-feed | 50 | 2026-10-22 |  |
+| bs_medien | basel | found | https://www.bs.ch/rss | 50 | undated |  |
+| nau_basel | basel | dead |  | 0 |  | www.nau.ch/ort/basel-stadt -> HTTP 404; HTTP 404 |
+| barfi | basel | dead |  | 0 |  | www.barfi.ch/ -> network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed; network: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed |
+| wochenblatt_birseck | basel | dead |  | 0 |  | HTTP 404 |
+| riehener_zeitung | basel | dead |  | 0 |  | no items / unparseable; not a feed |
+| srf_regi_podcast | basel | dead |  | 0 |  | www.srf.ch/audio/regionaljournal-basel-baselland/podcasts -> HTTP 404; HTTP 404; not a feed |
 | baselland | basel | dead |  | 0 |  | www.baselland.ch/ -> HTTP 403; www.baselland.ch/politik-und-behorden/regierungsrat/medienmitteilungen -> HTTP 403; HTTP 403 |
 | srf_news | basel | ok | https://www.srf.ch/news/bnf/rss/1890 | 60 | 2026-10-22 |  |
 | nzz | basel | ok | https://www.nzz.ch/recent.rss | 16 | 2026-10-22 |  |
@@ -39,7 +48,7 @@ Feed validation run 2026-10-22 11:22 UTC (criteria: parseable, >= 1 item, newest
 | chesscom | chess | ok | https://www.chess.com/rss/news | 25 | 2026-10-21 |  |
 | lichess | chess | ok | https://lichess.org/blog.atom | 24 | 2026-10-21 |  |
 | chessbase | chess | ok | https://en.chessbase.com/feed | 100 | 2026-10-22 |  |
-| fide | chess | ok | https://www.fide.com/feed/ | 10 | 2026-10-21 |  |
+| fide | chess | ok | https://www.fide.com/feed/ | 10 | 2026-10-22 |  |
 | twic | chess | ok | https://theweekinchess.com/twic-rss-feed | 20 | 2026-10-03 |  |
 | chessdom | chess | dead |  | 0 |  | configured url: stale: newest item 52 days old. HTTP 404; no items / unparseable; stale: newest item 52 days old |
 | databricks | ai | ok | https://www.databricks.com/feed | 10 | 2026-10-21 |  |
@@ -54,4 +63,4 @@ Feed validation run 2026-10-22 11:22 UTC (criteria: parseable, >= 1 item, newest
 | tableau | ai | dead |  | 0 |  | configured url: stale: newest item 93 days old. HTTP 404; stale: newest item 93 days old |
 | snowflake | ai | ok | https://www.snowflake.com/feed/ | 20 | 2026-10-21 |  |
 
-40 of 51 sources have a working feed.
+43 of 60 sources have a working feed.
