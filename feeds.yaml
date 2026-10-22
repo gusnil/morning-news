@@ -105,6 +105,16 @@ sections:
     penalty:
       - {value: 2, pattern: "funding|raises|valuation|benchmark|leaderboard|parameters|\\bGPUs?\\b"}
 
+  - id: rd
+    title: R&D
+    cap: 8
+    window_hours: 48
+    boost:
+      - {value: 2, pattern: "Phase (3|III)|pivotal|topline|readout|approv|\\bCRL\\b|complete response|PDUFA|advisory committee|AdCom|acqui|licens|\\bdeal\\b|M&A|pipeline|portfolio|\\bR&D\\b|priorit|discontinu|deprioriti|Astellas"}
+      - {value: 1, pattern: "Phase (2|II)|oncology|cell therapy|gene therapy|ADC|obesity|GLP-1|biosimilar|patent cliff|IRA|MFN|tariff|EMA|CHMP|Swissmedic"}
+    penalty:
+      - {value: 2, pattern: "webinar|sponsored|podcast|whitepaper|\\bevent\\b|award|people moves|appoint|chief .* officer joins|hires"}
+
 # Calendar events give +2 to items of the same discipline and +2 to the sub-section cap.
 event_boost: 2
 event_cap_bonus: 2
@@ -1057,3 +1067,84 @@ sources:
     weight: 2
     lang: en
     status: verified
+
+  # ---------------------------------------------------------------- Pharma R&D
+  - id: endpoints
+    name: Endpoints News
+    section: rd
+    url: https://endpts.com/feed/
+    homepage: https://endpts.com/
+    weight: 5
+    lang: en
+    status: unverified
+  - id: fiercebiotech
+    name: Fierce Biotech
+    section: rd
+    url: https://www.fiercebiotech.com/rss/xml
+    homepage: https://www.fiercebiotech.com/
+    candidates: [https://www.fiercebiotech.com/rss/biotech/xml]
+    weight: 4
+    lang: en
+    status: unverified
+  - id: fiercepharma
+    name: Fierce Pharma
+    section: rd
+    url: https://www.fiercepharma.com/rss/xml
+    homepage: https://www.fiercepharma.com/
+    weight: 3
+    lang: en
+    status: unverified
+  - id: biopharmadive
+    name: BioPharma Dive
+    section: rd
+    url: https://www.biopharmadive.com/feeds/news/
+    homepage: https://www.biopharmadive.com/
+    weight: 4
+    lang: en
+    status: unverified
+  - id: statnews
+    name: STAT
+    section: rd
+    url: https://www.statnews.com/category/pharma/feed/
+    homepage: https://www.statnews.com/
+    candidates: [https://www.statnews.com/category/biotech/feed/, https://www.statnews.com/feed/]
+    weight: 4
+    lang: en
+    exclude: "STAT\\+|opinion|First Opinion"
+    status: unverified
+  - id: fda
+    name: FDA
+    section: rd
+    url: https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml
+    homepage: https://www.fda.gov/news-events/fda-newsroom/press-announcements
+    include: "approv|clearance|authoriz|drug|biologic|therapy|treatment|CDER|CBER|guidance"
+    weight: 4
+    lang: en
+    status: unverified
+  - id: ema
+    name: EMA
+    section: rd
+    url: https://www.ema.europa.eu/en/news.xml
+    homepage: https://www.ema.europa.eu/en/news
+    candidates: [https://www.ema.europa.eu/en/rss.xml]
+    weight: 4
+    lang: en
+    status: unverified
+  - id: nrdd
+    name: Nature Reviews Drug Discovery
+    section: rd
+    url: https://www.nature.com/nrd.rss
+    homepage: https://www.nature.com/nrd/
+    weight: 3
+    lang: en
+    status: unverified
+  - id: astellas
+    name: Astellas
+    section: rd
+    url: null
+    homepage: https://newsroom.astellas.com/
+    discover_pages: [https://www.astellas.com/en/news]
+    candidates: [https://newsroom.astellas.com/rss, "https://newsroom.astellas.com/news-releases?pagetemplate=rss", https://www.astellas.com/en/news/rss]
+    weight: 3
+    lang: en
+    status: unverified

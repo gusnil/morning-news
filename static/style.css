@@ -1,8 +1,8 @@
 :root{--bg:#f5f4ef;--card:#fff;--fg:#141417;--muted:#6c6c74;--rule:#e2e0d8;--sh:0 1px 2px rgba(20,20,23,.05),0 6px 20px rgba(20,20,23,.06);--sh2:0 2px 4px rgba(20,20,23,.06),0 14px 34px rgba(20,20,23,.12);
 --serif:"Iowan Old Style","Charter","Palatino Linotype","Book Antiqua",Georgia,serif;--sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
---world:#3b5bdb;--basel:#d6336c;--sport:#2b8a3e;--chess:#b5770d;--ai:#7048e8;--c:var(--world);color-scheme:light dark}
+--world:#3b5bdb;--basel:#d6336c;--sport:#2b8a3e;--chess:#b5770d;--ai:#7048e8;--rd:#0c8599;--c:var(--world);color-scheme:light dark}
 @media (prefers-color-scheme:dark){:root{--bg:#0e0f11;--card:#18191c;--fg:#ececef;--muted:#9a9aa4;--rule:#26272c;--sh:0 1px 2px rgba(0,0,0,.4);--sh2:0 10px 30px rgba(0,0,0,.55);
---world:#7c93ff;--basel:#ff6b9a;--sport:#5bd47a;--chess:#f0b44c;--ai:#a58bff}}
+--world:#7c93ff;--basel:#ff6b9a;--sport:#5bd47a;--chess:#f0b44c;--ai:#a58bff;--rd:#3bc9db}}
 *{box-sizing:border-box}
 html{scroll-padding-top:4.25rem;-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 var(--sans);-webkit-font-smoothing:antialiased}
@@ -21,10 +21,10 @@ nav.top ul::-webkit-scrollbar{display:none}
 nav.top a{display:block;padding:6px 14px;border-radius:999px;font-weight:600;font-size:.9rem;white-space:nowrap;transition:background .2s,color .2s}
 nav.top a:hover{background:color-mix(in srgb,var(--c) 14%,transparent)}
 nav.top a[aria-current]{background:var(--c);color:#fff}
-.s-world{--c:var(--world)}.s-basel{--c:var(--basel)}.s-sport{--c:var(--sport)}.s-chess{--c:var(--chess)}.s-ai{--c:var(--ai)}
+.s-world{--c:var(--world)}.s-basel{--c:var(--basel)}.s-sport{--c:var(--sport)}.s-chess{--c:var(--chess)}.s-ai{--c:var(--ai)}.s-rd{--c:var(--rd)}
 .date{color:var(--muted);font-size:.85rem;white-space:nowrap}
 .sec{padding:40px 0 6px}
-.sec-world{--c:var(--world)}.sec-basel{--c:var(--basel)}.sec-sport{--c:var(--sport)}.sec-chess{--c:var(--chess)}.sec-ai{--c:var(--ai)}
+.sec-world{--c:var(--world)}.sec-basel{--c:var(--basel)}.sec-sport{--c:var(--sport)}.sec-chess{--c:var(--chess)}.sec-ai{--c:var(--ai)}.sec-rd{--c:var(--rd)}
 .sec-h{display:flex;align-items:baseline;gap:12px;margin-bottom:18px;padding-top:12px;border-top:3px solid var(--c)}
 .sec-h h2{font:700 1.9rem/1.1 var(--serif);margin:0;letter-spacing:-.01em}
 .sec-h .n{color:var(--muted);font-size:.85rem}

@@ -5,7 +5,7 @@
   <div class="wrap">
     <div class="kick">{% if is_archive %}Archive · {% endif %}<time datetime="{{ page.date }}">{{ page.date | longdate }}</time></div>
     <h1>Morning Edition</h1>
-    <div class="tagline">World · Basel · Sport · Chess · AI</div>
+    <div class="tagline">World · Basel · Sport · Chess · AI · R&amp;D</div>
   </div>
 </header>
 <nav class="top" aria-label="Sections">
@@ -28,6 +28,6 @@
 {% endfor %}
 </main>
 <footer class="wrap">
-  Built {{ page.built_local }}{% if page.feeds_total %} · {{ page.feeds_ok }} of {{ page.feeds_total }} feeds OK{% endif %} · <a href="{{ root }}archive/index.html">Archive</a> · Keys: 1–5 sections, j/k stories, Enter opens
+  Built {{ page.built_local }}{% if page.feeds_total %} · {{ page.feeds_ok }} of {{ page.feeds_total }} feeds OK{% endif %} · <a href="{{ root }}archive/index.html">Archive</a> · Keys: 1–6 sections, j/k stories, Enter opens
 </footer>
 {% endblock %}

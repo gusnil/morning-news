@@ -25,7 +25,7 @@ def fake_feed(url: str, now: datetime, dead: set[str]) -> bytes:
         raise urllib.error.HTTPError(url, 404, "Not Found", {}, None)
     srcs = [s for s in CFG["sources"] if s.get("url") == url]
     hint = " ".join(TEAM_WORDS.get(s.get("team"), "") + " " + SUB_WORDS.get(s.get("sub"), "") for s in srcs)
-    hint += " FCB Switzerland AI decision analytics"
+    hint += " FCB Switzerland AI decision analytics drug approval"
     n = abs(hash(url)) % 1000
     items = []
     for i in range(8):
@@ -63,7 +63,7 @@ def test_full_build_page_contract(tmp):
     assert 'target="_blank" rel="noopener"' in html
     assert not re.search(r"<iframe\b|https?://[^\"]*\.(css|js)\b|fonts\.google", html)   # no external code/fonts
     assert 'class="hero' in html and 'referrerpolicy="no-referrer"' in html                 # picture layout
-    for sec in ("world", "basel", "sport", "chess", "ai"):
+    for sec in ("world", "basel", "sport", "chess", "ai", "rd"):
         assert f'id="{sec}"' in html
     assert (tmp / "site" / "style.css").exists() and (tmp / "site" / "app.js").stat().st_size < 3000
 
