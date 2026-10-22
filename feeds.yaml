@@ -285,6 +285,123 @@ sources:
     scope: Basel
     lang: de
     status: verified
+  - id: 20min_basel
+    name: 20 Minuten Basel
+    section: basel
+    url: null
+    homepage: https://www.20min.ch/regionen/basel
+    candidates:
+      - https://partner-feeds.20min.ch/rss/20minuten/basel
+      - https://partner-feeds.publishing.tamedia.ch/rss/20minuten/basel
+      - https://api.20min.ch/rss/view/1?region=basel
+      - https://www.20min.ch/rss/basel
+    weight: 3
+    scope: Basel
+    lang: de
+    status: unverified
+  - id: blick_basel
+    name: Blick Basel
+    section: basel
+    url: null
+    homepage: https://www.blick.ch/schweiz/basel/
+    candidates:
+      - https://www.blick.ch/schweiz/basel/rss.xml
+      - https://www.blick.ch/schweiz/basel/rss
+      - https://www.blick.ch/schweiz/rss.xml
+    weight: 2
+    scope: Basel
+    lang: de
+    status: unverified
+  - id: bajour
+    name: Bajour
+    section: basel
+    url: null
+    homepage: https://bajour.ch/
+    candidates:
+      - https://bajour.ch/feed
+      - https://bajour.ch/rss
+      - https://bajour.ch/rss.xml
+      - https://bajour.ch/api/rss
+    weight: 4
+    scope: Basel
+    lang: de
+    status: unverified
+  - id: bs_medien
+    name: Kanton Basel-Stadt
+    section: basel
+    url: null
+    homepage: https://www.bs.ch/medienmitteilungen
+    discover_pages: [https://www.medien.bs.ch/, https://www.bs.ch/]
+    candidates:
+      - https://www.bs.ch/medienmitteilungen.rss
+      - https://www.bs.ch/medienmitteilungen/rss
+      - https://www.bs.ch/rss/medienmitteilungen
+      - https://www.medien.bs.ch/nm.rss
+      - https://www.medien.bs.ch/rss
+    weight: 3
+    scope: Basel
+    lang: de
+    status: unverified
+  - id: nau_basel
+    name: Nau.ch Basel
+    section: basel
+    url: null
+    homepage: https://www.nau.ch/ort/basel
+    discover_pages: [https://www.nau.ch/ort/basel-stadt, https://www.nau.ch/]
+    candidates:
+      - https://www.nau.ch/ort/basel/rss
+      - https://www.nau.ch/ort/basel.rss
+      - https://www.nau.ch/rss/ort/basel
+    weight: 3
+    scope: Basel
+    lang: de
+    status: unverified
+  - id: barfi
+    name: barfi.ch
+    section: basel
+    url: null
+    homepage: https://www.barfi.ch/
+    candidates:
+      - https://www.barfi.ch/rss
+      - https://www.barfi.ch/feed
+    weight: 2
+    scope: Basel
+    lang: de
+    status: unverified
+  - id: wochenblatt_birseck
+    name: Wochenblatt Birseck
+    section: basel
+    url: null
+    homepage: https://www.wochenblatt.ch/
+    candidates:
+      - https://www.wochenblatt.ch/feed
+      - https://www.wochenblatt.ch/rss
+    weight: 3
+    scope: Local
+    lang: de
+    status: unverified
+  - id: riehener_zeitung
+    name: Riehener Zeitung
+    section: basel
+    url: null
+    homepage: https://www.riehener-zeitung.ch/
+    candidates:
+      - https://www.riehener-zeitung.ch/feed
+      - https://www.riehener-zeitung.ch/rss
+    weight: 2
+    scope: Local
+    lang: de
+    status: unverified
+  - id: srf_regi_podcast
+    name: SRF Regionaljournal Basel (podcast)
+    section: basel
+    url: null
+    homepage: https://www.srf.ch/audio/regionaljournal-basel-baselland
+    discover_pages: [https://www.srf.ch/audio/regionaljournal-basel-baselland/podcasts]
+    weight: 4
+    scope: Basel
+    lang: de
+    status: unverified
   - id: baseljetzt
     name: Baseljetzt
     section: basel
