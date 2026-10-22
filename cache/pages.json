@@ -1,0 +1,598 @@
+{
+"2026-10-22": {
+"date": "2026-10-22",
+"built_at": "2026-10-22T11:14:50.456005+00:00",
+"built_local": "13:14",
+"feeds_ok": 43,
+"feeds_total": 43,
+"sections": [
+{
+"id": "world",
+"title": "World",
+"count": 10,
+"thin": false,
+"groups": [
+{
+"id": "world",
+"title": null,
+"items": [
+{
+"id": "0f87a8784f6b2441",
+"title": "International Criminal Court wins EU's Sakharov human rights prize",
+"url": "https://www.france24.com/en/europe/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
+"source": "France 24",
+"when": "12:10",
+"also": [
+"DW"
+],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "e04826463bdcaf7f",
+"title": "Pope Leo XIV needs no further lung cancer treatment, Vatican says",
+"url": "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer",
+"source": "France 24",
+"when": "Wed 23:41",
+"also": [
+"DW",
+"BBC World"
+],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "c26edebc6175c1e6",
+"title": "Nigeria confirms its first Ebola case is Bundibugyo strain",
+"url": "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece",
+"source": "The Hindu",
+"when": "Wed 11:59",
+"also": [
+"Africanews"
+],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "e0ad9e2c41fbcad7",
+"title": "Trump praises man who punched protester at rally in South Carolina",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "12:58",
+"also": [],
+"lang": "en",
+"excerpt": "US President Donald Trump praised a man who punched a protester at a midterm election rally held in South Carolina."
+},
+{
+"id": "a4c7d37e76d4a27b",
+"title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
+"url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "12:51",
+"also": [],
+"lang": "en",
+"excerpt": "Tom Barrack says Washington's relationship with the Middle East needs to change from one of control to one of support."
+},
+{
+"id": "3611eecf4615a3b0",
+"title": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
+"url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "12:45",
+"also": [],
+"lang": "en",
+"excerpt": "Firebrand student leader has become face of the youth protest movement taking on Modi's Hindu majoritarian government."
+},
+{
+"id": "71af926444934dc6",
+"title": "South Africa water crisis: Over 500 fall ill amid contamination fears",
+"url": "http://www.africanews.com/2026/10/22/south-africa-water-crisis-over-500-fall-ill-amid-contamination-fears/",
+"source": "Africanews",
+"when": "12:43",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "889cb21a123d7965",
+"title": "French city of Lyon bans ‘all protests’ on October 24",
+"url": "https://www.thehindu.com/news/international/french-city-of-lyon-bans-all-protests-on-october-24/article71611024.ece",
+"source": "The Hindu",
+"when": "12:17",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "37e62e367fdc6e03",
+"title": "Defence seeks acquittal of doctor in death of Argentina's Maradona",
+"url": "http://www.africanews.com/2026/10/22/defence-seeks-acquittal-of-doctor-in-death-of-argentinas-maradona/",
+"source": "Africanews",
+"when": "12:14",
+"also": [],
+"lang": "en",
+"excerpt": "A lawyer for neurosurgeon Leopoldo Luque, says he has been made a scapegoat, rejecting the argument that the player's death was foreseeable."
+},
+{
+"id": "c995bd7feb1dc4d6",
+"title": "Erika Hilton, lawmaker: ‘There could be a coup in Brazil. This time within the law, not like that horror show’",
+"url": "https://english.elpais.com/international/2026-10-22/erika-hilton-lawmaker-there-could-be-a-coup-in-brazil-this-time-within-the-law-not-like-that-horror-show.html",
+"source": "El País English",
+"when": "12:59",
+"also": [],
+"lang": "en",
+"excerpt": "A trans woman who is the top female vote-getter in the country talks to EL PAÍS about the left’s sprint to get Lula re-elected at the runoff vote this Sunday"
+}
+]
+}
+]
+},
+{
+"id": "basel",
+"title": "Basel",
+"count": 10,
+"thin": false,
+"groups": [
+{
+"id": "basel",
+"title": null,
+"items": [
+{
+"id": "735b13b47be3c875",
+"title": "Verfahrensfehler – Europäischer Gerichtshof rügt Schweiz wegen Brian Keller",
+"url": "https://www.srf.ch/news/schweiz/verfahrensfehler-europaeischer-gerichtshof-ruegt-schweiz-wegen-brian-keller",
+"source": "SRF Regionaljournal",
+"when": "12:56",
+"also": [
+"SRF News",
+"NZZ"
+],
+"lang": "de",
+"excerpt": "Die Schweiz soll den Ex-Häftling mit 5000 Franken entschädigen, entscheidet der Europäische Gerichtshof."
+},
+{
+"id": "e07a6a439ecd4d84",
+"title": "Anwohnerparkkarten – Zürich: Parkieren in der Blauen Zone wird definitiv teurer",
+"url": "https://www.srf.ch/news/schweiz/anwohnerparkkarten-zuerich-parkieren-in-der-blauen-zone-wird-definitiv-teurer",
+"source": "SRF Regionaljournal",
+"when": "12:17",
+"also": [
+"SRF News"
+],
+"lang": "de",
+"excerpt": "Der Zürcher Stadtrat führt die neuen Anwohnerparkkarten definitiv ab Januar 2027 ein – Kritik von FDP, Mitte und SVP."
+},
+{
+"id": "0b035eebe7392028",
+"title": "In Libyen eingetroffen – EDA bestätigt: Schweizer Geisel aus Niger befreit",
+"url": "https://www.srf.ch/news/international/in-libyen-eingetroffen-eda-bestaetigt-schweizer-geisel-aus-niger-befreit",
+"source": "SRF Regionaljournal",
+"when": "12:15",
+"also": [
+"SRF News"
+],
+"lang": "de",
+"excerpt": "Eine Schweizerin und eine Österreicherin sind nach über einem Jahr freigelassen worden und befinden sich in Libyen."
+},
+{
+"id": "822e3d0d61fe2adc",
+"title": "«Ich kann nicht singen»-Chor – Ein Chor stemmt sich gegen das Trauma des Singunterrichts",
+"url": "https://www.srf.ch/kultur/musik/ich-kann-nicht-singen-chor-ein-chor-stemmt-sich-gegen-das-trauma-des-singunterrichts",
+"source": "SRF News",
+"when": "13:07",
+"also": [],
+"lang": "de",
+"excerpt": "Vorsingen vor der Klasse: Bekommen Sie bei dem Gedanken schwitzige Hände? Ein neuer Chor trifft den richtigen Ton."
+},
+{
+"id": "8daba06b037aaabf",
+"title": "Münchenstein: Am MFP-Kreisel gelten ab 26. Oktober neue Spuren für Autofahrer",
+"url": "https://www.bazonline.ch/mfp-kreisel-muenchenstein-neue-spurzuteilung-ab-26-oktober-685984606422",
+"source": "Basler Zeitung",
+"when": "12:56",
+"also": [],
+"lang": "de",
+"excerpt": ""
+},
+{
+"id": "cd42407d039574bf",
+"title": "Essenslieferdienst krempelt um – Just Eat: Entlassungen wegen neuem Modell",
+"url": "https://www.srf.ch/news/wirtschaft/essenslieferdienst-krempelt-um-just-eat-entlassungen-wegen-neuem-modell",
+"source": "SRF News",
+"when": "12:51",
+"also": [],
+"lang": "de",
+"excerpt": "Potenziell sind mehrere hundert Kuriere betroffen. Die Firma setzt neu auf mehr Selbständige statt Festangestellte."
+},
+{
+"id": "936607c685d3361d",
+"title": "Erfolg in Deutschland – Schlagersänger Vincent Gross gewinnt «The Masked Singer»",
+"url": "https://www.srf.ch/news/gesellschaft/erfolg-in-deutschland-schlagersaenger-vincent-gross-gewinnt-the-masked-singer",
+"source": "SRF News",
+"when": "12:45",
+"also": [],
+"lang": "de",
+"excerpt": ""
+},
+{
+"id": "384a0f4cd1169da8",
+"title": "Eklat nach Lauber-Rücktritt: Remo Oser chartert zwei Busse mit Fans für den Mitte-Parteitag – und gewinnt",
+"url": "https://www.bazonline.ch/baselland-remo-oser-ueberraschend-als-mitte-regierungskandidat-gewaehlt-568500172480",
+"source": "Basler Zeitung",
+"when": "12:37",
+"also": [],
+"lang": "de",
+"excerpt": ""
+},
+{
+"id": "90f9862b1ffa477e",
+"title": "Ausserordentlich hohes Risiko entdeckt: Nach Alarm um Sicherheitslücke – Basel-Stadt schaltet Webseiten schrittweise wieder ein",
+"url": "https://www.bazonline.ch/php-sicherheitsluecke-basel-stadt-stellt-webseiten-wieder-online-624548572241",
+"source": "Basler Zeitung",
+"when": "12:26",
+"also": [],
+"lang": "de",
+"excerpt": "Am Mittwoch hat der Kanton seine Webseiten präventiv heruntergefahren. Grund dafür war eine weltweit aufgetretene Sicherheitslücke."
+},
+{
+"id": "deca412277c74672",
+"title": "Schweizer Geisel aus Niger befreit und laut Cassis bereits auf der Reise in die Heimat",
+"url": "https://www.nzz.ch/schweiz/schweizer-geisel-aus-niger-befreit-ld.10041146",
+"source": "NZZ",
+"when": "13:05",
+"also": [],
+"lang": "de",
+"excerpt": "Mehr als anderthalb Jahre sassen zwei Frauen in der Gewalt von Jihadisten fest. Nun sind sie frei."
+}
+]
+}
+]
+},
+{
+"id": "sport",
+"title": "Sport",
+"count": 12,
+"thin": false,
+"groups": [
+{
+"id": "cycling",
+"title": "Cycling",
+"items": [
+{
+"id": "82ca95f0368a14b9",
+"title": "Cannondale’s Connecticut HQ to close with the global headquarters moving to the Netherlands",
+"url": "https://www.cyclingnews.com/cycling-tech-components/cannondales-connecticut-hq-to-close-with-the-global-headquarters-moving-to-the-netherlands/",
+"source": "Cyclingnews",
+"when": "12:20",
+"also": [
+"Escape Collective",
+"Cycling Weekly"
+],
+"lang": "en",
+"excerpt": "North American operations will be run from the West Coast"
+},
+{
+"id": "c0ac0a628dac4a41",
+"title": "Tour de France Femmes 2027 route unveiled – Nine tough stages, a first-ever TTT, and a big Puy de Dôme finale",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-2027-route-unveiled-nine-tough-stages-a-first-ever-ttt-and-a-big-puy-de-dome-finale/",
+"source": "Cyclingnews",
+"when": "11:41",
+"also": [
+"Velo",
+"Cycling Weekly"
+],
+"lang": "en",
+"excerpt": "Race kicks off with UK Grand Départ before a challenging traverse across France"
+},
+{
+"id": "90b675f38832f309",
+"title": "Tour de France 2027 route unveiled – Most time trial kilometres since 2012, brutal Pyrenean queen stage, as Tadej Pogačar eyes record sixth title",
+"url": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-2027-route-unveiled-most-time-trial-kilometres-since-2012-brutal-pyrenean-queen-stage-as-tadej-pogacar-eyes-record-sixth-title/",
+"source": "Cyclingnews",
+"when": "12:16",
+"also": [],
+"lang": "en",
+"excerpt": "Col du Portet to take centre stage in GC race from Grand Départ in Great Britain to Paris finale"
+},
+{
+"id": "a8335a5aff269eed",
+"title": "Women's MTB brand Juliana merged into Santa Cruz",
+"url": "https://escapecollective.com/womens-mtb-brand-juliana-merged-into-santa-cruz/",
+"source": "Escape Collective",
+"when": "12:56",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "2ef52c0d0cdb0a76",
+"title": "This cycling journalist does not exist",
+"url": "https://escapecollective.com/this-cycling-journalist-does-not-exist/",
+"source": "Escape Collective",
+"when": "05:20",
+"also": [],
+"lang": "en",
+"excerpt": "On the trail of a fake Iain Treloar, all the way to the internet’s murky depths."
+},
+{
+"id": "7635b77577d1890a",
+"title": "British opening, three summit finishes and 71km of time trials: Action-packed Tour de France 2027 route announced",
+"url": "https://www.cyclingweekly.com/racing/tour-de-france-2027-route-revealed",
+"source": "Cycling Weekly",
+"when": "12:18",
+"also": [],
+"lang": "en",
+"excerpt": "Full course announced for 2027 edition, from Edinburgh to Paris via the Alps, Pyrenees and Massif Central"
+}
+]
+},
+{
+"id": "teams",
+"title": "Teams",
+"items": [
+{
+"id": "a3b2af728369a6e2",
+"title": "Repris: Ungern-Sverige",
+"url": "https://www.svenskfotboll.se/nyheter/landslag/2026/10/live-futsal-15-okt/",
+"source": "SvFF",
+"when": "13:14",
+"also": [],
+"lang": "sv",
+"excerpt": ""
+},
+{
+"id": "9b34f70c52b9abb4",
+"title": "Målsuccé för förre MFF-spelaren – i Indonesien",
+"url": "https://www.sydsvenskan.se/sport/sydsvenskan-sport-direkt-de-senaste-nyheterna/?ifr-dir-postId=3e6bf8d0-4e6e-4f5b-8697-fd814a362e0b",
+"source": "Sydsvenskan",
+"when": "10:11",
+"also": [],
+"lang": "sv",
+"excerpt": "Sex mål på lika många matcher."
+},
+{
+"id": "d5da169804f6577a",
+"title": "Watch Red Sox prospects in Arizona Fall League action",
+"url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+"source": "MLB.com",
+"when": "06:26",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "999ed27231314882",
+"title": "Expert Predictions: Week 7 Picks for Patriots at Bears",
+"url": "https://www.patriots.com/news/expert-predictions-week-7-picks-for-patriots-at-bears",
+"source": "Patriots.com",
+"when": "Wed 23:11",
+"also": [],
+"lang": "en",
+"excerpt": "Experts share their picks for the Patriots Week 7 matchup against the Chicago Bears."
+},
+{
+"id": "85aa0ef15b2db5de",
+"title": "#4 UConn Takes Down #6 MSU in Preseason Bout",
+"url": "https://uconnhuskies.com/news/2026/10/20/mens-basketball-4-uconn-takes-down-6-msu-in-preseason-bout",
+"source": "UConn Huskies",
+"when": "Wed 05:11",
+"also": [],
+"lang": "en",
+"excerpt": ""
+}
+]
+},
+{
+"id": "cfb",
+"title": "College football",
+"items": []
+},
+{
+"id": "sumo",
+"title": "Sumo",
+"items": [
+{
+"id": "24091d9213af6920",
+"title": "Kyushu Banzuke Crystal Ball",
+"url": "https://tachiai.org/2026/10/19/kyushu-banzuke-crystal-ball-7/",
+"source": "Tachiai",
+"when": "Mon 20:50",
+"also": [],
+"lang": "en",
+"excerpt": "Without further ado, here’s my final banzuke guess."
+}
+]
+}
+]
+},
+{
+"id": "chess",
+"title": "Chess",
+"count": 8,
+"thin": false,
+"groups": [
+{
+"id": "chess",
+"title": null,
+"items": [
+{
+"id": "6d9c831744f6e512",
+"title": "All new releases in September!",
+"url": "https://en.chessbase.com/post/all-new-releases-in-september",
+"source": "ChessBase",
+"when": "12:12",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "9353849ef8fcda83",
+"title": "Barcelona to host the MOVE Cup",
+"url": "https://en.chessbase.com/post/barcelona-to-host-the-move-cup",
+"source": "ChessBase",
+"when": "10:00",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "4d16947202d39a3e",
+"title": "European Club Cup: Novy Bor and SuperChess remain perfect",
+"url": "https://en.chessbase.com/post/european-club-cup-2026-5",
+"source": "ChessBase",
+"when": "09:20",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "5357fa85fec88786",
+"title": "Kazakhstan dominates World U7–U17 Championships in Roquetas de Mar",
+"url": "https://www.fide.com/kazakhstan-dominates-world-u7-u17-championships-in-roquetas-de-mar/",
+"source": "FIDE",
+"when": "Wed 18:20",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "336762ba5c7fdb7a",
+"title": "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs",
+"url": "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
+"source": "Chess.com",
+"when": "01:33",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "59a53390f0c61ddc",
+"title": "Anton, Harikrishna Give Novy Bor Crucial Win Over Alkaloid",
+"url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
+"source": "Chess.com",
+"when": "00:50",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "f0fd5db0cf66372c",
+"title": "Nakamura Starts 7/7, Wins Titled Tuesday",
+"url": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-october-20-2026",
+"source": "Chess.com",
+"when": "Tue 21:00",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "a576fdb695435818",
+"title": "Ending the Boycott",
+"url": "https://lichess.org/@/Lichess/blog/ending-the-boycott/Y82ZBf6S",
+"source": "Lichess",
+"when": "Wed 18:37",
+"also": [],
+"lang": "en",
+"excerpt": "Lichess has resumed cooperation with US Chess after positive changes"
+}
+]
+}
+]
+},
+{
+"id": "ai",
+"title": "AI",
+"count": 8,
+"thin": false,
+"groups": [
+{
+"id": "ai",
+"title": null,
+"items": [
+{
+"id": "5830843e0d05f048",
+"title": "Making the case for context-aware AI",
+"url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+"source": "MIT Technology Review",
+"when": "12:00",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "ff73d29a9964afd8",
+"title": "MemCurrent: Designing Persistent Memory for Production Agents",
+"url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+"source": "Databricks",
+"when": "Tue 20:15",
+"also": [],
+"lang": "en",
+"excerpt": "AI tools have made it easy to vibe code agents. Building and maintaining an enterprise..."
+},
+{
+"id": "a6646360443c1474",
+"title": "Introducing Agent Memory on Databricks",
+"url": "https://www.databricks.com/blog/introducing-agent-memory-databricks",
+"source": "Databricks",
+"when": "Tue 19:26",
+"also": [],
+"lang": "en",
+"excerpt": "Today we're introducing agent memory on Agent Bricks, Databricks' agent developer..."
+},
+{
+"id": "f54bd287e3269a25",
+"title": "How Hamlet uses Databricks Lakebase Postgres to test changes against production data",
+"url": "https://www.databricks.com/blog/how-hamlet-uses-databricks-lakebase-postgres-test-changes-against-production-data",
+"source": "Databricks",
+"when": "Tue 16:45",
+"also": [],
+"lang": "en",
+"excerpt": "Hamlet, an AI-powered platform that makes local government decision-making accessible..."
+},
+{
+"id": "466208ffb7a1bff6",
+"title": "Startup Spotlight: Dust’s Multi-Model AI Platform",
+"url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-spotlight-dust",
+"source": "Snowflake blog",
+"when": "Wed 21:58",
+"also": [],
+"lang": "en",
+"excerpt": "Dust Co-Founder and CTO Stanislas Polu explains the vision behind Dust and how it helps companies own their AI by enabling control over agentic traces."
+},
+{
+"id": "77a76b518c5e372b",
+"title": "Microsoft & Snowflake’s Commitment to Apache Ossie",
+"url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534",
+"source": "Power BI blog",
+"when": "Wed 19:55",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "3b0be89307544854",
+"title": "My obituary for programming",
+"url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+"source": "Simon Willison",
+"when": "Tue 01:58",
+"also": [],
+"lang": "en",
+"excerpt": ""
+},
+{
+"id": "a5c97fc912c3f687",
+"title": "Making the internet better for AI agents might make it worse for everyone else",
+"url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+"source": "MIT Technology Review",
+"when": "Mon 20:22",
+"also": [],
+"lang": "en",
+"excerpt": ""
+}
+]
+}
+]
+}
+]
+}
+}
