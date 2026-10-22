@@ -27,13 +27,15 @@ def load_events(path: Path | str) -> list[dict]:
     return data.get("events", []) or []
 
 
-def active_disciplines(events: list[dict], day: date) -> set[str]:
+def active_disciplines(events: list[dict], day: date, lag_days: int = 1) -> set[str]:
+    """Disciplines with a boosting event on `day`. The 03:00 page reports the previous day,
+    so a window stays active `lag_days` after the event's last day."""
     out = set()
     for ev in events:
         if ev.get("boost", True) is False:
             continue
         start, end = _d(ev["start"]), _d(ev.get("end") or ev["start"])
-        if start <= day <= end:
+        if start <= day <= end + timedelta(days=lag_days):
             out.add(ev["discipline"])
     return out
 
@@ -245,6 +247,7 @@ def build_sections(cfg: dict, items: list[dict], now: datetime, local_day: date,
             lo = now - timedelta(hours=window_h)
             return [it for it in items
                     if it["section"] == sec["id"] and it["source"] in sources
+                    and sources[it["source"]].get("status") != "dropped"
                     and (sub is None or sources[it["source"]].get("sub") == sub)
                     and lo <= item_time(it) <= now + timedelta(hours=1)
                     and it["first_seen"] <= now.isoformat()]

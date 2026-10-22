@@ -257,7 +257,8 @@ sources:
     weight: 5
     scope: Basel
     lang: de
-    status: verified
+    status: dropped
+    note: "SRF publishes no Basel regional feed (checked its RSS directory, 2026-10-22). /rss/1890 is the national 'Schweiz - Inland' feed and is used by srf_news."
   - id: primenews
     name: Prime News
     section: basel
@@ -346,11 +347,12 @@ sources:
   - id: srf_news
     name: SRF News
     section: basel
-    url: https://www.srf.ch/news/bnf/rss/1646
+    url: https://www.srf.ch/news/bnf/rss/1890
     weight: 4
     scope: CH
     lang: de
     status: verified
+    note: "Uses SRF 'Schweiz - Inland' (1890); the brief's 1646 mixes in international news."
   - id: nzz
     name: NZZ
     section: basel
@@ -580,16 +582,16 @@ sources:
     status: blocked
     note: "bzbasel.ch Cloudflare challenge for GitHub runners."
   - id: srf_fcb
-    name: SRF Regionaljournal
+    name: SRF Sport
     section: sport
     sub: teams
     team: fcbasel
-    url: https://www.srf.ch/news/bnf/rss/1890
+    url: https://www.srf.ch/news/bnf/rss/2562
     weight: 3
     lang: de
     include: "\\bFCB\\b|FC Basel|Rotblau|Rotblaue|St\\. Jakob-Park"
     status: verified
-    note: "Fallback for FC Basel (official site and bz Basel unavailable): the §5.2 SRF Basel feed filtered to FCB."
+    note: "Fallback for FC Basel (official site and bz Basel unavailable): SRF Fussball feed filtered to FCB."
   - id: mff
     name: Malmö FF
     section: sport
