@@ -1,4 +1,4 @@
-Feed validation run 2026-10-22 14:41 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
+Feed validation run 2026-10-22 14:46 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
 
 | id | section | result | working URL | items | newest | note |
 |---|---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Feed validation run 2026-10-22 14:41 UTC (criteria: parseable, >= 1 item, newest
 | scmp | world | ok | https://www.scmp.com/rss/91/feed | 50 | 2026-10-22 |  |
 | africanews | world | ok | https://www.africanews.com/feed/rss | 50 | 2026-10-22 |  |
 | elpais | world | ok | https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada | 56 | 2026-10-22 |  |
-| folha | world | ok | https://www1.folha.uol.com.br/internacional/en/rss091.xml | 15 | 2026-10-21 |  |
+| folha | world | ok | https://www1.folha.uol.com.br/internacional/en/rss091.xml | 15 | 2026-10-22 |  |
 | bzbasel | basel | dead |  | 0 |  | www.bzbasel.ch/ -> HTTP 403; HTTP 403 |
 | baz | basel | ok | https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel | 36 | 2026-10-22 |  |
 | onlinereports | basel | ok | https://onlinereports.ch/api/rss-feed | 50 | 2026-10-22 |  |
@@ -64,5 +64,6 @@ Feed validation run 2026-10-22 14:41 UTC (criteria: parseable, >= 1 item, newest
 | statnews | rd | ok | https://www.statnews.com/category/pharma/feed/ | 20 | 2026-10-22 |  |
 | fda | rd | ok | https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml | 20 | 2026-10-20 |  |
 | ema | rd | ok | https://www.ema.europa.eu/en/news.xml | 10 | 2026-10-16 |  |
+| astellas | rd | ok | https://newsroom.astellas.com/news?pagetemplate=rss | 5 | 2026-10-08 |  |
 
-51 of 62 sources have a working feed.
+52 of 63 sources have a working feed.

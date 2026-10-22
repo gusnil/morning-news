@@ -183,14 +183,14 @@
   "result": "ok",
   "working_url": "https://www1.folha.uol.com.br/internacional/en/rss091.xml",
   "items": 15,
-  "newest": "2026-10-21",
+  "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
     "url": "https://www1.folha.uol.com.br/internacional/en/rss091.xml",
     "ok": true,
     "items": 15,
-    "newest": "2026-10-21",
+    "newest": "2026-10-22",
     "error": null,
     "title": "Folha de S.Paulo - Internacional - En - Principal",
     "final_url": "https://www1.folha.uol.com.br/internacional/en/rss091.xml"
@@ -2359,6 +2359,28 @@
     "error": null,
     "title": "News and press releases",
     "final_url": "https://www.ema.europa.eu/en/news.xml"
+   }
+  ]
+ },
+ {
+  "id": "astellas",
+  "name": "Astellas",
+  "section": "rd",
+  "configured": "https://newsroom.astellas.com/news?pagetemplate=rss",
+  "result": "ok",
+  "working_url": "https://newsroom.astellas.com/news?pagetemplate=rss",
+  "items": 5,
+  "newest": "2026-10-08",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://newsroom.astellas.com/news?pagetemplate=rss",
+    "ok": true,
+    "items": 5,
+    "newest": "2026-10-08",
+    "error": null,
+    "title": "Global News | Astellas",
+    "final_url": "https://newsroom.astellas.com/news?pagetemplate=rss"
    }
   ]
  }
