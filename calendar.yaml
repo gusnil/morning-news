@@ -1,0 +1,101 @@
+# Hand-maintained event calendar (BRIEF §5.3). Update once a year.
+#
+# During an event window (start..end, plus the morning after, because the 03:00
+# page reports the previous day) items of that discipline get +2 score and the
+# sub-section cap rises by 2 (sumo: cap 2 during a basho).
+#
+#   discipline  cycling | sumo | cfb | nfl
+#   boost       false = listed for reference only (non-major WorldTour races)
+#   confirmed   false = date not officially confirmed; re-check before the event
+#
+# Populated 22.10.2026 for Nov 2026 - Oct 2027. Sources:
+#   UCI WorldTour 2027: Wikipedia "2027 UCI World Tour", cross-checked with
+#     Brujulabike / Domestique reports of the UCI-confirmed calendar (all 36 dates agree,
+#     except Vuelta end: Wikipedia 24 Sep, the two UCI-calendar reports 26 Sep -> 26 used).
+#   2027 Worlds (Haute-Savoie, 24 Aug - 5 Sep): UCI schedule as reported by Escape
+#     Collective and Tuttobiciweb (20.07.2026).
+#   2027 XCO World Cup: only a LEAKED DRAFT exists (PianetaMTB via Brujulabike, Oct 2026);
+#     all rounds unconfirmed, venues mostly unassigned. 2026 series ended 3 Oct 2026.
+#   Sumo: JSA 2027 Grand Tournament Schedule (via maezumou.com), Kyushu 2026 per Wikipedia
+#     "2026 in sumo"; all match the second-Sunday rule.
+#   CFP 2026-27: official schedule as reported by fbschedules.com.
+#   NFL 2026 playoffs: Wikipedia "2026 NFL season" / "Super Bowl LXI".
+#   No Olympics in this window (next: LA, July 2028).
+
+events:
+  # ------------------------------------------------------------ sumo (makuuchi)
+  - {name: Kyushu basho, discipline: sumo, start: 2026-11-08, end: 2026-11-22, confirmed: true}
+  - {name: Hatsu basho, discipline: sumo, start: 2027-01-10, end: 2027-01-24, confirmed: true}
+  - {name: Haru basho, discipline: sumo, start: 2027-03-14, end: 2027-03-28, confirmed: true}
+  - {name: Natsu basho, discipline: sumo, start: 2027-05-09, end: 2027-05-23, confirmed: true}
+  - {name: Nagoya basho, discipline: sumo, start: 2027-07-11, end: 2027-07-25, confirmed: true}
+  - {name: Aki basho, discipline: sumo, start: 2027-09-12, end: 2027-09-26, confirmed: true}
+  - {name: Kyushu basho, discipline: sumo, start: 2027-11-14, end: 2027-11-28, confirmed: false, note: "second-Sunday rule; outside 12-month window"}
+
+  # ------------------------------------------------------------ college football
+  - {name: CFP first round, discipline: cfb, start: 2026-12-18, end: 2026-12-19, confirmed: true}
+  - {name: CFP quarterfinals, discipline: cfb, start: 2026-12-30, end: 2027-01-01, confirmed: true}
+  - {name: CFP semifinals, discipline: cfb, start: 2027-01-14, end: 2027-01-15, confirmed: true}
+  - {name: CFP national championship (Las Vegas), discipline: cfb, start: 2027-01-25, end: 2027-01-25, confirmed: true}
+
+  # ------------------------------------------------------------ NFL
+  - {name: NFL wild card round, discipline: nfl, start: 2027-01-16, end: 2027-01-18, confirmed: true}
+  - {name: NFL divisional round, discipline: nfl, start: 2027-01-23, end: 2027-01-24, confirmed: true}
+  - {name: NFL conference championships, discipline: nfl, start: 2027-01-31, end: 2027-01-31, confirmed: true}
+  - {name: Super Bowl LXI, discipline: nfl, start: 2027-02-14, end: 2027-02-14, confirmed: true}
+
+  # ------------------------------------------------------------ road: Grand Tours, Monuments, Worlds (boost)
+  - {name: Milan-San Remo, discipline: cycling, kind: road, start: 2027-03-20, confirmed: true}
+  - {name: Tour of Flanders, discipline: cycling, kind: road, start: 2027-04-04, confirmed: true}
+  - {name: Paris-Roubaix, discipline: cycling, kind: road, start: 2027-04-11, confirmed: true}
+  - {name: Liège-Bastogne-Liège, discipline: cycling, kind: road, start: 2027-04-25, confirmed: true}
+  - {name: Giro d'Italia, discipline: cycling, kind: road, start: 2027-05-08, end: 2027-05-30, confirmed: true}
+  - {name: Tour de France, discipline: cycling, kind: road, start: 2027-07-02, end: 2027-07-25, confirmed: true}
+  - {name: UCI Road World Championships (Haute-Savoie), discipline: cycling, kind: road, start: 2027-08-29, end: 2027-09-05, confirmed: true, note: "men's RR 29 Aug, ITTs 30 Aug-2 Sep, women's RR 5 Sep"}
+  - {name: Vuelta a España, discipline: cycling, kind: road, start: 2027-09-04, end: 2027-09-26, confirmed: true, note: "end 26 Sep per UCI calendar reports; Wikipedia says 24 Sep"}
+  - {name: Il Lombardia, discipline: cycling, kind: road, start: 2027-10-09, confirmed: true}
+
+  # ------------------------------------------------------------ road: other WorldTour (reference only)
+  - {name: Tour Down Under, discipline: cycling, kind: road, start: 2027-01-19, end: 2027-01-24, boost: false, confirmed: true}
+  - {name: Cadel Evans Great Ocean Road Race, discipline: cycling, kind: road, start: 2027-01-31, boost: false, confirmed: true}
+  - {name: UAE Tour, discipline: cycling, kind: road, start: 2027-02-15, end: 2027-02-21, boost: false, confirmed: true}
+  - {name: Omloop Het Nieuwsblad, discipline: cycling, kind: road, start: 2027-02-27, boost: false, confirmed: true}
+  - {name: Strade Bianche, discipline: cycling, kind: road, start: 2027-03-06, boost: false, confirmed: true}
+  - {name: Paris-Nice, discipline: cycling, kind: road, start: 2027-03-07, end: 2027-03-14, boost: false, confirmed: true}
+  - {name: Tirreno-Adriatico, discipline: cycling, kind: road, start: 2027-03-08, end: 2027-03-14, boost: false, confirmed: true}
+  - {name: Volta a Catalunya, discipline: cycling, kind: road, start: 2027-03-22, end: 2027-03-28, boost: false, confirmed: true}
+  - {name: Classic Brugge-De Panne, discipline: cycling, kind: road, start: 2027-03-24, boost: false, confirmed: true}
+  - {name: E3 Saxo Classic, discipline: cycling, kind: road, start: 2027-03-26, boost: false, confirmed: true}
+  - {name: Gent-Wevelgem, discipline: cycling, kind: road, start: 2027-03-28, boost: false, confirmed: true}
+  - {name: Dwars door Vlaanderen, discipline: cycling, kind: road, start: 2027-03-31, boost: false, confirmed: true}
+  - {name: Itzulia Basque Country, discipline: cycling, kind: road, start: 2027-04-05, end: 2027-04-10, boost: false, confirmed: true}
+  - {name: Amstel Gold Race, discipline: cycling, kind: road, start: 2027-04-18, boost: false, confirmed: true}
+  - {name: La Flèche Wallonne, discipline: cycling, kind: road, start: 2027-04-21, boost: false, confirmed: true}
+  - {name: Tour de Romandie, discipline: cycling, kind: road, start: 2027-04-27, end: 2027-05-02, boost: false, confirmed: true}
+  - {name: Eschborn-Frankfurt, discipline: cycling, kind: road, start: 2027-05-01, boost: false, confirmed: true}
+  - {name: Tour Auvergne-Rhône-Alpes, discipline: cycling, kind: road, start: 2027-06-06, end: 2027-06-13, boost: false, confirmed: true}
+  - {name: Copenhagen Sprint, discipline: cycling, kind: road, start: 2027-06-13, boost: false, confirmed: true}
+  - {name: Tour de Suisse, discipline: cycling, kind: road, start: 2027-06-16, end: 2027-06-20, boost: false, confirmed: true}
+  - {name: Clásica San Sebastián, discipline: cycling, kind: road, start: 2027-07-31, boost: false, confirmed: true}
+  - {name: Tour de Pologne, discipline: cycling, kind: road, start: 2027-08-02, end: 2027-08-08, boost: false, confirmed: true}
+  - {name: Hamburg Cyclassics, discipline: cycling, kind: road, start: 2027-08-15, boost: false, confirmed: true}
+  - {name: Renewi Tour, discipline: cycling, kind: road, start: 2027-08-18, end: 2027-08-22, boost: false, confirmed: true}
+  - {name: Bretagne Classic, discipline: cycling, kind: road, start: 2027-08-22, boost: false, confirmed: true}
+  - {name: GP Québec, discipline: cycling, kind: road, start: 2027-09-10, boost: false, confirmed: true}
+  - {name: GP Montréal, discipline: cycling, kind: road, start: 2027-09-12, boost: false, confirmed: true}
+  - {name: Tour of Guangxi, discipline: cycling, kind: road, start: 2027-10-12, end: 2027-10-17, boost: false, confirmed: true}
+
+  # ------------------------------------------------------------ XCO MTB (boost)
+  - {name: XCO World Championships (Les Gets), discipline: cycling, kind: xco, start: 2027-08-30, end: 2027-09-04, confirmed: true, note: "XC programme 30 Aug-4 Sep; Olympic XC finals 2-4 Sep"}
+  - {name: XCO World Cup 1 (Europe, TBC), discipline: cycling, kind: xco, start: 2027-04-17, end: 2027-04-18, confirmed: false, note: leaked draft}
+  - {name: XCO World Cup 2 (outside Europe, TBC), discipline: cycling, kind: xco, start: 2027-04-30, end: 2027-05-02, confirmed: false, note: leaked draft}
+  - {name: XCO World Cup 3 (Europe, TBC), discipline: cycling, kind: xco, start: 2027-05-15, end: 2027-05-16, confirmed: false, note: leaked draft}
+  - {name: XCO World Cup 4 (Europe, TBC), discipline: cycling, kind: xco, start: 2027-05-22, end: 2027-05-23, confirmed: false, note: leaked draft}
+  - {name: XCO World Cup 5 (Europe, TBC), discipline: cycling, kind: xco, start: 2027-06-11, end: 2027-06-13, confirmed: false, note: leaked draft}
+  - {name: XCO World Cup 6 (Europe, TBC), discipline: cycling, kind: xco, start: 2027-06-18, end: 2027-06-20, confirmed: false, note: "leaked draft; alternative 25-27 June"}
+  - {name: XCO World Cup 7 (Europe, TBC), discipline: cycling, kind: xco, start: 2027-07-02, end: 2027-07-04, confirmed: false, note: leaked draft}
+  - {name: XCO World Cup 8 (Europe, TBC), discipline: cycling, kind: xco, start: 2027-07-10, end: 2027-07-11, confirmed: false, note: leaked draft}
+  - {name: XCO World Cup 9 (Europe, TBC), discipline: cycling, kind: xco, start: 2027-08-20, end: 2027-08-22, confirmed: false, note: leaked draft}
+  - {name: XCO World Cup 10 (Europe, TBC), discipline: cycling, kind: xco, start: 2027-09-10, end: 2027-09-12, confirmed: false, note: leaked draft}
+  - {name: XCO World Cup 11 (outside Europe, TBC), discipline: cycling, kind: xco, start: 2027-09-25, end: 2027-09-26, confirmed: false, note: leaked draft}
+  - {name: XCO World Cup 12 (outside Europe, TBC), discipline: cycling, kind: xco, start: 2027-10-08, end: 2027-10-10, confirmed: false, note: leaked draft}

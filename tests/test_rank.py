@@ -173,3 +173,12 @@ def test_deterministic():
     a = [c.item["id"] for s in sections(items).values() for c in flat(s)]
     b = [c.item["id"] for s in sections(list(reversed(items))).values() for c in flat(s)]
     assert a == b
+
+
+def test_event_window_includes_morning_after():
+    ev = [{"name": "Paris-Roubaix", "discipline": "cycling", "start": "2027-04-11"},
+          {"name": "Minor race", "discipline": "cycling", "start": "2027-05-01", "boost": False}]
+    assert active_disciplines(ev, date(2027, 4, 11)) == {"cycling"}
+    assert active_disciplines(ev, date(2027, 4, 12)) == {"cycling"}
+    assert active_disciplines(ev, date(2027, 4, 13)) == set()
+    assert active_disciplines(ev, date(2027, 5, 1)) == set()
