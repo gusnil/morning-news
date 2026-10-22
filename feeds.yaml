@@ -291,10 +291,9 @@ sources:
     url: null
     homepage: https://www.20min.ch/regionen/basel
     candidates:
+      - https://partner-feeds.20min.ch/rss/20minuten/regionen/basel
+      - https://partner-feeds.beta.20min.ch/rss/20minuten/regionen/basel
       - https://partner-feeds.20min.ch/rss/20minuten/basel
-      - https://partner-feeds.publishing.tamedia.ch/rss/20minuten/basel
-      - https://api.20min.ch/rss/view/1?region=basel
-      - https://www.20min.ch/rss/basel
     weight: 3
     scope: Basel
     lang: de
