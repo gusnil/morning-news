@@ -19,6 +19,7 @@
   </div>
 </nav>
 <main class="wrap">
+{% include "weather.html" %}
 {% for s in page.sections %}
 <section id="{{ s.id }}" class="sec sec-{{ s.id }}" aria-labelledby="h-{{ s.id }}">
   <header class="sec-h"><h2 id="h-{{ s.id }}">{{ s.title }}</h2><span class="n">{{ s.count }} {{ "story" if s.count == 1 else "stories" }}</span></header>

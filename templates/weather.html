@@ -1,0 +1,41 @@
+{% set w = page.weather %}
+{% if w %}
+{% set t = w.today %}
+<section class="wx" id="weather" aria-label="Weather in {{ w.place }}">
+  <div class="wx-today">
+    <div class="wx-kick">{{ w.place }} · Today</div>
+    <div class="wx-main">
+      <span class="wx-ic" aria-hidden="true">{{ t.icon }}</span>
+      <div>
+        <div class="wx-temp">{{ t.hi }}°<span> / {{ t.lo }}°</span></div>
+        <div class="wx-label">{{ t.label }}</div>
+      </div>
+    </div>
+    {% if w.slots %}
+    <ul class="wx-slots">
+    {% for s in w.slots %}
+      <li><span>{{ s.name }}</span><b><span aria-hidden="true">{{ s.icon }}</span> {{ s.temp }}°</b><i>{% if s.rain_pct %}{{ s.rain_pct }}% rain{% else %}dry{% endif %}</i></li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+    <div class="wx-facts">
+      <span>Rain {{ t.rain_pct if t.rain_pct is not none else "–" }}% · {{ t.rain_mm }} mm</span>
+      <span>Wind {{ t.wind }} km/h</span>
+      {% if t.uv is not none %}<span>UV {{ t.uv }}</span>{% endif %}
+      <span>Sun {{ t.sunrise }}–{{ t.sunset }}</span>
+    </div>
+  </div>
+  <ol class="wx-days" aria-label="{{ w.days | length }}-day forecast">
+  {% for d in w.days %}
+    <li{% if loop.first %} class="now"{% endif %}>
+      <span class="d">{{ d.dow }}<small>{{ d.dm }}</small></span>
+      <span class="i" title="{{ d.label }}">{{ d.icon }}</span>
+      <span class="p">{% if d.rain_pct is not none and d.rain_pct >= 20 %}{{ d.rain_pct }}%{% endif %}</span>
+      <span class="lo">{{ d.lo }}°</span>
+      <span class="bar"><i style="left:{{ d.bar_l }}%;width:{{ d.bar_w }}%"></i></span>
+      <span class="hi">{{ d.hi }}°</span>
+    </li>
+  {% endfor %}
+  </ol>
+</section>
+{% endif %}

@@ -19,6 +19,7 @@ from common import ROOT, load_config, local_tz, parse_iso  # noqa: E402
 from fetch import enrich_images, fetch_all, load_cache, merge_cache, save_cache  # noqa: E402
 from rank import build_sections, load_events  # noqa: E402
 from render import render_site, snapshot_page  # noqa: E402
+from weather import fetch_weather  # noqa: E402
 
 log = logging.getLogger("build")
 
@@ -57,6 +58,8 @@ def run(config: Path, cache_dir: Path, out_dir: Path, calendar: Path, now: datet
             log.info("og:image found for %d shown items", n)
         save_cache(items_path, items)
     page = snapshot_page(cfg, sections, now, local_day, tz, stats)
+    if fetch:
+        page["weather"] = fetch_weather(cfg, **({"getter": getter} if getter else {}))
 
     pages = load_cache(pages_path) or {}
     if isinstance(pages, list):
@@ -64,6 +67,7 @@ def run(config: Path, cache_dir: Path, out_dir: Path, calendar: Path, now: datet
     if not fetch and local_day.isoformat() in pages:  # keep the real feed counts on an offline re-render
         page["feeds_ok"] = pages[local_day.isoformat()].get("feeds_ok")
         page["feeds_total"] = pages[local_day.isoformat()].get("feeds_total")
+        page["weather"] = pages[local_day.isoformat()].get("weather")
     pages[local_day.isoformat()] = page
     keep = sorted(pages, reverse=True)[: int(st.get("archive_days", 7))]
     pages = {d: pages[d] for d in sorted(keep)}

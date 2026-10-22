@@ -37,6 +37,12 @@ settings:
   excerpt_max: 160         # excerpts longer than this are not shown
   user_agent: "Mozilla/5.0 (compatible; morning-news/1.0; +https://github.com/gusnil/morning-news)"
 
+weather:                   # Open-Meteo forecast shown above the news
+  name: Münchenstein
+  lat: 47.5185
+  lon: 7.6170
+  days: 10
+
 sections:
   - id: world
     title: World
