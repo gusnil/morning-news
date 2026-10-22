@@ -1,4 +1,4 @@
-Feed validation run 2026-10-22 11:14 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
+Feed validation run 2026-10-22 11:22 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
 
 | id | section | result | working URL | items | newest | note |
 |---|---|---|---|---|---|---|
@@ -13,10 +13,9 @@ Feed validation run 2026-10-22 11:14 UTC (criteria: parseable, >= 1 item, newest
 | folha | world | ok | https://www1.folha.uol.com.br/internacional/en/rss091.xml | 15 | 2026-10-21 |  |
 | bzbasel | basel | dead |  | 0 |  | www.bzbasel.ch/ -> HTTP 403; HTTP 403 |
 | baz | basel | ok | https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel | 36 | 2026-10-22 |  |
-| srf_basel | basel | ok | https://www.srf.ch/news/bnf/rss/1890 | 60 | 2026-10-22 |  |
 | onlinereports | basel | ok | https://onlinereports.ch/api/rss-feed | 50 | 2026-10-22 |  |
 | baselland | basel | dead |  | 0 |  | www.baselland.ch/ -> HTTP 403; www.baselland.ch/politik-und-behorden/regierungsrat/medienmitteilungen -> HTTP 403; HTTP 403 |
-| srf_news | basel | ok | https://www.srf.ch/news/bnf/rss/1646 | 80 | 2026-10-22 |  |
+| srf_news | basel | ok | https://www.srf.ch/news/bnf/rss/1890 | 60 | 2026-10-22 |  |
 | nzz | basel | ok | https://www.nzz.ch/recent.rss | 16 | 2026-10-22 |  |
 | cyclingnews | sport | ok | https://www.cyclingnews.com/feeds/all/ | 50 | 2026-10-22 |  |
 | velo | sport | ok | https://velo.outsideonline.com/feed/ | 25 | 2026-10-22 |  |
@@ -30,7 +29,7 @@ Feed validation run 2026-10-22 11:14 UTC (criteria: parseable, >= 1 item, newest
 | redsox | sport | ok | https://www.mlb.com/redsox/feeds/news/rss.xml | 25 | 2026-10-22 |  |
 | uconn | sport | ok | https://uconnhuskies.com/rss?path=mbball | 10 | 2026-10-21 |  |
 | bz_fcb | sport | dead |  | 0 |  | www.bzbasel.ch/sport -> HTTP 403; HTTP 403 |
-| srf_fcb | sport | ok | https://www.srf.ch/news/bnf/rss/1890 | 60 | 2026-10-22 |  |
+| srf_fcb | sport | ok | https://www.srf.ch/news/bnf/rss/2562 | 61 | 2026-10-22 |  |
 | mff | sport | ok | https://www.mff.se/nyheter/feed/ | 10 | 2026-10-21 |  |
 | sydsvenskan | sport | ok | https://www.sydsvenskan.se/feeds/section/sport/feed.xml | 50 | 2026-10-22 |  |
 | svff | sport | ok | https://www.svenskfotboll.se/rss.xml | 10 | undated |  |
@@ -55,4 +54,4 @@ Feed validation run 2026-10-22 11:14 UTC (criteria: parseable, >= 1 item, newest
 | tableau | ai | dead |  | 0 |  | configured url: stale: newest item 93 days old. HTTP 404; stale: newest item 93 days old |
 | snowflake | ai | ok | https://www.snowflake.com/feed/ | 20 | 2026-10-21 |  |
 
-41 of 52 sources have a working feed.
+40 of 51 sources have a working feed.

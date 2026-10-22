@@ -337,28 +337,6 @@
   ]
  },
  {
-  "id": "srf_basel",
-  "name": "SRF Regionaljournal",
-  "section": "basel",
-  "configured": "https://www.srf.ch/news/bnf/rss/1890",
-  "result": "ok",
-  "working_url": "https://www.srf.ch/news/bnf/rss/1890",
-  "items": 60,
-  "newest": "2026-10-22",
-  "note": "",
-  "tried": [
-   {
-    "url": "https://www.srf.ch/news/bnf/rss/1890",
-    "ok": true,
-    "items": 60,
-    "newest": "2026-10-22",
-    "error": null,
-    "title": "Schweiz \u2013 News aus dem Inland \u2013 SRF",
-    "final_url": "https://www.srf.ch/news/bnf/rss/1890"
-   }
-  ]
- },
- {
   "id": "onlinereports",
   "name": "OnlineReports",
   "section": "basel",
@@ -493,21 +471,21 @@
   "id": "srf_news",
   "name": "SRF News",
   "section": "basel",
-  "configured": "https://www.srf.ch/news/bnf/rss/1646",
+  "configured": "https://www.srf.ch/news/bnf/rss/1890",
   "result": "ok",
-  "working_url": "https://www.srf.ch/news/bnf/rss/1646",
-  "items": 80,
+  "working_url": "https://www.srf.ch/news/bnf/rss/1890",
+  "items": 60,
   "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
-    "url": "https://www.srf.ch/news/bnf/rss/1646",
+    "url": "https://www.srf.ch/news/bnf/rss/1890",
     "ok": true,
-    "items": 80,
+    "items": 60,
     "newest": "2026-10-22",
     "error": null,
-    "title": "Aktuelle News aus der Schweiz und weltweit \u2013 SRF",
-    "final_url": "https://www.srf.ch/news/bnf/rss/1646"
+    "title": "Schweiz \u2013 News aus dem Inland \u2013 SRF",
+    "final_url": "https://www.srf.ch/news/bnf/rss/1890"
    }
   ]
  },
@@ -1074,23 +1052,23 @@
  },
  {
   "id": "srf_fcb",
-  "name": "SRF Regionaljournal",
+  "name": "SRF Sport",
   "section": "sport",
-  "configured": "https://www.srf.ch/news/bnf/rss/1890",
+  "configured": "https://www.srf.ch/news/bnf/rss/2562",
   "result": "ok",
-  "working_url": "https://www.srf.ch/news/bnf/rss/1890",
-  "items": 60,
+  "working_url": "https://www.srf.ch/news/bnf/rss/2562",
+  "items": 61,
   "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
-    "url": "https://www.srf.ch/news/bnf/rss/1890",
+    "url": "https://www.srf.ch/news/bnf/rss/2562",
     "ok": true,
-    "items": 60,
+    "items": 61,
     "newest": "2026-10-22",
     "error": null,
-    "title": "Schweiz \u2013 News aus dem Inland \u2013 SRF",
-    "final_url": "https://www.srf.ch/news/bnf/rss/1890"
+    "title": "Fussball \u2013 News, Analysen & Highlights",
+    "final_url": "https://www.srf.ch/news/bnf/rss/2562"
    }
   ]
  },
