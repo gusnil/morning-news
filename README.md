@@ -63,6 +63,11 @@ Validation criteria: the feed parses, has at least 1 item, and its newest item i
 | basel | SRF Regionaljournal (`srf_basel`) | dropped | SRF publishes no Basel regional feed (checked its RSS directory, 2026-10-22). /rss/1890 is the national 'Schweiz - Inland' feed and is used by srf_news. |
 | basel | Prime News (`primenews`) | dropped | No feed: homepage advertises none; /feed, /rss, /rss.xml, /api/rss-feed all 404. |
 | basel | OnlineReports (`onlinereports`) | verified | https://onlinereports.ch/api/rss-feed |
+| basel | 20 Minuten Basel (`20min_basel`) | verified | https://partner-feeds.20min.ch/rss/20minuten/regionen/basel |
+| basel | Bajour (`bajour`) | verified | https://bajour.ch/api/rss-feed |
+| basel | Kanton Basel-Stadt (`bs_medien`) | verified | https://www.bs.ch/rss (undated items) |
+| basel | Blick Basel (`blick_basel`) | stale | https://www.blick.ch/schweiz/basel/rss.xml |
+| basel | Nau.ch Basel, barfi.ch, Wochenblatt Birseck, Riehener Zeitung, SRF Regionaljournal podcast | dropped | no usable feed |
 | basel | Baseljetzt (`baseljetzt`) | dropped | baseljetzt.ch now redirects to telebasel.ch, which publishes no feed. |
 | basel | Telebasel (`telebasel`) | dropped | No feed: homepage advertises none; /feed, /rss, /rss.xml, /api/rss all 404. |
 | basel | Kanton BL (`baselland`) | blocked | Cloudflare challenge (403) for GitHub Actions runners; feed could not be discovered or verified. |

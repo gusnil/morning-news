@@ -288,7 +288,7 @@ sources:
   - id: 20min_basel
     name: 20 Minuten Basel
     section: basel
-    url: null
+    url: https://partner-feeds.20min.ch/rss/20minuten/regionen/basel
     homepage: https://www.20min.ch/regionen/basel
     candidates:
       - https://partner-feeds.20min.ch/rss/20minuten/regionen/basel
@@ -297,11 +297,11 @@ sources:
     weight: 3
     scope: Basel
     lang: de
-    status: unverified
+    status: verified
   - id: blick_basel
     name: Blick Basel
     section: basel
-    url: null
+    url: https://www.blick.ch/schweiz/basel/rss.xml
     homepage: https://www.blick.ch/schweiz/basel/
     candidates:
       - https://www.blick.ch/schweiz/basel/rss.xml
@@ -310,11 +310,12 @@ sources:
     weight: 2
     scope: Basel
     lang: de
-    status: unverified
+    status: stale
+    note: "Feed works but carried 1 item (13.10.2026) when checked 22.10.2026."
   - id: bajour
     name: Bajour
     section: basel
-    url: null
+    url: https://bajour.ch/api/rss-feed
     homepage: https://bajour.ch/
     candidates:
       - https://bajour.ch/feed
@@ -324,11 +325,11 @@ sources:
     weight: 4
     scope: Basel
     lang: de
-    status: unverified
+    status: verified
   - id: bs_medien
     name: Kanton Basel-Stadt
     section: basel
-    url: null
+    url: https://www.bs.ch/rss
     homepage: https://www.bs.ch/medienmitteilungen
     discover_pages: [https://www.medien.bs.ch/, https://www.bs.ch/]
     candidates:
@@ -340,7 +341,8 @@ sources:
     weight: 3
     scope: Basel
     lang: de
-    status: unverified
+    status: verified
+    note: "Official Basel-Stadt press releases incl. police reports; items undated, first-seen time used."
   - id: nau_basel
     name: Nau.ch Basel
     section: basel
@@ -354,7 +356,8 @@ sources:
     weight: 3
     scope: Basel
     lang: de
-    status: unverified
+    status: dropped
+    note: "Basel topic page exists but publishes no feed."
   - id: barfi
     name: barfi.ch
     section: basel
@@ -366,7 +369,8 @@ sources:
     weight: 2
     scope: Basel
     lang: de
-    status: unverified
+    status: dropped
+    note: "Site serves a self-signed TLS certificate."
   - id: wochenblatt_birseck
     name: Wochenblatt Birseck
     section: basel
@@ -378,7 +382,8 @@ sources:
     weight: 3
     scope: Local
     lang: de
-    status: unverified
+    status: dropped
+    note: "No feed found (404 on homepage and common paths)."
   - id: riehener_zeitung
     name: Riehener Zeitung
     section: basel
@@ -390,7 +395,8 @@ sources:
     weight: 2
     scope: Local
     lang: de
-    status: unverified
+    status: dropped
+    note: "No feed found."
   - id: srf_regi_podcast
     name: SRF Regionaljournal Basel (podcast)
     section: basel
@@ -400,7 +406,8 @@ sources:
     weight: 4
     scope: Basel
     lang: de
-    status: unverified
+    status: dropped
+    note: "No podcast feed found for Regionaljournal Basel Baselland."
   - id: baseljetzt
     name: Baseljetzt
     section: basel
