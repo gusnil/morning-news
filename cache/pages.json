@@ -1,9 +1,9 @@
 {
 "2026-10-22": {
 "date": "2026-10-22",
-"built_at": "2026-10-22T11:49:21.619992+00:00",
-"built_local": "13:49",
-"feeds_ok": 47,
+"built_at": "2026-10-22T12:54:23.770762+00:00",
+"built_local": "14:54",
+"feeds_ok": 46,
 "feeds_total": 47,
 "sections": [
 {
@@ -17,6 +17,21 @@
 "title": null,
 "items": [
 {
+"id": "855dd09a4c4c7b84",
+"title": "France reports first human case of Shamonda virus, but says there's no public health risk",
+"url": "https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk",
+"source": "France 24",
+"when": "14:22",
+"also": [
+"The Hindu",
+"Al Jazeera",
+"BBC World"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/c90e21c2-ce00-11f1-9ac6-23d55109f116/w:1024/p:16x9/AP25281484289422.jpg",
+"excerpt": ""
+},
+{
 "id": "0f87a8784f6b2441",
 "title": "International Criminal Court wins EU's Sakharov human rights prize",
 "url": "https://www.france24.com/en/europe/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
@@ -27,34 +42,6 @@
 ],
 "lang": "en",
 "image": "https://s.france24.com/media/display/c3c26ff2-ce00-11f1-9367-3f59e19fd7f8/w:1024/p:16x9/2026-10-01T060027Z-1367355887-RC20XGAUF5NC-RTRMADP-3-NOBEL-PRIZE-PEACE.jpg",
-"excerpt": ""
-},
-{
-"id": "d5d0c171d9e27ad1",
-"title": "France reports first human Shamonda virus case, says no health risk",
-"url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "13:28",
-"also": [
-"The Hindu",
-"BBC World"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20220520__32AM49E__v1__HighRes__FranceAgricultureCattle-1792664431.jpg?resize=1920%2C1440",
-"excerpt": "Until now, the virus was considered non-transferable to humans, making the patient the first documented human case."
-},
-{
-"id": "e04826463bdcaf7f",
-"title": "Pope Leo XIV needs no further lung cancer treatment, Vatican says",
-"url": "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer",
-"source": "France 24",
-"when": "Wed 23:41",
-"also": [
-"DW",
-"BBC World"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/b41a22fe-c890-11f1-a617-638c1c1f5fd6/w:1024/p:16x9/a500a554ba3451dad313bfe8432e2e3bdb181bca.jpg",
 "excerpt": ""
 },
 {
@@ -71,75 +58,86 @@
 "excerpt": ""
 },
 {
-"id": "d297add7b4e602c9",
-"title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
-"url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "13:36",
-"also": [],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-1243590371-1792668591.jpg?resize=1920%2C1280&quality=80",
-"excerpt": "Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances."
-},
-{
-"id": "93670f9e04be56a9",
-"title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
-"url": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "13:19",
-"also": [],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26293349779386-1-1792561747.jpg?resize=1920%2C1440",
-"excerpt": "ASEAN's consensus-driven approach and a lack of enforcement mechanisms make legal action difficult, experts say."
-},
-{
-"id": "71af926444934dc6",
-"title": "South Africa water crisis: Over 500 fall ill amid contamination fears",
-"url": "http://www.africanews.com/2026/10/22/south-africa-water-crisis-over-500-fall-ill-amid-contamination-fears/",
+"id": "56b939a89e0f5598",
+"title": "As food assistance wanes, Palestinians face the prospect of hunger",
+"url": "http://www.africanews.com/2026/10/22/as-food-assistance-wanes-palestinians-face-the-prospect-of-hunger/",
 "source": "Africanews",
-"when": "12:43",
+"when": "14:48",
 "also": [],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/96/28/45/640x360_cmsv2_7c207fbf-9516-5eed-82bf-6c5bc0c9bd18-9962845.jpg?1792657250",
+"image": "https://images.euronews.com/articles/stories/09/96/29/78/640x360_cmsv2_e25a1142-707c-5c7c-9d0a-97587db83161-9962978.jpg?1792662000",
 "excerpt": ""
 },
 {
-"id": "889cb21a123d7965",
-"title": "French city of Lyon bans ‘all protests’ on October 24",
-"url": "https://www.thehindu.com/news/international/french-city-of-lyon-bans-all-protests-on-october-24/article71611024.ece",
+"id": "3f5f9c7ab7fd2eff",
+"title": "Yemen’s Houthis say they attacked Saudi Defence Ministry, Aramco in Yanbu and Dammam airport",
+"url": "https://www.thehindu.com/news/international/yemens-houthis-say-they-attacked-saudi-defence-ministry-aramco-in-yanbu-and-dammam-airport/article71611574.ece",
 "source": "The Hindu",
-"when": "12:17",
+"when": "14:46",
 "also": [],
 "lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/ji85d1/article71611026.ece/alternates/LANDSCAPE_1200/2026-10-22T094136Z_1923117478_RC265OAMT8GJ_RTRMADP_3_FRANCE-PROTEST-MELENCHON.JPG",
+"image": "https://th-i.thgim.com/public/incoming/y2hyok/article71611623.ece/alternates/LANDSCAPE_1200/AFP__20261021__D3ZD4WK__v1__HighRes__YemenSaudiIranUsIsraelWar.jpg",
 "excerpt": ""
 },
 {
-"id": "37e62e367fdc6e03",
-"title": "Defence seeks acquittal of doctor in death of Argentina's Maradona",
-"url": "http://www.africanews.com/2026/10/22/defence-seeks-acquittal-of-doctor-in-death-of-argentinas-maradona/",
+"id": "ee2fdd66c2ea01cb",
+"title": "Chad: Former PM Succès Masra leaves country for medical treatment",
+"url": "http://www.africanews.com/2026/10/22/chad-former-pm-succes-masra-leaves-country-for-medical-treatment/",
 "source": "Africanews",
-"when": "12:14",
+"when": "14:43",
 "also": [],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/96/26/23/640x360_cmsv2_443f631a-a256-5958-a82d-031fdd9843c6-9962623.jpg?1792646999",
-"excerpt": "A lawyer for neurosurgeon Leopoldo Luque, says he has been made a scapegoat, rejecting the argument that the player's death was foreseeable."
+"image": "https://images.euronews.com/articles/stories/09/87/59/89/640x360_cmsv2_fac716ba-313c-5125-9731-a86eef22f135-9875989.jpg?1792665927",
+"excerpt": "His departure to France for medical treatment comes two months after his release from prison following a presidential pardon."
 },
 {
-"id": "3b0bce83534a71f3",
-"title": "Trump launches hunt for alleged noncitizen voters",
-"url": "https://english.elpais.com/usa/2026-10-22/trump-launches-hunt-for-alleged-noncitizen-voters.html",
-"source": "El País English",
-"when": "13:03",
+"id": "cbcc5e0311f6253c",
+"title": "What’s the PHP coding flaw that could pull down 70 percent of the internet?",
+"url": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "14:37",
 "also": [],
 "lang": "en",
-"image": "https://images.english.elpais.com/resizer/v2/YNKWCNP7SNHSTAVKK4AXFIYYEY.jpg?auth=5c8198b0bc0ae8533398c82135f5f8f0c44050eeb13c310e63059ace2c118dde",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad9e17537-1792663925.jpg?resize=1920%2C1440",
+"excerpt": "The vulnerability allows a hacker to change a website or extract data, including personal information."
+},
+{
+"id": "23fc6087f1291d99",
+"title": "Nigeria can stop Ebola spread, former disease control chief says",
+"url": "http://www.africanews.com/2026/10/22/nigeria-can-stop-ebola-spread-former-disease-control-chief-says/",
+"source": "Africanews",
+"when": "14:21",
+"also": [],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/96/25/42/640x360_cmsv2_3e88bbfe-197d-552f-b2b8-7e058866400d-9962542.jpg?1792643189",
+"excerpt": "Ex-NCDC chief, Abdulsalami Nasidi, says funding and committment from the presidency will be key in controlling a possible spread of the virus."
+},
+{
+"id": "92a334f3dfc50a99",
+"title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+"url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "14:12",
+"also": [],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad9ba969981-1792653974.jpg?resize=1920%2C1440",
+"excerpt": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran."
+},
+{
+"id": "983825f70511f259",
+"title": "Trump administration fails to meet its goal of deporting one million people per year",
+"url": "https://english.elpais.com/usa/2026-10-22/trump-administration-fails-to-meet-its-goal-of-deporting-one-million-people-per-year.html",
+"source": "El País English",
+"when": "13:47",
+"also": [],
+"lang": "en",
+"image": "https://images.english.elpais.com/resizer/v2/AIP6MFX2QJP4LFKF3SK3MGNYCY.jpg?auth=2a5b1da1e117ba8c8daa5b7a0ff527eda52ecce920f5ae312df4153dfd1419f2",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "0f87a8784f6b2441"
+"lead": "855dd09a4c4c7b84"
 },
 {
 "id": "basel",
@@ -156,13 +154,35 @@
 "title": "Verfahrensfehler – Europäischer Gerichtshof rügt Schweiz wegen Brian Keller",
 "url": "https://www.srf.ch/news/schweiz/verfahrensfehler-europaeischer-gerichtshof-ruegt-schweiz-wegen-brian-keller",
 "source": "SRF News",
-"when": "12:56",
+"when": "14:25",
 "also": [
 "NZZ"
 ],
 "lang": "de",
 "image": "https://www.srf.ch/static/cms/images//320ws/9c05b3.webp",
 "excerpt": "Die Schweiz soll den Ex-Häftling mit 5000 Franken entschädigen, entscheidet der Europäische Gerichtshof."
+},
+{
+"id": "ded3fc42c39479d8",
+"title": "Abstimmungen – Bundesrat gegen Feuerwerksinitiative",
+"url": "https://www.srf.ch/news/abstimmungen-bundesrat-gegen-feuerwerksinitiative",
+"source": "SRF News",
+"when": "14:35",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/094213.webp",
+"excerpt": "Bundesrat Albert Rösti lehnt die Feuerwerksinitiative ab: Der Umgang mit Knallkörpern sei heute bereits gut geregelt."
+},
+{
+"id": "bc85c321149a1b5c",
+"title": "Länger Einkaufen in der Migros",
+"url": "https://bajour.ch/a/laenger-einkaufen-in-der-migros-in-arlesheim",
+"source": "Bajour",
+"when": "14:02",
+"also": [],
+"lang": "de",
+"image": null,
+"excerpt": "Ab November ändern sich die Öffnungszeiten der Migros in Arlesheim."
 },
 {
 "id": "48f029fca86d9936",
@@ -172,7 +192,7 @@
 "when": "13:31",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/73a4d61.webp",
+"image": "https://www.srf.ch/static/cms/images//320ws/9a3b45.webp",
 "excerpt": "In Sölden startet der Skiweltcup, doch Schnee ist Mangelware. Ex-Skirennfahrer und Experte Didier Plaschy ordnet ein."
 },
 {
@@ -209,17 +229,6 @@
 "excerpt": "Am Mittwoch hat der Kanton seine Webseiten präventiv heruntergefahren. Grund dafür war eine weltweit aufgetretene Sicherheitslücke."
 },
 {
-"id": "6188a50ff6df9d30",
-"title": "Anwohnerparkkarten – Zürich: Parkieren in der Blauen Zone wird definitiv teurer",
-"url": "https://www.srf.ch/news/schweiz/anwohnerparkkarten-zuerich-parkieren-in-der-blauen-zone-wird-definitiv-teurer",
-"source": "SRF News",
-"when": "12:17",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/e77eef8.webp",
-"excerpt": "Der Zürcher Stadtrat führt die neuen Anwohnerparkkarten definitiv ab Januar 2027 ein – Kritik von FDP, Mitte und SVP."
-},
-{
 "id": "d8068caba06484b6",
 "title": "Kampagne gegen höhere Elternbeiträge",
 "url": "https://bajour.ch/a/kampagne-gegen-hoehere-elternbeitraege-in-riehen",
@@ -244,25 +253,14 @@
 "excerpt": "Die Nomination ist eine Überraschung, da bisher Parteipräsident Simon Oberbeck als Kronfavorit galt."
 },
 {
-"id": "913db4c6cefb1d05",
-"title": "Neuer Standort für «Housing First Plus»",
-"url": "https://bajour.ch/a/neuer-standort-fuer-housing-first-plus",
-"source": "Bajour",
-"when": "10:19",
+"id": "1806c4876754133e",
+"title": "ERKLÄRT - Es begann auf dem Meeresgrund. Die bisher unbekannte Geschichte des Lebens",
+"url": "https://www.nzz.ch/visuals/wie-entstand-leben-auf-der-erde-eine-bisher-unbekannte-geschichte-ld.10018926",
+"source": "NZZ",
+"when": "14:21",
 "also": [],
 "lang": "de",
-"image": null,
-"excerpt": ""
-},
-{
-"id": "09aecc4a3bf82d03",
-"title": "555 Jahre Basler Herbstmesse",
-"url": "https://www.bs.ch/medienmitteilungen/pd/2026-555-jahre-basler-herbstmesse",
-"source": "Kanton Basel-Stadt",
-"when": "13:40",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"image": "https://img-msp-prod.nzz.ch/2026/08/10/aa62b288-f9f9-4a9d-9065-2e6187dfe70f.png?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0",
 "excerpt": ""
 }
 ]
@@ -310,15 +308,26 @@
 "excerpt": "North American operations will be run from the West Coast"
 },
 {
-"id": "836407a3d2d1c8c7",
-"title": "Here is the new Tour de France yellow jersey – Castelli reveals leaders' jerseys for next year's races",
-"url": "https://www.cyclingnews.com/cycling-kit-accessories/clothing-shoes/here-is-the-new-tour-de-france-yellow-jersey-castelli-reveals-leaders-jerseys-for-next-years-races/",
+"id": "6916c2896ab4b513",
+"title": "Chris Froome predicts a 'closer' Tour de France in 2027",
+"url": "https://www.cyclingnews.com/bikes/pro-bikes/chris-froome-predicts-a-closer-tour-de-france-in-2027/",
 "source": "Cyclingnews",
-"when": "13:24",
+"when": "14:42",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/vNS9YkCmZVgpMm9aUHN9w3-1920-80.jpg",
-"excerpt": "The Italian company also revealed the points, mountains, and young rider classification jerseys"
+"image": "https://cdn.mos.cms.futurecdn.net/r3jSyGkrngPxVp5oSyFNhS-1920-80.jpg",
+"excerpt": "Four-time champion offers his take on the route and says the British Grand Départ will be 'really special'"
+},
+{
+"id": "f0dcccfc8c62e929",
+"title": "Tour de France 2027: Brutal Mountains, Big Time Trials, and a Wide-Open Fight for Yellow",
+"url": "https://velo.outsideonline.com/road/road-racing/tour-de-france/tour-de-france-2027-route-revealed-mountains-time-trials-stages-favorites/",
+"source": "Velo",
+"when": "14:13",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/Z8D_9493-2.jpg?width=1200",
+"excerpt": ""
 },
 {
 "id": "a8335a5aff269eed",
@@ -341,17 +350,6 @@
 "lang": "en",
 "image": "https://escapecollective.com/content/images/2026/10/Fake-Iain-Treloar-feature.jpg",
 "excerpt": "On the trail of a fake Iain Treloar, all the way to the internet’s murky depths."
-},
-{
-"id": "7635b77577d1890a",
-"title": "British opening, three summit finishes and 71km of time trials: Action-packed Tour de France 2027 route announced",
-"url": "https://www.cyclingweekly.com/racing/tour-de-france-2027-route-revealed",
-"source": "Cycling Weekly",
-"when": "12:18",
-"also": [],
-"lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/zZjcRqwhD5V4duy9DY4kwS-1920-80.jpg",
-"excerpt": "Full course announced for 2027 edition, from Edinburgh to Paris via the Alps, Pyrenees and Massif Central"
 }
 ]
 },
@@ -452,6 +450,19 @@
 "title": null,
 "items": [
 {
+"id": "44ea01509f749a7a",
+"title": "European Club Cup - Live!",
+"url": "https://en.chessbase.com/post/european-club-cup-2026-live",
+"source": "ChessBase",
+"when": "14:54",
+"also": [
+"Chess.com"
+],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/132802_l200",
+"excerpt": ""
+},
+{
 "id": "46fde5bf02b7dc4b",
 "title": "Moving forward: The global impact of the Intercontinental Online Chess Championship for Prisoners",
 "url": "https://www.fide.com/moving-forward-the-global-impact-of-the-intercontinental-online-chess-championship-for-prisoners/",
@@ -482,17 +493,6 @@
 "also": [],
 "lang": "en",
 "image": "https://en.chessbase.com/thumb/132856_l200",
-"excerpt": ""
-},
-{
-"id": "4d16947202d39a3e",
-"title": "European Club Cup: Novy Bor and SuperChess remain perfect",
-"url": "https://en.chessbase.com/post/european-club-cup-2026-5",
-"source": "ChessBase",
-"when": "09:20",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/132880_l200",
 "excerpt": ""
 },
 {
@@ -542,7 +542,7 @@
 ]
 }
 ],
-"lead": "46fde5bf02b7dc4b"
+"lead": "44ea01509f749a7a"
 },
 {
 "id": "ai",
@@ -647,6 +647,223 @@
 ],
 "lead": "5830843e0d05f048"
 }
-]
+],
+"weather": {
+"place": "Münchenstein",
+"today": {
+"date": "2026-10-22",
+"dow": "Today",
+"dm": "22.10.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 14,
+"lo": 7,
+"rain_mm": 0,
+"rain_pct": 28,
+"wind": 13,
+"uv": 3,
+"sunrise": "07:58",
+"sunset": "18:28",
+"bar_l": 27,
+"bar_w": 47
+},
+"slots": [
+{
+"name": "Morning",
+"temp": 7,
+"icon": "🌤️",
+"label": "Mostly clear",
+"rain_pct": 0
+},
+{
+"name": "Afternoon",
+"temp": 14,
+"icon": "☁️",
+"label": "Overcast",
+"rain_pct": 0
+},
+{
+"name": "Evening",
+"temp": 12,
+"icon": "🌤️",
+"label": "Mostly clear",
+"rain_pct": 0
+}
+],
+"days": [
+{
+"date": "2026-10-22",
+"dow": "Today",
+"dm": "22.10.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 14,
+"lo": 7,
+"rain_mm": 0,
+"rain_pct": 28,
+"wind": 13,
+"uv": 3,
+"sunrise": "07:58",
+"sunset": "18:28",
+"bar_l": 27,
+"bar_w": 47
+},
+{
+"date": "2026-10-23",
+"dow": "Fri",
+"dm": "23.10.",
+"label": "Light showers",
+"icon": "🌦️",
+"hi": 14,
+"lo": 7,
+"rain_mm": 4.2,
+"rain_pct": 93,
+"wind": 25,
+"uv": 2,
+"sunrise": "07:59",
+"sunset": "18:27",
+"bar_l": 27,
+"bar_w": 47
+},
+{
+"date": "2026-10-24",
+"dow": "Sat",
+"dm": "24.10.",
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 12,
+"lo": 7,
+"rain_mm": 1.5,
+"rain_pct": 50,
+"wind": 20,
+"uv": 2,
+"sunrise": "08:01",
+"sunset": "18:25",
+"bar_l": 27,
+"bar_w": 33
+},
+{
+"date": "2026-10-25",
+"dow": "Sun",
+"dm": "25.10.",
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 17,
+"lo": 10,
+"rain_mm": 17.1,
+"rain_pct": 100,
+"wind": 24,
+"uv": 1,
+"sunrise": "08:02",
+"sunset": "18:23",
+"bar_l": 47,
+"bar_w": 47
+},
+{
+"date": "2026-10-26",
+"dow": "Mon",
+"dm": "26.10.",
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 14,
+"lo": 6,
+"rain_mm": 0.9,
+"rain_pct": 33,
+"wind": 9,
+"uv": 3,
+"sunrise": "08:04",
+"sunset": "18:22",
+"bar_l": 20,
+"bar_w": 53
+},
+{
+"date": "2026-10-27",
+"dow": "Tue",
+"dm": "27.10.",
+"label": "Fog",
+"icon": "🌫️",
+"hi": 18,
+"lo": 7,
+"rain_mm": 0,
+"rain_pct": 25,
+"wind": 10,
+"uv": 3,
+"sunrise": "08:05",
+"sunset": "18:20",
+"bar_l": 27,
+"bar_w": 73
+},
+{
+"date": "2026-10-28",
+"dow": "Wed",
+"dm": "28.10.",
+"label": "Light showers",
+"icon": "🌦️",
+"hi": 14,
+"lo": 7,
+"rain_mm": 5.1,
+"rain_pct": 29,
+"wind": 16,
+"uv": 2,
+"sunrise": "08:07",
+"sunset": "18:18",
+"bar_l": 27,
+"bar_w": 47
+},
+{
+"date": "2026-10-29",
+"dow": "Thu",
+"dm": "29.10.",
+"label": "Fog",
+"icon": "🌫️",
+"hi": 14,
+"lo": 3,
+"rain_mm": 0,
+"rain_pct": 6,
+"wind": 6,
+"uv": 3,
+"sunrise": "08:08",
+"sunset": "18:17",
+"bar_l": 0,
+"bar_w": 73
+},
+{
+"date": "2026-10-30",
+"dow": "Fri",
+"dm": "30.10.",
+"label": "Clear",
+"icon": "☀️",
+"hi": 14,
+"lo": 6,
+"rain_mm": 0,
+"rain_pct": 0,
+"wind": 12,
+"uv": 3,
+"sunrise": "08:10",
+"sunset": "18:15",
+"bar_l": 20,
+"bar_w": 53
+},
+{
+"date": "2026-10-31",
+"dow": "Sat",
+"dm": "31.10.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 12,
+"lo": 4,
+"rain_mm": 0,
+"rain_pct": 6,
+"wind": 11,
+"uv": 3,
+"sunrise": "08:11",
+"sunset": "18:14",
+"bar_l": 7,
+"bar_w": 53
+}
+],
+"lo": 3,
+"hi": 18
+}
 }
 }
