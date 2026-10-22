@@ -1,24 +1,32 @@
 {% extends "base.html" %}
-{% block title %}{{ "News " ~ page.date if is_archive else "Morning news" }}{% endblock %}
+{% block title %}{{ "News " ~ page.date if is_archive else "Morning Edition" }}{% endblock %}
 {% block body %}
+<header class="mast">
+  <div class="wrap">
+    <div class="kick">{% if is_archive %}Archive · {% endif %}<time datetime="{{ page.date }}">{{ page.date | longdate }}</time></div>
+    <h1>Morning Edition</h1>
+    <div class="tagline">World · Basel · Sport · Chess · AI</div>
+  </div>
+</header>
 <nav class="top" aria-label="Sections">
-  <ul>
-  {% for s in page.sections %}
-    <li><a href="#{{ s.id }}" data-key="{{ loop.index }}">{{ s.title }}</a></li>
-  {% endfor %}
-  </ul>
-  <span class="date">{% if is_archive %}<a href="../index.html">today</a> · {% endif %}<time datetime="{{ page.date }}">{{ page.date | nicedate }}</time></span>
+  <div class="wrap">
+    <ul>
+    {% for s in page.sections %}
+      <li><a class="s-{{ s.id }}" href="#{{ s.id }}" data-key="{{ loop.index }}">{{ s.title }}</a></li>
+    {% endfor %}
+    </ul>
+    <span class="date">{% if is_archive %}<a href="../index.html">Today →</a>{% else %}{{ page.date | nicedate }}{% endif %}</span>
+  </div>
 </nav>
-<main>
-<h1 class="vh">Morning news, {{ page.date | nicedate }}</h1>
+<main class="wrap">
 {% for s in page.sections %}
-<section id="{{ s.id }}" aria-labelledby="h-{{ s.id }}">
-  <h2 id="h-{{ s.id }}">{{ s.title }}</h2>
+<section id="{{ s.id }}" class="sec sec-{{ s.id }}" aria-labelledby="h-{{ s.id }}">
+  <header class="sec-h"><h2 id="h-{{ s.id }}">{{ s.title }}</h2><span class="n">{{ s.count }} {{ "story" if s.count == 1 else "stories" }}</span></header>
   {% include "section.html" %}
 </section>
 {% endfor %}
 </main>
-<footer>
-  Built {{ page.built_local }}{% if page.feeds_total %} · {{ page.feeds_ok }} of {{ page.feeds_total }} feeds OK{% endif %} · <a href="{{ root }}archive/index.html">archive</a>
+<footer class="wrap">
+  Built {{ page.built_local }}{% if page.feeds_total %} · {{ page.feeds_ok }} of {{ page.feeds_total }} feeds OK{% endif %} · <a href="{{ root }}archive/index.html">Archive</a> · Keys: 1–5 sections, j/k stories, Enter opens
 </footer>
 {% endblock %}

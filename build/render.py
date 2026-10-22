@@ -48,6 +48,7 @@ def snapshot_item(cand, sources: dict, tz, local_day: date, excerpt_max: int) ->
         "when": when,
         "also": also,
         "lang": it.get("lang", "en"),
+        "image": it.get("image") or None,
         "excerpt": show_excerpt(it["title"], it.get("excerpt", ""), excerpt_max),
     }
 
@@ -63,7 +64,11 @@ def snapshot_page(cfg: dict, sections: list[dict], now: datetime, local_day: dat
                    "items": [snapshot_item(c, sources, tz, local_day, emax) for c in g["cands"]]}
                   for g in sec["groups"]]
         n = sum(len(g["items"]) for g in groups)
-        out_secs.append({"id": sec["id"], "title": sec["title"], "count": n, "thin": n < thin, "groups": groups})
+        flat = [it for g in groups for it in g["items"]]
+        # Lead story: the best-ranked of the top three that has a picture; else simply the top story.
+        lead = next((it for it in flat[:3] if it["image"]), flat[0] if flat else None)
+        out_secs.append({"id": sec["id"], "title": sec["title"], "count": n, "thin": n < thin, "groups": groups,
+                         "lead": lead["id"] if lead else None})
     return {
         "date": local_day.isoformat(),
         "built_at": now.isoformat(),
@@ -77,6 +82,10 @@ def snapshot_page(cfg: dict, sections: list[dict], now: datetime, local_day: dat
 def _env() -> Environment:
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]),
                       trim_blocks=True, lstrip_blocks=True)
+    months = ["January", "February", "March", "April", "May", "June", "July", "August", "September",
+              "October", "November", "December"]
+    days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+    env.filters["longdate"] = lambda d: (lambda x: f"{days[x.weekday()]} {x.day} {months[x.month - 1]} {x.year}")(date.fromisoformat(d))
     env.filters["nicedate"] = lambda d: f"{WEEKDAYS[date.fromisoformat(d).weekday()]} {date.fromisoformat(d):%d.%m.%Y}"
     return env
 

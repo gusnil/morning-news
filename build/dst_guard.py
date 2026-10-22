@@ -34,7 +34,7 @@ def scheduled_utc(now_utc: datetime, cron: str) -> datetime:
 
 def should_run(event: str, now_utc: datetime, cron: str | None = None, tz: ZoneInfo = TZ,
                hour: int = TARGET_HOUR) -> bool:
-    if event == "workflow_dispatch":
+    if event in ("workflow_dispatch", "push"):
         return True
     t = scheduled_utc(now_utc, cron) if cron else now_utc
     return t.astimezone(tz).hour == hour

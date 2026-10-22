@@ -4,6 +4,9 @@ on:
     - cron: "0 1 * * *"   # 03:00 CEST (summer)
     - cron: "0 2 * * *"   # 03:00 CET  (winter)
   workflow_dispatch:
+  push:                    # design or source changes go live immediately
+    branches: [main]
+    paths: [templates/**, static/**, build/**, feeds.yaml]
 permissions:
   contents: write
   pages: write
@@ -22,7 +25,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - id: guard
-        run: python build/dst_guard.py   # run=true only for the slot that is 03:xx Europe/Zurich, or on workflow_dispatch
+        run: python build/dst_guard.py   # run=true only for the slot that is 03:xx Europe/Zurich, or on workflow_dispatch / push
       - if: steps.guard.outputs.run == 'true'
         run: pip install -r requirements.txt
       - if: steps.guard.outputs.run == 'true'

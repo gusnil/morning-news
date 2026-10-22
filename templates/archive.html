@@ -1,21 +1,15 @@
 {% extends "base.html" %}
-{% block title %}Archive · Morning news{% endblock %}
+{% block title %}Archive · Morning Edition{% endblock %}
 {% block body %}
-<nav class="top" aria-label="Archive">
-  <ul><li><a href="../index.html">today</a></li></ul>
-  <span class="date">Archive</span>
-</nav>
-<main>
-<h1 class="vh">Morning news archive</h1>
-<section id="archive" aria-labelledby="h-archive">
-  <h2 id="h-archive">Last {{ pages | length }} days</h2>
-  <ol class="items days">
-  {% for p in pages %}
-    <li><a href="{{ p.date }}.html">{{ p.date | nicedate }}</a>
-      <div class="meta">{% for s in p.sections %}{{ s.title }} {{ s.count }}{{ " · " if not loop.last }}{% endfor %}{% if p.date == today %} · today{% endif %}</div>
-    </li>
-  {% endfor %}
-  </ol>
-</section>
+<header class="mast"><div class="wrap"><div class="kick">Last {{ pages | length }} days</div><h1>Archive</h1></div></header>
+<nav class="top" aria-label="Archive"><div class="wrap"><ul><li><a href="../index.html">Today</a></li></ul></div></nav>
+<main class="wrap">
+<h2 class="vh">Morning Edition archive</h2>
+<ol class="days">
+{% for p in pages %}
+  <li><a href="{{ p.date }}.html"><span class="d">{{ p.date | nicedate }}</span>
+    <span class="meta">{% for s in p.sections %}{{ s.title }} {{ s.count }}{{ " · " if not loop.last }}{% endfor %}{% if p.date == today %} · today{% endif %}</span></a></li>
+{% endfor %}
+</ol>
 </main>
 {% endblock %}

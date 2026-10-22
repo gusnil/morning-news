@@ -1,12 +1,12 @@
 // Keyboard nav (1-5 sections, j/k items, Enter opens) + active-section highlight. Page works without it.
 (function () {
   var links = [].slice.call(document.querySelectorAll('nav.top a[data-key]'));
-  var items = [].slice.call(document.querySelectorAll('main ol.items > li > a'));
+  var items = [].slice.call(document.querySelectorAll('main a.hl'));
   var cur = -1;
   function focusItem(i) {
     if (!items.length) return;
     cur = Math.max(0, Math.min(items.length - 1, i));
-    var prev = document.querySelector('li.kf');
+    var prev = document.querySelector('.kf');
     if (prev) prev.classList.remove('kf');
     items[cur].parentNode.classList.add('kf');
     items[cur].focus({ preventScroll: true });
@@ -17,7 +17,7 @@
     var k = e.key;
     if (k >= '1' && k <= '9' && links[k - 1]) {
       var sec = document.getElementById(links[k - 1].getAttribute('href').slice(1));
-      var first = sec && sec.querySelector('ol.items > li > a');
+      var first = sec && sec.querySelector('a.hl');
       if (first) { focusItem(items.indexOf(first)); sec.scrollIntoView(); } else if (sec) sec.scrollIntoView();
       e.preventDefault();
     } else if (k === 'j' || k === 'k') {

@@ -16,7 +16,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import ROOT, load_config, local_tz, parse_iso  # noqa: E402
-from fetch import fetch_all, load_cache, merge_cache, save_cache  # noqa: E402
+from fetch import enrich_images, fetch_all, load_cache, merge_cache, save_cache  # noqa: E402
 from rank import build_sections, load_events  # noqa: E402
 from render import render_site, snapshot_page  # noqa: E402
 
@@ -44,6 +44,18 @@ def run(config: Path, cache_dir: Path, out_dir: Path, calendar: Path, now: datet
         save_cache(items_path, items)
 
     sections = build_sections(cfg, items, now, local_day, load_events(calendar))
+    if fetch:
+        by_id = {it["id"]: it for it in items}
+        shown = [by_id.get(c.item["id"], c.item) for sec in sections for g in sec["groups"] for c in g["cands"]]
+        n = enrich_images(shown, cfg, **({"getter": getter} if getter else {}))
+        for sec in sections:
+            for g in sec["groups"]:
+                for c in g["cands"]:
+                    if c.item["id"] in by_id:
+                        c.item["image"] = by_id[c.item["id"]].get("image", "")
+        if n:
+            log.info("og:image found for %d shown items", n)
+        save_cache(items_path, items)
     page = snapshot_page(cfg, sections, now, local_day, tz, stats)
 
     pages = load_cache(pages_path) or {}

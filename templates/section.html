@@ -1,12 +1,43 @@
-{% for g in s.groups if g["items"] %}
-  {% if g.title %}<h3 class="sub">{{ g.title }}</h3>{% endif %}
-  <ol class="items">
-  {% for it in g["items"] %}
-    <li lang="{{ it.lang }}"><a href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a>
-      <div class="meta">{{ it.source }} · {{ it.when }}{% if it.also %} · also: {{ it.also | join(", ") }}{% endif %}</div>
-      {% if it.excerpt %}<p class="ex">{{ it.excerpt }}</p>{% endif %}
-    </li>
+{% macro media(it, eager=false) %}<div class="media" aria-hidden="true"><span class="ph">{{ it.source }}</span>{% if it.image %}<img src="{{ it.image }}" alt=""{% if not eager %} loading="lazy"{% endif %} decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">{% endif %}</div>{% endmacro %}
+{% macro meta(it) %}<div class="meta">{{ it.when }}{% if it.also %} · also: {{ it.also | join(", ") }}{% endif %}</div>{% endmacro %}
+{% set ns = namespace(lead=None, side=[]) %}
+{% for g in s.groups %}{% for it in g["items"] %}{% if it.id == s.lead %}{% set ns.lead = it %}{% endif %}{% endfor %}{% endfor %}
+{% if not ns.lead %}{% for g in s.groups %}{% for it in g["items"] %}{% if loop.first and not ns.lead %}{% set ns.lead = it %}{% endif %}{% endfor %}{% endfor %}{% endif %}
+{% if s.groups | length == 1 %}
+  {% for it in s.groups[0]["items"] if ns.lead and it.id != ns.lead.id %}{% if loop.index <= 3 %}{% set ns.side = ns.side + [it.id] %}{% endif %}{% endfor %}
+{% endif %}
+{% if ns.lead %}
+<div class="top{% if ns.side %} has-side{% endif %}">
+  {% set it = ns.lead %}
+  <article class="hero it" lang="{{ it.lang }}">
+    <a class="hl" href="{{ it.url }}" target="_blank" rel="noopener">
+      {{ media(it, true) }}
+      <div class="txt">
+        <span class="tag">{{ it.source }}</span>
+        <h3>{{ it.title }}</h3>
+        {% if it.excerpt %}<p class="ex">{{ it.excerpt }}</p>{% endif %}
+        {{ meta(it) }}
+      </div>
+    </a>
+  </article>
+  {% if ns.side %}
+  <ol class="side">
+  {% for it in s.groups[0]["items"] if it.id in ns.side %}
+    <li class="it" lang="{{ it.lang }}"><a class="hl" href="{{ it.url }}" target="_blank" rel="noopener">{{ media(it) }}<div class="txt"><span class="tag">{{ it.source }}</span><h3>{{ it.title }}</h3>{{ meta(it) }}</div></a></li>
   {% endfor %}
   </ol>
+  {% endif %}
+</div>
+{% endif %}
+{% for g in s.groups %}
+  {% set rest = g["items"] | rejectattr("id", "in", ns.side + [ns.lead.id if ns.lead else ""]) | list %}
+  {% if rest %}
+  {% if g.title %}<h3 class="sub">{{ g.title }}</h3>{% endif %}
+  <ol class="cards">
+  {% for it in rest %}
+    <li class="it" lang="{{ it.lang }}"><a class="hl" href="{{ it.url }}" target="_blank" rel="noopener">{{ media(it) }}<div class="txt"><span class="tag">{{ it.source }}</span><h3>{{ it.title }}</h3>{{ meta(it) }}</div></a></li>
+  {% endfor %}
+  </ol>
+  {% endif %}
 {% endfor %}
 {% if s.thin %}<p class="thin">Thin day: {{ s.count }} {{ "story" if s.count == 1 else "stories" }} in this section.</p>{% endif %}

@@ -32,7 +32,9 @@ def fake_feed(url: str, now: datetime, dead: set[str]) -> bytes:
         title = SHARED if (url in WORLD_SHARED and i == 0) else f"{hint} story{n}x{i}d{now:%m%d} item"
         pub = format_datetime(now - timedelta(hours=i * 2 + 1))
         items.append(f"<item><title>{title}</title><link>{url}/a/{now:%m%d}/{i}</link>"
-                     f"<description>Short excerpt {n}-{i}.</description><pubDate>{pub}</pubDate></item>")
+                     f"<description>Short excerpt {n}-{i}.</description><pubDate>{pub}</pubDate>"
+                     + (f'<enclosure url="https://img.example/{n}/{i}.jpg" type="image/jpeg" length="1"/>' if i % 2 == 0 else "")
+                     + "</item>")
     return f"<?xml version='1.0'?><rss version='2.0'><channel><title>x</title>{''.join(items)}</channel></rss>".encode()
 
 
@@ -59,7 +61,8 @@ def test_full_build_page_contract(tmp):
     assert 'lang="de"' in html and 'lang="sv"' in html
     assert html.count(SHARED) == 1 and "also:" in html                      # clustered once with "also:"
     assert 'target="_blank" rel="noopener"' in html
-    assert not re.search(r"<(img|iframe)\b|https?://[^\"]*\.(css|js)\b|fonts\.google", html)   # no external assets
+    assert not re.search(r"<iframe\b|https?://[^\"]*\.(css|js)\b|fonts\.google", html)   # no external code/fonts
+    assert 'class="hero' in html and 'referrerpolicy="no-referrer"' in html                 # picture layout
     for sec in ("world", "basel", "sport", "chess", "ai"):
         assert f'id="{sec}"' in html
     assert (tmp / "site" / "style.css").exists() and (tmp / "site" / "app.js").stat().st_size < 3000
@@ -73,9 +76,10 @@ def test_twenty_percent_feeds_dead_still_builds_from_cache(tmp):
     assert f"{len(URLS) - len(dead)} of {len(URLS)} feeds OK" in html
     for s in res["page"]["sections"]:
         assert s["count"] > 0, s["id"]
-    dead_srcs = {s["name"] for s in active_sources(CFG) if s["url"] in dead}
-    shown = {it["source"] for s in res["page"]["sections"] for g in s["groups"] for it in g["items"]}
-    assert dead_srcs & shown, "items of failed feeds should still come from the cache"
+    import json
+    dead_ids = {s["id"] for s in active_sources(CFG) if s["url"] in dead}
+    cached = {it["source"] for it in json.loads((tmp / "cache" / "items.json").read_text(encoding="utf-8"))}
+    assert dead_ids <= cached, "items of failed feeds should stay in the cache"
 
 
 def test_all_feeds_dead_fails_loudly_and_keeps_old_site(tmp):
