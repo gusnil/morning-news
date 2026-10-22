@@ -1,10 +1,10 @@
 {
 "2026-10-22": {
 "date": "2026-10-22",
-"built_at": "2026-10-22T12:54:23.770762+00:00",
-"built_local": "14:54",
-"feeds_ok": 46,
-"feeds_total": 47,
+"built_at": "2026-10-22T14:21:33.330440+00:00",
+"built_local": "16:21",
+"feeds_ok": 55,
+"feeds_total": 55,
 "sections": [
 {
 "id": "world",
@@ -16,6 +16,21 @@
 "id": "world",
 "title": null,
 "items": [
+{
+"id": "ba8c09a3540d8cf9",
+"title": "Russia agrees to resume trilateral peace talks on Ukraine war",
+"url": "https://www.france24.com/en/russia-agrees-to-resume-trilateral-peace-talks-on-ukraine-war",
+"source": "France 24",
+"when": "16:19",
+"also": [
+"Al Jazeera",
+"The Hindu",
+"BBC World"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/6eda9058-cd3f-11f1-84de-8bea73bbe173/w:1024/p:16x9/2026-10-21T102625Z-722811654-RC2M7OATXY8O-RTRMADP-3-UKRAINE-CRISIS-PUTIN-WITKOFF.jpg",
+"excerpt": ""
+},
 {
 "id": "855dd09a4c4c7b84",
 "title": "France reports first human case of Shamonda virus, but says there's no public health risk",
@@ -32,19 +47,6 @@
 "excerpt": ""
 },
 {
-"id": "0f87a8784f6b2441",
-"title": "International Criminal Court wins EU's Sakharov human rights prize",
-"url": "https://www.france24.com/en/europe/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
-"source": "France 24",
-"when": "12:10",
-"also": [
-"DW"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/c3c26ff2-ce00-11f1-9367-3f59e19fd7f8/w:1024/p:16x9/2026-10-01T060027Z-1367355887-RC20XGAUF5NC-RTRMADP-3-NOBEL-PRIZE-PEACE.jpg",
-"excerpt": ""
-},
-{
 "id": "c26edebc6175c1e6",
 "title": "Nigeria confirms its first Ebola case is Bundibugyo strain",
 "url": "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece",
@@ -58,70 +60,70 @@
 "excerpt": ""
 },
 {
-"id": "56b939a89e0f5598",
-"title": "As food assistance wanes, Palestinians face the prospect of hunger",
-"url": "http://www.africanews.com/2026/10/22/as-food-assistance-wanes-palestinians-face-the-prospect-of-hunger/",
-"source": "Africanews",
-"when": "14:48",
+"id": "f0b80827b9ffeaab",
+"title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "15:42",
 "also": [],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/96/29/78/640x360_cmsv2_e25a1142-707c-5c7c-9d0a-97587db83161-9962978.jpg?1792662000",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792676498.jpg?resize=1920%2C1080&quality=80",
+"excerpt": "Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route."
+},
+{
+"id": "b9b05242d3db7058",
+"title": "Spanish right champions Ceuta migrant crisis as its key topic in election campaign",
+"url": "http://www.africanews.com/2026/10/22/spanish-right-champions-ceuta-migrant-crisis-as-its-key-topic-in-election-campaign/",
+"source": "Africanews",
+"when": "15:42",
+"also": [],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/96/31/52/640x360_cmsv2_9dff281c-1ee5-50f2-a929-69b888929ece-9963152.jpg?1792666788",
 "excerpt": ""
 },
 {
-"id": "3f5f9c7ab7fd2eff",
-"title": "Yemen’s Houthis say they attacked Saudi Defence Ministry, Aramco in Yanbu and Dammam airport",
-"url": "https://www.thehindu.com/news/international/yemens-houthis-say-they-attacked-saudi-defence-ministry-aramco-in-yanbu-and-dammam-airport/article71611574.ece",
-"source": "The Hindu",
-"when": "14:46",
+"id": "91901fa3968d01d2",
+"title": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
+"url": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "15:35",
 "also": [],
 "lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/y2hyok/article71611623.ece/alternates/LANDSCAPE_1200/AFP__20261021__D3ZD4WK__v1__HighRes__YemenSaudiIranUsIsraelWar.jpg",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-21T103410Z_523023958_RC2M7OAC8M0T_RTRMADP_3_SOUTHSUDAN-SUDAN-SECURITY-1792663197.jpg?resize=1920%2C1440",
+"excerpt": "Drone attacks on supply lines and safe cities are taking a devastating toll on civilians."
+},
+{
+"id": "a52de579a93bce6e",
+"title": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
+"url": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "15:33",
+"also": [],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_2516-1792613433.jpeg?resize=1920%2C1440",
+"excerpt": "With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest."
+},
+{
+"id": "f083c75fbd6b8a38",
+"title": "Australia: Bystanders dive into floodwaters to save trapped driver",
+"url": "http://www.africanews.com/2026/10/22/australia-bystanders-dive-into-floodwaters-to-save-trapped-driver/",
+"source": "Africanews",
+"when": "15:29",
+"also": [],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/96/30/10/640x360_cmsv2_9f0eab07-a71e-5a0d-a241-ae18fd2e0c7e-9963010.jpg?1792663125",
 "excerpt": ""
 },
 {
-"id": "ee2fdd66c2ea01cb",
-"title": "Chad: Former PM Succès Masra leaves country for medical treatment",
-"url": "http://www.africanews.com/2026/10/22/chad-former-pm-succes-masra-leaves-country-for-medical-treatment/",
+"id": "0094871ea2bc2425",
+"title": "Uganda says August export revenue up 36 per cent on higher gold earnings",
+"url": "http://www.africanews.com/2026/10/22/uganda-says-august-export-revenue-up-36-per-cent-on-higher-gold-earnings/",
 "source": "Africanews",
-"when": "14:43",
+"when": "15:21",
 "also": [],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/87/59/89/640x360_cmsv2_fac716ba-313c-5125-9731-a86eef22f135-9875989.jpg?1792665927",
-"excerpt": "His departure to France for medical treatment comes two months after his release from prison following a presidential pardon."
-},
-{
-"id": "cbcc5e0311f6253c",
-"title": "What’s the PHP coding flaw that could pull down 70 percent of the internet?",
-"url": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "14:37",
-"also": [],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad9e17537-1792663925.jpg?resize=1920%2C1440",
-"excerpt": "The vulnerability allows a hacker to change a website or extract data, including personal information."
-},
-{
-"id": "23fc6087f1291d99",
-"title": "Nigeria can stop Ebola spread, former disease control chief says",
-"url": "http://www.africanews.com/2026/10/22/nigeria-can-stop-ebola-spread-former-disease-control-chief-says/",
-"source": "Africanews",
-"when": "14:21",
-"also": [],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/96/25/42/640x360_cmsv2_3e88bbfe-197d-552f-b2b8-7e058866400d-9962542.jpg?1792643189",
-"excerpt": "Ex-NCDC chief, Abdulsalami Nasidi, says funding and committment from the presidency will be key in controlling a possible spread of the virus."
-},
-{
-"id": "92a334f3dfc50a99",
-"title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
-"url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "14:12",
-"also": [],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad9ba969981-1792653974.jpg?resize=1920%2C1440",
-"excerpt": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran."
+"image": "https://images.euronews.com/articles/stories/09/96/32/14/640x360_cmsv2_38a59a0f-89b1-5e4b-b6a3-83c76357888b-9963214.jpg?1792669294",
+"excerpt": "The finance ministry says it shipped $889 million worth of the precious metal over the month, up 68.9 per cent from last year."
 },
 {
 "id": "983825f70511f259",
@@ -137,7 +139,7 @@
 ]
 }
 ],
-"lead": "855dd09a4c4c7b84"
+"lead": "ba8c09a3540d8cf9"
 },
 {
 "id": "basel",
@@ -150,17 +152,26 @@
 "title": null,
 "items": [
 {
-"id": "78dfb48d1a9fa43e",
-"title": "Verfahrensfehler – Europäischer Gerichtshof rügt Schweiz wegen Brian Keller",
-"url": "https://www.srf.ch/news/schweiz/verfahrensfehler-europaeischer-gerichtshof-ruegt-schweiz-wegen-brian-keller",
+"id": "e8c57c1114e5c25b",
+"title": "Cyber-Schwachstelle bei PHP – Erste Schadensbilanz: Über 100'000 Schweizer Webseiten offline",
+"url": "https://www.srf.ch/news/schweiz/cyber-schwachstelle-bei-php-erste-schadensbilanz-ueber-100-000-schweizer-webseiten-offline",
 "source": "SRF News",
-"when": "14:25",
-"also": [
-"NZZ"
-],
+"when": "16:15",
+"also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/9c05b3.webp",
-"excerpt": "Die Schweiz soll den Ex-Häftling mit 5000 Franken entschädigen, entscheidet der Europäische Gerichtshof."
+"image": "https://www.srf.ch/static/cms/images//320ws/93b345.webp",
+"excerpt": "Eine Vielzahl von Websites wurde sicherheitshalber vom Netz genommen. Der Bund hat noch keine Angriffe festgestellt."
+},
+{
+"id": "abf294c011063b53",
+"title": "Steinenvorstadt Basel: Nach dem Ende der Burger-King-Ära – jetzt ist die Nachfolge klar",
+"url": "https://www.bazonline.ch/schnitzery-ersetzt-burger-king-in-der-basler-steinenvorstadt-135041381675",
+"source": "Basler Zeitung",
+"when": "14:56",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/AyNYIB7z4oC8ZzStCYopBY.jpg",
+"excerpt": "Die prominente, leer stehende Ladenfläche an der Steinenvorstadt 51 wurde neu vermietet."
 },
 {
 "id": "ded3fc42c39479d8",
@@ -174,6 +185,17 @@
 "excerpt": "Bundesrat Albert Rösti lehnt die Feuerwerksinitiative ab: Der Umgang mit Knallkörpern sei heute bereits gut geregelt."
 },
 {
+"id": "78dfb48d1a9fa43e",
+"title": "Verfahrensfehler – Europäischer Gerichtshof rügt Schweiz wegen Brian Keller",
+"url": "https://www.srf.ch/news/schweiz/verfahrensfehler-europaeischer-gerichtshof-ruegt-schweiz-wegen-brian-keller",
+"source": "SRF News",
+"when": "14:25",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/9c05b3.webp",
+"excerpt": "Die Schweiz soll den Ex-Häftling mit 5000 Franken entschädigen, entscheidet der Europäische Gerichtshof."
+},
+{
 "id": "bc85c321149a1b5c",
 "title": "Länger Einkaufen in der Migros",
 "url": "https://bajour.ch/a/laenger-einkaufen-in-der-migros-in-arlesheim",
@@ -183,17 +205,6 @@
 "lang": "de",
 "image": null,
 "excerpt": "Ab November ändern sich die Öffnungszeiten der Migros in Arlesheim."
-},
-{
-"id": "48f029fca86d9936",
-"title": "Auftakt Ski-Weltcup – Skirennen ohne Schnee – wie geht das?",
-"url": "https://www.srf.ch/radio-srf-1/auftakt-ski-weltcup-skirennen-ohne-schnee-wie-geht-das",
-"source": "SRF News",
-"when": "13:31",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/9a3b45.webp",
-"excerpt": "In Sölden startet der Skiweltcup, doch Schnee ist Mangelware. Ex-Skirennfahrer und Experte Didier Plaschy ordnet ein."
 },
 {
 "id": "8daba06b037aaabf",
@@ -218,28 +229,6 @@
 "excerpt": ""
 },
 {
-"id": "90f9862b1ffa477e",
-"title": "Ausserordentlich hohes Risiko entdeckt: Nach Alarm um Sicherheitslücke – Basel-Stadt schaltet Webseiten schrittweise wieder ein",
-"url": "https://www.bazonline.ch/php-sicherheitsluecke-basel-stadt-stellt-webseiten-wieder-online-624548572241",
-"source": "Basler Zeitung",
-"when": "12:26",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/2r_o6XGi4108EGD-2JvKSl.jpg",
-"excerpt": "Am Mittwoch hat der Kanton seine Webseiten präventiv heruntergefahren. Grund dafür war eine weltweit aufgetretene Sicherheitslücke."
-},
-{
-"id": "d8068caba06484b6",
-"title": "Kampagne gegen höhere Elternbeiträge",
-"url": "https://bajour.ch/a/kampagne-gegen-hoehere-elternbeitraege-in-riehen",
-"source": "Bajour",
-"when": "10:56",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": "Riehen hat die Elternbeiträge für Tagesstrukturen um etwa 40% erhöht, zum Ärgernis der betroffenen Familien."
-},
-{
 "id": "ae9cdb4a052a5c6c",
 "title": "Baselbieter Mitte nominiert Remo Oser",
 "url": "https://bajour.ch/a/baselbieter-mitte-nominiert-remo-oser",
@@ -253,20 +242,31 @@
 "excerpt": "Die Nomination ist eine Überraschung, da bisher Parteipräsident Simon Oberbeck als Kronfavorit galt."
 },
 {
-"id": "1806c4876754133e",
-"title": "ERKLÄRT - Es begann auf dem Meeresgrund. Die bisher unbekannte Geschichte des Lebens",
-"url": "https://www.nzz.ch/visuals/wie-entstand-leben-auf-der-erde-eine-bisher-unbekannte-geschichte-ld.10018926",
-"source": "NZZ",
-"when": "14:21",
+"id": "d8068caba06484b6",
+"title": "Kampagne gegen höhere Elternbeiträge",
+"url": "https://bajour.ch/a/kampagne-gegen-hoehere-elternbeitraege-in-riehen",
+"source": "Bajour",
+"when": "10:56",
 "also": [],
 "lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/08/10/aa62b288-f9f9-4a9d-9065-2e6187dfe70f.png?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0",
-"excerpt": ""
+"image": null,
+"excerpt": "Riehen hat die Elternbeiträge für Tagesstrukturen um etwa 40% erhöht, zum Ärgernis der betroffenen Familien."
+},
+{
+"id": "5f4faf4f56485042",
+"title": "BILDSTRECKE - Die Karikatur der Woche",
+"url": "https://www.nzz.ch/meinung/peter-gut-die-karikatur-der-woche-in-der-nzz-ld.1451202",
+"source": "NZZ",
+"when": "16:12",
+"also": [],
+"lang": "de",
+"image": "https://img-msp-prod.nzz.ch/2026/10/22/eb925f1a-aff1-451d-9596-9488ee8b2961.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1933,1933,x758,y0",
+"excerpt": "Der Karikaturist Peter Gut kommentiert in seinen wöchentlichen Zeichnungen für die NZZ das Weltgeschehen."
 }
 ]
 }
 ],
-"lead": "78dfb48d1a9fa43e"
+"lead": "e8c57c1114e5c25b"
 },
 {
 "id": "sport",
@@ -279,19 +279,19 @@
 "title": "Cycling",
 "items": [
 {
-"id": "90b675f38832f309",
-"title": "Tour de France 2027 route unveiled – Most time trial kilometres since 2012, brutal Pyrenean queen stage, as Tadej Pogačar eyes record sixth title",
-"url": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-2027-route-unveiled-most-time-trial-kilometres-since-2012-brutal-pyrenean-queen-stage-as-tadej-pogacar-eyes-record-sixth-title/",
+"id": "7db1667307d8c382",
+"title": "'We won't just do anything' - Local authorities to decide if spectators allowed on Puy de Dôme in Tour de France Femmes, say organisers",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/we-wont-just-do-anything-local-authorities-to-decide-if-spectators-allowed-on-puy-de-dome-in-tour-de-france-femmes-say-organisers/",
 "source": "Cyclingnews",
-"when": "12:16",
+"when": "16:07",
 "also": [
 "Escape Collective",
 "Velo",
 "Cycling Weekly"
 ],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/9BM7oFsfNqVuS9ReMkuAqh-1920-80.png",
-"excerpt": "Col du Portet to take centre stage in GC race from Grand Départ in Great Britain to Paris finale"
+"image": "https://cdn.mos.cms.futurecdn.net/W76fgUCFKZucu6DFE6DbP4-1920-80.jpg",
+"excerpt": "Final Tour de France Femmes stage taking place on ecologically protected mountain site where spectators were banned in 2023 Tour"
 },
 {
 "id": "82ca95f0368a14b9",
@@ -308,15 +308,37 @@
 "excerpt": "North American operations will be run from the West Coast"
 },
 {
-"id": "6916c2896ab4b513",
-"title": "Chris Froome predicts a 'closer' Tour de France in 2027",
-"url": "https://www.cyclingnews.com/bikes/pro-bikes/chris-froome-predicts-a-closer-tour-de-france-in-2027/",
+"id": "386f78c777c11b37",
+"title": "'There are certainly questions lingering after his crash' – Tour de France director doubts whether Tadej Pogačar can reach his previous level, referencing Eddy Merckx's famous 1969 crash",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/there-are-certainly-questions-lingering-after-his-crash-tour-de-france-director-doubts-whether-tadej-pogacar-can-reach-his-previous-level-referencing-eddy-merckxs-famous-1969-crash/",
 "source": "Cyclingnews",
-"when": "14:42",
+"when": "15:56",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/r3jSyGkrngPxVp5oSyFNhS-1920-80.jpg",
-"excerpt": "Four-time champion offers his take on the route and says the British Grand Départ will be 'really special'"
+"image": "https://cdn.mos.cms.futurecdn.net/MJnXy6yccTZAoQHSxRtAhS-1920-80.jpg",
+"excerpt": "'As you get older, after such a massive crash, are you still the same person? Do you take as many risks?'"
+},
+{
+"id": "601650dc0cad1ba2",
+"title": "The Best Gifts for Biking Families",
+"url": "https://velo.outsideonline.com/gravel/the-best-gifts-for-biking-families/",
+"source": "Velo",
+"when": "15:26",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/Bike_Kingman_20260714_010_lg-Becca-Holland-scaled-e1790799104731.jpeg?width=1200",
+"excerpt": "Give 'em more two-wheel fun with these eight products Read the full article at The Best Gifts for Biking Families on Velo ."
+},
+{
+"id": "f2101ae6fbb50678",
+"title": "In 2027, Tour de France Femmes returns to its trusted formula",
+"url": "https://escapecollective.com/in-2027-tour-de-france-femmes-returns-to-its-trusted-formula/",
+"source": "Escape Collective",
+"when": "14:59",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/10/Z8A_6967.jpg",
+"excerpt": "A little bit for everyone, and a little less for the GC favourites."
 },
 {
 "id": "f0dcccfc8c62e929",
@@ -328,28 +350,6 @@
 "lang": "en",
 "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/Z8D_9493-2.jpg?width=1200",
 "excerpt": ""
-},
-{
-"id": "a8335a5aff269eed",
-"title": "Women's MTB brand Juliana merged into Santa Cruz",
-"url": "https://escapecollective.com/womens-mtb-brand-juliana-merged-into-santa-cruz/",
-"source": "Escape Collective",
-"when": "12:56",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/10/juliana.jpeg",
-"excerpt": ""
-},
-{
-"id": "2ef52c0d0cdb0a76",
-"title": "This cycling journalist does not exist",
-"url": "https://escapecollective.com/this-cycling-journalist-does-not-exist/",
-"source": "Escape Collective",
-"when": "05:20",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/10/Fake-Iain-Treloar-feature.jpg",
-"excerpt": "On the trail of a fake Iain Treloar, all the way to the internet’s murky depths."
 }
 ]
 },
@@ -357,6 +357,17 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "999ed27231314882",
+"title": "Expert Predictions: Week 7 Picks for Patriots at Bears",
+"url": "https://www.patriots.com/news/expert-predictions-week-7-picks-for-patriots-at-bears",
+"source": "Patriots.com",
+"when": "16:06",
+"also": [],
+"lang": "en",
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/grfiuikyueq1vbpkch1r.jpg",
+"excerpt": "Experts share their picks for the Patriots Week 7 matchup against the Chicago Bears."
+},
 {
 "id": "f61ad608424f4098",
 "title": "Hälsa på i herrlagets omklädningsrum på medlemsdagen",
@@ -389,17 +400,6 @@
 "lang": "en",
 "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
 "excerpt": ""
-},
-{
-"id": "999ed27231314882",
-"title": "Expert Predictions: Week 7 Picks for Patriots at Bears",
-"url": "https://www.patriots.com/news/expert-predictions-week-7-picks-for-patriots-at-bears",
-"source": "Patriots.com",
-"when": "Wed 23:11",
-"also": [],
-"lang": "en",
-"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/grfiuikyueq1vbpkch1r.jpg",
-"excerpt": "Experts share their picks for the Patriots Week 7 matchup against the Chicago Bears."
 },
 {
 "id": "85aa0ef15b2db5de",
@@ -437,7 +437,7 @@
 ]
 }
 ],
-"lead": "90b675f38832f309"
+"lead": "7db1667307d8c382"
 },
 {
 "id": "chess",
@@ -454,7 +454,7 @@
 "title": "European Club Cup - Live!",
 "url": "https://en.chessbase.com/post/european-club-cup-2026-live",
 "source": "ChessBase",
-"when": "14:54",
+"when": "16:00",
 "also": [
 "Chess.com"
 ],
@@ -555,17 +555,6 @@
 "title": null,
 "items": [
 {
-"id": "5830843e0d05f048",
-"title": "Making the case for context-aware AI",
-"url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-"source": "MIT Technology Review",
-"when": "12:00",
-"also": [],
-"lang": "en",
-"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
-"excerpt": ""
-},
-{
 "id": "ff73d29a9964afd8",
 "title": "MemCurrent: Designing Persistent Memory for Production Agents",
 "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
@@ -575,6 +564,17 @@
 "lang": "en",
 "image": "https://www.databricks.com/sites/default/files/2026-10/2026-10-Blog-Introducing-MemCurrent-A-Benchmark-and-Memory-System-for-Enterprise-Agents-OG-1200x628-2-2x.png",
 "excerpt": "AI tools have made it easy to vibe code agents. Building and maintaining an enterprise..."
+},
+{
+"id": "5830843e0d05f048",
+"title": "Making the case for context-aware AI",
+"url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+"source": "MIT Technology Review",
+"when": "12:00",
+"also": [],
+"lang": "en",
+"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
+"excerpt": ""
 },
 {
 "id": "a6646360443c1474",
@@ -645,7 +645,110 @@
 ]
 }
 ],
-"lead": "5830843e0d05f048"
+"lead": "ff73d29a9964afd8"
+},
+{
+"id": "rd",
+"title": "R&D",
+"count": 8,
+"thin": false,
+"groups": [
+{
+"id": "rd",
+"title": null,
+"items": [
+{
+"id": "35d14ebce98272c0",
+"title": "Big trials push beyond obesity to see if GLP-1s can quell alcohol, drug cravings",
+"url": "https://endpoints.news/big-trials-push-beyond-obesity-to-see-if-glp-1s-can-quell-alcohol-drug-cravings/",
+"source": "Endpoints News",
+"when": "16:00",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/10/potential_use_of_glp_1_og.jpg",
+"excerpt": ""
+},
+{
+"id": "335cc9cbfff43f59",
+"title": "Hologic snaps up Reveal Genomics to boost genomic diagnostic reach",
+"url": "https://www.fiercebiotech.com/medtech/hologic-snaps-reveal-genomics-boost-genomic-diagnostic-reach",
+"source": "Fierce Biotech",
+"when": "16:21",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1314466012%20%282%29.jpg?VersionId=vF3AIzPQkGRPMO8w25Laz704zWDuF02a",
+"excerpt": "Hologic is acquiring precision oncology company Reveal Genomics."
+},
+{
+"id": "3946f7a59dde91c0",
+"title": "Rapport's phase 2 bipolar win strikes chord with analysts despite falling short of original ambition",
+"url": "https://www.fiercebiotech.com/biotech/rapport-bipolar-data-strike-chord-analysts-despite-missing-target",
+"source": "Fierce Biotech",
+"when": "16:21",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/milestone.jpg?VersionId=yELNx7cmag8MpCVZM7QLRV7Vr9v4NrXz",
+"excerpt": ""
+},
+{
+"id": "5d344f1e26429710",
+"title": "AbbVie notches Phase 3 win in painful skin condition, FDA filing likely next year",
+"url": "https://endpoints.news/abbvie-notches-phase-3-win-in-painful-skin-condition-fda-filing-likely-next-year/",
+"source": "Endpoints News",
+"when": "16:09",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2024/03/AbbVie-Worcester-social1.jpg",
+"excerpt": ""
+},
+{
+"id": "ac0a21d9c875c036",
+"title": "Redesign Health merges with ARC Global in $2B deal to help hospitals build startups",
+"url": "https://endpoints.news/redesign-health-merges-with-arc-global-in-2b-deal-to-help-hospitals-build-startups/",
+"source": "Endpoints News",
+"when": "14:00",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/10/Redesign-ARC-merger-social-1.jpg",
+"excerpt": ""
+},
+{
+"id": "04f4c8011853f354",
+"title": "Lilly partners with Hong Kong's Metis in $1.1B deal to bolster AI nanoparticle discovery",
+"url": "https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery",
+"source": "Fierce Biotech",
+"when": "16:21",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/IMG_0605.jpg?VersionId=JuaR.VxErlTc0mmVUQBTNlTlCqHPSBbp",
+"excerpt": "The collaboration is another in a series of partnerships Lilly has accumulated in both drug delivery and AI-based technologies."
+},
+{
+"id": "6f3bddf6cf04b76f",
+"title": "Alcon ponies up $550M for Neurotech, bagging approved cell therapy implant Encelto",
+"url": "https://www.fiercepharma.com/pharma/alcon-ponies-550m-neurotech-encelto-and-gene-therapy-platform",
+"source": "Fierce Pharma",
+"when": "16:21",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-875172984.jpg?VersionId=Q1a2sSu61SncpkQGpzxOQJhsAgst2eIt",
+"excerpt": ""
+},
+{
+"id": "863fa13ddc198796",
+"title": "Roivant comes for Humira as Lisraya checks boxes in inflammatory eye disease phase 3s",
+"url": "https://www.fiercepharma.com/pharma/roivant-comes-humira-lisraya-checks-boxes-inflammatory-eye-disease-phase-3s",
+"source": "Fierce Pharma",
+"when": "16:21",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2192252479.jpg?VersionId=K5hzcaTdzB_W09lJNFjZEWos4eMgKOU5",
+"excerpt": ""
+}
+]
+}
+],
+"lead": "35d14ebce98272c0"
 }
 ],
 "weather": {
@@ -685,8 +788,8 @@
 {
 "name": "Evening",
 "temp": 12,
-"icon": "🌤️",
-"label": "Mostly clear",
+"icon": "☀️",
+"label": "Clear",
 "rain_pct": 0
 }
 ],
@@ -714,28 +817,28 @@
 "dm": "23.10.",
 "label": "Light showers",
 "icon": "🌦️",
-"hi": 14,
+"hi": 15,
 "lo": 7,
-"rain_mm": 4.2,
+"rain_mm": 4.8,
 "rain_pct": 93,
-"wind": 25,
+"wind": 29,
 "uv": 2,
 "sunrise": "07:59",
 "sunset": "18:27",
 "bar_l": 27,
-"bar_w": 47
+"bar_w": 53
 },
 {
 "date": "2026-10-24",
 "dow": "Sat",
 "dm": "24.10.",
-"label": "Light rain",
+"label": "Light showers",
 "icon": "🌦️",
 "hi": 12,
 "lo": 7,
-"rain_mm": 1.5,
+"rain_mm": 2.1,
 "rain_pct": 50,
-"wind": 20,
+"wind": 27,
 "uv": 2,
 "sunrise": "08:01",
 "sunset": "18:25",
