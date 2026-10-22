@@ -1,5 +1,53 @@
 [
 {
+"excerpt": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "c67d813c1e201538",
+"image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a379/live/0b1863f0-ce1c-11f1-906e-e3128518d85d.jpg",
+"lang": "en",
+"published": "2026-10-22T14:33:06+00:00",
+"section": "world",
+"source": "bbc",
+"title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+"url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss"
+},
+{
+"excerpt": "It has been ten years since a Cameroon National Railway Intercity train travelling between Yaounde and Douala derailed and became the country's worst ever railway disaster. Seventy-nine people were killed and hundreds were injured.",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "b6ba18b9558c4e5c",
+"image": "https://s.france24.com/media/display/319a19c0-cd76-11f1-be77-19980254bb31/w:1024/p:16x9/AP16296707809075.jpg",
+"lang": "en",
+"published": "2026-10-22T14:23:38+00:00",
+"section": "world",
+"source": "france24",
+"title": "Cameroon: Ten years after a massive train disaster, victims are still awaiting justice",
+"url": "https://www.france24.com/en/video/20261022-cameroon-ten-years-after-a-massive-train-disaster-victims-are-still-awaiting-justice"
+},
+{
+"excerpt": "The former US secretary of state warns that political rejection of renewables can reverse progress and delay investments in the energy transition",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "a9be917793073b96",
+"image": "https://images.english.elpais.com/resizer/v2/YUBXCFAT7ZHHJAGYUHSZG5W6HU.jpg?auth=9194f66faf769fe7986f5a56e247ff945b7811b9742e8e033b76ae6f4c2c8838",
+"lang": "en",
+"published": "2026-10-22T14:21:42+00:00",
+"section": "world",
+"source": "elpais",
+"title": "John Kerry: ‘Trump’s decision to allow purchases of Russian oil is counterproductive and dangerous’",
+"url": "https://english.elpais.com/climate/2026-10-22/john-kerry-trumps-decision-to-allow-purchases-of-russian-oil-is-counterproductive-and-dangerous.html"
+},
+{
+"excerpt": "French PM Sebastien Lecornu holds a meeting with the leaders of political parties after unrest this weekend across the country. The aim is to prevent potential violence during the next protests, including on Saturday as the \"Yellow vests\" movement called for a new mobilisation. Details by FRANCE 24'",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "6108ee0415c5f65d",
+"image": "https://s.france24.com/media/display/8b7ebcfa-ce22-11f1-b348-97baf3e9dd31/w:1024/p:16x9/capture-1d521ee2.jpg",
+"lang": "en",
+"published": "2026-10-22T14:21:42+00:00",
+"section": "world",
+"source": "france24",
+"title": "French PM Sebastien Lecornu meets with leaders of political parties amid unrest",
+"url": "https://www.france24.com/en/video/20261022-french-pm-sebastien-lecornu-meets-with-leaders-of-political-parties-amid-unrest"
+},
+{
 "excerpt": "A US envoy met Putin in Saint Petersburg on Wednesday after the Kremlin agreed to resume peace talks with Ukraine and the United States. Details by FRANCE 24's correspondent Gulliver Cragg.",
 "first_seen": "2026-10-22T14:21:33+00:00",
 "id": "ba8c09a3540d8cf9",
@@ -46,6 +94,18 @@
 "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371821/hong-kong-badly-lags-peers-greater-bay-area-ai-supply-chains"
 },
 {
+"excerpt": "New Zealand reach their highest home total against India, 225-4, but Sanju Samson hits fifty to top the record in chase.",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "432b1780c2031245",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261022__D4367GC__v1__MidRes__CricketNzlInd-1792674976.jpg?resize=1200%2C630",
+"lang": "en",
+"published": "2026-10-22T14:09:56+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "India resist New Zealand fightback to win record-setting T20 cricket opener",
+"url": "https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener?traffic_source=rss"
+},
+{
 "excerpt": "The teacher said she could not help children because she was badly injured by the attacker.",
 "first_seen": "2026-10-22T14:21:33+00:00",
 "id": "a1e3ddc6a76d3d91",
@@ -56,6 +116,18 @@
 "source": "bbc",
 "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
 "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss"
+},
+{
+"excerpt": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "2e8c230fed9e0e8b",
+"image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2457/live/95e759e0-ce18-11f1-bbba-c577fd901ff7.png",
+"lang": "en",
+"published": "2026-10-22T14:08:10+00:00",
+"section": "world",
+"source": "bbc",
+"title": "YouTuber arrested after popular Indian finance influencer's suicide",
+"url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss"
 },
 {
 "excerpt": "Organisations in Singapore have been urged to immediately fix two critical security flaws in a widely used programming language amid reports of widespread attempts by hackers to exploit the vulnerabilities. The flaws in PHP, which powers many websites and online services, could allow attackers to ta",
@@ -280,6 +352,18 @@
 "source": "france24",
 "title": "REPLAY: French President vows to prevent violence ahead of protests",
 "url": "https://www.france24.com/en/video/20261022-replay-french-president-vows-to-prevent-violence-ahead-of-protests"
+},
+{
+"excerpt": "As six-figure-salary engineers arrive to work in Silicon Valley, Latino families and workers are forced to leave. The mayor has declared a ‘rent emergency’",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "8aeb06fda7beb716",
+"image": "https://images.english.elpais.com/resizer/v2/MQFYBZVP2NG4TKDTAMKIQYTN7Y.jpg?auth=3300ed4729f442f4c19bfd2c886ba4ee898b8c2873febcb5e4c7e091b651f463",
+"lang": "en",
+"published": "2026-10-22T13:02:56+00:00",
+"section": "world",
+"source": "elpais",
+"title": "A windowless ground-floor unit for $4,750: the AI boom pushes San Francisco rents skyward",
+"url": "https://english.elpais.com/economy-and-business/2026-10-22/a-windowless-ground-floor-unit-for-4750-the-ai-boom-pushes-san-francisco-rents-skyward.html"
 },
 {
 "excerpt": "One of the most recognisable and beloved musicals of all time has hit the stage in Paris. \"Singin' in the Rain\" is on at the Lido theatre until January 10. In this edition of Entre Nous we are pleased to welcome Ashley Day, the British actor bringing Don Lockwood to life. He tells us what it's like ",
@@ -1521,7 +1605,7 @@
 "url": "http://www.africanews.com/2026/10/22/egypt-will-defend-saudi-territory-and-wont-attack-yemen-sisi-says/"
 },
 {
-"excerpt": "A Hong Kong information security watchdog issued an “extremely high risk” warning on Thursday morning over two critical flaws in a widely used web programming language that could allow hackers to execute code remotely and take control of servers. The warning followed similar alerts from governments ",
+"excerpt": "Hong Kong authorities have expressed serious concern over two critical flaws in a widely used web programming language that could allow hackers to execute code remotely and take control of servers. The government’s Digital Policy Office said on Thursday that it had issued a security alert to all bur",
 "first_seen": "2026-10-22T11:33:03+00:00",
 "id": "7c67c1bf624f3a16",
 "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/22/00320106-6785-4a23-8a4d-e15c167ab16a_aebd3126.jpg?itok=5Q4PMLtp&v=1792651009",
@@ -1529,7 +1613,7 @@
 "published": "2026-10-22T06:37:01+00:00",
 "section": "world",
 "source": "scmp",
-"title": "Hong Kong watchdog joins global agencies to warn of web scripting hack risks",
+"title": "Hong Kong orders urgent checks as critical flaws put websites at risk of hacking",
 "url": "https://www.scmp.com/news/hong-kong/article/3371756/hong-kong-watchdog-warns-hacking-risks-flaws-web-programming-language"
 },
 {
@@ -4713,26 +4797,16 @@
 "url": "https://english.elpais.com/international/2026-10-15/the-cost-of-basic-groceries-measured-in-wages-12-hours-of-work-in-ireland-and-a-month-in-the-central-african-republic.html"
 },
 {
-"excerpt": "EU leaders meeting in Brussels will examine measures to curb the bloc's huge trade deficit with China. But they will also be looking to further agreement on the next EU budget ahead of some major elections next year.",
-"first_seen": "2026-10-22T11:33:03+00:00",
-"id": "011c8eef4072aeeb",
-"lang": "en",
-"published": "2026-10-15T14:37:00+00:00",
-"section": "world",
-"source": "dw",
-"title": "EU summit to focus on China, Ukraine and bloc budget",
-"url": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf"
-},
-{
-"excerpt": "Two chemical tankers have caught fire in Romanian territorial waters in the Black Sea. The blazes occurred after Russian drones were sighted in Romanian airspace.",
-"first_seen": "2026-10-22T11:33:03+00:00",
-"id": "57b5a50e3e04db34",
-"lang": "en",
-"published": "2026-10-15T14:34:00+00:00",
-"section": "world",
-"source": "dw",
-"title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
-"url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-rdf"
+"excerpt": "The post Veckans skadeuppdatering appeared first on Malmö FF .",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "4a9666fec634c108",
+"image": "https://cdn.mff.se/2026/10/BB260724CO095.jpg",
+"lang": "sv",
+"published": "2026-10-22T14:31:05+00:00",
+"section": "sport",
+"source": "mff",
+"title": "Veckans skadeuppdatering",
+"url": "https://www.mff.se/nyheter/veckans-skadeuppdatering-2026-10-22/"
 },
 {
 "excerpt": "Final Tour de France Femmes stage taking place on ecologically protected mountain site where spectators were banned in 2023 Tour",
@@ -8048,6 +8122,66 @@
 "url": "https://www.chess.com/news/view/2026-ccl-fall-week-four-update"
 },
 {
+"excerpt": "Die Niederschläge der vergangenen Tage und die gestiegene Luftfeuchtigkeit haben das Waldbrandrisiko im Kanton Basel-Stadt deutlich reduziert. Deshalb werden die bestehenden Verbote im Zusammenhang mit Feuer per Freitag, 23. Oktober 2026, um 12.00 Uhr aufgehoben.",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "39ca9b2a17943424",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"lang": "de",
+"published": null,
+"section": "basel",
+"source": "bs_medien",
+"title": "Aufhebung des bedingten Feuerverbots im Wald und in Waldesnähe",
+"url": "https://www.bs.ch/medienmitteilungen/wsu/2026-aufhebung-des-bedingten-feuerverbots-im-wald-und-waldesnaehe"
+},
+{
+"excerpt": "Die neuesten Meldungen aus dem Feuilleton.",
+"first_seen": "2026-10-22T11:33:03+00:00",
+"id": "27986a6590ecc2bb",
+"image": "https://img-msp-prod.nzz.ch/2026/10/22/6aba9aac-ff22-4a41-9f25-10dcc8182e0e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3840,3840,x960,y0",
+"lang": "de",
+"published": "2026-10-22T14:23:26+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "MELDUNGEN KULTUR - Österreichischer Kabarettist wird wegen Kindsmissbrauchs zu drei Jahren Gefängnis verurteilt +++ Die Eventi letterari Monte Verità trennen sich von Stefan Zweifel",
+"url": "https://www.nzz.ch/feuilleton/kultur-die-neuesten-meldungen-ld.10032377"
+},
+{
+"excerpt": "In der Region suchen mehrere Villen mit teils sehr individuellem Charakter eine neue Käuferschaft. Besonders viele Luxusliegenschaften gibt es in Binningen.",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "337bb25e3b06a75b",
+"image": "https://cdn.unitycms.io/images/8mlEI7YQKqI8GZczhSKmqE.png",
+"lang": "de",
+"published": "2026-10-22T14:22:20+00:00",
+"section": "basel",
+"source": "baz",
+"title": "Immobilienmarkt: Marokko in Sissach – aussergewöhnliche Villen in der Region Basel",
+"url": "https://www.bazonline.ch/villen-in-binningen-exklusive-immobilien-ab-5-mio-franken-978392758845"
+},
+{
+"excerpt": "Die Firma des Eigentümers ging 2001 pleite, zwei Jahre später baute er sein Anwesen. Doch der Verkauf der 10-Zimmer-Villa mit Hallenbad und Fitnessraum dürfte nicht einfach sein.",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "be2e559225fdb4f6",
+"image": "https://cdn.unitycms.io/images/BuXd5Tz6KDwA3lFMRmh1jW.jpg",
+"lang": "de",
+"published": "2026-10-22T14:21:57+00:00",
+"section": "basel",
+"source": "baz",
+"title": "Teuerste Immobilie der Region Basel: IT-Unternehmer baute sich nach Konkurs eine 11-Millionen-Villa – jetzt steht sie zum Verkauf",
+"url": "https://www.bazonline.ch/binningen-luxusimmobilie-fuer-11-millionen-franken-angeboten-478525319908"
+},
+{
+"excerpt": "Der kanadische Verlag Boréal beendet die Zusammenarbeit mit Thélyson Orélien wegen des Einsatzes von künstlicher Intelligenz. Gleichzeitig soll ein neuer Literaturpreis Bücher auszeichnen, die mit KI geschrieben wurden. Was bedeutet das für die Zukunft der Literatur?",
+"first_seen": "2026-10-22T14:41:37+00:00",
+"id": "402bc4a3f613a57f",
+"image": "https://img-msp-prod.nzz.ch/2026/10/22/8e15321f-31a0-477e-bb1b-5c4ec9baa7ce.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1958,1958,x542,y721",
+"lang": "de",
+"published": "2026-10-22T14:20:56+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "KI-Verdacht: Verlag trennt sich von vermeintlichem Literatur-Wunderkind",
+"url": "https://www.nzz.ch/feuilleton/ki-verdacht-verlag-trennt-sich-von-vermeintlichem-literatur-wunderkind-ld.10041208"
+},
+{
 "excerpt": "Eine Vielzahl von Websites wurde sicherheitshalber vom Netz genommen. Der Bund hat noch keine Angriffe festgestellt.",
 "first_seen": "2026-10-22T14:21:33+00:00",
 "id": "e8c57c1114e5c25b",
@@ -8837,18 +8971,6 @@
 "source": "nzz",
 "title": "Schweizer Geisel aus Niger befreit und laut Cassis bereits auf der Reise in die Heimat",
 "url": "https://www.nzz.ch/schweiz/schweizer-geisel-aus-niger-befreit-ld.10041146"
-},
-{
-"excerpt": "Die neuesten Meldungen aus dem Feuilleton.",
-"first_seen": "2026-10-22T11:33:03+00:00",
-"id": "27986a6590ecc2bb",
-"image": "https://img-msp-prod.nzz.ch/2026/10/22/8e15321f-31a0-477e-bb1b-5c4ec9baa7ce.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1337,1337,x802,y795",
-"lang": "de",
-"published": "2026-10-22T11:00:15+00:00",
-"section": "basel",
-"source": "nzz",
-"title": "MELDUNGEN KULTUR - Die Eventi letterari Monte Verità trennen sich von Stefan Zweifel +++ Österreichischer Kabarettist gesteht Kindesmissbrauch +++ Verlag beendet Zusammenarbeit mit Autor Orélien wegen KI-Vorwürfen",
-"url": "https://www.nzz.ch/feuilleton/kultur-die-neuesten-meldungen-ld.10032377"
 },
 {
 "excerpt": "Der rechte Streifen ist künftig nur für Basel/Dreispitz und Busse da, der linke für Bottmingen und Reinach. Der Wechsel ist neu schon 200 statt 80 Meter vor dem Kreisel möglich.",

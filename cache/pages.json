@@ -1,10 +1,10 @@
 {
 "2026-10-22": {
 "date": "2026-10-22",
-"built_at": "2026-10-22T14:21:33.330440+00:00",
-"built_local": "16:21",
-"feeds_ok": 55,
-"feeds_total": 55,
+"built_at": "2026-10-22T14:41:37.426663+00:00",
+"built_local": "16:41",
+"feeds_ok": 54,
+"feeds_total": 54,
 "sections": [
 {
 "id": "world",
@@ -60,6 +60,17 @@
 "excerpt": ""
 },
 {
+"id": "432b1780c2031245",
+"title": "India resist New Zealand fightback to win record-setting T20 cricket opener",
+"url": "https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "16:09",
+"also": [],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261022__D4367GC__v1__MidRes__CricketNzlInd-1792674976.jpg?resize=1200%2C630",
+"excerpt": "New Zealand reach their highest home total against India, 225-4, but Sanju Samson hits fifty to top the record in chase."
+},
+{
 "id": "f0b80827b9ffeaab",
 "title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
@@ -93,17 +104,6 @@
 "excerpt": "Drone attacks on supply lines and safe cities are taking a devastating toll on civilians."
 },
 {
-"id": "a52de579a93bce6e",
-"title": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
-"url": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "15:33",
-"also": [],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_2516-1792613433.jpeg?resize=1920%2C1440",
-"excerpt": "With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest."
-},
-{
 "id": "f083c75fbd6b8a38",
 "title": "Australia: Bystanders dive into floodwaters to save trapped driver",
 "url": "http://www.africanews.com/2026/10/22/australia-bystanders-dive-into-floodwaters-to-save-trapped-driver/",
@@ -126,15 +126,15 @@
 "excerpt": "The finance ministry says it shipped $889 million worth of the precious metal over the month, up 68.9 per cent from last year."
 },
 {
-"id": "983825f70511f259",
-"title": "Trump administration fails to meet its goal of deporting one million people per year",
-"url": "https://english.elpais.com/usa/2026-10-22/trump-administration-fails-to-meet-its-goal-of-deporting-one-million-people-per-year.html",
+"id": "a9be917793073b96",
+"title": "John Kerry: ‘Trump’s decision to allow purchases of Russian oil is counterproductive and dangerous’",
+"url": "https://english.elpais.com/climate/2026-10-22/john-kerry-trumps-decision-to-allow-purchases-of-russian-oil-is-counterproductive-and-dangerous.html",
 "source": "El País English",
-"when": "13:47",
+"when": "16:21",
 "also": [],
 "lang": "en",
-"image": "https://images.english.elpais.com/resizer/v2/AIP6MFX2QJP4LFKF3SK3MGNYCY.jpg?auth=2a5b1da1e117ba8c8daa5b7a0ff527eda52ecce920f5ae312df4153dfd1419f2",
-"excerpt": ""
+"image": "https://images.english.elpais.com/resizer/v2/YUBXCFAT7ZHHJAGYUHSZG5W6HU.jpg?auth=9194f66faf769fe7986f5a56e247ff945b7811b9742e8e033b76ae6f4c2c8838",
+"excerpt": "The former US secretary of state warns that political rejection of renewables can reverse progress and delay investments in the energy transition"
 }
 ]
 }
@@ -151,6 +151,28 @@
 "id": "basel",
 "title": null,
 "items": [
+{
+"id": "337bb25e3b06a75b",
+"title": "Immobilienmarkt: Marokko in Sissach – aussergewöhnliche Villen in der Region Basel",
+"url": "https://www.bazonline.ch/villen-in-binningen-exklusive-immobilien-ab-5-mio-franken-978392758845",
+"source": "Basler Zeitung",
+"when": "16:22",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/8mlEI7YQKqI8GZczhSKmqE.png",
+"excerpt": "In der Region suchen mehrere Villen mit teils sehr individuellem Charakter eine neue Käuferschaft. Besonders viele Luxusliegenschaften gibt es in Binningen."
+},
+{
+"id": "be2e559225fdb4f6",
+"title": "Teuerste Immobilie der Region Basel: IT-Unternehmer baute sich nach Konkurs eine 11-Millionen-Villa – jetzt steht sie zum Verkauf",
+"url": "https://www.bazonline.ch/binningen-luxusimmobilie-fuer-11-millionen-franken-angeboten-478525319908",
+"source": "Basler Zeitung",
+"when": "16:21",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/BuXd5Tz6KDwA3lFMRmh1jW.jpg",
+"excerpt": ""
+},
 {
 "id": "e8c57c1114e5c25b",
 "title": "Cyber-Schwachstelle bei PHP – Erste Schadensbilanz: Über 100'000 Schweizer Webseiten offline",
@@ -207,28 +229,6 @@
 "excerpt": "Ab November ändern sich die Öffnungszeiten der Migros in Arlesheim."
 },
 {
-"id": "8daba06b037aaabf",
-"title": "Münchenstein: Am MFP-Kreisel gelten ab 26. Oktober neue Spuren für Autofahrer",
-"url": "https://www.bazonline.ch/mfp-kreisel-muenchenstein-neue-spurzuteilung-ab-26-oktober-685984606422",
-"source": "Basler Zeitung",
-"when": "12:56",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": ""
-},
-{
-"id": "384a0f4cd1169da8",
-"title": "Eklat nach Lauber-Rücktritt: Remo Oser chartert zwei Busse mit Fans für den Mitte-Parteitag – und gewinnt",
-"url": "https://www.bazonline.ch/baselland-remo-oser-ueberraschend-als-mitte-regierungskandidat-gewaehlt-568500172480",
-"source": "Basler Zeitung",
-"when": "12:37",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/43AB9RrhaaF8sDKQyaG1y6.png",
-"excerpt": ""
-},
-{
 "id": "ae9cdb4a052a5c6c",
 "title": "Baselbieter Mitte nominiert Remo Oser",
 "url": "https://bajour.ch/a/baselbieter-mitte-nominiert-remo-oser",
@@ -253,20 +253,20 @@
 "excerpt": "Riehen hat die Elternbeiträge für Tagesstrukturen um etwa 40% erhöht, zum Ärgernis der betroffenen Familien."
 },
 {
-"id": "5f4faf4f56485042",
-"title": "BILDSTRECKE - Die Karikatur der Woche",
-"url": "https://www.nzz.ch/meinung/peter-gut-die-karikatur-der-woche-in-der-nzz-ld.1451202",
-"source": "NZZ",
-"when": "16:12",
+"id": "39ca9b2a17943424",
+"title": "Aufhebung des bedingten Feuerverbots im Wald und in Waldesnähe",
+"url": "https://www.bs.ch/medienmitteilungen/wsu/2026-aufhebung-des-bedingten-feuerverbots-im-wald-und-waldesnaehe",
+"source": "Kanton Basel-Stadt",
+"when": "16:41",
 "also": [],
 "lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/10/22/eb925f1a-aff1-451d-9596-9488ee8b2961.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1933,1933,x758,y0",
-"excerpt": "Der Karikaturist Peter Gut kommentiert in seinen wöchentlichen Zeichnungen für die NZZ das Weltgeschehen."
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
 }
 ]
 }
 ],
-"lead": "e8c57c1114e5c25b"
+"lead": "337bb25e3b06a75b"
 },
 {
 "id": "sport",
@@ -358,6 +358,17 @@
 "title": "Teams",
 "items": [
 {
+"id": "4a9666fec634c108",
+"title": "Veckans skadeuppdatering",
+"url": "https://www.mff.se/nyheter/veckans-skadeuppdatering-2026-10-22/",
+"source": "Malmö FF",
+"when": "16:31",
+"also": [],
+"lang": "sv",
+"image": "https://cdn.mff.se/2026/10/BB260724CO095.jpg",
+"excerpt": "The post Veckans skadeuppdatering appeared first on Malmö FF ."
+},
+{
 "id": "999ed27231314882",
 "title": "Expert Predictions: Week 7 Picks for Patriots at Bears",
 "url": "https://www.patriots.com/news/expert-predictions-week-7-picks-for-patriots-at-bears",
@@ -367,17 +378,6 @@
 "lang": "en",
 "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/grfiuikyueq1vbpkch1r.jpg",
 "excerpt": "Experts share their picks for the Patriots Week 7 matchup against the Chicago Bears."
-},
-{
-"id": "f61ad608424f4098",
-"title": "Hälsa på i herrlagets omklädningsrum på medlemsdagen",
-"url": "https://www.mff.se/nyheter/halsa-pa-i-herrlagets-omkladningsrum-pa-medlemsdagen-2026-10-22/",
-"source": "Malmö FF",
-"when": "13:46",
-"also": [],
-"lang": "sv",
-"image": "https://cdn.mff.se/2026/10/BB250418PA031-2.jpg",
-"excerpt": "The post Hälsa på i herrlagets omklädningsrum på medlemsdagen appeared first on Malmö FF ."
 },
 {
 "id": "a3b2af728369a6e2",
@@ -566,17 +566,6 @@
 "excerpt": "AI tools have made it easy to vibe code agents. Building and maintaining an enterprise..."
 },
 {
-"id": "5830843e0d05f048",
-"title": "Making the case for context-aware AI",
-"url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-"source": "MIT Technology Review",
-"when": "12:00",
-"also": [],
-"lang": "en",
-"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
-"excerpt": ""
-},
-{
 "id": "a6646360443c1474",
 "title": "Introducing Agent Memory on Databricks",
 "url": "https://www.databricks.com/blog/introducing-agent-memory-databricks",
@@ -586,6 +575,17 @@
 "lang": "en",
 "image": "https://www.databricks.com/sites/default/files/2026-10/2026-10-Blog-MemLake-Announcement-OG-1200x628-2x.png",
 "excerpt": "Today we're introducing agent memory on Agent Bricks, Databricks' agent developer..."
+},
+{
+"id": "5830843e0d05f048",
+"title": "Making the case for context-aware AI",
+"url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+"source": "MIT Technology Review",
+"when": "12:00",
+"also": [],
+"lang": "en",
+"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
+"excerpt": ""
 },
 {
 "id": "f54bd287e3269a25",
