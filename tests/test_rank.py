@@ -182,3 +182,23 @@ def test_event_window_includes_morning_after():
     assert active_disciplines(ev, date(2027, 4, 12)) == {"cycling"}
     assert active_disciplines(ev, date(2027, 4, 13)) == set()
     assert active_disciplines(ev, date(2027, 5, 1)) == set()
+
+
+def test_pinned_source_shows_every_item_outside_cap():
+    from datetime import datetime, timedelta, timezone
+    from rank import build_sections
+    now = datetime(2026, 10, 23, 1, 0, tzinfo=timezone.utc)
+    cfg = {"settings": {"max_per_source": 3}, "event_boost": 2, "event_cap_bonus": 2,
+           "sections": [{"id": "rd", "title": "R&D", "cap": 2, "window_hours": 48,
+                         "pin_title": "Company", "pin_window_hours": 26, "pin_max": 6}],
+           "sources": [{"id": "trade", "name": "Trade", "section": "rd", "weight": 5, "lang": "en"},
+                       {"id": "co", "name": "Co", "section": "rd", "weight": 1, "lang": "en", "pin": True}]}
+    def it(src, n, h):
+        t = (now - timedelta(hours=h)).isoformat()
+        return {"id": f"{src}{n}", "source": src, "section": "rd", "title": ["Merger talks collapse overnight", "Regulator approves novel antibody", "Trial misses primary endpoint", "Layoffs hit research division", "Licensing pact signed in Asia", "", "", "", "", "Quarterly guidance raised sharply"][n] + f" ({src})",
+                "excerpt": "", "url": f"https://{src}/{n}", "published": t, "first_seen": t, "lang": "en"}
+    items = [it("trade", i, 2 + i) for i in range(5)] + [it("co", i, 3 + 5 * i) for i in range(4)] + [it("co", 9, 40)]
+    sec = build_sections(cfg, items, now, now.date(), [])[0]
+    main, pinned = sec["groups"]
+    assert len(main["cands"]) == 2 and all(c.source == "trade" for c in main["cands"])
+    assert pinned["title"] == "Company" and [c.item["id"] for c in pinned["cands"]] == ["co0", "co1", "co2", "co3"]

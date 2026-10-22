@@ -109,6 +109,9 @@ sections:
     title: R&D
     cap: 8
     window_hours: 48
+    pin_title: Astellas releases     # every Astellas release, outside the cap
+    pin_window_hours: 26             # one nightly build's worth, with slack for a late run
+    pin_max: 6
     boost:
       - {value: 2, pattern: "Phase (3|III)|pivotal|topline|readout|approv|\\bCRL\\b|complete response|PDUFA|advisory committee|AdCom|acqui|licens|\\bdeal\\b|M&A|pipeline|portfolio|\\bR&D\\b|priorit|discontinu|deprioriti|Astellas"}
       - {value: 1, pattern: "Phase (2|II)|oncology|cell therapy|gene therapy|ADC|obesity|GLP-1|biosimilar|patent cliff|IRA|MFN|tariff|EMA|CHMP|Swissmedic"}
@@ -1142,11 +1145,10 @@ sources:
   - id: astellas
     name: Astellas
     section: rd
-    url: null
+    url: "https://newsroom.astellas.com/news?pagetemplate=rss"
     homepage: https://newsroom.astellas.com/
-    discover_pages: [https://www.astellas.com/en/news]
-    candidates: [https://newsroom.astellas.com/rss, "https://newsroom.astellas.com/news-releases?pagetemplate=rss", https://www.astellas.com/en/news/rss]
     weight: 3
     lang: en
-    status: dropped
-    note: "Astellas newsroom publishes no feed."
+    pin: true
+    status: verified
+    note: "Global newsroom feed (5 most recent releases). Pinned: every release is shown, outside the R&D cap."

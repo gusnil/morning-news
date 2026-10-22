@@ -265,7 +265,18 @@ def build_sections(cfg: dict, items: list[dict], now: datetime, local_day: date,
             groups = [{"id": s["id"], "title": s["title"], "cands": picked[s["id"]]} for s in subs]
             cap = sum(caps.values())
         else:
-            cands = make_cands(pool(win), sources, sec, now, events_on, eb)
+            # Pinned sources (e.g. a company's own press releases) bypass ranking and caps: every item
+            # from the last pin_window_hours is shown, newest first, in its own group below the section.
+            pins = {sid for sid, s in sources.items() if s.get("section") == sec["id"] and s.get("pin")}
+            main_pool = [it for it in pool(win) if it["source"] not in pins]
+            pinned_group = None
+            if pins:
+                pw = float(sec.get("pin_window_hours", 26))
+                pinned = make_cands([it for it in pool(pw) if it["source"] in pins], sources, sec, now, events_on, eb)
+                pinned.sort(key=lambda c: (-c.ts, c.item["id"]))
+                pinned_group = {"id": f"{sec['id']}-pinned", "title": sec.get("pin_title", "Pinned"),
+                                "cands": pinned[: int(sec.get("pin_max", 6))]}
+            cands = make_cands(main_pool, sources, sec, now, events_on, eb)
             cap = int(sec["cap"])
             q = sec.get("quota", {})
             if "region_max_share" in q:
@@ -275,5 +286,8 @@ def build_sections(cfg: dict, items: list[dict], now: datetime, local_day: date,
             else:
                 chosen = select_simple(cands, cap, mps)
             groups = [{"id": sec["id"], "title": None, "cands": chosen}]
+            if pinned_group and pinned_group["cands"]:
+                groups.append(pinned_group)
+                cap += len(pinned_group["cands"])
         out.append({"id": sec["id"], "title": sec["title"], "cap": cap, "groups": groups})
     return out
