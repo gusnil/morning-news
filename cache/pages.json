@@ -1,10 +1,10 @@
 {
 "2026-10-22": {
 "date": "2026-10-22",
-"built_at": "2026-10-22T14:41:37.426663+00:00",
-"built_local": "16:41",
-"feeds_ok": 54,
-"feeds_total": 54,
+"built_at": "2026-10-22T14:46:48.994851+00:00",
+"built_local": "16:46",
+"feeds_ok": 55,
+"feeds_total": 55,
 "sections": [
 {
 "id": "world",
@@ -47,6 +47,32 @@
 "excerpt": ""
 },
 {
+"id": "0f87a8784f6b2441",
+"title": "International Criminal Court wins EU's Sakharov human rights prize",
+"url": "https://www.france24.com/en/europe/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
+"source": "France 24",
+"when": "12:10",
+"also": [
+"DW"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/c3c26ff2-ce00-11f1-9367-3f59e19fd7f8/w:1024/p:16x9/2026-10-01T060027Z-1367355887-RC20XGAUF5NC-RTRMADP-3-NOBEL-PRIZE-PEACE.jpg",
+"excerpt": ""
+},
+{
+"id": "20f65560d440c8ff",
+"title": "Germany arrests Ukrainian man accused of spying for Russia",
+"url": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "16:36",
+"also": [
+"DW"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-05T124513Z_1302795234_RC2CSMA4ECEE_RTRMADP_3_GERMANY-SECURITY-AIRPORT-DHL-1786441432.jpg?resize=1920%2C1440",
+"excerpt": "Military has raised the threat level of ​Russian sabotage against German troops and facilities."
+},
+{
 "id": "c26edebc6175c1e6",
 "title": "Nigeria confirms its first Ebola case is Bundibugyo strain",
 "url": "https://www.thehindu.com/news/international/nigeria-confirms-its-first-ebola-case-is-bundibugyo-strain/article71607018.ece",
@@ -60,26 +86,26 @@
 "excerpt": ""
 },
 {
-"id": "432b1780c2031245",
-"title": "India resist New Zealand fightback to win record-setting T20 cricket opener",
-"url": "https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener?traffic_source=rss",
+"id": "cc566749fce69169",
+"title": "Ilhan Omar home raid, Haines attack: Inside rise in violence on officials",
+"url": "https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss",
 "source": "Al Jazeera",
-"when": "16:09",
+"when": "16:34",
 "also": [],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261022__D4367GC__v1__MidRes__CricketNzlInd-1792674976.jpg?resize=1200%2C630",
-"excerpt": "New Zealand reach their highest home total against India, 225-4, but Sanju Samson hits fifty to top the record in chase."
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad9d177-1792659831_81f4f0-1792663566.jpg?resize=1200%2C630&quality=80",
+"excerpt": "US Congresswoman Ilhan Omar's home raided; Australian MP Helen Haines loses both legs following an attack."
 },
 {
-"id": "f0b80827b9ffeaab",
-"title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
+"id": "82d9baa034779380",
+"title": "FIFA’s Infantino made to wait on Asian support as chief coy at AFC session",
+"url": "https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss",
 "source": "Al Jazeera",
-"when": "15:42",
+"when": "16:31",
 "also": [],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792676498.jpg?resize=1920%2C1080&quality=80",
-"excerpt": "Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route."
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad9fa90-1792670352_306c43-1792670920.jpg?resize=1200%2C630&quality=80",
+"excerpt": "'We’re not against anyone and we’re not in favour of anyone,' says AFC President Sheikh Salman bin Ebrahim Al Khalifa."
 },
 {
 "id": "b9b05242d3db7058",
@@ -93,17 +119,6 @@
 "excerpt": ""
 },
 {
-"id": "91901fa3968d01d2",
-"title": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
-"url": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "15:35",
-"also": [],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-21T103410Z_523023958_RC2M7OAC8M0T_RTRMADP_3_SOUTHSUDAN-SUDAN-SECURITY-1792663197.jpg?resize=1920%2C1440",
-"excerpt": "Drone attacks on supply lines and safe cities are taking a devastating toll on civilians."
-},
-{
 "id": "f083c75fbd6b8a38",
 "title": "Australia: Bystanders dive into floodwaters to save trapped driver",
 "url": "http://www.africanews.com/2026/10/22/australia-bystanders-dive-into-floodwaters-to-save-trapped-driver/",
@@ -115,26 +130,15 @@
 "excerpt": ""
 },
 {
-"id": "0094871ea2bc2425",
-"title": "Uganda says August export revenue up 36 per cent on higher gold earnings",
-"url": "http://www.africanews.com/2026/10/22/uganda-says-august-export-revenue-up-36-per-cent-on-higher-gold-earnings/",
-"source": "Africanews",
-"when": "15:21",
+"id": "3d0babf50faef525",
+"title": "Greenhouse Gas Emissions Fall for Third Consecutive Year in Brazil",
+"url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/greenhouse-gas-emissions-fall-for-third-consecutive-year-in-brazil.shtml",
+"source": "Folha",
+"when": "16:40",
 "also": [],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/96/32/14/640x360_cmsv2_38a59a0f-89b1-5e4b-b6a3-83c76357888b-9963214.jpg?1792669294",
-"excerpt": "The finance ministry says it shipped $889 million worth of the precious metal over the month, up 68.9 per cent from last year."
-},
-{
-"id": "a9be917793073b96",
-"title": "John Kerry: ‘Trump’s decision to allow purchases of Russian oil is counterproductive and dangerous’",
-"url": "https://english.elpais.com/climate/2026-10-22/john-kerry-trumps-decision-to-allow-purchases-of-russian-oil-is-counterproductive-and-dangerous.html",
-"source": "El País English",
-"when": "16:21",
-"also": [],
-"lang": "en",
-"image": "https://images.english.elpais.com/resizer/v2/YUBXCFAT7ZHHJAGYUHSZG5W6HU.jpg?auth=9194f66faf769fe7986f5a56e247ff945b7811b9742e8e033b76ae6f4c2c8838",
-"excerpt": "The former US secretary of state warns that political rejection of renewables can reverse progress and delay investments in the energy transition"
+"image": "https://f.i.uol.com.br/fotografia/2026/03/13/177343294469b4707086634_1773432944_3x2_xl.jpg",
+"excerpt": ""
 }
 ]
 }
@@ -759,7 +763,7 @@
 "dm": "22.10.",
 "label": "Overcast",
 "icon": "☁️",
-"hi": 14,
+"hi": 15,
 "lo": 7,
 "rain_mm": 0,
 "rain_pct": 28,
@@ -768,7 +772,7 @@
 "sunrise": "07:58",
 "sunset": "18:28",
 "bar_l": 27,
-"bar_w": 47
+"bar_w": 53
 },
 "slots": [
 {
@@ -800,7 +804,7 @@
 "dm": "22.10.",
 "label": "Overcast",
 "icon": "☁️",
-"hi": 14,
+"hi": 15,
 "lo": 7,
 "rain_mm": 0,
 "rain_pct": 28,
@@ -809,7 +813,7 @@
 "sunrise": "07:58",
 "sunset": "18:28",
 "bar_l": 27,
-"bar_w": 47
+"bar_w": 53
 },
 {
 "date": "2026-10-23",
@@ -819,9 +823,9 @@
 "icon": "🌦️",
 "hi": 15,
 "lo": 7,
-"rain_mm": 4.8,
+"rain_mm": 4.2,
 "rain_pct": 93,
-"wind": 29,
+"wind": 24,
 "uv": 2,
 "sunrise": "07:59",
 "sunset": "18:27",
