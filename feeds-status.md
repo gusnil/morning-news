@@ -1,4 +1,4 @@
-Feed validation run 2026-10-22 11:35 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
+Feed validation run 2026-10-22 11:37 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
 
 | id | section | result | working URL | items | newest | note |
 |---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Feed validation run 2026-10-22 11:35 UTC (criteria: parseable, >= 1 item, newest
 | bzbasel | basel | dead |  | 0 |  | www.bzbasel.ch/ -> HTTP 403; HTTP 403 |
 | baz | basel | ok | https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel | 36 | 2026-10-22 |  |
 | onlinereports | basel | ok | https://onlinereports.ch/api/rss-feed | 50 | 2026-10-22 |  |
-| 20min_basel | basel | dead |  | 0 |  | HTTP 404; no items / unparseable |
+| 20min_basel | basel | found | https://partner-feeds.20min.ch/rss/20minuten/regionen/basel | 129 | 2026-10-21 |  |
 | blick_basel | basel | found | https://www.blick.ch/schweiz/basel/rss.xml | 1 | 2026-10-13 |  |
 | bajour | basel | found | https://bajour.ch/api/rss-feed | 50 | 2026-10-22 |  |
 | bs_medien | basel | found | https://www.bs.ch/rss | 50 | undated |  |
@@ -63,4 +63,4 @@ Feed validation run 2026-10-22 11:35 UTC (criteria: parseable, >= 1 item, newest
 | tableau | ai | dead |  | 0 |  | configured url: stale: newest item 93 days old. HTTP 404; stale: newest item 93 days old |
 | snowflake | ai | ok | https://www.snowflake.com/feed/ | 20 | 2026-10-21 |  |
 
-43 of 60 sources have a working feed.
+44 of 60 sources have a working feed.

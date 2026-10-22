@@ -363,124 +363,20 @@
   "name": "20 Minuten Basel",
   "section": "basel",
   "configured": null,
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "HTTP 404; no items / unparseable",
+  "result": "found",
+  "working_url": "https://partner-feeds.20min.ch/rss/20minuten/regionen/basel",
+  "items": 129,
+  "newest": "2026-10-21",
+  "note": "",
   "tried": [
    {
-    "url": "https://partner-feeds.20min.ch/rss/20minuten/basel",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://partner-feeds.publishing.tamedia.ch/rss/20minuten/basel",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "no items / unparseable",
-    "title": null,
-    "final_url": "https://partner-feeds.publishing.tamedia.ch/rss/20minuten/basel"
-   },
-   {
-    "url": "https://api.20min.ch/rss/view/1?region=basel",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/rss/basel",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.20min.ch/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
+    "url": "https://partner-feeds.20min.ch/rss/20minuten/regionen/basel",
+    "ok": true,
+    "items": 129,
+    "newest": "2026-10-21",
+    "error": null,
+    "title": "20 Minuten | Basel",
+    "final_url": "https://partner-feeds.20min.ch/rss/20minuten/regionen/basel"
    }
   ]
  },
