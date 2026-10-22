@@ -72,136 +72,18 @@
   "configured": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "result": "ok",
   "working_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "items": 39,
+  "items": 40,
   "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "ok": true,
-    "items": 39,
+    "items": 40,
     "newest": "2026-10-22",
     "error": null,
     "title": "BBC News",
     "final_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
-   }
-  ]
- },
- {
-  "id": "nhk",
-  "name": "NHK World",
-  "section": "world",
-  "configured": null,
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "HTTP 404; stale: newest item 74 days old",
-  "tried": [
-   {
-    "url": "https://www3.nhk.or.jp/nhkworld/en/news/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/nhkworld/data/en/news/all.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-    "ok": false,
-    "items": 7,
-    "newest": "2026-08-08",
-    "error": "stale: newest item 74 days old",
-    "title": "NHK\u30cb\u30e5\u30fc\u30b9",
-    "final_url": "https://www3.nhk.or.jp/rss/news/cat0.xml"
-   },
-   {
-    "url": "https://www3.nhk.or.jp/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
    }
   ]
  },
@@ -312,224 +194,6 @@
     "error": null,
     "title": "Folha de S.Paulo - Internacional - En - Principal",
     "final_url": "https://www1.folha.uol.com.br/internacional/en/rss091.xml"
-   }
-  ]
- },
- {
-  "id": "swissinfo",
-  "name": "swissinfo",
-  "section": "world",
-  "configured": "https://www.swissinfo.ch/eng/rss",
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "configured url: HTTP 410. HTTP 404; HTTP 410",
-  "tried": [
-   {
-    "url": "https://www.swissinfo.ch/eng/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/eng/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/eng/latest-news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   }
-  ]
- },
- {
-  "id": "apnews",
-  "name": "AP News",
-  "section": "world",
-  "configured": "https://rsshub.app/apnews/topics/apf-topnews",
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "configured url: HTTP 403. HTTP 403",
-  "tried": [
-   {
-    "url": "https://rsshub.app/apnews/topics/apf-topnews",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://rsshub.app/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://rsshub.app/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://rsshub.app/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://rsshub.app/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://rsshub.app/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://rsshub.app/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://rsshub.app/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://rsshub.app/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://rsshub.app/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://rsshub.app/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
    }
   ]
  },
@@ -654,8 +318,8 @@
   "id": "baz",
   "name": "Basler Zeitung",
   "section": "basel",
-  "configured": null,
-  "result": "found",
+  "configured": "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel",
+  "result": "ok",
   "working_url": "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel",
   "items": 36,
   "newest": "2026-10-22",
@@ -695,141 +359,16 @@
   ]
  },
  {
-  "id": "primenews",
-  "name": "Prime News",
-  "section": "basel",
-  "configured": "https://primenews.ch/feed",
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "configured url: HTTP 404. HTTP 404",
-  "tried": [
-   {
-    "url": "https://primenews.ch/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://primenews.ch/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.primenews.ch/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://primenews.ch/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://primenews.ch/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://primenews.ch/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://primenews.ch/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://primenews.ch/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://primenews.ch/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://primenews.ch/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://primenews.ch/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   }
-  ]
- },
- {
   "id": "onlinereports",
   "name": "OnlineReports",
   "section": "basel",
-  "configured": null,
-  "result": "found",
+  "configured": "https://onlinereports.ch/api/rss-feed",
+  "result": "ok",
   "working_url": "https://onlinereports.ch/api/rss-feed",
   "items": 50,
   "newest": "2026-10-22",
   "note": "",
   "tried": [
-   {
-    "url": "https://www.onlinereports.ch/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.onlinereports.ch/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.onlinereports.ch/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
    {
     "url": "https://onlinereports.ch/api/rss-feed",
     "ok": true,
@@ -838,219 +377,6 @@
     "error": null,
     "title": "OnlineReports",
     "final_url": "https://onlinereports.ch/api/rss-feed"
-   }
-  ]
- },
- {
-  "id": "baseljetzt",
-  "name": "Baseljetzt",
-  "section": "basel",
-  "configured": null,
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "not a feed",
-  "tried": [
-   {
-    "url": "https://www.baseljetzt.ch/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   },
-   {
-    "url": "https://baseljetzt.ch/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   },
-   {
-    "url": "https://www.baseljetzt.ch/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   },
-   {
-    "url": "https://www.baseljetzt.ch/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   },
-   {
-    "url": "https://www.baseljetzt.ch/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   },
-   {
-    "url": "https://www.baseljetzt.ch/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   },
-   {
-    "url": "https://www.baseljetzt.ch/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   },
-   {
-    "url": "https://www.baseljetzt.ch/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   },
-   {
-    "url": "https://www.baseljetzt.ch/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   },
-   {
-    "url": "https://www.baseljetzt.ch/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   },
-   {
-    "url": "https://www.baseljetzt.ch/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://telebasel.ch/"
-   }
-  ]
- },
- {
-  "id": "telebasel",
-  "name": "Telebasel",
-  "section": "basel",
-  "configured": "https://telebasel.ch/feed",
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "configured url: HTTP 404. HTTP 404",
-  "tried": [
-   {
-    "url": "https://telebasel.ch/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://telebasel.ch/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.telebasel.ch/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://telebasel.ch/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://telebasel.ch/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://telebasel.ch/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://telebasel.ch/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://telebasel.ch/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://telebasel.ch/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://telebasel.ch/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://telebasel.ch/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
    }
   ]
  },
@@ -1164,107 +490,6 @@
   ]
  },
  {
-  "id": "muenchenstein",
-  "name": "Gemeinde M\u00fcnchenstein",
-  "section": "basel",
-  "configured": null,
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "HTTP 404",
-  "tried": [
-   {
-    "url": "https://www.muenchenstein.ch/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.muenchenstein.ch/aktuellesinformationen/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.muenchenstein.ch/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.muenchenstein.ch/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.muenchenstein.ch/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.muenchenstein.ch/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.muenchenstein.ch/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.muenchenstein.ch/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.muenchenstein.ch/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.muenchenstein.ch/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.muenchenstein.ch/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   }
-  ]
- },
- {
   "id": "srf_news",
   "name": "SRF News",
   "section": "basel",
@@ -1305,123 +530,6 @@
     "error": null,
     "title": "Neueste Artikel - NZZ Nachrichten",
     "final_url": "https://www.nzz.ch/recent.rss"
-   }
-  ]
- },
- {
-  "id": "swissinfo_ch",
-  "name": "swissinfo",
-  "section": "basel",
-  "configured": "https://www.swissinfo.ch/eng/rss",
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "configured url: HTTP 410. HTTP 404; HTTP 410",
-  "tried": [
-   {
-    "url": "https://www.swissinfo.ch/eng/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/eng/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/eng/latest-news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
-   },
-   {
-    "url": "https://www.swissinfo.ch/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 410",
-    "title": null
    }
   ]
  },
@@ -1473,24 +581,15 @@
   "id": "cyclingweekly",
   "name": "Cycling Weekly",
   "section": "sport",
-  "configured": "https://www.cyclingweekly.com/feed",
-  "result": "fixed",
-  "working_url": "https://www.cyclingweekly.com/feeds/all",
+  "configured": "https://www.cyclingweekly.com/feeds.xml",
+  "result": "ok",
+  "working_url": "https://www.cyclingweekly.com/feeds.xml",
   "items": 50,
   "newest": "2026-10-22",
-  "note": "configured url: not a feed.",
+  "note": "",
   "tried": [
    {
-    "url": "https://www.cyclingweekly.com/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://www.cyclingweekly.com/features/sign-up-to-our-newsletter"
-   },
-   {
-    "url": "https://www.cyclingweekly.com/feeds/all",
+    "url": "https://www.cyclingweekly.com/feeds.xml",
     "ok": true,
     "items": 50,
     "newest": "2026-10-22",
@@ -1519,99 +618,6 @@
     "error": null,
     "title": "Escape Collective",
     "final_url": "https://escapecollective.com/rss/"
-   }
-  ]
- },
- {
-  "id": "uci",
-  "name": "UCI",
-  "section": "sport",
-  "configured": null,
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "HTTP 404",
-  "tried": [
-   {
-    "url": "https://www.uci.org/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.uci.org/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.uci.org/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.uci.org/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.uci.org/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.uci.org/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.uci.org/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.uci.org/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.uci.org/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.uci.org/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
    }
   ]
  },
@@ -1663,21 +669,13 @@
   "id": "patriots",
   "name": "Patriots.com",
   "section": "sport",
-  "configured": "https://www.patriots.com/rss/article",
-  "result": "fixed",
+  "configured": "https://www.patriots.com/rss/news",
+  "result": "ok",
   "working_url": "https://www.patriots.com/rss/news",
   "items": 5,
   "newest": "2026-10-21",
-  "note": "configured url: HTTP 404.",
+  "note": "",
   "tried": [
-   {
-    "url": "https://www.patriots.com/rss/article",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
    {
     "url": "https://www.patriots.com/rss/news",
     "ok": true,
@@ -1798,123 +796,6 @@
     "error": "not a feed",
     "title": null,
     "final_url": "https://www.espn.com/blog/feed/"
-   }
-  ]
- },
- {
-  "id": "celtics",
-  "name": "Celtics.com",
-  "section": "sport",
-  "configured": null,
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "www.nba.com/celtics/ -> HTTP 403; HTTP 403",
-  "tried": [
-   {
-    "url": "https://www.nba.com/celtics/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/celtics/news/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/celtics/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
-   {
-    "url": "https://www.nba.com/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
    }
   ]
  },
@@ -2075,109 +956,6 @@
   ]
  },
  {
-  "id": "fcb",
-  "name": "FC Basel",
-  "section": "sport",
-  "configured": null,
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "www.fcb.ch/news -> HTTP 404; HTTP 404; no items / unparseable",
-  "tried": [
-   {
-    "url": "https://www.fcb.ch/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fcb.ch/de/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fcb.ch/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fcb.ch/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fcb.ch/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fcb.ch/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fcb.ch/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "no items / unparseable",
-    "title": null,
-    "final_url": "https://fcb.ch/.xml?shpxid=342e8a9f-61d1-4651-9860-44125770b223"
-   },
-   {
-    "url": "https://www.fcb.ch/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fcb.ch/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fcb.ch/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "no items / unparseable",
-    "title": null,
-    "final_url": "https://fcb.ch/index.xml?shpxid=d2b8d3ed-bbb8-42d0-92c4-f5860924a265"
-   },
-   {
-    "url": "https://www.fcb.ch/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   }
-  ]
- },
- {
   "id": "bz_fcb",
   "name": "bz Basel",
   "section": "sport",
@@ -2295,36 +1073,40 @@
   ]
  },
  {
+  "id": "srf_fcb",
+  "name": "SRF Regionaljournal",
+  "section": "sport",
+  "configured": "https://www.srf.ch/news/bnf/rss/1890",
+  "result": "ok",
+  "working_url": "https://www.srf.ch/news/bnf/rss/1890",
+  "items": 60,
+  "newest": "2026-10-22",
+  "note": "",
+  "tried": [
+   {
+    "url": "https://www.srf.ch/news/bnf/rss/1890",
+    "ok": true,
+    "items": 60,
+    "newest": "2026-10-22",
+    "error": null,
+    "title": "Schweiz \u2013 News aus dem Inland \u2013 SRF",
+    "final_url": "https://www.srf.ch/news/bnf/rss/1890"
+   }
+  ]
+ },
+ {
   "id": "mff",
   "name": "Malm\u00f6 FF",
   "section": "sport",
-  "configured": null,
-  "result": "found",
-  "working_url": "https://www.mff.se/nyheter/rss",
+  "configured": "https://www.mff.se/nyheter/feed/",
+  "result": "ok",
+  "working_url": "https://www.mff.se/nyheter/feed/",
   "items": 10,
   "newest": "2026-10-21",
   "note": "",
   "tried": [
    {
-    "url": "https://www.mff.se/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "no items / unparseable",
-    "title": null,
-    "final_url": "https://www.mff.se/feed/"
-   },
-   {
-    "url": "https://www.mff.se/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "no items / unparseable",
-    "title": null,
-    "final_url": "https://www.mff.se/feed/"
-   },
-   {
-    "url": "https://www.mff.se/nyheter/rss",
+    "url": "https://www.mff.se/nyheter/feed/",
     "ok": true,
     "items": 10,
     "newest": "2026-10-21",
@@ -2338,122 +1120,21 @@
   "id": "sydsvenskan",
   "name": "Sydsvenskan",
   "section": "sport",
-  "configured": null,
-  "result": "found",
-  "working_url": "https://www.sydsvenskan.se/rss.xml?sport=1",
-  "items": 40,
+  "configured": "https://www.sydsvenskan.se/feeds/section/sport/feed.xml",
+  "result": "ok",
+  "working_url": "https://www.sydsvenskan.se/feeds/section/sport/feed.xml",
+  "items": 50,
   "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
-    "url": "https://www.sydsvenskan.se/rss.xml?sport=1",
+    "url": "https://www.sydsvenskan.se/feeds/section/sport/feed.xml",
     "ok": true,
-    "items": 40,
+    "items": 50,
     "newest": "2026-10-22",
     "error": null,
-    "title": "sydsvenskan.se",
-    "final_url": "https://www.sydsvenskan.se/rss.xml?sport=1"
-   }
-  ]
- },
- {
-  "id": "fotbollskanalen",
-  "name": "Fotbollskanalen",
-  "section": "sport",
-  "configured": "https://www.fotbollskanalen.se/rss/",
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "configured url: HTTP 404. HTTP 404",
-  "tried": [
-   {
-    "url": "https://www.fotbollskanalen.se/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fotbollskanalen.se/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fotbollskanalen.se/landslaget/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fotbollskanalen.se/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fotbollskanalen.se/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fotbollskanalen.se/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fotbollskanalen.se/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fotbollskanalen.se/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fotbollskanalen.se/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fotbollskanalen.se/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.fotbollskanalen.se/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
+    "title": "Sydsvenskan RSS \u2013 Sport",
+    "final_url": "https://www.sydsvenskan.se/feeds/section/sport/feed.xml"
    }
   ]
  },
@@ -2461,37 +1142,13 @@
   "id": "svff",
   "name": "SvFF",
   "section": "sport",
-  "configured": null,
-  "result": "found",
+  "configured": "https://www.svenskfotboll.se/rss.xml",
+  "result": "ok",
   "working_url": "https://www.svenskfotboll.se/rss.xml",
   "items": 10,
   "newest": "undated",
   "note": "",
   "tried": [
-   {
-    "url": "https://www.svenskfotboll.se/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.svenskfotboll.se/rss/nyheter/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.svenskfotboll.se/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
    {
     "url": "https://www.svenskfotboll.se/rss.xml",
     "ok": true,
@@ -2641,224 +1298,21 @@
   "id": "japantimes_sumo",
   "name": "Japan Times",
   "section": "sport",
-  "configured": "https://www.japantimes.co.jp/sports/sumo/feed/",
-  "result": "fixed",
-  "working_url": "https://www.japantimes.co.jp/feed",
+  "configured": "https://www.japantimes.co.jp/sports/feed/",
+  "result": "ok",
+  "working_url": "https://www.japantimes.co.jp/sports/feed/",
   "items": 30,
   "newest": "2026-10-22",
-  "note": "configured url: not a feed.",
+  "note": "",
   "tried": [
    {
-    "url": "https://www.japantimes.co.jp/sports/sumo/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "not a feed",
-    "title": null,
-    "final_url": "https://www.japantimes.co.jp/"
-   },
-   {
-    "url": "https://www.japantimes.co.jp/feed",
+    "url": "https://www.japantimes.co.jp/sports/feed/",
     "ok": true,
     "items": 30,
     "newest": "2026-10-22",
     "error": null,
-    "title": "Latest articles - The Japan Times",
-    "final_url": "https://www.japantimes.co.jp/feed/"
-   }
-  ]
- },
- {
-  "id": "nhk_sumo",
-  "name": "NHK World Sumo",
-  "section": "sport",
-  "configured": null,
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "HTTP 404",
-  "tried": [
-   {
-    "url": "https://www3.nhk.or.jp/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www3.nhk.or.jp/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   }
-  ]
- },
- {
-  "id": "jsa",
-  "name": "Japan Sumo Association",
-  "section": "sport",
-  "configured": null,
-  "result": "dead",
-  "working_url": null,
-  "items": 0,
-  "newest": null,
-  "note": "HTTP 404",
-  "tried": [
-   {
-    "url": "https://www.sumo.or.jp/En/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.sumo.or.jp/rss/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.sumo.or.jp/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.sumo.or.jp/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.sumo.or.jp/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.sumo.or.jp/rss.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.sumo.or.jp/feed.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.sumo.or.jp/atom.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.sumo.or.jp/index.xml",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.sumo.or.jp/news/rss",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.sumo.or.jp/blog/feed/",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
+    "title": "Sports - The Japan Times",
+    "final_url": "https://www.japantimes.co.jp/sports/feed/"
    }
   ]
  },
@@ -2932,15 +1386,15 @@
   "id": "fide",
   "name": "FIDE",
   "section": "chess",
-  "configured": null,
-  "result": "found",
-  "working_url": "https://www.fide.com/rss",
+  "configured": "https://www.fide.com/feed/",
+  "result": "ok",
+  "working_url": "https://www.fide.com/feed/",
   "items": 10,
   "newest": "2026-10-21",
   "note": "",
   "tried": [
    {
-    "url": "https://www.fide.com/rss",
+    "url": "https://www.fide.com/feed/",
     "ok": true,
     "items": 10,
     "newest": "2026-10-21",
@@ -2954,8 +1408,8 @@
   "id": "twic",
   "name": "The Week in Chess",
   "section": "chess",
-  "configured": null,
-  "result": "found",
+  "configured": "https://theweekinchess.com/twic-rss-feed",
+  "result": "ok",
   "working_url": "https://theweekinchess.com/twic-rss-feed",
   "items": 20,
   "newest": "2026-10-03",
@@ -3094,52 +1548,6 @@
   ]
  },
  {
-  "id": "databricks_eng",
-  "name": "Databricks Engineering",
-  "section": "ai",
-  "configured": null,
-  "result": "found",
-  "working_url": "https://www.databricks.com/feed",
-  "items": 10,
-  "newest": "2026-10-21",
-  "note": "",
-  "tried": [
-   {
-    "url": "https://www.databricks.com/blog/category/engineering/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.databricks.com/feed/engineering",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.databricks.com/blog/category/product/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 404",
-    "title": null
-   },
-   {
-    "url": "https://www.databricks.com/feed",
-    "ok": true,
-    "items": 10,
-    "newest": "2026-10-21",
-    "error": null,
-    "title": "Databricks",
-    "final_url": "https://www.databricks.com/feed"
-   }
-  ]
- },
- {
   "id": "thebatch",
   "name": "The Batch",
   "section": "ai",
@@ -3252,21 +1660,13 @@
   "id": "importai",
   "name": "Import AI",
   "section": "ai",
-  "configured": "https://importai.substack.com/feed",
-  "result": "fixed",
+  "configured": "https://jack-clark.net/feed/",
+  "result": "ok",
   "working_url": "https://jack-clark.net/feed/",
   "items": 10,
   "newest": "2026-10-19",
-  "note": "configured url: HTTP 403.",
+  "note": "",
   "tried": [
-   {
-    "url": "https://importai.substack.com/feed",
-    "ok": false,
-    "items": 0,
-    "newest": null,
-    "error": "HTTP 403",
-    "title": null
-   },
    {
     "url": "https://jack-clark.net/feed/",
     "ok": true,
@@ -3437,8 +1837,8 @@
   "id": "mckinsey",
   "name": "McKinsey",
   "section": "ai",
-  "configured": null,
-  "result": "found",
+  "configured": "https://www.mckinsey.com/insights/rss",
+  "result": "ok",
   "working_url": "https://www.mckinsey.com/insights/rss",
   "items": 50,
   "newest": "2026-10-22",
@@ -3598,13 +1998,22 @@
   "id": "tableau",
   "name": "Tableau blog",
   "section": "ai",
-  "configured": null,
+  "configured": "https://www.tableau.com/feed.rss",
   "result": "dead",
   "working_url": null,
   "items": 0,
   "newest": null,
-  "note": "HTTP 404; stale: newest item 93 days old",
+  "note": "configured url: stale: newest item 93 days old. HTTP 404; stale: newest item 93 days old",
   "tried": [
+   {
+    "url": "https://www.tableau.com/feed.rss",
+    "ok": false,
+    "items": 10,
+    "newest": "2026-07-20",
+    "error": "stale: newest item 93 days old",
+    "title": "What's New",
+    "final_url": "https://www.tableau.com/feed.rss"
+   },
    {
     "url": "https://www.tableau.com/blog/rss.xml",
     "ok": false,
@@ -3715,8 +2124,8 @@
   "id": "snowflake",
   "name": "Snowflake blog",
   "section": "ai",
-  "configured": null,
-  "result": "found",
+  "configured": "https://www.snowflake.com/feed/",
+  "result": "ok",
   "working_url": "https://www.snowflake.com/feed/",
   "items": 20,
   "newest": "2026-10-21",
