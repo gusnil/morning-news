@@ -1076,7 +1076,7 @@ sources:
     homepage: https://endpts.com/
     weight: 5
     lang: en
-    status: unverified
+    status: verified
   - id: fiercebiotech
     name: Fierce Biotech
     section: rd
@@ -1085,7 +1085,7 @@ sources:
     candidates: [https://www.fiercebiotech.com/rss/biotech/xml]
     weight: 4
     lang: en
-    status: unverified
+    status: verified
   - id: fiercepharma
     name: Fierce Pharma
     section: rd
@@ -1093,7 +1093,7 @@ sources:
     homepage: https://www.fiercepharma.com/
     weight: 3
     lang: en
-    status: unverified
+    status: verified
   - id: biopharmadive
     name: BioPharma Dive
     section: rd
@@ -1101,7 +1101,7 @@ sources:
     homepage: https://www.biopharmadive.com/
     weight: 4
     lang: en
-    status: unverified
+    status: verified
   - id: statnews
     name: STAT
     section: rd
@@ -1111,7 +1111,7 @@ sources:
     weight: 4
     lang: en
     exclude: "STAT\\+|opinion|First Opinion"
-    status: unverified
+    status: verified
   - id: fda
     name: FDA
     section: rd
@@ -1120,7 +1120,7 @@ sources:
     include: "approv|clearance|authoriz|drug|biologic|therapy|treatment|CDER|CBER|guidance"
     weight: 4
     lang: en
-    status: unverified
+    status: verified
   - id: ema
     name: EMA
     section: rd
@@ -1129,7 +1129,7 @@ sources:
     candidates: [https://www.ema.europa.eu/en/rss.xml]
     weight: 4
     lang: en
-    status: unverified
+    status: verified
   - id: nrdd
     name: Nature Reviews Drug Discovery
     section: rd
@@ -1137,7 +1137,8 @@ sources:
     homepage: https://www.nature.com/nrd/
     weight: 3
     lang: en
-    status: unverified
+    status: dropped
+    note: "nature.com/nrd.rss is not a feed."
   - id: astellas
     name: Astellas
     section: rd
@@ -1147,4 +1148,5 @@ sources:
     candidates: [https://newsroom.astellas.com/rss, "https://newsroom.astellas.com/news-releases?pagetemplate=rss", https://www.astellas.com/en/news/rss]
     weight: 3
     lang: en
-    status: unverified
+    status: dropped
+    note: "Astellas newsroom publishes no feed."
