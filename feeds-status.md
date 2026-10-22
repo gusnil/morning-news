@@ -1,10 +1,10 @@
-Feed validation run 2026-10-22 11:38 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
+Feed validation run 2026-10-22 12:54 UTC (criteria: parseable, >= 1 item, newest <= 30 days).
 
 | id | section | result | working URL | items | newest | note |
 |---|---|---|---|---|---|---|
 | france24 | world | ok | https://www.france24.com/en/rss | 24 | 2026-10-22 |  |
 | aljazeera | world | ok | https://www.aljazeera.com/xml/rss/all.xml | 25 | 2026-10-22 |  |
-| dw | world | ok | https://rss.dw.com/rdf/rss-en-all | 134 | 2026-10-22 |  |
+| dw | world | dead |  | 0 |  | configured url: TimeoutError: The read operation timed out. HTTP 404; TimeoutError: The read operation timed out |
 | bbc | world | ok | https://feeds.bbci.co.uk/news/world/rss.xml | 38 | 2026-10-22 |  |
 | thehindu | world | ok | https://www.thehindu.com/news/international/feeder/default.rss | 60 | 2026-10-22 |  |
 | scmp | world | ok | https://www.scmp.com/rss/91/feed | 50 | 2026-10-22 |  |
@@ -34,7 +34,7 @@ Feed validation run 2026-10-22 11:38 UTC (criteria: parseable, >= 1 item, newest
 | uconn | sport | ok | https://uconnhuskies.com/rss?path=mbball | 10 | 2026-10-21 |  |
 | bz_fcb | sport | dead |  | 0 |  | www.bzbasel.ch/sport -> HTTP 403; HTTP 403 |
 | srf_fcb | sport | ok | https://www.srf.ch/news/bnf/rss/2562 | 61 | 2026-10-22 |  |
-| mff | sport | ok | https://www.mff.se/nyheter/feed/ | 10 | 2026-10-21 |  |
+| mff | sport | ok | https://www.mff.se/nyheter/feed/ | 10 | 2026-10-22 |  |
 | sydsvenskan | sport | ok | https://www.sydsvenskan.se/feeds/section/sport/feed.xml | 50 | 2026-10-22 |  |
 | svff | sport | ok | https://www.svenskfotboll.se/rss.xml | 10 | undated |  |
 | espn_cfb | sport | dead |  | 0 |  | configured url: not a feed. not a feed |
@@ -58,4 +58,4 @@ Feed validation run 2026-10-22 11:38 UTC (criteria: parseable, >= 1 item, newest
 | tableau | ai | dead |  | 0 |  | configured url: stale: newest item 93 days old. HTTP 404; stale: newest item 93 days old |
 | snowflake | ai | ok | https://www.snowflake.com/feed/ | 20 | 2026-10-21 |  |
 
-44 of 55 sources have a working feed.
+43 of 55 sources have a working feed.

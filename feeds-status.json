@@ -48,20 +48,99 @@
   "name": "DW",
   "section": "world",
   "configured": "https://rss.dw.com/rdf/rss-en-all",
-  "result": "ok",
-  "working_url": "https://rss.dw.com/rdf/rss-en-all",
-  "items": 134,
-  "newest": "2026-10-22",
-  "note": "",
+  "result": "dead",
+  "working_url": null,
+  "items": 0,
+  "newest": null,
+  "note": "configured url: TimeoutError: The read operation timed out. HTTP 404; TimeoutError: The read operation timed out",
   "tried": [
    {
     "url": "https://rss.dw.com/rdf/rss-en-all",
-    "ok": true,
-    "items": 134,
-    "newest": "2026-10-22",
-    "error": null,
-    "title": "Deutsche Welle",
-    "final_url": "https://rss.dw.com/rdf/rss-en-all"
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "TimeoutError: The read operation timed out",
+    "title": null
+   },
+   {
+    "url": "https://rss.dw.com/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://rss.dw.com/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://rss.dw.com/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://rss.dw.com/rss/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://rss.dw.com/rss.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://rss.dw.com/feed.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://rss.dw.com/atom.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://rss.dw.com/index.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://rss.dw.com/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
+   },
+   {
+    "url": "https://rss.dw.com/blog/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 404",
+    "title": null
    }
   ]
  },
@@ -1168,14 +1247,14 @@
   "result": "ok",
   "working_url": "https://www.mff.se/nyheter/feed/",
   "items": 10,
-  "newest": "2026-10-21",
+  "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
     "url": "https://www.mff.se/nyheter/feed/",
     "ok": true,
     "items": 10,
-    "newest": "2026-10-21",
+    "newest": "2026-10-22",
     "error": null,
     "title": "Nyheter - Malm\u00f6 FF",
     "final_url": "https://www.mff.se/nyheter/feed/"
