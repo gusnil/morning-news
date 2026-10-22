@@ -1,10 +1,10 @@
 {
 "2026-10-22": {
 "date": "2026-10-22",
-"built_at": "2026-10-22T11:33:03.451351+00:00",
-"built_local": "13:33",
-"feeds_ok": 43,
-"feeds_total": 43,
+"built_at": "2026-10-22T11:40:32.023004+00:00",
+"built_local": "13:40",
+"feeds_ok": 47,
+"feeds_total": 47,
 "sections": [
 {
 "id": "world",
@@ -29,6 +29,19 @@
 "excerpt": ""
 },
 {
+"id": "d5d0c171d9e27ad1",
+"title": "France reports first human Shamonda virus case, says no health risk",
+"url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "13:28",
+"also": [
+"The Hindu",
+"BBC World"
+],
+"lang": "en",
+"excerpt": "Until now, the virus was considered non-transferable to humans, making the patient the first documented human case."
+},
+{
 "id": "e04826463bdcaf7f",
 "title": "Pope Leo XIV needs no further lung cancer treatment, Vatican says",
 "url": "https://www.france24.com/en/europe/20261021-pope-leo-doctors-treatment-lung-cancer",
@@ -36,18 +49,6 @@
 "when": "Wed 23:41",
 "also": [
 "DW",
-"BBC World"
-],
-"lang": "en",
-"excerpt": ""
-},
-{
-"id": "4e12b870deb7c4e2",
-"title": "France reports first human Shamonda virus case, says no health risk",
-"url": "https://www.thehindu.com/news/international/france-reports-first-human-shamonda-virus-case-says-no-health-risk/article71611244.ece",
-"source": "The Hindu",
-"when": "13:22",
-"also": [
 "BBC World"
 ],
 "lang": "en",
@@ -66,6 +67,16 @@
 "excerpt": ""
 },
 {
+"id": "93670f9e04be56a9",
+"title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
+"url": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "13:19",
+"also": [],
+"lang": "en",
+"excerpt": "ASEAN's consensus-driven approach and a lack of enforcement mechanisms make legal action difficult, experts say."
+},
+{
 "id": "e0ad9e2c41fbcad7",
 "title": "Trump praises man who punched protester at rally in South Carolina",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss",
@@ -74,26 +85,6 @@
 "also": [],
 "lang": "en",
 "excerpt": "US President Donald Trump praised a man who punched a protester at a midterm election rally held in South Carolina."
-},
-{
-"id": "a4c7d37e76d4a27b",
-"title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
-"url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "12:51",
-"also": [],
-"lang": "en",
-"excerpt": "Tom Barrack says Washington's relationship with the Middle East needs to change from one of control to one of support."
-},
-{
-"id": "3611eecf4615a3b0",
-"title": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
-"url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "12:45",
-"also": [],
-"lang": "en",
-"excerpt": "Firebrand student leader has become face of the youth protest movement taking on Modi's Hindu majoritarian government."
 },
 {
 "id": "71af926444934dc6",
@@ -114,6 +105,16 @@
 "also": [],
 "lang": "en",
 "excerpt": ""
+},
+{
+"id": "37e62e367fdc6e03",
+"title": "Defence seeks acquittal of doctor in death of Argentina's Maradona",
+"url": "http://www.africanews.com/2026/10/22/defence-seeks-acquittal-of-doctor-in-death-of-argentinas-maradona/",
+"source": "Africanews",
+"when": "12:14",
+"also": [],
+"lang": "en",
+"excerpt": "A lawyer for neurosurgeon Leopoldo Luque, says he has been made a scapegoat, rejecting the argument that the player's death was foreseeable."
 },
 {
 "id": "3b0bce83534a71f3",
@@ -202,41 +203,43 @@
 "excerpt": "Der Zürcher Stadtrat führt die neuen Anwohnerparkkarten definitiv ab Januar 2027 ein – Kritik von FDP, Mitte und SVP."
 },
 {
-"id": "deca412277c74672",
-"title": "Schweizer Geisel aus Niger befreit und laut Cassis bereits auf der Reise in die Heimat",
-"url": "https://www.nzz.ch/schweiz/schweizer-geisel-aus-niger-befreit-ld.10041146",
-"source": "NZZ",
-"when": "13:05",
+"id": "d8068caba06484b6",
+"title": "Kampagne gegen höhere Elternbeiträge",
+"url": "https://bajour.ch/a/kampagne-gegen-hoehere-elternbeitraege-in-riehen",
+"source": "Bajour",
+"when": "10:56",
 "also": [],
 "lang": "de",
-"excerpt": "Mehr als anderthalb Jahre sassen zwei Frauen in der Gewalt von Jihadisten fest. Nun sind sie frei."
+"excerpt": "Riehen hat die Elternbeiträge für Tagesstrukturen um etwa 40% erhöht, zum Ärgernis der betroffenen Familien."
 },
 {
-"id": "2c892d969df3179c",
-"title": "«Die ganze Mannschaft hat mitgezogen – das macht mich stolz»",
-"url": "https://onlinereports.ch/a/polier-ibraim-abdiu-die-ganze-mannschaft-hat-mitgezogen-publireportage",
-"source": "OnlineReports",
-"when": "06:00",
+"id": "ae9cdb4a052a5c6c",
+"title": "Baselbieter Mitte nominiert Remo Oser",
+"url": "https://bajour.ch/a/baselbieter-mitte-nominiert-remo-oser",
+"source": "Bajour",
+"when": "03:55",
+"also": [
+"Basler Zeitung"
+],
+"lang": "de",
+"excerpt": "Die Nomination ist eine Überraschung, da bisher Parteipräsident Simon Oberbeck als Kronfavorit galt."
+},
+{
+"id": "913db4c6cefb1d05",
+"title": "Neuer Standort für «Housing First Plus»",
+"url": "https://bajour.ch/a/neuer-standort-fuer-housing-first-plus",
+"source": "Bajour",
+"when": "10:19",
 "also": [],
 "lang": "de",
 "excerpt": ""
 },
 {
-"id": "30810152872de855",
-"title": "Remo Oser: «Ich bin der Kandidat der neuen Mitte»",
-"url": "https://onlinereports.ch/a/remo-oser-ich-bin-der-kandidat-der-neuen-mitte",
-"source": "OnlineReports",
-"when": "01:20",
-"also": [],
-"lang": "de",
-"excerpt": ""
-},
-{
-"id": "219643e0be87a243",
-"title": "Basler Krisenstab nimmt Kantons-Webseiten vom Netz – Risiken seien «ausserordentlich hoch»",
-"url": "https://onlinereports.ch/a/php-sicherheitsluecke-basler-krisenstab-nimmt-kantons-websites-vom-netz",
-"source": "OnlineReports",
-"when": "Wed 21:09",
+"id": "09aecc4a3bf82d03",
+"title": "555 Jahre Basler Herbstmesse",
+"url": "https://www.bs.ch/medienmitteilungen/pd/2026-555-jahre-basler-herbstmesse",
+"source": "Kanton Basel-Stadt",
+"when": "13:40",
 "also": [],
 "lang": "de",
 "excerpt": ""
