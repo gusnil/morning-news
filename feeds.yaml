@@ -1,0 +1,817 @@
+# morning-news configuration: the single source of truth for sources, sections,
+# weights and keyword rules. Changing the site = editing this file.
+#
+# Source fields
+#   id          unique key (also used in cache/items.json)
+#   name        display name
+#   section     world | basel | sport | chess | ai
+#   sub         sport only: cycling | teams | cfb | sumo
+#   url         verified feed URL (null = not yet found)
+#   homepage    used by build/validate_feeds.py to auto-discover a feed
+#   candidates  extra feed URLs validate_feeds.py tries when url is null or dead
+#   weight      1-5, ranking weight
+#   lang        BCP-47 language of the items (drives the lang attribute)
+#   region      world only: EU | ME | ASIA | AFR | LATAM | US (list allowed)
+#   scope       basel only: Basel | BL | Local | CH
+#   team        teams only: patriots | celtics | uconn | redsox | fcbasel | malmoff | sweden
+#   discipline  sport: cycling | cfb | sumo | nfl  (matched against calendar.yaml)
+#   include     regex (case-insensitive) on title+excerpt; item kept only if it matches
+#   require     second regex that must also match (AND)
+#   exclude     regex; item dropped if it matches
+#   status      verified | unverified | dropped   (written after validate_feeds.py)
+#   note        free text
+
+settings:
+  timezone: Europe/Zurich
+  archive_days: 7          # dated pages kept
+  cache_days: 7            # items kept in cache/items.json
+  fetch_timeout: 15        # seconds per feed
+  fetch_workers: 8
+  max_per_source: 3        # per section per day
+  thin_threshold: 4        # fewer items than this shows the "thin day" note
+  excerpt_max: 160         # excerpts longer than this are not shown
+  user_agent: "Mozilla/5.0 (compatible; morning-news/1.0; +https://github.com/gusnil/morning-news)"
+
+sections:
+  - id: world
+    title: World
+    cap: 10
+    window_hours: 36
+    quota:
+      region_max_share: 0.35
+      region_required: [ASIA, AFR, LATAM, ME]
+      multi_source_first: true
+
+  - id: basel
+    title: Basel
+    cap: 10
+    window_hours: 36
+    quota:
+      local_scopes: [Basel, BL, Local]
+      min_local: 6
+
+  - id: sport
+    title: Sport
+    window_hours: 36
+    subsections:
+      - id: cycling
+        title: Cycling
+        cap: 4
+      - id: teams
+        title: Teams
+        cap: 6
+        per_team: 1
+        order: recent
+        window_hours: 48
+        release_to: [cfb]
+      - id: cfb
+        title: College football
+        cap: 1
+        cap_by_weekday: {6: 2, 0: 2}     # Python weekday(): 6 = Sunday, 0 = Monday
+      - id: sumo
+        title: Sumo
+        cap: 1
+        window_hours: 72
+        off_event_max: 1
+        off_event_require: "banzuke|promot|retire|yokozuna|ozeki"
+    release_order: [cycling, teams, cfb, sumo]
+
+  - id: chess
+    title: Chess
+    cap: 8
+    window_hours: 48
+    boost:
+      - {value: 1, pattern: "Candidates|World Championship|Tata Steel|Norway Chess|Sinquefield|Grand Chess Tour|Freestyle|Champions Chess Tour|Titled Tuesday|Olympiad|Grand Swiss|World Cup|Rapid & Blitz|Rapid and Blitz|Bundesliga"}
+    penalty:
+      - {value: 2, pattern: "puzzle|lesson|course|how to|opening guide|tips"}
+
+  - id: ai
+    title: AI
+    cap: 8
+    window_hours: 120
+    boost:
+      - {value: 2, pattern: "decision|decision support|decision intelligence|\\bBI\\b|business intelligence|analytics|dashboard|Genie|lakehouse|Unity Catalog|Mosaic|\\bagents?\\b|agentic|forecasting|semantic layer|pharma|life sciences|\\bR&D\\b|clinical"}
+    penalty:
+      - {value: 2, pattern: "funding|raises|valuation|benchmark|leaderboard|parameters|\\bGPUs?\\b"}
+
+# Calendar events give +2 to items of the same discipline and +2 to the sub-section cap.
+event_boost: 2
+event_cap_bonus: 2
+
+sources:
+  # ---------------------------------------------------------------- World
+  - id: france24
+    name: France 24
+    section: world
+    url: https://www.france24.com/en/rss
+    weight: 5
+    region: EU
+    lang: en
+  - id: aljazeera
+    name: Al Jazeera
+    section: world
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    weight: 4
+    region: ME
+    lang: en
+  - id: dw
+    name: DW
+    section: world
+    url: https://rss.dw.com/rdf/rss-en-all
+    weight: 4
+    region: EU
+    lang: en
+  - id: bbc
+    name: BBC World
+    section: world
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    weight: 3
+    region: EU
+    lang: en
+  - id: nhk
+    name: NHK World
+    section: world
+    url: null
+    homepage: https://www3.nhk.or.jp/nhkworld/en/news/
+    candidates:
+      - https://www3.nhk.or.jp/nhkworld/en/news/rss.xml
+      - https://www3.nhk.or.jp/nhkworld/data/en/news/all.xml
+      - https://www3.nhk.or.jp/rss/news/cat0.xml
+    weight: 4
+    region: ASIA
+    lang: en
+  - id: thehindu
+    name: The Hindu
+    section: world
+    url: https://www.thehindu.com/news/international/feeder/default.rss
+    weight: 4
+    region: ASIA
+    lang: en
+  - id: scmp
+    name: SCMP
+    section: world
+    url: https://www.scmp.com/rss/91/feed
+    weight: 3
+    region: ASIA
+    lang: en
+  - id: africanews
+    name: Africanews
+    section: world
+    url: https://www.africanews.com/feed/rss
+    candidates:
+      - https://www.africanews.com/feed/
+    weight: 4
+    region: AFR
+    lang: en
+  - id: elpais
+    name: El País English
+    section: world
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada
+    weight: 3
+    region: [EU, LATAM]
+    lang: en
+  - id: folha
+    name: Folha
+    section: world
+    url: https://www1.folha.uol.com.br/internacional/en/rss091.xml
+    candidates:
+      - https://feeds.folha.uol.com.br/internacional/en/rss091.xml
+    homepage: https://www1.folha.uol.com.br/internacional/en/
+    weight: 3
+    region: LATAM
+    lang: en
+  - id: swissinfo
+    name: swissinfo
+    section: world
+    url: https://www.swissinfo.ch/eng/rss
+    candidates:
+      - https://www.swissinfo.ch/eng/rss/
+      - https://www.swissinfo.ch/eng/latest-news/rss
+    homepage: https://www.swissinfo.ch/eng/
+    weight: 3
+    region: EU
+    lang: en
+  - id: apnews
+    name: AP News
+    section: world
+    url: https://rsshub.app/apnews/topics/apf-topnews
+    weight: 5
+    region: US
+    lang: en
+    note: "No official AP feed; RSSHub mirror, drop if unstable."
+
+  # ---------------------------------------------------------------- Basel / Switzerland
+  - id: bzbasel
+    name: bz Basel
+    section: basel
+    url: null
+    homepage: https://www.bzbasel.ch/
+    candidates:
+      - https://www.bzbasel.ch/basel.rss
+      - https://www.bzbasel.ch/basel/basel-stadt.rss
+      - https://www.bzbasel.ch/basel/baselland.rss
+      - https://www.bzbasel.ch/rss
+    weight: 5
+    scope: Basel
+    lang: de
+  - id: baz
+    name: Basler Zeitung
+    section: basel
+    url: null
+    homepage: https://www.bazonline.ch/
+    candidates:
+      - https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel
+      - https://partner-feeds.publishing.tamedia.ch/rss/bazonline
+      - https://www.bazonline.ch/rss/basel
+      - https://www.bazonline.ch/rss.xml
+    weight: 4
+    scope: Basel
+    lang: de
+    note: "Paywalled; headlines still useful."
+  - id: srf_basel
+    name: SRF Regionaljournal
+    section: basel
+    url: https://www.srf.ch/news/bnf/rss/1890
+    weight: 5
+    scope: Basel
+    lang: de
+  - id: primenews
+    name: Prime News
+    section: basel
+    url: https://primenews.ch/feed
+    candidates:
+      - https://primenews.ch/rss.xml
+      - https://www.primenews.ch/feed
+    homepage: https://primenews.ch/
+    weight: 4
+    scope: Basel
+    lang: de
+  - id: onlinereports
+    name: OnlineReports
+    section: basel
+    url: null
+    homepage: https://www.onlinereports.ch/
+    candidates:
+      - https://www.onlinereports.ch/rss
+      - https://www.onlinereports.ch/rss.xml
+      - https://www.onlinereports.ch/feed
+    weight: 3
+    scope: Basel
+    lang: de
+  - id: baseljetzt
+    name: Baseljetzt
+    section: basel
+    url: null
+    homepage: https://www.baseljetzt.ch/
+    candidates:
+      - https://www.baseljetzt.ch/feed
+      - https://baseljetzt.ch/feed/
+      - https://www.baseljetzt.ch/rss
+    weight: 3
+    scope: Basel
+    lang: de
+  - id: telebasel
+    name: Telebasel
+    section: basel
+    url: https://telebasel.ch/feed
+    candidates:
+      - https://telebasel.ch/feed/
+      - https://www.telebasel.ch/feed/
+    homepage: https://telebasel.ch/
+    weight: 3
+    scope: Basel
+    lang: de
+  - id: baselland
+    name: Kanton BL
+    section: basel
+    url: null
+    homepage: https://www.baselland.ch/
+    candidates:
+      - https://www.baselland.ch/politik-und-behorden/regierungsrat/medienmitteilungen/RSS
+      - https://www.baselland.ch/politik-und-behorden/regierungsrat/medienmitteilungen/rss.xml
+      - https://www.baselland.ch/rss
+    discover_pages:
+      - https://www.baselland.ch/politik-und-behorden/regierungsrat/medienmitteilungen
+    weight: 3
+    scope: BL
+    lang: de
+  - id: muenchenstein
+    name: Gemeinde Münchenstein
+    section: basel
+    url: null
+    homepage: https://www.muenchenstein.ch/
+    candidates:
+      - https://www.muenchenstein.ch/rss
+      - https://www.muenchenstein.ch/aktuellesinformationen/rss
+      - https://www.muenchenstein.ch/news/rss
+    discover_pages:
+      - https://www.muenchenstein.ch/aktuellesinformationen
+    weight: 3
+    scope: Local
+    lang: de
+  - id: srf_news
+    name: SRF News
+    section: basel
+    url: https://www.srf.ch/news/bnf/rss/1646
+    weight: 4
+    scope: CH
+    lang: de
+  - id: nzz
+    name: NZZ
+    section: basel
+    url: https://www.nzz.ch/recent.rss
+    candidates:
+      - https://www.nzz.ch/schweiz.rss
+    weight: 3
+    scope: CH
+    lang: de
+  - id: swissinfo_ch
+    name: swissinfo
+    section: basel
+    url: https://www.swissinfo.ch/eng/rss
+    candidates:
+      - https://www.swissinfo.ch/eng/rss/
+      - https://www.swissinfo.ch/eng/latest-news/rss
+    weight: 3
+    scope: CH
+    lang: en
+    include: "Swiss|Switzerland|Bern|Zurich|Geneva|Basel|Lausanne|Lucerne|Lugano|canton|Federal Council|parliament|SNB|franc"
+
+  # ---------------------------------------------------------------- Sport: cycling
+  - id: cyclingnews
+    name: Cyclingnews
+    section: sport
+    sub: cycling
+    discipline: cycling
+    url: https://www.cyclingnews.com/feeds/all/
+    candidates:
+      - https://www.cyclingnews.com/feeds.xml
+      - https://www.cyclingnews.com/rss/
+    homepage: https://www.cyclingnews.com/
+    weight: 5
+    lang: en
+    exclude: &gear "\\bdeals?\\b|Black Friday|Prime Day|\\bsale\\b|buyer'?s guide|\\bbest .* (bikes|shoes|helmets|lights|tyres|tires|jerseys|bib)|\\breview\\b|tested"
+  - id: velo
+    name: Velo
+    section: sport
+    sub: cycling
+    discipline: cycling
+    url: https://velo.outsideonline.com/feed/
+    candidates:
+      - https://velo.outsideonline.com/feed
+      - https://velo.outsideonline.com/rss
+    homepage: https://velo.outsideonline.com/
+    weight: 4
+    lang: en
+    exclude: *gear
+  - id: cyclingweekly
+    name: Cycling Weekly
+    section: sport
+    sub: cycling
+    discipline: cycling
+    url: https://www.cyclingweekly.com/feed
+    candidates:
+      - https://www.cyclingweekly.com/feeds/all
+      - https://www.cyclingweekly.com/feeds.xml
+    homepage: https://www.cyclingweekly.com/
+    weight: 3
+    lang: en
+    exclude: *gear
+  - id: escape
+    name: Escape Collective
+    section: sport
+    sub: cycling
+    discipline: cycling
+    url: https://escapecollective.com/feed/
+    weight: 4
+    lang: en
+    exclude: *gear
+  - id: uci
+    name: UCI
+    section: sport
+    sub: cycling
+    discipline: cycling
+    url: null
+    homepage: https://www.uci.org/
+    candidates:
+      - https://www.uci.org/rss
+      - https://www.uci.org/rss.xml
+      - https://www.uci.org/news/rss
+      - https://www.uci.org/feed
+    discover_pages:
+      - https://www.uci.org/news
+    weight: 4
+    lang: en
+  - id: pinkbike
+    name: Pinkbike
+    section: sport
+    sub: cycling
+    discipline: cycling
+    url: https://www.pinkbike.com/pinkbike_xml_feed.php
+    weight: 3
+    lang: en
+    include: &xco "XCO|XCC|cross-country|cross country|World Cup|Worlds|World Championship|Olympic"
+    exclude: &gravity "\\bDH\\b|downhill|enduro|\\bEDR\\b|freeride|Rampage|slopestyle"
+  - id: mtbnews
+    name: MTB-News.de
+    section: sport
+    sub: cycling
+    discipline: cycling
+    url: https://www.mtb-news.de/news/feed/
+    candidates:
+      - https://www.mtb-news.de/feed/
+    homepage: https://www.mtb-news.de/
+    weight: 3
+    lang: de
+    include: "XCO|XCC|cross-country|Cross Country|World Cup|Weltcup|Worlds|World Championship|Weltmeisterschaft|\\bWM\\b|Olympi"
+    exclude: "\\bDH\\b|Downhill|Enduro|\\bEDR\\b|Freeride|Rampage|Slopestyle"
+
+  # ---------------------------------------------------------------- Sport: teams
+  - id: patriots
+    name: Patriots.com
+    section: sport
+    sub: teams
+    team: patriots
+    discipline: nfl
+    url: https://www.patriots.com/rss/article
+    candidates:
+      - https://www.patriots.com/rss/news
+      - https://www.patriots.com/rss
+    homepage: https://www.patriots.com/news/
+    weight: 3
+    lang: en
+  - id: espn_nfl
+    name: ESPN
+    section: sport
+    sub: teams
+    team: patriots
+    discipline: nfl
+    url: https://www.espn.com/espn/rss/nfl/news
+    weight: 3
+    lang: en
+    include: "Patriots|New England"
+  - id: celtics
+    name: Celtics.com
+    section: sport
+    sub: teams
+    team: celtics
+    url: null
+    homepage: https://www.nba.com/celtics/
+    candidates:
+      - https://www.nba.com/celtics/rss.xml
+      - https://www.nba.com/celtics/news/rss.xml
+      - https://www.nba.com/celtics/rss
+    weight: 3
+    lang: en
+  - id: espn_nba
+    name: ESPN
+    section: sport
+    sub: teams
+    team: celtics
+    url: https://www.espn.com/espn/rss/nba/news
+    weight: 3
+    lang: en
+    include: "Celtics"
+  - id: redsox
+    name: MLB.com
+    section: sport
+    sub: teams
+    team: redsox
+    url: https://www.mlb.com/redsox/feeds/news/rss.xml
+    weight: 3
+    lang: en
+  - id: uconn
+    name: UConn Huskies
+    section: sport
+    sub: teams
+    team: uconn
+    url: https://uconnhuskies.com/rss?path=mbball
+    candidates:
+      - https://uconnhuskies.com/rss.aspx?path=mbball
+    weight: 3
+    lang: en
+  - id: fcb
+    name: FC Basel
+    section: sport
+    sub: teams
+    team: fcbasel
+    url: null
+    homepage: https://www.fcb.ch/
+    candidates:
+      - https://www.fcb.ch/rss
+      - https://www.fcb.ch/de/rss
+      - https://www.fcb.ch/feed
+      - https://www.fcb.ch/news/rss
+    discover_pages:
+      - https://www.fcb.ch/news
+    weight: 3
+    lang: de
+  - id: bz_fcb
+    name: bz Basel
+    section: sport
+    sub: teams
+    team: fcbasel
+    url: null
+    homepage: https://www.bzbasel.ch/sport
+    candidates:
+      - https://www.bzbasel.ch/sport.rss
+      - https://www.bzbasel.ch/sport/fc-basel.rss
+      - https://www.bzbasel.ch/sport/fussball.rss
+    weight: 3
+    lang: de
+    include: "\\bFCB\\b|FC Basel|Rotblau|Rotblaue"
+  - id: mff
+    name: Malmö FF
+    section: sport
+    sub: teams
+    team: malmoff
+    url: null
+    homepage: https://www.mff.se/
+    candidates:
+      - https://www.mff.se/feed/
+      - https://www.mff.se/rss
+      - https://www.mff.se/nyheter/rss
+      - https://www.mff.se/feed.xml
+    discover_pages:
+      - https://www.mff.se/nyheter/
+    weight: 3
+    lang: sv
+  - id: sydsvenskan
+    name: Sydsvenskan
+    section: sport
+    sub: teams
+    team: malmoff
+    url: null
+    homepage: https://www.sydsvenskan.se/
+    candidates:
+      - https://www.sydsvenskan.se/rss.xml?sport=1
+      - https://www.sydsvenskan.se/sport/rss.xml
+      - https://www.sydsvenskan.se/rss.xml
+      - https://www.sydsvenskan.se/feeds/feed.xml
+    discover_pages:
+      - https://www.sydsvenskan.se/sport
+    weight: 3
+    lang: sv
+    include: "\\bMFF\\b|Malmö FF|Himmelsblå"
+  - id: fotbollskanalen
+    name: Fotbollskanalen
+    section: sport
+    sub: teams
+    team: sweden
+    url: https://www.fotbollskanalen.se/rss/
+    candidates:
+      - https://www.fotbollskanalen.se/rss
+      - https://www.fotbollskanalen.se/landslaget/rss/
+    homepage: https://www.fotbollskanalen.se/
+    weight: 3
+    lang: sv
+    include: "landslaget|Sverige|Blågult|förbundskapten"
+    exclude: "damlandslag|\\bdamer\\b|U\\d{2}|F\\d{2}|P\\d{2}"
+  - id: svff
+    name: SvFF
+    section: sport
+    sub: teams
+    team: sweden
+    url: null
+    homepage: https://www.svenskfotboll.se/
+    candidates:
+      - https://www.svenskfotboll.se/rss/
+      - https://www.svenskfotboll.se/rss/nyheter/
+      - https://www.svenskfotboll.se/feed/
+    discover_pages:
+      - https://www.svenskfotboll.se/landslag/herr/
+    weight: 3
+    lang: sv
+    include: "herrlandslag|landslaget|Blågult|Sverige"
+    exclude: "damlandslag|\\bdamer\\b|U\\d{2}|F\\d{2}|P\\d{2}|futsal|beach"
+
+  # ---------------------------------------------------------------- Sport: college football
+  - id: espn_cfb
+    name: ESPN
+    section: sport
+    sub: cfb
+    discipline: cfb
+    url: https://www.espn.com/espn/rss/ncf/news
+    weight: 3
+    lang: en
+    include: "Top 25|No\\. ?[1-9]|No\\. ?10|ranked|AP poll|CFP|playoff"
+    require: "\\bNo\\. ?(?:[1-9]|10)\\b|playoff"
+
+  # ---------------------------------------------------------------- Sport: sumo
+  - id: tachiai
+    name: Tachiai
+    section: sport
+    sub: sumo
+    discipline: sumo
+    url: https://tachiai.org/feed/
+    weight: 4
+    lang: en
+  - id: japantimes_sumo
+    name: Japan Times
+    section: sport
+    sub: sumo
+    discipline: sumo
+    url: https://www.japantimes.co.jp/sports/sumo/feed/
+    weight: 4
+    lang: en
+  - id: nhk_sumo
+    name: NHK World Sumo
+    section: sport
+    sub: sumo
+    discipline: sumo
+    url: null
+    homepage: https://www3.nhk.or.jp/nhkworld/en/tv/sumo/
+    weight: 4
+    lang: en
+  - id: jsa
+    name: Japan Sumo Association
+    section: sport
+    sub: sumo
+    discipline: sumo
+    url: null
+    homepage: https://www.sumo.or.jp/En/
+    candidates:
+      - https://www.sumo.or.jp/En/rss
+      - https://www.sumo.or.jp/rss/
+    weight: 4
+    lang: en
+
+  # ---------------------------------------------------------------- Chess
+  - id: chesscom
+    name: Chess.com
+    section: chess
+    url: https://www.chess.com/rss/news
+    weight: 4
+    lang: en
+  - id: lichess
+    name: Lichess
+    section: chess
+    url: https://lichess.org/blog.atom
+    candidates:
+      - https://lichess.org/@/Lichess/blog.atom
+    weight: 3
+    lang: en
+  - id: chessbase
+    name: ChessBase
+    section: chess
+    url: https://en.chessbase.com/feed
+    candidates:
+      - https://en.chessbase.com/rss
+    homepage: https://en.chessbase.com/
+    weight: 5
+    lang: en
+  - id: fide
+    name: FIDE
+    section: chess
+    url: null
+    homepage: https://www.fide.com/
+    candidates:
+      - https://www.fide.com/rss
+      - https://www.fide.com/feed
+      - https://www.fide.com/news/rss
+      - https://www.fide.com/rss.xml
+    discover_pages:
+      - https://www.fide.com/news
+    weight: 5
+    lang: en
+  - id: twic
+    name: The Week in Chess
+    section: chess
+    url: null
+    homepage: https://theweekinchess.com/
+    candidates:
+      - https://theweekinchess.com/twic-rss-feed
+      - https://theweekinchess.com/feed
+      - https://theweekinchess.com/rss
+    weight: 4
+    lang: en
+  - id: chessdom
+    name: Chessdom
+    section: chess
+    url: https://www.chessdom.com/feed/
+    weight: 3
+    lang: en
+
+  # ---------------------------------------------------------------- AI / decision support
+  - id: databricks
+    name: Databricks
+    section: ai
+    url: https://www.databricks.com/feed
+    candidates:
+      - https://www.databricks.com/blog/feed
+      - https://www.databricks.com/rss.xml
+    homepage: https://www.databricks.com/blog
+    weight: 5
+    lang: en
+  - id: databricks_eng
+    name: Databricks Engineering
+    section: ai
+    url: null
+    homepage: https://www.databricks.com/blog/category/engineering
+    candidates:
+      - https://www.databricks.com/blog/category/engineering/feed
+      - https://www.databricks.com/feed/engineering
+      - https://www.databricks.com/blog/category/product/feed
+    weight: 5
+    lang: en
+  - id: thebatch
+    name: The Batch
+    section: ai
+    url: https://www.deeplearning.ai/the-batch/feed/
+    candidates:
+      - https://www.deeplearning.ai/the-batch/feed
+      - https://www.deeplearning.ai/feed/
+    homepage: https://www.deeplearning.ai/the-batch/
+    weight: 4
+    lang: en
+  - id: importai
+    name: Import AI
+    section: ai
+    url: https://importai.substack.com/feed
+    candidates:
+      - https://jack-clark.net/feed/
+    weight: 4
+    lang: en
+  - id: mittr
+    name: MIT Technology Review
+    section: ai
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    candidates:
+      - https://www.technologyreview.com/feed/
+    weight: 3
+    lang: en
+  - id: benevans
+    name: Benedict Evans
+    section: ai
+    url: https://www.ben-evans.com/benedictevans?format=rss
+    candidates:
+      - https://www.ben-evans.com/benedictevans/rss.xml
+    homepage: https://www.ben-evans.com/
+    weight: 3
+    lang: en
+  - id: willison
+    name: Simon Willison
+    section: ai
+    url: https://simonwillison.net/atom/everything/
+    candidates:
+      - https://simonwillison.net/atom/entries/
+    weight: 3
+    lang: en
+  - id: mckinsey
+    name: McKinsey
+    section: ai
+    url: null
+    homepage: https://www.mckinsey.com/capabilities/quantumblack/our-insights
+    candidates:
+      - https://www.mckinsey.com/insights/rss
+      - https://www.mckinsey.com/rss
+      - https://www.mckinsey.com/capabilities/quantumblack/our-insights/rss
+      - https://www.mckinsey.com/featured-insights/rss
+    discover_pages:
+      - https://www.mckinsey.com/insights
+    weight: 3
+    lang: en
+    include: "\\bAI\\b|artificial intelligence|analytics|data|gen ?AI|agent|automation|digital"
+  - id: gartner
+    name: Gartner
+    section: ai
+    url: null
+    homepage: https://www.gartner.com/en/newsroom
+    candidates:
+      - https://www.gartner.com/en/newsroom/rss
+      - https://www.gartner.com/en/newsroom/press-releases/rss
+      - https://www.gartner.com/en/rss
+    weight: 3
+    lang: en
+  - id: powerbi
+    name: Power BI blog
+    section: ai
+    url: https://powerbi.microsoft.com/en-us/blog/feed/
+    candidates:
+      - https://powerbi.microsoft.com/en-us/blog/feed
+      - https://www.microsoft.com/en-us/power-platform/blog/power-bi/feed/
+    homepage: https://powerbi.microsoft.com/en-us/blog/
+    weight: 2
+    lang: en
+  - id: tableau
+    name: Tableau blog
+    section: ai
+    url: null
+    homepage: https://www.tableau.com/blog
+    candidates:
+      - https://www.tableau.com/blog/rss.xml
+      - https://www.tableau.com/blog/feed
+      - https://www.tableau.com/rss.xml
+    weight: 2
+    lang: en
+  - id: snowflake
+    name: Snowflake blog
+    section: ai
+    url: null
+    homepage: https://www.snowflake.com/en/blog/
+    candidates:
+      - https://www.snowflake.com/feed/
+      - https://www.snowflake.com/en/blog/feed/
+      - https://www.snowflake.com/blog/feed/
+    weight: 2
+    lang: en

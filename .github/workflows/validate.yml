@@ -1,0 +1,31 @@
+name: validate-feeds
+# Runs build/validate_feeds.py from GitHub's network and commits the report
+# to feeds-status.md. Manual, or automatically when feeds.yaml changes.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [feeds.yaml, build/validate_feeds.py, .github/workflows/validate.yml]
+permissions:
+  contents: write
+concurrency:
+  group: validate
+  cancel-in-progress: true
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: python build/validate_feeds.py --report feeds-status.md --json feeds-status.json
+      - run: cat feeds-status.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Commit report
+        run: |
+          git config user.name "morning-news-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add feeds-status.md feeds-status.json
+          git commit -m "feeds: validation report [skip ci]" || exit 0
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done
