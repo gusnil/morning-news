@@ -1,6 +1,6 @@
 # morning-news
 
-A personal, static morning news page: World, Basel, Sport, Chess, AI. Rebuilt every night at 03:00 Europe/Zurich by GitHub Actions from a fixed list of RSS/Atom feeds, and served by GitHub Pages. There's no LLM, no translation, no backend and no tracking. The specification is in [`BRIEF.md`](BRIEF.md).
+A personal, static news page: weather, World, Basel, Sport, Chess, AI, R&D. Rebuilt three times a day (01:13, 11:43, 17:43 Europe/Zurich) by GitHub Actions from a fixed list of RSS/Atom feeds, and served by GitHub Pages. There's no LLM, no translation, no backend and no tracking. The specification is in [`BRIEF.md`](BRIEF.md).
 
 **Site:** https://gusnil.github.io/morning-news/ (live once Pages is enabled; see *Setup* below).
 
@@ -17,7 +17,7 @@ feeds.yaml -> build/fetch.py -> cache/items.json -> build/cluster.py -> build/ra
 | Cluster | Near-duplicate headlines (Jaccard >= 0.5 on normalised token sets, or >= 70% containment) are shown once, with the highest-weight source as the link and "also: X, Y". |
 | Rank | `weight + 1.5*ln(1+sources) + keyword boosts - penalties + 3*0.5^(age/18h)`, +2 during `calendar.yaml` events. Caps and quotas follow BRIEF §5/§6. |
 | Render | `site/index.html` (today), `site/archive/YYYY-MM-DD.html` (last 7 days, today included) and `site/archive/index.html`. One CSS and one JS file. The page is about 20 kB and works fully without JavaScript. |
-| Schedule | Cron runs at 01:00 and 02:00 UTC. `build/dst_guard.py` lets through only the run whose **scheduled** slot is 03:xx in Zurich, so there is exactly one build per night in both CET and CEST, even when GitHub starts the job late. Manual runs always build. |
+| Schedule | Six UTC crons (two per edition, one for CEST and one for CET) at off-peak minutes. `build/dst_guard.py` lets through only runs whose **scheduled** slot is 01:xx, 11:xx or 17:xx in Zurich, so there are exactly three builds a day in both CET and CEST, even when GitHub starts a job hours late. Manual runs and pushes to templates/static/build/feeds.yaml always build. |
 
 Keys on the page: `1`–`5` jump to a section, `j`/`k` move between items, `Enter` opens the focused item in a new tab.
 

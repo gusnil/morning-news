@@ -1,8 +1,10 @@
 """Decide whether this workflow run should build.
 
-GitHub cron is UTC-only, so the workflow fires at 01:00 and 02:00 UTC and this
-guard lets exactly one of them through: the one whose *scheduled* time is 03:xx
-in Europe/Zurich (01:00 UTC in summer/CEST, 02:00 UTC in winter/CET).
+Three editions a day, at 01:13, 11:43 and 17:43 Europe/Zurich. GitHub cron is
+UTC-only, so each edition has two crons (one for CEST, one for CET) and this
+guard lets through only the one whose *scheduled* time falls in a target hour.
+Off-peak minutes (:13, :43) because GitHub delays top-of-the-hour jobs most.
+01:13 rather than 02:xx because 02:xx is skipped or doubled on DST-switch nights.
 
 The scheduled time is taken from the cron expression that triggered the run
 (github.event.schedule), not from the wall clock, so a run that GitHub starts
@@ -20,7 +22,7 @@ from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 TZ = ZoneInfo("Europe/Zurich")
-TARGET_HOUR = 3
+TARGET_HOURS = (1, 11, 17)
 
 
 def scheduled_utc(now_utc: datetime, cron: str) -> datetime:
@@ -33,11 +35,11 @@ def scheduled_utc(now_utc: datetime, cron: str) -> datetime:
 
 
 def should_run(event: str, now_utc: datetime, cron: str | None = None, tz: ZoneInfo = TZ,
-               hour: int = TARGET_HOUR) -> bool:
+               hours: tuple[int, ...] = TARGET_HOURS) -> bool:
     if event in ("workflow_dispatch", "push"):
         return True
     t = scheduled_utc(now_utc, cron) if cron else now_utc
-    return t.astimezone(tz).hour == hour
+    return t.astimezone(tz).hour in hours
 
 
 def main() -> int:

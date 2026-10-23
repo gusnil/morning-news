@@ -53,6 +53,11 @@ def snapshot_item(cand, sources: dict, tz, local_day: date, excerpt_max: int) ->
     }
 
 
+def edition(local_hour: int) -> str:
+    """Name of the edition a build belongs to (late GitHub starts stay in their edition)."""
+    return "Morning" if local_hour < 10 else "Midday" if local_hour < 16 else "Evening"
+
+
 def snapshot_page(cfg: dict, sections: list[dict], now: datetime, local_day: date, tz, stats: dict) -> dict:
     sources = {s["id"]: s for s in cfg["sources"]}
     st = cfg["settings"]
@@ -73,6 +78,7 @@ def snapshot_page(cfg: dict, sections: list[dict], now: datetime, local_day: dat
         "date": local_day.isoformat(),
         "built_at": now.isoformat(),
         "built_local": now.astimezone(tz).strftime("%H:%M"),
+        "edition": edition(now.astimezone(tz).hour),
         "feeds_ok": stats.get("feeds_ok"),
         "feeds_total": stats.get("feeds_total"),
         "sections": out_secs,

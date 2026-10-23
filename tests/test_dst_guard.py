@@ -1,47 +1,48 @@
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 import pytest
+import yaml
 
-from dst_guard import should_run
+from dst_guard import TZ, should_run
 
-CRONS = ["0 1 * * *", "0 2 * * *"]
+WF = yaml.safe_load((Path(__file__).resolve().parents[1] / ".github/workflows/build.yml").read_text())
+CRONS = [c["cron"] for c in WF[True]["schedule"]]   # yaml reads the "on:" key as True
 
 
-def runs_on(day: str, delay_min: int = 0):
-    """Which of the two daily crons would build on `day` (UTC date), given a start delay."""
+def firings(day: str, delay_min: int = 0):
+    """Local (date, hour) of every build the guard lets through, for crons firing around `day`."""
+    d0 = datetime.fromisoformat(day).replace(tzinfo=timezone.utc) - timedelta(days=1)
     out = []
-    for cron in CRONS:
-        hour = int(cron.split()[1])
-        now = datetime.fromisoformat(f"{day}T{hour:02d}:00:00+00:00")
-        now = now.replace(minute=delay_min) if delay_min < 60 else now.replace(hour=hour + 1, minute=delay_min - 60)
-        if should_run("schedule", now, cron):
-            out.append(cron)
+    for k in range(3):
+        for cron in CRONS:
+            m, h = (int(x) for x in cron.split()[:2])
+            sched = (d0 + timedelta(days=k)).replace(hour=h, minute=m)
+            now = sched + timedelta(minutes=delay_min)
+            if should_run("schedule", now, cron):
+                loc = sched.astimezone(TZ)
+                out.append((loc.date().isoformat(), loc.hour))
     return out
 
 
-@pytest.mark.parametrize("day,expected", [
-    ("2027-01-15", "0 2 * * *"),   # mid-January, CET (UTC+1): 02:00 UTC = 03:00
-    ("2026-07-15", "0 1 * * *"),   # mid-July, CEST (UTC+2): 01:00 UTC = 03:00
-    ("2027-03-28", "0 1 * * *"),   # last Sunday of March: clocks jump at 01:00 UTC, 01:00 UTC = 03:00 CEST
-    ("2026-10-25", "0 2 * * *"),   # last Sunday of October: back to CET at 01:00 UTC, 02:00 UTC = 03:00 CET
-    ("2026-10-22", "0 1 * * *"),   # today (CEST)
-    ("2026-10-26", "0 2 * * *"),   # first day after the switch (CET)
-])
-def test_exactly_one_run_per_night(day, expected):
-    assert runs_on(day) == [expected]
+@pytest.mark.parametrize("day", ["2027-01-15", "2026-07-15", "2027-03-28", "2026-10-25", "2026-10-26", "2026-10-23"])
+@pytest.mark.parametrize("delay", [0, 7, 59, 75, 270])
+def test_exactly_three_editions_per_local_day(day, delay):
+    # includes DST-switch days and a 4.5 h GitHub start delay (observed 23.10.2026)
+    got = [h for d, h in firings(day, delay) if d == day]
+    assert sorted(got) == [1, 11, 17]
 
 
-@pytest.mark.parametrize("day", ["2027-01-15", "2026-07-15", "2027-03-28", "2026-10-25"])
-@pytest.mark.parametrize("delay", [7, 35, 59, 75])
-def test_late_start_still_exactly_one_run(day, delay):
-    # GitHub often starts scheduled jobs late; the guard judges the scheduled slot, not the wall clock.
-    assert len(runs_on(day, delay)) == 1
-
-
-def test_manual_run_always_builds():
+def test_manual_and_push_always_build():
     assert should_run("workflow_dispatch", datetime(2026, 7, 15, 13, 0, tzinfo=timezone.utc))
+    assert should_run("push", datetime(2026, 7, 15, 13, 0, tzinfo=timezone.utc))
 
 
 def test_wall_clock_fallback_without_cron():
-    assert should_run("schedule", datetime(2026, 7, 15, 1, 5, tzinfo=timezone.utc))
-    assert not should_run("schedule", datetime(2026, 7, 15, 2, 5, tzinfo=timezone.utc))
+    assert should_run("schedule", datetime(2026, 7, 15, 9, 50, tzinfo=timezone.utc))      # 11:50 CEST
+    assert not should_run("schedule", datetime(2026, 7, 15, 12, 5, tzinfo=timezone.utc))  # 14:05 CEST
+
+
+def test_edition_names():
+    from render import edition
+    assert [edition(h) for h in (1, 5, 11, 15, 17, 22)] == ["Morning", "Morning", "Midday", "Midday", "Evening", "Evening"]
