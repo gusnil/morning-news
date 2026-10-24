@@ -1968,5 +1968,982 @@
 "lo": 2,
 "hi": 20
 }
+},
+"2026-10-24": {
+"date": "2026-10-24",
+"built_at": "2026-10-24T01:33:43.900591+00:00",
+"built_local": "03:33",
+"edition": "Morning",
+"feeds_ok": 55,
+"feeds_total": 55,
+"sections": [
+{
+"id": "world",
+"title": "World",
+"count": 10,
+"thin": false,
+"groups": [
+{
+"id": "world",
+"title": null,
+"items": [
+{
+"id": "1273b4c9a9a2acc8",
+"title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+"url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "00:33",
+"also": [
+"DW",
+"SCMP"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adbd5d74772-1792792023.jpg?resize=1920%2C1440",
+"excerpt": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa."
+},
+{
+"id": "afdbe76e1ddf96c6",
+"title": "West Bank: Extensive military operation 'on the way', Netanyahu says",
+"url": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
+"source": "France 24",
+"when": "Fri 17:56",
+"also": [
+"The Hindu"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/be36cda4-cef9-11f1-b713-5b4a75578ebb/w:1024/p:16x9/West-Bank-1.jpg",
+"excerpt": ""
+},
+{
+"id": "a6f941838f17f899",
+"title": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+"url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "03:21",
+"also": [
+"BBC World"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adbf52f2605-1792800047.jpg?resize=1920%2C1440",
+"excerpt": "President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says."
+},
+{
+"id": "46fd4052118e0e6e",
+"title": "Suspect arrested after 1 killed and 4 wounded in a shooting in Paris suburb",
+"url": "https://www.france24.com/en/suspect-arrested-after-1-killed-and-4-wounded-in-a-shooting-in-paris-suburb",
+"source": "France 24",
+"when": "Fri 16:24",
+"also": [
+"DW"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/bba2647a-ceec-11f1-9b05-bdb9616e85cf/w:1024/p:16x9/EN-20261023-160059-160614-CS.jpg",
+"excerpt": ""
+},
+{
+"id": "a0db81082cbf63ae",
+"title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+"url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "02:27",
+"also": [
+"The Hindu"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adbf28ec9cc3-1792799374.jpg?resize=1920%2C1440",
+"excerpt": "A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines."
+},
+{
+"id": "28786552b18b15f1",
+"title": "Seven killed, 28 injured after gunmen open fire inside a church in Jordan",
+"url": "https://www.thehindu.com/news/international/gunmen-open-fire-inside-a-church-in-jordan-causing-deaths-and-injuries/article71616413.ece",
+"source": "The Hindu",
+"when": "Fri 19:46",
+"also": [
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/6y5qyr/article71617646.ece/alternates/LANDSCAPE_1200/Jordan_Church_Shooting_16922.jpg",
+"excerpt": ""
+},
+{
+"id": "7c1cfee794faa9f8",
+"title": "Taiwan shuts down ahead of weakening Typhoon Champi, hundreds of flights cancelled",
+"url": "https://www.thehindu.com/news/international/taiwan-shuts-down-ahead-of-weakening-typhoon-champi-hundreds-of-flights-cancelled/article71614370.ece",
+"source": "The Hindu",
+"when": "Fri 04:06",
+"also": [
+"BBC World",
+"SCMP"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/r4zut3/article71614390.ece/alternates/LANDSCAPE_1200/Extreme_Weather_Taiwan_Storm_34163.jpg",
+"excerpt": ""
+},
+{
+"id": "bcc79c8625005f0e",
+"title": "China: Panic as 7.0-magnitude earthquake rocks Tibet",
+"url": "http://www.africanews.com/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet/",
+"source": "Africanews",
+"when": "Fri 09:07",
+"also": [
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/96/38/10/640x360_cmsv2_4f184246-ef10-5f7c-84b7-36aff58270f9-9963810.jpg?1792698251",
+"excerpt": ""
+},
+{
+"id": "8d4a1a53602c0a47",
+"title": "Nepal to receive first-ever loss and damage fund payout after devastating floods",
+"url": "https://www.thehindu.com/videos/nepal-to-receive-first-ever-loss-and-damage-fund-payout-after-devastating-floods/article71614805.ece",
+"source": "The Hindu",
+"when": "Fri 08:13",
+"also": [
+"SCMP"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/wh9ob/article71614800.ece/alternates/LANDSCAPE_1200/India%20U.S.%20trade%20talks.jpg.jpeg",
+"excerpt": ""
+},
+{
+"id": "7d8d932519dfff7a",
+"title": "Paul Banks of Interpol: ‘Quitting drugs and alcohol wasn’t that hard. It was time and I was ready’",
+"url": "https://english.elpais.com/culture/2026-10-23/paul-banks-of-interpol-quitting-drugs-and-alcohol-wasnt-that-hard-it-was-time-and-i-was-ready.html",
+"source": "El País English",
+"when": "Fri 19:46",
+"also": [],
+"lang": "en",
+"image": "https://images.english.elpais.com/resizer/v2/43DWHBDFJZGNPKK3IKGNKUKJVQ.jpg?auth=ed85ca211166edd93337013e64ca38745d39f4f7f04d2f38a953f73f0e2811a7",
+"excerpt": ""
+}
+]
+}
+],
+"lead": "1273b4c9a9a2acc8"
+},
+{
+"id": "basel",
+"title": "Basel",
+"count": 10,
+"thin": false,
+"groups": [
+{
+"id": "basel",
+"title": null,
+"items": [
+{
+"id": "4b6c9b3e5a113aeb",
+"title": "«Abstimmungs-Arena» – Bundesrat Albert Rösti: «So ein Verbot schränkt die Freiheit ein»",
+"url": "https://www.srf.ch/news/schweiz/abstimmungs-arena-bundesrat-albert-roesti-so-ein-verbot-schraenkt-die-freiheit-ein",
+"source": "SRF News",
+"when": "Fri 23:06",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/390b312.webp",
+"excerpt": "Die Feuerwerksinitiative: Sie will den Verkauf und die Verwendung von Feuerwerk einschränken."
+},
+{
+"id": "fc7e91765b24eb7a",
+"title": "Bahnhof Pratteln: Mann (42) wird nach Zigarette gefragt – dann kommt es zur Schlägerei",
+"url": "https://www.bazonline.ch/schlaegerei-in-pratteln-42-jaehriger-verletzt-729489047282",
+"source": "Basler Zeitung",
+"when": "Fri 15:16",
+"also": [
+"20 Minuten Basel"
+],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/4mtfwphjqPp8AXFrC9gw0X.jpg",
+"excerpt": "Beim Bahnhof Pratteln wurde in der Nacht auf Freitag ein 42-Jähriger bei einem Streit verletzt."
+},
+{
+"id": "f06c656bc15fc09a",
+"title": "Die ewige Nummer zwei – Bernhard Stirnemann: Ein Leben im Schatten von Mani Matter",
+"url": "https://www.srf.ch/news/schweiz/die-ewige-nummer-zwei-bernhard-stirnemann-ein-leben-im-schatten-von-mani-matter",
+"source": "SRF News",
+"when": "Fri 21:09",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/43234c.webp",
+"excerpt": "Seine Lieder werden oft Mani Matter zugeschrieben. Dabei hat Bernhard Stirnemann das Berner Chanson mitgeprägt."
+},
+{
+"id": "8976ce3ebaffa90a",
+"title": "Schweizer Uhrenindustrie – Die mysteriösen Uhrenlieferungen nach Frankreich",
+"url": "https://www.srf.ch/news/wirtschaft/schweizer-uhrenindustrie-die-mysterioesen-uhrenlieferungen-nach-frankreich",
+"source": "SRF News",
+"when": "Fri 20:41",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/09e3410.webp",
+"excerpt": "Die Uhrenexporte nach Frankreich steigen kometenhaft, um mehrere hundert Millionen Franken. Die Zahlen sind umstritten."
+},
+{
+"id": "028a2c54d2187037",
+"title": "Obwohl Richter Opfer glauben: Baselbieter Kantonsgericht spricht Jugendpfarrer teilweise frei",
+"url": "https://www.bazonline.ch/kantonsgericht-liestal-spricht-jugendpfarrer-teilweise-frei-220298830820",
+"source": "Basler Zeitung",
+"when": "Fri 19:52",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/6eAz_4RiquJ8lxN0QJCdDG.jpg",
+"excerpt": "Als kirchlicher Mitarbeiter betreute der Mann Jugendliche und erschlich sich über ein erfundenes SMS-Sorgentelefon Nacktbilder der Minderjährigen."
+},
+{
+"id": "6d8a8906ebd00645",
+"title": "Basler Herbstmesse: Ex-Schwinger und sein Bruder übernehmen Langs Kult-Wurststand",
+"url": "https://www.bazonline.ch/basler-herbstmesse-neues-duo-uebernimmt-bratwurststand-am-petersgraben-819143908250",
+"source": "Basler Zeitung",
+"when": "Fri 19:04",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/33JdaJJZaYHAT9rc-mwqOk.jpg",
+"excerpt": "Generationenwechsel an der Mäss: Henryc und Oliver Thoenen führen das Marktgeschäft von Theo Lang vor der Peterskirche fort."
+},
+{
+"id": "eac3cf4a79fdeb24",
+"title": "Macron spricht von einem «terroristischen und rassistischen Angriff»: mindestens ein Toter und fünf Verletzte nach Schüssen im Grossraum Paris",
+"url": "https://www.nzz.ch/panorama/schuesse-in-frankreich-mindestens-ein-toter-und-vier-verletzte-ld.10042596",
+"source": "NZZ",
+"when": "03:15",
+"also": [],
+"lang": "de",
+"image": "https://img-msp-prod.nzz.ch/2026/10/23/6829099f-6e86-4aa8-a049-02abe8e1db6a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3216,3216,x593,y0",
+"excerpt": "Unter den Verletzten ist auch ein zwölfjähriges Kind. Der mutmassliche Täter wurde festgenommen."
+},
+{
+"id": "71b3278cb0230545",
+"title": "Die beiden Wilden am Claraplatz",
+"url": "https://bajour.ch/a/herbstmesseaussenseiterinnen-am-claraplatz",
+"source": "Bajour",
+"when": "Fri 14:59",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a168d1-f87c-703d-8d33-9b832831ecc4?quality=80&sig=eNvbM1-cKteci03fyTHmTBGPh89fk5Hi62tjBGQV2dsCZbnEPMFrvTxVlc0FxHOPygctlURKuM-5Tr4IAvPlCQ",
+"excerpt": ""
+},
+{
+"id": "1bd986bec4cd32b3",
+"title": "Soll die Herbstmesse wachsen?",
+"url": "https://bajour.ch/a/soll-die-herbstmesse-wachsen",
+"source": "Bajour",
+"when": "Fri 08:56",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/45838a56-4703-41ed-ad8a-00dbcbef343f?quality=80&sig=5O12JtfyNvZuHyEopEoU9tHvf6x1EQP2bHiSKCIhl0MfMRiwIdEYBTmeu7zdVD8SmSg5tV10z6ra8Ra5korDBA",
+"excerpt": ""
+},
+{
+"id": "ccdf0baee931a773",
+"title": "Der Herbst spielt Diebinnen und Dieben in die Hände",
+"url": "https://www.bs.ch/medienmitteilungen/jsd/2026-der-herbst-spielt-diebinnen-und-dieben-die-haende",
+"source": "Kanton Basel-Stadt",
+"when": "Fri 18:52",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
+}
+]
+}
+],
+"lead": "4b6c9b3e5a113aeb"
+},
+{
+"id": "sport",
+"title": "Sport",
+"count": 12,
+"thin": false,
+"groups": [
+{
+"id": "cycling",
+"title": "Cycling",
+"items": [
+{
+"id": "c642d99b926d5521",
+"title": "EF Education-EasyPost sign Worlds medalist from Netcompany Ineos devo team, bring on Herzog from Red Bull",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/ef-education-easypost-sign-worlds-medalist-from-netcompany-ineos-devo-team-bring-on-herzog-from-red-bull/",
+"source": "Cyclingnews",
+"when": "Fri 22:38",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/aYC8rLc5q3CDA6dPBT4eRU-1920-80.jpg",
+"excerpt": "Former U23 Austrian national champion a third roster addition for 2027 boosting WorldTour squad"
+},
+{
+"id": "47f1b4227e75f782",
+"title": "'I will retire soon' – Marlen Reusser discusses future as she gives thumbs up to Paula Blasi's arrival at Movistar in 2027",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-will-retire-soon-marlen-reusser-discusses-future-as-she-gives-thumbs-up-to-paula-blasis-arrival-at-movistar-in-2027/",
+"source": "Cyclingnews",
+"when": "Fri 18:56",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/gzGoPqVWCxgEHkxVNjzKKV-1920-80.jpg",
+"excerpt": "Swiss time trialling giant expects to work well with new teammate for assault on next year's Tour de France Femmes"
+},
+{
+"id": "1384ddd7f17d7bb4",
+"title": "Fem van Empel leads Specialized TMRW cyclo-cross team set to 'open new pathways for the next generation' of road talent",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/fem-van-empel-leads-specialized-tmrw-cyclo-cross-team-set-to-open-new-pathways-for-the-next-generation-of-road-talent/",
+"source": "Cyclingnews",
+"when": "Fri 18:16",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/nJzog6cHQbyBPHVoMXRBkK-1920-80.jpg",
+"excerpt": "Quartet of FDJ United-SUEZ riders part of launch for multi-disciplinary development project"
+},
+{
+"id": "5a9a12d1ccb144db",
+"title": "Moto and Mountain Bike Icon Öhlins Debuts a Lust-Worthy Gravel Fork",
+"url": "https://velo.outsideonline.com/gravel/gravel-gear/ohlins-enters-gravel-suspension-gxf-m-1-l-fork/",
+"source": "Velo",
+"when": "Fri 22:09",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/2026.10.12-Il-GXF30-M.1-Studio-Credits-@billy_lebelge-3-scaled-e1792784821639.jpg?width=1200",
+"excerpt": ""
+},
+{
+"id": "10ccc376719fd55c",
+"title": "Anti-Pogačar Tour? ‘We Want to Keep the Suspense,’ Says Prudhomme",
+"url": "https://velo.outsideonline.com/road/road-racing/tour-de-france/anti-pogacar-tour-we-want-to-keep-the-suspense-says-prudhomme/",
+"source": "Velo",
+"when": "Fri 20:33",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/pogacar-prudhomme.jpg?width=1200",
+"excerpt": ""
+},
+{
+"id": "323a9b5cefa551b6",
+"title": "Gallery: Cyclocross culture in the spotlight at Nacht van Woerden",
+"url": "https://escapecollective.com/gallery-cyclocross-culture-in-the-spotlight-at-nacht-van-woerden/",
+"source": "Escape Collective",
+"when": "Fri 19:40",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/10/A-Crow-Photography---Nacht-van-Woerden-2026---Kermis-1.jpg",
+"excerpt": "Nacht van Woerden isn't the most important or most serious race on the calendar. But what it represents is vital to the sport."
+},
+{
+"id": "5744c241caa89e61",
+"title": "Van Empel, Gery, and other FDJ United-Suez riders will race 'cross with new Specialized TMRW project",
+"url": "https://escapecollective.com/van-empel-gery-and-other-fdj-united-suez-riders-will-race-cross-with-new-specialized-tmrw-project/",
+"source": "Escape Collective",
+"when": "Fri 18:07",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
+}
+]
+},
+{
+"id": "teams",
+"title": "Teams",
+"items": [
+{
+"id": "6592b36989637205",
+"title": "After Further Review: Drake Maye film breakdown, defense review and quick-hit film notes from Week 7 loss to the Bears",
+"url": "https://www.patriots.com/news/after-further-review-drake-maye-film-breakdown-defense-review-and-quick-hit-film-notes-from-week-7-loss-to-the-bears",
+"source": "Patriots.com",
+"when": "Fri 23:50",
+"also": [],
+"lang": "en",
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/jiwzclrjwsib8k80bxvw.jpg",
+"excerpt": "Film review of Drake Maye and the Patriots defense from Thursday night's loss to the Bears in Chicago."
+},
+{
+"id": "fda8d2275d95ace4",
+"title": "Mållöst mot IF Elfsborg: ”Blir lite upp och ner”",
+"url": "https://www.mff.se/nyheter/mallost-mot-if-elfsborg-blir-lite-upp-och-ner-2026-10-23/",
+"source": "Malmö FF",
+"when": "Fri 21:28",
+"also": [],
+"lang": "sv",
+"image": "https://cdn.mff.se/2026/10/BB261023JJ065.jpg",
+"excerpt": ""
+},
+{
+"id": "7cbb557fe5003cc1",
+"title": "Storförlust mot Schweiz",
+"url": "https://www.svenskfotboll.se/nyheter/landslag/2026/10/p15ft_swe-sui/",
+"source": "SvFF",
+"when": "Fri 18:52",
+"also": [],
+"lang": "sv",
+"image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4aa5b1/globalassets/svff/bilderblock/2610/wiltonwesterlund.jpg",
+"excerpt": ""
+},
+{
+"id": "9f58e3b187424a21",
+"title": "Tolle answered your questions ahead of the World Series. Here are his best responses",
+"url": "https://www.mlb.com/redsox/news/payton-tolle-answers-fan-questions-in-reddit-ama",
+"source": "MLB.com",
+"when": "Fri 18:08",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/zpkuczmjp9hyyyok5exd.jpg",
+"excerpt": ""
+}
+]
+},
+{
+"id": "cfb",
+"title": "College football",
+"items": []
+},
+{
+"id": "sumo",
+"title": "Sumo",
+"items": [
+{
+"id": "b2b55c31e9441600",
+"title": "Kyushu 2026: A New Crop Arrives in Makushita",
+"url": "https://tachiai.org/2026/10/23/kyushu-2026-a-new-crop-arrives-in-makushita/",
+"source": "Tachiai",
+"when": "Fri 21:00",
+"also": [],
+"lang": "en",
+"image": "https://i0.wp.com/tachiai.org/wp-content/uploads/2023/12/Shin-Makushita_15.jpg?fit=900%2C600&ssl=1",
+"excerpt": ""
+}
+]
+}
+],
+"lead": "c642d99b926d5521"
+},
+{
+"id": "chess",
+"title": "Chess",
+"count": 8,
+"thin": false,
+"groups": [
+{
+"id": "chess",
+"title": null,
+"items": [
+{
+"id": "44ea01509f749a7a",
+"title": "European Club Cup - Live!",
+"url": "https://en.chessbase.com/post/european-club-cup-2026-live",
+"source": "ChessBase",
+"when": "Fri 16:00",
+"also": [
+"Chess.com",
+"The Week in Chess"
+],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/132802_l200",
+"excerpt": ""
+},
+{
+"id": "70dd6d0b3d2fabef",
+"title": "Niemann Wins Freestyle Friday, Preventing Movahed Repeat",
+"url": "https://www.chess.com/news/view/niemann-wins-freestyle-friday-october-23-2026",
+"source": "Chess.com",
+"when": "01:08",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2248053.1e3f8a37.5000x5000o.c5973fa6182f.png",
+"excerpt": ""
+},
+{
+"id": "d03113e68283fe80",
+"title": "FIDE extends fee waiver for Rapid and Blitz through 2027",
+"url": "https://www.fide.com/fide-extends-fee-waiver-for-rapid-and-blitz-through-2027/",
+"source": "FIDE",
+"when": "Fri 12:56",
+"also": [],
+"lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/FIDE-Blue-3.png",
+"excerpt": ""
+},
+{
+"id": "48a33431d8710976",
+"title": "Wesley So beats Fabiano Caruana in tiebreaks, wins fourth US Chess Championship title",
+"url": "https://en.chessbase.com/post/us-championships-2026-14",
+"source": "ChessBase",
+"when": "Fri 18:05",
+"also": [
+"Chess.com"
+],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/132904_l200",
+"excerpt": ""
+},
+{
+"id": "c41f4cc028fc684b",
+"title": "2026 U.S. Championship: Wesley So and Rachael Li claim titles",
+"url": "https://www.fide.com/2026-u-s-championship-wesley-so-and-rachael-li-claim-titles/",
+"source": "FIDE",
+"when": "Fri 14:10",
+"also": [],
+"lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/US-2026-FRONT.jpg",
+"excerpt": ""
+},
+{
+"id": "9e30c01cafaa2bd8",
+"title": "Nakamura Wins With 'GOAT Horns'; Caruana, Maghsoodloo Repeat In 3 0 Thursday",
+"url": "https://www.chess.com/news/view/nakamura-caruana-maghsoodloo-3-0-thursday-10-22-2026",
+"source": "Chess.com",
+"when": "01:18",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2248185.ec7a74fd.5000x5000o.27e0ffde871b.png",
+"excerpt": ""
+},
+{
+"id": "a157615a8559f406",
+"title": "Bodhana, 11, Breaks Judit Polgar’s Record To Become Youngest Female IM In History",
+"url": "https://www.chess.com/news/view/bodhana-sivanandan-youngest-female-international-master",
+"source": "Chess.com",
+"when": "Fri 21:48",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2248065.ff4143a1.5000x5000o.28486a5ff302.jpg",
+"excerpt": ""
+},
+{
+"id": "0bab6fe57d6aaf56",
+"title": "Rachel Li wins US Women's Championship on her debut",
+"url": "https://en.chessbase.com/post/us-championships-2026-13",
+"source": "ChessBase",
+"when": "Fri 05:50",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/132899_l200",
+"excerpt": ""
+}
+]
+}
+],
+"lead": "44ea01509f749a7a"
+},
+{
+"id": "ai",
+"title": "AI",
+"count": 8,
+"thin": false,
+"groups": [
+{
+"id": "ai",
+"title": null,
+"items": [
+{
+"id": "6a4800e8cf23281d",
+"title": "Real-time energy trading and analytics on Databricks",
+"url": "https://www.databricks.com/blog/real-time-energy-trading-and-analytics-databricks",
+"source": "Databricks",
+"when": "Fri 21:00",
+"also": [],
+"lang": "en",
+"image": "https://www.databricks.com/sites/default/files/blog_images/real-time-energy-trading-and-analytics-on-blog-img-og.png",
+"excerpt": "Why does real-time energy trading need more than faster data?Energy trading desks..."
+},
+{
+"id": "8b3db390a6873d83",
+"title": "Built for Agents: The Case for Spark Declarative Pipelines",
+"url": "https://www.databricks.com/blog/built-agents-case-spark-declarative-pipelines",
+"source": "Databricks",
+"when": "Fri 21:00",
+"also": [],
+"lang": "en",
+"image": "https://www.databricks.com/sites/default/files/2026-10/2026-10-Blog-Built-for-Agents-The-Case-for-Spark-Declarative-Pipelines-OG-1200x628-2x.png",
+"excerpt": "AI agents now write a growing share of production data pipelines (over 70% of SDP..."
+},
+{
+"id": "ff73d29a9964afd8",
+"title": "MemCurrent: Designing Persistent Memory for Production Agents",
+"url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+"source": "Databricks",
+"when": "Tue 20:15",
+"also": [],
+"lang": "en",
+"image": "https://www.databricks.com/sites/default/files/2026-10/2026-10-Blog-Introducing-MemCurrent-A-Benchmark-and-Memory-System-for-Enterprise-Agents-OG-1200x628-2-2x.png",
+"excerpt": "AI tools have made it easy to vibe code agents. Building and maintaining an enterprise..."
+},
+{
+"id": "6443bfdad7f92bb0",
+"title": "How Finance Cut Forecasting to Hours With AI",
+"url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/sales-finance-ai-forecast",
+"source": "Snowflake blog",
+"when": "Fri 21:58",
+"also": [],
+"lang": "en",
+"image": "https://www.snowflake.com/content/dam/snowflake-site/blog/2026/10/sales-finance-ai-forecast/line-chart-comparing-cost-per-prompt-by-steps-to-answer.webp",
+"excerpt": "See how Snowflake's sales finance team used AI to cut its monthly forecast from more than a week to a few hours, and what it took to get there."
+},
+{
+"id": "277723d211fea1de",
+"title": "Donating Agent Skills to the Agentic AI Foundation",
+"url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+"source": "Simon Willison",
+"when": "Thu 20:09",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
+},
+{
+"id": "5830843e0d05f048",
+"title": "Making the case for context-aware AI",
+"url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+"source": "MIT Technology Review",
+"when": "Thu 12:00",
+"also": [],
+"lang": "en",
+"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
+"excerpt": ""
+},
+{
+"id": "98f9d8f2c692634b",
+"title": "Quick Study",
+"url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+"source": "Simon Willison",
+"when": "Fri 23:35",
+"also": [],
+"lang": "en",
+"image": "https://static.simonwillison.net/static/2026/heron-oil.webp",
+"excerpt": ""
+},
+{
+"id": "a66bdb93eff9439c",
+"title": "Introducing Kimi K3.1 Pro",
+"url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+"source": "Simon Willison",
+"when": "Fri 21:40",
+"also": [],
+"lang": "en",
+"image": "https://static.simonwillison.net/static/2026-10-23/image-2.png",
+"excerpt": ""
+}
+]
+}
+],
+"lead": "6a4800e8cf23281d"
+},
+{
+"id": "rd",
+"title": "R&D",
+"count": 8,
+"thin": false,
+"groups": [
+{
+"id": "rd",
+"title": null,
+"items": [
+{
+"id": "faad35ad402168e5",
+"title": "ESMO: GSK cancer R&D chief says mo-rez data ‘reinforces our belief’ in ADC as phase 3 push ramps up",
+"url": "https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc",
+"source": "Fierce Biotech",
+"when": "03:33",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GSK%20ESMO.jpg?VersionId=cPXHRHPjNhePLQmiX0RePvDyiWbWN73E",
+"excerpt": ""
+},
+{
+"id": "9e7abdca8849c0b9",
+"title": "Windward Bio files for Nasdaq IPO to fund China-derived assets and in-house R&D",
+"url": "https://endpoints.news/windward-bio-files-for-nasdaq-ipo-to-fund-china-derived-assets-and-in-house-rd/",
+"source": "Endpoints News",
+"when": "01:15",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/05/Luca-Santarelli-Windward-Bio-tile.jpg",
+"excerpt": ""
+},
+{
+"id": "184b9d3c8172cbae",
+"title": "ESMO: Takeda’s $1.2B bet on Innovent ‘absolutely’ pays off with details of ADC’s phase 3 win",
+"url": "https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win",
+"source": "Fierce Biotech",
+"when": "Fri 18:52",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/IMG_0609.jpg?VersionId=dygDRlklYc_F5Xmm5LzL4CszbFlM1MIN",
+"excerpt": ""
+},
+{
+"id": "c7c361254893ea15",
+"title": "Bolt makes inflammation play with Prana reverse merger, $120M financing",
+"url": "https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies",
+"source": "Fierce Biotech",
+"when": "Fri 18:52",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/2016-10/lightning-399853_1280_0.jpg?VersionId=AeqEDBIn31dJtSlcRUxMqn5qd4ivVRyI",
+"excerpt": ""
+},
+{
+"id": "c8b5d0d3ed4fb5c3",
+"title": "Roche taps Zymeworks in up to $813M deal for preclinical T cell engager",
+"url": "https://endpoints.news/roche-taps-zymeworks-in-up-to-813m-deal-for-preclinical-t-cell-engager/",
+"source": "Endpoints News",
+"when": "Fri 17:03",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/10/Kenneth-Galbraith-Zymeworks-tile.jpeg",
+"excerpt": ""
+},
+{
+"id": "7d105ee3ee59d8b7",
+"title": "Biotech takes a hit as dealmakers take a knee in Q3",
+"url": "https://endpoints.news/biotech-takes-a-hit-as-dealmakers-take-a-knee-in-q3/",
+"source": "Endpoints News",
+"when": "Fri 15:00",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2024/04/Market-stagnating-slowdown-shutterstock-1.jpg",
+"excerpt": ""
+},
+{
+"id": "912820e934ad8bf2",
+"title": "GSK's double FDA win, Roche's $15B deal and the rise of point-of-care marketing",
+"url": "https://www.fiercepharma.com/pharma/gsks-double-fda-win-roches-15b-deal-and-rise-point-care-marketing",
+"source": "Fierce Pharma",
+"when": "Fri 18:52",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/yellow_background_ttl_1.png?VersionId=Z.PGPSD_l.ox_asu3hEbyryfFxP8nWYz",
+"excerpt": "This week on \"The Top Line,\" we cover GSK's pair of FDA approvals, Roche's $15 billion ADC deal and the rise of point-of-care pharma marketing."
+},
+{
+"id": "330b82a9c248375f",
+"title": "Fierce Pharma Asia—US Treasury homes in on China deals; Hengrui's secret sauce; Samsung Bio's strike developments",
+"url": "https://www.fiercepharma.com/pharma/fierce-pharma-asia-us-treasury-homes-china-deals-hengruis-secret-sauce-samsung-bios-strike",
+"source": "Fierce Pharma",
+"when": "Fri 18:52",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/Asia_0.jpg?VersionId=V0Qcs49QmzIJakvwVvX4vzNOQ4n_adir",
+"excerpt": ""
+}
+]
+}
+],
+"lead": "faad35ad402168e5"
+}
+],
+"weather": {
+"place": "Münchenstein",
+"today": {
+"date": "2026-10-24",
+"dow": "Today",
+"dm": "24.10.",
+"label": "Light showers",
+"icon": "🌦️",
+"hi": 11,
+"lo": 7,
+"rain_mm": 1.9,
+"rain_pct": 90,
+"wind": 21,
+"uv": 2,
+"sunrise": "08:01",
+"sunset": "18:25",
+"bar_l": 28,
+"bar_w": 22
+},
+"slots": [
+{
+"name": "Morning",
+"temp": 7,
+"icon": "🌦️",
+"label": "Light rain",
+"rain_pct": 90
+},
+{
+"name": "Afternoon",
+"temp": 10,
+"icon": "☁️",
+"label": "Overcast",
+"rain_pct": 88
+},
+{
+"name": "Evening",
+"temp": 10,
+"icon": "☁️",
+"label": "Overcast",
+"rain_pct": 18
+}
+],
+"days": [
+{
+"date": "2026-10-24",
+"dow": "Today",
+"dm": "24.10.",
+"label": "Light showers",
+"icon": "🌦️",
+"hi": 11,
+"lo": 7,
+"rain_mm": 1.9,
+"rain_pct": 90,
+"wind": 21,
+"uv": 2,
+"sunrise": "08:01",
+"sunset": "18:25",
+"bar_l": 28,
+"bar_w": 22
+},
+{
+"date": "2026-10-25",
+"dow": "Sun",
+"dm": "25.10.",
+"label": "Light showers",
+"icon": "🌦️",
+"hi": 17,
+"lo": 9,
+"rain_mm": 12.3,
+"rain_pct": 100,
+"wind": 31,
+"uv": 1,
+"sunrise": "08:02",
+"sunset": "18:23",
+"bar_l": 39,
+"bar_w": 44
+},
+{
+"date": "2026-10-26",
+"dow": "Mon",
+"dm": "26.10.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 13,
+"lo": 6,
+"rain_mm": 0,
+"rain_pct": 8,
+"wind": 10,
+"uv": 3,
+"sunrise": "08:04",
+"sunset": "18:22",
+"bar_l": 22,
+"bar_w": 39
+},
+{
+"date": "2026-10-27",
+"dow": "Tue",
+"dm": "27.10.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 20,
+"lo": 5,
+"rain_mm": 0,
+"rain_pct": 14,
+"wind": 6,
+"uv": 3,
+"sunrise": "08:05",
+"sunset": "18:20",
+"bar_l": 17,
+"bar_w": 83
+},
+{
+"date": "2026-10-28",
+"dow": "Wed",
+"dm": "28.10.",
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 14,
+"lo": 7,
+"rain_mm": 0.9,
+"rain_pct": 35,
+"wind": 13,
+"uv": 1,
+"sunrise": "08:07",
+"sunset": "18:18",
+"bar_l": 28,
+"bar_w": 39
+},
+{
+"date": "2026-10-29",
+"dow": "Thu",
+"dm": "29.10.",
+"label": "Fog",
+"icon": "🌫️",
+"hi": 15,
+"lo": 4,
+"rain_mm": 0,
+"rain_pct": 0,
+"wind": 8,
+"uv": 2,
+"sunrise": "08:08",
+"sunset": "18:17",
+"bar_l": 11,
+"bar_w": 61
+},
+{
+"date": "2026-10-30",
+"dow": "Fri",
+"dm": "30.10.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 14,
+"lo": 4,
+"rain_mm": 0,
+"rain_pct": 0,
+"wind": 9,
+"uv": 3,
+"sunrise": "08:10",
+"sunset": "18:15",
+"bar_l": 11,
+"bar_w": 56
+},
+{
+"date": "2026-10-31",
+"dow": "Sat",
+"dm": "31.10.",
+"label": "Light drizzle",
+"icon": "🌦️",
+"hi": 10,
+"lo": 2,
+"rain_mm": 0.3,
+"rain_pct": 8,
+"wind": 4,
+"uv": 3,
+"sunrise": "08:11",
+"sunset": "18:14",
+"bar_l": 0,
+"bar_w": 44
+},
+{
+"date": "2026-11-01",
+"dow": "Sun",
+"dm": "01.11.",
+"label": "Drizzle",
+"icon": "🌦️",
+"hi": 12,
+"lo": 4,
+"rain_mm": 6.3,
+"rain_pct": 16,
+"wind": 19,
+"uv": 2,
+"sunrise": "08:13",
+"sunset": "18:12",
+"bar_l": 11,
+"bar_w": 44
+},
+{
+"date": "2026-11-02",
+"dow": "Mon",
+"dm": "02.11.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 10,
+"lo": 2,
+"rain_mm": 0,
+"rain_pct": 16,
+"wind": 5,
+"uv": 2,
+"sunrise": "08:14",
+"sunset": "18:10",
+"bar_l": 0,
+"bar_w": 44
+}
+],
+"lo": 2,
+"hi": 20
+}
 }
 }
