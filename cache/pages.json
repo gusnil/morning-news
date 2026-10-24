@@ -1971,10 +1971,10 @@
 },
 "2026-10-24": {
 "date": "2026-10-24",
-"built_at": "2026-10-24T13:34:35.495457+00:00",
-"built_local": "15:34",
-"edition": "Midday",
-"feeds_ok": 55,
+"built_at": "2026-10-24T18:21:49.380216+00:00",
+"built_local": "20:21",
+"edition": "Evening",
+"feeds_ok": 54,
 "feeds_total": 55,
 "sections": [
 {
@@ -1987,6 +1987,21 @@
 "id": "world",
 "title": null,
 "items": [
+{
+"id": "0bfe30ffd96b377e",
+"title": "France: Clashes erupt as protests sweep across cities",
+"url": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities",
+"source": "France 24",
+"when": "19:50",
+"also": [
+"The Hindu",
+"DW",
+"Africanews"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/ad139170-cfd4-11f1-892a-bdb9616e85cf/w:1024/p:16x9/Clashes-1.jpg",
+"excerpt": ""
+},
 {
 "id": "c9e4566a99196cde",
 "title": "Typhoon Champi batters Taiwan",
@@ -2006,21 +2021,6 @@
 "excerpt": ""
 },
 {
-"id": "c497e10c18e6ccfe",
-"title": "Fresh protests across France",
-"url": "https://www.france24.com/en/fresh-protests-across-france",
-"source": "France 24",
-"when": "15:22",
-"also": [
-"The Hindu",
-"DW",
-"Africanews"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/768058f4-cfad-11f1-a89f-bba4eee3dc72/w:1024/p:16x9/EN-20261024-142251-142443-CS.jpg",
-"excerpt": ""
-},
-{
 "id": "be2fb88559d88a8a",
 "title": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
 "url": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss",
@@ -2028,6 +2028,7 @@
 "when": "13:01",
 "also": [
 "DW",
+"SCMP",
 "BBC World"
 ],
 "lang": "en",
@@ -2050,17 +2051,17 @@
 "excerpt": "The remaining seven Ebola patients were receiving treatment at two isolation facilities. No new infections were reported"
 },
 {
-"id": "5980d8256870d3aa",
-"title": "Israel launches major West Bank operation after soldiers killed",
-"url": "https://www.thehindu.com/news/international/israel-launches-major-west-bank-operation-after-soldiers-killed/article71619178.ece",
+"id": "cf5fefc2e6950c46",
+"title": "Trump lifts some Canada tariffs ahead of midterms",
+"url": "https://www.thehindu.com/news/international/trump-lifts-some-canada-tariffs-ahead-of-midterms/article71618930.ece",
 "source": "The Hindu",
-"when": "08:15",
+"when": "14:56",
 "also": [
-"SCMP"
+"DW"
 ],
 "lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/96jj3b/article71619196.ece/alternates/LANDSCAPE_1200/2026-10-23T130037Z_1034857931_RC209OAB5IX5_RTRMADP_3_ISRAEL-PALESTINIANS-HEBRON-SETTLERS.JPG",
-"excerpt": "The operation \"is expected to continue for several days,\" a statement, released late on Friday (October 23, 2026), said"
+"image": "https://th-i.thgim.com/public/incoming/bpe6sg/article71618929.ece/alternates/LANDSCAPE_1200/Trump_536_8.jpg",
+"excerpt": ""
 },
 {
 "id": "c30e27320a02d023",
@@ -2102,14 +2103,14 @@
 "excerpt": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky."
 },
 {
-"id": "a7529bd242673766",
-"title": "Two 'unauthorised' oil tankers struck in Strait of Hormuz, Iran says",
-"url": "http://www.africanews.com/2026/10/24/two-unauthorised-oil-tankers-struck-in-strait-of-hormuz-iran-says/",
+"id": "b3b985702e8807dd",
+"title": "Haiti's ex-president Martelly registers as candidate for upcoming election",
+"url": "http://www.africanews.com/2026/10/24/haitis-ex-president-martelly-registers-as-candidate-for-upcoming-election/",
 "source": "Africanews",
-"when": "11:27",
+"when": "16:09",
 "also": [],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/96/53/78/640x360_cmsv2_3e011556-9faa-5324-901d-38aca68078a6-9965378.jpg?1792809089",
+"image": "https://images.euronews.com/articles/stories/09/96/53/72/640x360_cmsv2_fa52cce4-4fb9-5485-b1f8-75a4f2cb2d82-9965372.jpg?1792808208",
 "excerpt": ""
 },
 {
@@ -2126,7 +2127,7 @@
 ]
 }
 ],
-"lead": "c9e4566a99196cde"
+"lead": "0bfe30ffd96b377e"
 },
 {
 "id": "basel",
@@ -2138,6 +2139,50 @@
 "id": "basel",
 "title": null,
 "items": [
+{
+"id": "a703f1b4fd7ab490",
+"title": "Sturmgefahr an Basler Herbstmesse: «Grosser Verlust, aber sinnvoll» – Schaustellerin bedauert Schliessung am Sonntag",
+"url": "https://www.bazonline.ch/basler-herbstmesse-sturmwarnung-schliesst-drei-standorte-722907268517",
+"source": "Basler Zeitung",
+"when": "19:15",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/77h62pQ-K5uBI2BSONvAs3.jpg",
+"excerpt": ""
+},
+{
+"id": "5ae9f28478a86e56",
+"title": "Grosseinsatz beim Kannenfeldplatz: Mann stürzt in Basel auf Gleise – Zug evakuiert",
+"url": "https://www.bazonline.ch/basel-mann-stuerzt-auf-gleise-am-kannenfeldplatz-368378352240",
+"source": "Basler Zeitung",
+"when": "17:49",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/7Ut80SDg4ky9hj8H7gLHkm.jpg",
+"excerpt": "Der noch nicht identifizierte Mann geriet aus noch ungeklärten Gründen auf die Gleise der Elsässerbahn und verletzte sich schwer."
+},
+{
+"id": "9546989739f9b85d",
+"title": "Weisse oder grüne Weihnachten? – Die Winterprognosen der Muotathaler Wetterschmöcker",
+"url": "https://www.srf.ch/radio-srf-musikwelle/weisse-oder-gruene-weihnachten-die-winterprognosen-der-muotathaler-wetterschmoecker",
+"source": "SRF News",
+"when": "17:04",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/a56911.webp",
+"excerpt": "Die sechs Muotathaler Wetterschmöcker geben ihre Prognosen für das Winterhalbjahr ab."
+},
+{
+"id": "7f1039da702223b8",
+"title": "FDP-Spitze zu Bundesratswahl – Zögern vor der Kandidatur «nicht gerade ein Empfehlungsschreiben»",
+"url": "https://www.srf.ch/news/schweiz/fdp-spitze-zu-bundesratswahl-zoegern-vor-der-kandidatur-nicht-gerade-ein-empfehlungsschreiben",
+"source": "SRF News",
+"when": "15:53",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/34246c0.webp",
+"excerpt": "Die FDP-Co-Präsidentin hofft, dass SVP-Fraktionschef Thomas Aeschis bald zu- oder absagt als Bundesratskandidat."
+},
 {
 "id": "61bf799305828dbc",
 "title": "Besprechung von «West Side Story»: Ein alter Stoff mit grossartiger Musik ins rechte Licht gesetzt",
@@ -2161,47 +2206,25 @@
 "excerpt": "Von müden Beschäftigten bis zu veränderten Melkzeiten: Die Zeitumstellung hat auch wirtschaftliche Folgen."
 },
 {
-"id": "56a57aea94ec7865",
-"title": "Astbruchgefahr an Herbstmesse: Sturmwarnung: Diese Plätze bleiben morgen geschlossen",
-"url": "https://www.bazonline.ch/herbstmesse-basel-petersplatz-wegen-sturmwarnung-gesperrt-989537413969",
-"source": "Basler Zeitung",
-"when": "14:12",
+"id": "42695dee771b3f9e",
+"title": "Mann nach Sturz von Zug erfasst",
+"url": "https://www.bs.ch/medienmitteilungen/2026-mann-nach-sturz-von-zug-erfasst",
+"source": "Kanton Basel-Stadt",
+"when": "20:21",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/FPP1QnF9qI3B81zZpinaSx.jpg",
-"excerpt": "Wegen der Gefahr von herabfallenden Ästen sind am Sonntag nicht alle Plätze auf der Mäss offen."
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
 },
 {
-"id": "fd62d106d5c1288f",
-"title": "25 Jahre Gotthardtunnel-Brand – «Als die Rauchwalze auf uns zurollte, bekam ich Angst»",
-"url": "https://www.srf.ch/news/schweiz/25-jahre-gotthardtunnel-brand-als-die-rauchwalze-auf-uns-zurollte-bekam-ich-angst",
-"source": "SRF News",
-"when": "13:00",
+"id": "d14bf6e786b96fc4",
+"title": "DIE NEUESTEN ENTWICKLUNGEN - Proteste in Frankreich: Die Polizei nimmt bei Demonstrationen im ganzen Land 135 Personen fest",
+"url": "https://www.nzz.ch/international/neue-schuelerproteste-in-frankreich-droht-eine-ausweitung-der-ausschreitungen-ld.10026904",
+"source": "NZZ",
+"when": "19:53",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/2a2f90.webp",
-"excerpt": "Ex-Feuerwehrmann Xaver Bühlmann war beim Brand im Gotthardtunnel im Herbst 2001 als einer der Ersten vor Ort."
-},
-{
-"id": "89e34ceaeacda9e6",
-"title": "Die etwas anderen News – Elon Düsentrieb hat ein neues Auto vorgestellt",
-"url": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-elon-duesentrieb-hat-ein-neues-auto-vorgestellt",
-"source": "SRF News",
-"when": "12:29",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/09f973.webp",
-"excerpt": "Musk hebt nicht nur ab, er klebt mit seinem neuesten Auto wie eine Stubenfliege an der Wand. Wo ist die Fliegenklatsche?"
-},
-{
-"id": "bacd5c8bf284468d",
-"title": "Zukunftstag Region Basel: Coiffeur-Tag nur für Jungen, Gewässerschutz nur für Mädchen",
-"url": "https://www.bazonline.ch/zukunftstag-plattform-zeigt-maedchen-andere-berufe-als-jungs-237116231093",
-"source": "Basler Zeitung",
-"when": "11:56",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/3beYRlHKqVE90EmXc5Trxh.jpg",
+"image": "https://img-msp-prod.nzz.ch/2026/10/24/620f2c6e-39ef-48c0-8414-c3c2e4a13140.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3544,3544,x641,y0",
 "excerpt": ""
 },
 {
@@ -2216,17 +2239,6 @@
 "excerpt": ""
 },
 {
-"id": "ff4232bfcad422cc",
-"title": "Weltcup-Auftakt: Premierensieg für Paula Moltzan – Camille Rast vergibt im zweiten Lauf den Podestplatz",
-"url": "https://www.nzz.ch/sport/eine-amerikanerin-ueberrascht-zum-weltcup-auftakt-in-soelden-die-schweizerinnen-gehen-leer-aus-ld.10043515",
-"source": "NZZ",
-"when": "15:32",
-"also": [],
-"lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/10/24/1e0b8add-4fe7-4d36-89f1-df3b458cd5aa.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3175,3175,x719,y0",
-"excerpt": ""
-},
-{
 "id": "5c1575246e601aa9",
 "title": "Polizeieinsatz am Kannenfeldplatz – Grund noch unklar",
 "url": "https://www.20min.ch/story/basel-stadt-polizeieinsatz-am-kannenfeldplatz-grund-noch-unklar-103655233",
@@ -2236,22 +2248,11 @@
 "lang": "de",
 "image": "https://image.20min.ch/2026/10/24/fb01b24d-069a-4541-8435-f0ba4f0bfa20.jpg?s=d0da667d88f36ec201d664f71cef1902",
 "excerpt": ""
-},
-{
-"id": "08db2f74e65f43e8",
-"title": "Mehrere Plätze am Sonntag wegen Sturmwarnung gesperrt",
-"url": "https://onlinereports.ch/a/basler-herbstmesse-mehrere-plaetze-am-sonntag-wegen-sturmwarnung-gesperrt",
-"source": "OnlineReports",
-"when": "15:12",
-"also": [],
-"lang": "de",
-"image": "https://media-onlinereports.wepublish.cloud/01a16e09-5e78-719d-b7fc-5023d26d647b?quality=80&sig=pge9TwD6mbWLjFiv-z4t9Zwnh1dAygUZwGmbH3nvjHpOhcwqoXP4JS1DAqqMDp9ntJfv1NtA4c3ovQ6LrXkECQ",
-"excerpt": ""
 }
 ]
 }
 ],
-"lead": "61bf799305828dbc"
+"lead": "a703f1b4fd7ab490"
 },
 {
 "id": "sport",
@@ -2264,6 +2265,28 @@
 "title": "Cycling",
 "items": [
 {
+"id": "8583dc4c46dd3b2f",
+"title": "Elisa Longo Borghini wins eighth Italian time trial title in Piasco",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/elisa-longo-borghini-wins-eighth-italian-time-trial-title-in-piasco/",
+"source": "Cyclingnews",
+"when": "18:25",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/t3PQA9hBVTfpvucKrFM2QF-1920-80.jpg",
+"excerpt": "Alessia Vigilia is second and Letizia Borghesi takes third as Giada Silo wins U23 title"
+},
+{
+"id": "57729e7cd46ea25b",
+"title": "HG Cross Heerderstrand: Joran Wyseure outpowers Joris Nieuwenhuis to claim first win of the season",
+"url": "https://www.cyclingnews.com/pro-cycling/racing/hg-cross-heerderstrand-joran-wyseure-outpowers-joris-nieuwenhuis-to-claim-first-win-of-the-season/",
+"source": "Cyclingnews",
+"when": "16:51",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/whkhf3uKjJtWZCHzDrBru7-1920-80.jpg",
+"excerpt": "Niels Vandeputte takes third as 18-yers old Giel Lejeune impresses with fifth place"
+},
+{
 "id": "9faa9a3c14165867",
 "title": "HG Cross Heerderstrand: Ceylin del Carmen Alvarado delivers assured ride to triumph in elite women's race",
 "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/hg-cross-heerderstrand-ceylin-del-carmen-alvarado-delivers-assured-ride-to-triumph-in-elite-womens-race/",
@@ -2275,26 +2298,26 @@
 "excerpt": "Betsema and van Alphen sprint for second as van Empel continues comeback trail in fifth"
 },
 {
-"id": "bb99729771237f4f",
-"title": "Tom Pidcock finishes career-best fifth in UCI rankings with Pinarello Q36.5 bringing in major reinforcements for 2027",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/tom-pidcock-finishes-career-best-fifth-in-uci-rankings-with-pinarello-q36-5-bringing-in-major-reinforcements-for-2027/",
-"source": "Cyclingnews",
-"when": "14:23",
+"id": "93e541d62c4e5433",
+"title": "Why Flying With a Bike is Always a Gamble (And How to Improve Your Odds)",
+"url": "https://velo.outsideonline.com/road/road-gear/how-to-fly-with-a-bike-tsa-liability/",
+"source": "Velo",
+"when": "19:51",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/6uXBC87wAbSDu6eEC7oZzM-1920-80.jpg",
-"excerpt": "British rider leads Swiss ProTeam to 12th in rankings, ahead of six WorldTour teams"
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/DSC_7300.jpg?width=1200",
+"excerpt": ""
 },
 {
-"id": "50d2bbd2c259c1e7",
-"title": "'An alien like Tadej Pogačar might be able to do it' – Red Bull boss Denk would prefer Remco Evenepoel doesn't do Giro d'Italia-Tour de France double in 2027",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/an-alien-like-tadej-pogacar-might-be-able-to-do-it-red-bull-boss-denk-would-prefer-remco-evenepoel-doesnt-do-giro-d-italia-tour-de-france-double-in-2027/",
-"source": "Cyclingnews",
-"when": "14:11",
+"id": "f2c9ec75aa734313",
+"title": "Two More Teams Said to Be Interested in Roglič, Including a Major Wildcard",
+"url": "https://velo.outsideonline.com/road/road-racing/primoz-roglic-more-possible-offers/",
+"source": "Velo",
+"when": "18:18",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/8nBaDjo9EWHJEsSjzFrpZ6-1920-80.jpg",
-"excerpt": "Belgian looks set to return to the Tour after runner-up finish in 2026, but could he also go back to the Giro for first time since 2023?"
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/GettyImages-2299645249.jpg?width=1200",
+"excerpt": ""
 },
 {
 "id": "055596e6fc39431b",
@@ -2317,28 +2340,6 @@
 "lang": "en",
 "image": "https://escapecollective.com/content/images/2026/10/how-to-see-tour-de-france-in-person-4198-1.jpg",
 "excerpt": "How to be a good tourist at the 2027 Tour de France."
-},
-{
-"id": "5a9a12d1ccb144db",
-"title": "Moto and Mountain Bike Icon Öhlins Debuts a Lust-Worthy Gravel Fork",
-"url": "https://velo.outsideonline.com/gravel/gravel-gear/ohlins-enters-gravel-suspension-gxf-m-1-l-fork/",
-"source": "Velo",
-"when": "Fri 22:09",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/2026.10.12-Il-GXF30-M.1-Studio-Credits-@billy_lebelge-3-scaled-e1792784821639.jpg?width=1200",
-"excerpt": ""
-},
-{
-"id": "10ccc376719fd55c",
-"title": "Anti-Pogačar Tour? ‘We Want to Keep the Suspense,’ Says Prudhomme",
-"url": "https://velo.outsideonline.com/road/road-racing/tour-de-france/anti-pogacar-tour-we-want-to-keep-the-suspense-says-prudhomme/",
-"source": "Velo",
-"when": "Fri 20:33",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/pogacar-prudhomme.jpg?width=1200",
-"excerpt": ""
 }
 ]
 },
@@ -2347,15 +2348,15 @@
 "title": "Teams",
 "items": [
 {
-"id": "fc8ba63fa90c33f4",
-"title": "Ex-MFF:aren jobbar på Ica – nu kan han knäcka HIF",
-"url": "https://www.sydsvenskan.se/sport/ex-mff-aren-pa-ica-kan-knacka-hif/",
-"source": "Sydsvenskan",
-"when": "11:00",
+"id": "cf80b49cf84749cd",
+"title": "Tung seger borta mot Kristianstads DFF",
+"url": "https://www.mff.se/nyheter/tung-seger-borta-mot-kristianstads-dff-2026-10-24/",
+"source": "Malmö FF",
+"when": "17:23",
 "also": [],
 "lang": "sv",
-"image": "https://static.bonniernews.se/ba/d19b15bb-80c3-4721-b9f2-99a4c459a53a.jpeg?crop=2560%2C1440%2Cx0%2Cy0&width=1200&format=pjpg&auto=avif",
-"excerpt": "Samuel Adrian tog sabbatsår från fotbollen: ”Det var inte…"
+"image": "https://cdn.mff.se/2026/10/BB261024AB083.jpg",
+"excerpt": "The post Tung seger borta mot Kristianstads DFF appeared first on Malmö FF ."
 },
 {
 "id": "6592b36989637205",
@@ -2415,7 +2416,7 @@
 ]
 }
 ],
-"lead": "9faa9a3c14165867"
+"lead": "8583dc4c46dd3b2f"
 },
 {
 "id": "chess",
@@ -2428,18 +2429,31 @@
 "title": null,
 "items": [
 {
-"id": "04d758f33dc15480",
-"title": "European Chess Club Cup winners crowned in Budva, Montenegro",
-"url": "https://www.fide.com/european-chess-club-cup-winners-crowned-in-budva-montenegro/",
-"source": "FIDE",
-"when": "13:29",
+"id": "1db667ba5c7a2054",
+"title": "Bayegan Pendik and Monte-Carlo are 2026 European Club Cup champions",
+"url": "https://en.chessbase.com/post/european-club-cup-2026-7",
+"source": "ChessBase",
+"when": "17:40",
 "also": [
-"ChessBase",
+"FIDE",
 "Chess.com",
 "The Week in Chess"
 ],
 "lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/ECC-2026-Champions.jpg",
+"image": "https://en.chessbase.com/thumb/132911_l200",
+"excerpt": ""
+},
+{
+"id": "edfafd05fc622c3c",
+"title": "Bodhana: youngest female IM ever",
+"url": "https://en.chessbase.com/post/bodhana-youngest-female-im-ever",
+"source": "ChessBase",
+"when": "19:42",
+"also": [
+"Chess.com"
+],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/132910_l200",
 "excerpt": ""
 },
 {
@@ -2451,17 +2465,6 @@
 "also": [],
 "lang": "en",
 "image": "https://www.fide.com/wp-content/uploads/FIDE-Blue-3.png",
-"excerpt": ""
-},
-{
-"id": "6f55850e2f25d107",
-"title": "The global impact of the Intercontinental Online Chess Championship for Prisoners",
-"url": "https://en.chessbase.com/post/global-impact-intercontinental-online-ch-prisoners-2026",
-"source": "ChessBase",
-"when": "05:30",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/132908_l200",
 "excerpt": ""
 },
 {
@@ -2500,17 +2503,6 @@
 "excerpt": ""
 },
 {
-"id": "0bab6fe57d6aaf56",
-"title": "Rachel Li wins US Women's Championship on her debut",
-"url": "https://en.chessbase.com/post/us-championships-2026-13",
-"source": "ChessBase",
-"when": "Fri 05:50",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/132899_l200",
-"excerpt": ""
-},
-{
 "id": "9e30c01cafaa2bd8",
 "title": "Nakamura Wins With 'GOAT Horns'; Caruana, Maghsoodloo Repeat In 3 0 Thursday",
 "url": "https://www.chess.com/news/view/nakamura-caruana-maghsoodloo-3-0-thursday-10-22-2026",
@@ -2520,11 +2512,22 @@
 "lang": "en",
 "image": "https://images.chesscomfiles.com/uploads/v1/news/2248185.ec7a74fd.5000x5000o.27e0ffde871b.png",
 "excerpt": ""
+},
+{
+"id": "d69e9281f30d5ddd",
+"title": "Magnus Carlsen Headlines New Barcelona Rapid Event With 1-Second Increment",
+"url": "https://www.chess.com/news/view/carlsen-move-cup-barcelona-2027",
+"source": "Chess.com",
+"when": "Fri 16:11",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2245419.8e0190d7.5000x5000o.a7cbb6af06a3.jpg",
+"excerpt": ""
 }
 ]
 }
 ],
-"lead": "04d758f33dc15480"
+"lead": "1db667ba5c7a2054"
 },
 {
 "id": "ai",
@@ -2581,17 +2584,6 @@
 "excerpt": ""
 },
 {
-"id": "6443bfdad7f92bb0",
-"title": "How Finance Cut Forecasting to Hours With AI",
-"url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/sales-finance-ai-forecast",
-"source": "Snowflake blog",
-"when": "Fri 21:58",
-"also": [],
-"lang": "en",
-"image": "https://www.snowflake.com/content/dam/snowflake-site/blog/2026/10/sales-finance-ai-forecast/line-chart-comparing-cost-per-prompt-by-steps-to-answer.webp",
-"excerpt": "See how Snowflake's sales finance team used AI to cut its monthly forecast from more than a week to a few hours, and what it took to get there."
-},
-{
 "id": "5830843e0d05f048",
 "title": "Making the case for context-aware AI",
 "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -2601,6 +2593,17 @@
 "lang": "en",
 "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
 "excerpt": ""
+},
+{
+"id": "6443bfdad7f92bb0",
+"title": "How Finance Cut Forecasting to Hours With AI",
+"url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/sales-finance-ai-forecast",
+"source": "Snowflake blog",
+"when": "Fri 21:58",
+"also": [],
+"lang": "en",
+"image": "https://www.snowflake.com/content/dam/snowflake-site/blog/2026/10/sales-finance-ai-forecast/line-chart-comparing-cost-per-prompt-by-steps-to-answer.webp",
+"excerpt": "See how Snowflake's sales finance team used AI to cut its monthly forecast from more than a week to a few hours, and what it took to get there."
 },
 {
 "id": "3b0be89307544854",
@@ -2640,6 +2643,17 @@
 "title": null,
 "items": [
 {
+"id": "d0b339e9a3bf6242",
+"title": "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial",
+"url": "https://endpoints.news/esmo26-amgens-imdelltra-regimen-more-than-halves-risk-of-death-in-phase-3-lung-cancer-trial/",
+"source": "Endpoints News",
+"when": "16:30",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/10/amgen-esmo-2026_og-social@2x.jpg",
+"excerpt": ""
+},
+{
 "id": "15ef531c3083afcb",
 "title": "Cancer vaccine data from #ESMO26; Treasury proposal could curb China investment; and more",
 "url": "https://endpoints.news/cancer-vaccine-data-from-esmo26-treasury-proposal-could-curb-china-investment-and-more/",
@@ -2651,6 +2665,17 @@
 "excerpt": ""
 },
 {
+"id": "6762ddb0553cf12a",
+"title": "#ESMO26: AstraZeneca eyes Keytruda's Padcev spot; Lilly's ADC takes on Elahere; Nubeqa targets earlier prostate cancer",
+"url": "https://endpoints.news/esmo26-astrazeneca-eyes-keytrudas-padcev-spot-lillys-adc-takes-on-elahere-nubeqa-targets-earlier-prostate-cancer/",
+"source": "Endpoints News",
+"when": "18:00",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/10/esmo-madrid-2_og-social@2x.jpg",
+"excerpt": ""
+},
+{
 "id": "faad35ad402168e5",
 "title": "ESMO: GSK cancer R&D chief says mo-rez data ‘reinforces our belief’ in ADC as phase 3 push ramps up",
 "url": "https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc",
@@ -2659,28 +2684,6 @@
 "also": [],
 "lang": "en",
 "image": "https://qtxasset.com/quartz/qcloud5/media/image/GSK%20ESMO.jpg?VersionId=cPXHRHPjNhePLQmiX0RePvDyiWbWN73E",
-"excerpt": ""
-},
-{
-"id": "9e7abdca8849c0b9",
-"title": "Windward Bio files for Nasdaq IPO to fund China-derived assets and in-house R&D",
-"url": "https://endpoints.news/windward-bio-files-for-nasdaq-ipo-to-fund-china-derived-assets-and-in-house-rd/",
-"source": "Endpoints News",
-"when": "01:15",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2026/05/Luca-Santarelli-Windward-Bio-tile.jpg",
-"excerpt": ""
-},
-{
-"id": "35d14ebce98272c0",
-"title": "Big trials push beyond obesity to see if GLP-1s can quell alcohol, drug cravings",
-"url": "https://endpoints.news/big-trials-push-beyond-obesity-to-see-if-glp-1s-can-quell-alcohol-drug-cravings/",
-"source": "Endpoints News",
-"when": "Thu 16:00",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2026/10/potential_use_of_glp_1_og.jpg",
 "excerpt": ""
 },
 {
@@ -2730,7 +2733,7 @@
 ]
 }
 ],
-"lead": "15ef531c3083afcb"
+"lead": "d0b339e9a3bf6242"
 }
 ],
 "weather": {
@@ -2743,14 +2746,14 @@
 "icon": "🌦️",
 "hi": 11,
 "lo": 7,
-"rain_mm": 3.1,
-"rain_pct": 98,
+"rain_mm": 3.4,
+"rain_pct": 100,
 "wind": 21,
-"uv": 1,
+"uv": 2,
 "sunrise": "08:01",
 "sunset": "18:25",
-"bar_l": 28,
-"bar_w": 22
+"bar_l": 32,
+"bar_w": 21
 },
 "slots": [
 {
@@ -2758,14 +2761,14 @@
 "temp": 8,
 "icon": "🌦️",
 "label": "Light rain",
-"rain_pct": 98
+"rain_pct": 95
 },
 {
 "name": "Afternoon",
 "temp": 10,
 "icon": "☁️",
 "label": "Overcast",
-"rain_pct": 98
+"rain_pct": 93
 },
 {
 "name": "Evening",
@@ -2784,14 +2787,14 @@
 "icon": "🌦️",
 "hi": 11,
 "lo": 7,
-"rain_mm": 3.1,
-"rain_pct": 98,
+"rain_mm": 3.4,
+"rain_pct": 100,
 "wind": 21,
-"uv": 1,
+"uv": 2,
 "sunrise": "08:01",
 "sunset": "18:25",
-"bar_l": 28,
-"bar_w": 22
+"bar_l": 32,
+"bar_w": 21
 },
 {
 "date": "2026-10-25",
@@ -2801,31 +2804,31 @@
 "icon": "🌦️",
 "hi": 16,
 "lo": 9,
-"rain_mm": 7.6,
+"rain_mm": 8.1,
 "rain_pct": 100,
-"wind": 27,
+"wind": 26,
 "uv": 0,
 "sunrise": "08:02",
 "sunset": "18:23",
-"bar_l": 39,
-"bar_w": 39
+"bar_l": 42,
+"bar_w": 37
 },
 {
 "date": "2026-10-26",
 "dow": "Mon",
 "dm": "26.10.",
-"label": "Overcast",
-"icon": "☁️",
+"label": "Light rain",
+"icon": "🌦️",
 "hi": 13,
 "lo": 7,
-"rain_mm": 0,
+"rain_mm": 0.2,
 "rain_pct": 13,
-"wind": 11,
+"wind": 10,
 "uv": 3,
 "sunrise": "08:04",
 "sunset": "18:22",
-"bar_l": 28,
-"bar_w": 33
+"bar_l": 32,
+"bar_w": 32
 },
 {
 "date": "2026-10-27",
@@ -2836,81 +2839,81 @@
 "hi": 20,
 "lo": 6,
 "rain_mm": 0,
-"rain_pct": 18,
-"wind": 6,
+"rain_pct": 8,
+"wind": 5,
 "uv": 3,
 "sunrise": "08:05",
 "sunset": "18:20",
-"bar_l": 22,
-"bar_w": 78
+"bar_l": 26,
+"bar_w": 74
 },
 {
 "date": "2026-10-28",
 "dow": "Wed",
 "dm": "28.10.",
-"label": "Overcast",
-"icon": "☁️",
+"label": "Light rain",
+"icon": "🌦️",
 "hi": 14,
-"lo": 8,
-"rain_mm": 0.3,
-"rain_pct": 36,
-"wind": 15,
+"lo": 7,
+"rain_mm": 0.9,
+"rain_pct": 28,
+"wind": 13,
 "uv": 2,
 "sunrise": "08:07",
 "sunset": "18:18",
-"bar_l": 33,
-"bar_w": 33
+"bar_l": 32,
+"bar_w": 37
 },
 {
 "date": "2026-10-29",
 "dow": "Thu",
 "dm": "29.10.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 15,
-"lo": 5,
+"label": "Overcast",
+"icon": "☁️",
+"hi": 13,
+"lo": 4,
 "rain_mm": 0,
-"rain_pct": 1,
-"wind": 7,
-"uv": 2,
+"rain_pct": 3,
+"wind": 4,
+"uv": 3,
 "sunrise": "08:08",
 "sunset": "18:17",
-"bar_l": 17,
-"bar_w": 56
+"bar_l": 16,
+"bar_w": 47
 },
 {
 "date": "2026-10-30",
 "dow": "Fri",
 "dm": "30.10.",
-"label": "Overcast",
-"icon": "☁️",
+"label": "Fog",
+"icon": "🌫️",
 "hi": 14,
-"lo": 3,
+"lo": 1,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 7,
-"uv": 3,
+"wind": 4,
+"uv": 2,
 "sunrise": "08:10",
 "sunset": "18:15",
-"bar_l": 6,
-"bar_w": 61
+"bar_l": 0,
+"bar_w": 68
 },
 {
 "date": "2026-10-31",
 "dow": "Sat",
 "dm": "31.10.",
-"label": "Light drizzle",
-"icon": "🌦️",
-"hi": 9,
-"lo": 3,
-"rain_mm": 0.6,
-"rain_pct": 3,
-"wind": 7,
-"uv": 3,
+"label": "Fog",
+"icon": "🌫️",
+"hi": 14,
+"lo": 1,
+"rain_mm": 0,
+"rain_pct": 4,
+"wind": 5,
+"uv": 2,
 "sunrise": "08:11",
 "sunset": "18:14",
-"bar_l": 6,
-"bar_w": 33
+"bar_l": 0,
+"bar_w": 68
 },
 {
 "date": "2026-11-01",
@@ -2921,13 +2924,13 @@
 "hi": 9,
 "lo": 2,
 "rain_mm": 0,
-"rain_pct": 4,
+"rain_pct": 16,
 "wind": 6,
-"uv": 1,
+"uv": 3,
 "sunrise": "08:13",
 "sunset": "18:12",
-"bar_l": 0,
-"bar_w": 39
+"bar_l": 5,
+"bar_w": 37
 },
 {
 "date": "2026-11-02",
@@ -2938,16 +2941,16 @@
 "hi": 10,
 "lo": 4,
 "rain_mm": 0,
-"rain_pct": 12,
+"rain_pct": 16,
 "wind": 5,
 "uv": 2,
 "sunrise": "08:14",
 "sunset": "18:10",
-"bar_l": 11,
-"bar_w": 33
+"bar_l": 16,
+"bar_w": 32
 }
 ],
-"lo": 2,
+"lo": 1,
 "hi": 20
 }
 }
