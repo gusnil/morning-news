@@ -1,6 +1,478 @@
 [
 {
-"excerpt": "Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted frontline operations for more than a week, Ukrainian President Volodymyr Zelensky said on Saturday. “The speeds are now where they need to be,” Zelensky said on socia",
+"excerpt": "Hong Kong schools handled an average of 496 bullying cases each academic year from 2022 to 2025 – a 32 per cent jump compared with the previous three years, according to the Education Bureau. A youth group attributed the increase to greater reporting driven by heightened mental health awareness, but",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "78e82d542ba341a7",
+"image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/24/bb0d16b2-3441-41f0-bb1c-674134dc0104_678fd8d5.jpg?itok=-PCQqyjT&v=1792832322",
+"lang": "en",
+"published": "2026-10-25T01:00:17+00:00",
+"section": "world",
+"source": "scmp",
+"title": "School bullying cases in Hong Kong rise 32% to nearly 500 a year",
+"url": "https://www.scmp.com/news/hong-kong/education/article/3372020/school-bullying-cases-hong-kong-rise-32-nearly-500-year"
+},
+{
+"excerpt": "Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "c9ee4479b677916d",
+"lang": "en",
+"published": "2026-10-25T00:34:43+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+"url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
+},
+{
+"excerpt": "Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "1f0912fa810d10bf",
+"lang": "en",
+"published": "2026-10-25T00:23:48+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Violence breaks out across Europe after another day of protests",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss"
+},
+{
+"excerpt": "Singapore is turning to major technology firms to strengthen its cyber defences, even as it presses them for greater transparency over security breaches – a balancing act facing regional governments as they seek to harness artificial intelligence while guarding against the risks it introduces. Those",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "d89bfa7b645daaba",
+"image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/23/8e273746-4658-4531-a99e-a38042f40de5_a5128ba0.jpg?itok=dCd5gbqG&v=1792753700",
+"lang": "en",
+"published": "2026-10-25T00:00:14+00:00",
+"section": "world",
+"source": "scmp",
+"title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
+"url": "https://www.scmp.com/week-asia/politics/article/3371950/singapore-embraces-ai-cyber-defence-one-caveat-breach-transparency"
+},
+{
+"excerpt": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "a1aa1be460959da2",
+"lang": "en",
+"published": "2026-10-25T00:00:00+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+"url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
+},
+{
+"excerpt": "President Bola Tinubu promised \"a better tomorrow\" for Nigerians while kicking off his next electoral campaign, while also blaming his rivals for poverty plaguing Africa's most populous nation.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "6cc5c6daaaed4d8f",
+"lang": "en",
+"published": "2026-10-24T23:49:00+00:00",
+"section": "world",
+"source": "dw",
+"title": "Nigeria: Tinubu launches reelection bid amid economic woes",
+"url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf"
+},
+{
+"excerpt": "Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "e7e65c52369b926d",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/cms-wide-thumb-trump-lauds-melania-1792883240.png?resize=1920%2C1080&quality=80",
+"lang": "en",
+"published": "2026-10-24T23:08:16+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss"
+},
+{
+"excerpt": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+"first_seen": "2026-10-24T18:21:49+00:00",
+"id": "688084e8e51d4979",
+"image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
+"lang": "en",
+"published": "2026-10-24T23:02:06+00:00",
+"section": "world",
+"source": "bbc",
+"title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+"url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+},
+{
+"excerpt": "Former US president Barack Obama delivered a scathing critique of his successor, Donald Trump, at a rally in Ohio on Saturday to support Democratic candidates ahead of the November 3 midterm elections. “After two years of chaos and cruelty and corruption and incompetence, the likes of which we have ",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "cc18cf84c93140b4",
+"image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/25/1fddbd52-cff9-4b33-bebb-9a20341c9731_2b749947.jpg?itok=f7SbtqJ1&v=1792882225",
+"lang": "en",
+"published": "2026-10-24T22:50:31+00:00",
+"section": "world",
+"source": "scmp",
+"title": "Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats",
+"url": "https://www.scmp.com/news/world/united-states-canada/article/3372042/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats"
+},
+{
+"excerpt": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "ef2bf61dc9e9978a",
+"lang": "en",
+"published": "2026-10-24T22:35:45+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+"url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss"
+},
+{
+"excerpt": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "8efdb8bc35b01a64",
+"lang": "en",
+"published": "2026-10-24T22:28:37+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "How have Democrats’ policies shifted since the last major US election?",
+"url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss"
+},
+{
+"excerpt": "Indonesia cut 15 mmscfd from its supply to Singapore from Natuna and another ‌16 mmscfd of gas from Sumatra, SKK Migas chairman Djoko Siswanto told Reuters",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "efa93d1f3885e74e",
+"lang": "en",
+"published": "2026-10-24T22:24:04+00:00",
+"section": "world",
+"source": "thehindu",
+"title": "Indonesia cuts pipeline gas exports to Singapore by about 9%",
+"url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
+},
+{
+"excerpt": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "71b8d413a06d0f68",
+"image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ee/live/36a0f0a0-cfc5-11f1-93e1-3b657b665bcf.jpg",
+"lang": "en",
+"published": "2026-10-24T22:08:47+00:00",
+"section": "world",
+"source": "bbc",
+"title": "Who are the candidates in Brazil's presidential election?",
+"url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
+},
+{
+"excerpt": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the fourth part of this series, William Zheng looks at how the next generation of the party is being formed. When China’s political elites gather b",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "9e86a1bf46253630",
+"image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/25/fbddc3c7-6bde-44b6-b8d3-31b9940e77b6_07a61c71.jpg?itok=9hh_ZgmX&v=1792880323",
+"lang": "en",
+"published": "2026-10-24T22:00:28+00:00",
+"section": "world",
+"source": "scmp",
+"title": "China’s next generation of leaders waiting in the wings for more senior roles",
+"url": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles"
+},
+{
+"excerpt": "US President Donald Trump cast his ballot for the midterm elections in Palm Beach on Saturday, opting to vote early in his adopted home state of Florida. At rallies ahead of Election Day on November 3, Trump has been urging Republicans to cast their ballots early, reversing course on a practice he h",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "cd71c079ab8d8f47",
+"image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/25/5d07a714-4082-4455-80c2-f629c6cbb7bc_e6dc6f9d.jpg?itok=KRMzsG4E&v=1792879081",
+"lang": "en",
+"published": "2026-10-24T21:58:09+00:00",
+"section": "world",
+"source": "scmp",
+"title": "Trump, a critic of early voting, votes early in Florida",
+"url": "https://www.scmp.com/news/world/united-states-canada/article/3372041/trump-critic-early-voting-votes-early-florida"
+},
+{
+"excerpt": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "6dde42a8eb14b5e6",
+"lang": "en",
+"published": "2026-10-24T21:39:29+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+"url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss"
+},
+{
+"excerpt": "As for the war in Iran, President Trump said, “I may have to finish it off. Or maybe they’ll make a deal, but I’m not sure. Either way, we win.”",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "23cf9eb99022fc68",
+"image": "https://th-i.thgim.com/public/incoming/5ujec5/article71621476.ece/alternates/LANDSCAPE_1200/APTOPIX_Trump_3_957.jpg",
+"lang": "en",
+"published": "2026-10-24T21:39:21+00:00",
+"section": "world",
+"source": "thehindu",
+"title": "Trump casts his midterm ballot early in Florida",
+"url": "https://www.thehindu.com/news/international/trump-casts-his-midterm-ballot-early-in-florida/article71621475.ece"
+},
+{
+"excerpt": "Brazil’s candidates hold final rallies before knife-edge run off",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "493cdc46dac70082",
+"lang": "en",
+"published": "2026-10-24T21:36:23+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Brazil’s candidates hold final rallies before knife-edge run off",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss"
+},
+{
+"excerpt": "Tehran warns that even limited strikes would trigger a response 'several times greater'.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "93ff77abc69870cc",
+"lang": "en",
+"published": "2026-10-24T21:30:11+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+"url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss"
+},
+{
+"excerpt": "On October 18, Anthropic, the artificial intelligence (AI) laboratory preparing one of the largest listings in history, committed 5 per cent of its shares to a public benefit fund. The next day, Elon Musk promised one SpaceX share, next year, for “every kid in America” – about US$10.6 billion for so",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "7079246e3ea81e80",
+"image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/22/539c1860-6ff2-4d74-a7b5-af607d26b7e0_9620e4ca.jpg?itok=eAdmAv8X&v=1792680439",
+"lang": "en",
+"published": "2026-10-24T21:30:06+00:00",
+"section": "world",
+"source": "scmp",
+"title": "How to share AI wealth? Neither the US nor Asia has the answer",
+"url": "https://www.scmp.com/opinion/world-opinion/article/3371822/how-share-ai-wealth-neither-us-nor-asia-has-answer"
+},
+{
+"excerpt": "Over the past 24 hours, the Yemeni fighters said they targeted three Saudi airports, including the international airport in capital Riyadh, energy installations, a pipeline and an air base",
+"first_seen": "2026-10-24T18:21:49+00:00",
+"id": "3746b71eea062d82",
+"image": "https://th-i.thgim.com/public/incoming/59tf2y/article71620888.ece/alternates/LANDSCAPE_1200/Mideast_Yemen-Siege_of_Taiz_85852.jpg",
+"lang": "en",
+"published": "2026-10-24T21:17:02+00:00",
+"section": "world",
+"source": "thehindu",
+"title": "Houthis say attacked Saudi Arabia, Yemen’s Aden after deadly strikes",
+"url": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece"
+},
+{
+"excerpt": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "3c7618e320ea5b9c",
+"image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg",
+"lang": "en",
+"published": "2026-10-24T21:09:27+00:00",
+"section": "world",
+"source": "bbc",
+"title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+"url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+},
+{
+"excerpt": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden's airport and a coastguard base.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "d74c7f26fbce160a",
+"lang": "en",
+"published": "2026-10-24T21:08:51+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+"url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+},
+{
+"excerpt": "Video shows the moment a train collided with a crane that had fallen onto railway tracks in Brazil.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "76d8e74f0edb34f1",
+"lang": "en",
+"published": "2026-10-24T21:02:55+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Train slams into crane that collapsed onto railway line in Brazil",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss"
+},
+{
+"excerpt": "Hundreds of thousands marched across France Saturday protesting the rising cost of living. While demonstrations in Paris started peacefully, they ended with a heavy government security response following escalation. Other cities saw clashes that also contributed to the near-1,000 arrested across the",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "f8c40ad687b31eeb",
+"image": "https://s.france24.com/media/display/9b2132ac-cfe7-11f1-b4e6-4b25c96ec90e/w:1024/p:16x9/AP26297483587746.jpg",
+"lang": "en",
+"published": "2026-10-24T21:01:56+00:00",
+"section": "world",
+"source": "france24",
+"title": "'The marches went well' – French government on demonstrations a week after looting and violence",
+"url": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence"
+},
+{
+"excerpt": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "2ddc6c4e7dafb1d6",
+"lang": "en",
+"published": "2026-10-24T20:52:55+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Severe hunger stalks people in Gaza as bakeries close down",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss"
+},
+{
+"excerpt": "Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "0f7fbe4f29df95d5",
+"lang": "en",
+"published": "2026-10-24T20:39:08+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Violent clashes as Albanian government cracks down on protests",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss"
+},
+{
+"excerpt": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "e79f150a7e14fcb0",
+"lang": "en",
+"published": "2026-10-24T20:37:02+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Could Israel’s military crackdown influence Tuesday’s election?",
+"url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss"
+},
+{
+"excerpt": "Elon Musk limited Ukraine’s access to the military-grade network of Starlink after Trum pcriticised Kyiv’s strikes on Russia’s energy infrastructure",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "3fcb085def36e85f",
+"image": "https://th-i.thgim.com/public/incoming/tbe45g/article71621148.ece/alternates/LANDSCAPE_1200/2026-05-12T215408Z_2122871174_RC2MADAMBA1Q_RTRMADP_3_SPACEX-SPACEPORTS.JPG",
+"lang": "en",
+"published": "2026-10-24T20:12:51+00:00",
+"section": "world",
+"source": "thehindu",
+"title": "Starshield | The non-state sovereigns",
+"url": "https://www.thehindu.com/news/international/profiles-starshield-the-non-state-sovereigns/article71621149.ece"
+},
+{
+"excerpt": "Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "435689664baa611e",
+"lang": "en",
+"published": "2026-10-24T20:03:29+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+"url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss"
+},
+{
+"excerpt": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "313351fa64ed217b",
+"image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg",
+"lang": "en",
+"published": "2026-10-24T19:37:35+00:00",
+"section": "world",
+"source": "bbc",
+"title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+"url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
+},
+{
+"excerpt": "The announcement comes after Starlink and Starshield restrictions had disrupted military operations in Ukraine and sparked tensions with the US.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "05a7abc2fc1f7d65",
+"lang": "en",
+"published": "2026-10-24T19:33:00+00:00",
+"section": "world",
+"source": "dw",
+"title": "Ukraine: Starlink satellite speeds restored to normal",
+"url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf"
+},
+{
+"excerpt": "Student-led demonstrations, fuelled by anger over perceived government ‌corruption have ‌engulfed central Tirana and spread ‌to ⁠other cities this month",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "99ac92b2cc8bc117",
+"image": "https://th-i.thgim.com/public/incoming/tnlzua/article71621346.ece/alternates/LANDSCAPE_1200/2026-10-24T185212Z_610129908_RC2S9OAWVBTS_RTRMADP_3_ALBANIA-PROTESTS.JPG",
+"lang": "en",
+"published": "2026-10-24T19:13:56+00:00",
+"section": "world",
+"source": "thehindu",
+"title": "Albanian police fire tear gas as anti-government student protests turn violent",
+"url": "https://www.thehindu.com/news/international/albanian-police-fire-tear-gas-as-anti-government-student-protests-turn-violent/article71621342.ece"
+},
+{
+"excerpt": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+"first_seen": "2026-10-24T18:21:49+00:00",
+"id": "8da8a4fe2a7e8e87",
+"image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg",
+"lang": "en",
+"published": "2026-10-24T19:12:51+00:00",
+"section": "world",
+"source": "bbc",
+"title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+"url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
+},
+{
+"excerpt": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "79009838d635c202",
+"lang": "en",
+"published": "2026-10-24T19:11:48+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+"url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
+},
+{
+"excerpt": "Iranian officials have warned in recent days that they would retaliate by targeting Persian Gulf countries in the event of renewed U.S. attacks; in the first and second phases of the war, Iran had retaliated by striking U.S. bases and energy facilities in Gulf kingdoms.",
+"first_seen": "2026-10-24T18:21:49+00:00",
+"id": "298ea589f089374e",
+"image": "https://th-i.thgim.com/public/incoming/g9i6fm/article71621250.ece/alternates/LANDSCAPE_1200/APTOPIX_Iran_War_87885.jpg",
+"lang": "en",
+"published": "2026-10-24T19:02:40+00:00",
+"section": "world",
+"source": "thehindu",
+"title": "Iran vows ‘apocalyptic war’ if U.S. strikes again",
+"url": "https://www.thehindu.com/news/international/iran-warns-of-apocalyptic-war-if-attacked-again/article71620849.ece"
+},
+{
+"excerpt": "Thousands of protesters are on the streets of Paris for a second weekend.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "8d37606e470654f9",
+"lang": "en",
+"published": "2026-10-24T19:01:52+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Thousands join Paris protests as authorities clamp down on disorder",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss"
+},
+{
+"excerpt": "After the French protests turned into riots last weekend, the curfews, and then the alleged racist mass shooting yesterday on the outskirts of Paris, there has been much anxiety, planning and preparation ahead of today's protests.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "17e7fe074597b58e",
+"image": "https://s.france24.com/media/display/6cf47c4c-cfd6-11f1-8f44-bba4eee3dc72/w:1024/p:16x9/MANIF-000-D4BK2PW.jpg",
+"lang": "en",
+"published": "2026-10-24T18:42:27+00:00",
+"section": "world",
+"source": "france24",
+"title": "France: Watching the Post-Riot Protests",
+"url": "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests"
+},
+{
+"excerpt": "Ukraine’s access to Starlink and Starshield satellite links has been restored to the speeds it had before restrictions that disrupted front-line operations for more than a week, Ukrainian President Volodymyr Zelenskyy said Saturday.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "1dd9777d0772a39e",
+"image": "https://s.france24.com/media/display/4dfa67ae-cfd9-11f1-8261-5b4a75578ebb/w:1024/p:16x9/WITKOFF-000-D3XU3NQ.jpg",
+"lang": "en",
+"published": "2026-10-24T18:37:05+00:00",
+"section": "world",
+"source": "france24",
+"title": "“Witkoff should step down” says Ukraine Committee Chief",
+"url": "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief"
+},
+{
+"excerpt": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "07843aa9a86f534d",
+"lang": "en",
+"published": "2026-10-24T18:30:56+00:00",
+"section": "world",
+"source": "aljazeera",
+"title": "Thousands gather at new Albanian antigovernment rally",
+"url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss"
+},
+{
+"excerpt": "Thousands marched against Prime Minister Benjamin Netanyahu's government in Tel Aviv on Saturday – just three days before Israel's general election – demanding accountability for the failure to prevent a Hamas-led attack on October 7, 2023, that led to the war in Gaza.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "dcaa0895d2e6783c",
+"image": "https://s.france24.com/media/display/234bdf36-cfd6-11f1-80cc-bdb9616e85cf/w:1024/p:16x9/000-D4BH8JA.jpg",
+"lang": "en",
+"published": "2026-10-24T18:21:55+00:00",
+"section": "world",
+"source": "france24",
+"title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+"url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu"
+},
+{
+"excerpt": "Elon Musk said on Saturday that his company SpaceX had throttled the Starlink satellite internet service in Ukraine, disrupting operations that the country relies on to defend itself against Russia. Musk’s admission on social media came after Ukrainian President Volodymyr Zelensky said that Ukraine’",
 "first_seen": "2026-10-24T18:21:49+00:00",
 "id": "2f0c2bfc302a779f",
 "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/25/6d2e28f2-b394-430f-9e15-d4d791a880ae_f73c443e.jpg?itok=dEsmjjzf&v=1792864827",
@@ -8,7 +480,7 @@
 "published": "2026-10-24T18:00:35+00:00",
 "section": "world",
 "source": "scmp",
-"title": "Ukraine’s Starlink speeds restored after week of frontline disruption",
+"title": "Musk admits he throttled Ukraine’s Starlink speeds, as access is restored",
 "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372040/ukraines-starlink-speeds-restored-after-week-frontline-disruption"
 },
 {
@@ -21,6 +493,18 @@
 "source": "aljazeera",
 "title": "Kim Jong Un crosses new bridge linking North Korea and China",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss"
+},
+{
+"excerpt": "A student protest over deteriorating school conditions has snowballed into a nationwide movement, fuelled by a cost-of-living crisis and sluggish growth, putting mounting pressure on Emmanuel Macron’s centrist administration",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "c2c68476868cbe4c",
+"image": "https://th-i.thgim.com/public/incoming/vv0w5c/article71621128.ece/alternates/LANDSCAPE_1200/2026-10-17T112108Z_1520882244_RC2Y4OAFVD2Q_RTRMADP_3_FRANCE-PROTEST.JPG",
+"lang": "en",
+"published": "2026-10-24T17:50:53+00:00",
+"section": "world",
+"source": "thehindu",
+"title": "Protests in France | Beginning of the end of Macronism",
+"url": "https://www.thehindu.com/news/international/france-october-17-protest-the-hindu-profiles/article71621130.ece"
 },
 {
 "excerpt": "Yemen’s Iran-allied Houthi rebels said they launched attacks at Saudi oil facilities and airports on Saturday while Yemen’s Saudi-backed government ​said the ‌group also fired three ballistic missiles at coast guard sites in ⁠the port city of Aden.",
@@ -47,18 +531,6 @@
 "url": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities"
 },
 {
-"excerpt": "Iranian officials have warned in recent days that they would retaliate by targeting Persian Gulf countries in the event of renewed attacks; U.S. military vessels not allowed in the Gulf, it says amid U.S. talk of air strikes",
-"first_seen": "2026-10-24T18:21:49+00:00",
-"id": "298ea589f089374e",
-"image": "https://th-i.thgim.com/public/incoming/g9i6fm/article71621250.ece/alternates/LANDSCAPE_1200/APTOPIX_Iran_War_87885.jpg",
-"lang": "en",
-"published": "2026-10-24T17:44:27+00:00",
-"section": "world",
-"source": "thehindu",
-"title": "Iran warns of ‘apocalyptic war’ if attacked again",
-"url": "https://www.thehindu.com/news/international/iran-warns-of-apocalyptic-war-if-attacked-again/article71620849.ece"
-},
-{
 "excerpt": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
 "first_seen": "2026-10-24T13:34:35+00:00",
 "id": "0696b28e420e8aea",
@@ -69,18 +541,6 @@
 "source": "bbc",
 "title": "Two rescued after Nairobi building collapse with five still missing",
 "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
-},
-{
-"excerpt": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-"first_seen": "2026-10-24T18:21:49+00:00",
-"id": "688084e8e51d4979",
-"image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
-"lang": "en",
-"published": "2026-10-24T17:21:42+00:00",
-"section": "world",
-"source": "bbc",
-"title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
-"url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
 },
 {
 "excerpt": "The Palestinian Authority has called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. The head of Hebron's municipality said an",
@@ -166,6 +626,18 @@
 "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss"
 },
 {
+"excerpt": "Yashar’s leader vows to end Netanyahu’s rule, put an end to endless wars and remove Hamas from power in Gaza, but opposes the creation of a Palestinian state",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "07d9d7c880bf8303",
+"image": "https://th-i.thgim.com/public/news/national/tamil-nadu/tao3cg/article71621139.ece/alternates/LANDSCAPE_1200/Gadi_sketch.jpg",
+"lang": "en",
+"published": "2026-10-24T16:57:53+00:00",
+"section": "world",
+"source": "thehindu",
+"title": "Gadi Eisenkot | Netanyahu’s challenger",
+"url": "https://www.thehindu.com/news/international/gadi-eisenkot-netanyahus-challenger/article71621144.ece"
+},
+{
 "excerpt": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
 "first_seen": "2026-10-24T18:21:49+00:00",
 "id": "e54f3a9054e6d222",
@@ -243,7 +715,7 @@
 "published": "2026-10-24T15:56:48+00:00",
 "section": "world",
 "source": "bbc",
-"title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+"title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
 "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss"
 },
 {
@@ -258,7 +730,7 @@
 "url": "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-rdf"
 },
 {
-"excerpt": "Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank.",
+"excerpt": "Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across West Bank.",
 "first_seen": "2026-10-24T18:21:49+00:00",
 "id": "d2569a3011ea7658",
 "lang": "en",
@@ -303,18 +775,6 @@
 "source": "thehindu",
 "title": "France protests: Police say 1,10,000 marched in Paris",
 "url": "https://www.thehindu.com/news/international/police-fire-tear-gas-as-new-french-protests-kick-off/article71619959.ece"
-},
-{
-"excerpt": "The Houthis quickly claimed the attack, saying they targeted a naval base and military camp overseen by Saudi forces",
-"first_seen": "2026-10-24T18:21:49+00:00",
-"id": "3746b71eea062d82",
-"image": "https://th-i.thgim.com/public/incoming/59tf2y/article71620888.ece/alternates/LANDSCAPE_1200/Mideast_Yemen-Siege_of_Taiz_85852.jpg",
-"lang": "en",
-"published": "2026-10-24T15:37:27+00:00",
-"section": "world",
-"source": "thehindu",
-"title": "Houthis attack Yemen’s Aden, say Saudi strikes kill 16",
-"url": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece"
 },
 {
 "excerpt": "The race between Brazil's president and the right-wing senator has tightened in recent days.",
@@ -384,18 +844,6 @@
 "source": "aljazeera",
 "title": "Why Israeli tourists and investors are unsettling Cypriots",
 "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss"
-},
-{
-"excerpt": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-"first_seen": "2026-10-24T18:21:49+00:00",
-"id": "8da8a4fe2a7e8e87",
-"image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa13/live/eb525690-cfb8-11f1-9012-0172b9f73a72.jpg",
-"lang": "en",
-"published": "2026-10-24T14:45:30+00:00",
-"section": "world",
-"source": "bbc",
-"title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-"url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
 },
 {
 "excerpt": "",
@@ -552,6 +1000,7 @@
 "excerpt": "Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?",
 "first_seen": "2026-10-24T18:21:49+00:00",
 "id": "c1682878d31f07f1",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26292017771429-1792706279.jpg?resize=1920%2C1440",
 "lang": "en",
 "published": "2026-10-24T13:58:14+00:00",
 "section": "world",
@@ -606,7 +1055,7 @@
 "url": "https://www.scmp.com/news/china/money-wealth/article/3372032/leading-chinese-economic-commentator-ren-zepings-social-media-account-restricted"
 },
 {
-"excerpt": "The Palestinian Authority has called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. The head of Hebron's municipality said an",
+"excerpt": "The Palestinian Authority called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. Israeli defence minister Israel Katz later co",
 "first_seen": "2026-10-24T18:21:49+00:00",
 "id": "4b5c5d8a5faba60e",
 "image": "https://s.france24.com/media/display/84746cf6-cfae-11f1-89ae-bba4eee3dc72/w:1024/p:16x9/000-D4AX3EF.jpg",
@@ -614,7 +1063,7 @@
 "published": "2026-10-24T13:50:12+00:00",
 "section": "world",
 "source": "france24",
-"title": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
+"title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
 "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
 },
 {
@@ -1725,7 +2174,7 @@
 "url": "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-rdf"
 },
 {
-"excerpt": "Police and elite security forces are out in force in French cities as tens of thousands participate in a new round of protests. The situation is slowing turning tense in some cities like Paris and Marseille. Follow DW.",
+"excerpt": "Police and elite security forces were out in force in French cities as tens of thousands participated in protests on Saturday. The situation turned tense toward the end of protests in several cities, including Paris.",
 "first_seen": "2026-10-24T18:21:49+00:00",
 "id": "113a8ce83349f513",
 "lang": "en",
@@ -11696,6 +12145,53 @@
 "url": "https://english.elpais.com/culture/2026-10-18/could-the-guggenheim-in-new-york-have-been-pink-debunking-the-white-and-gray-myths-of-modern-architecture.html"
 },
 {
+"excerpt": "",
+"first_seen": "2026-10-22T11:33:03+00:00",
+"id": "d5da169804f6577a",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
+"lang": "en",
+"published": "2026-10-25T01:04:00+00:00",
+"section": "sport",
+"source": "redsox",
+"title": "Watch Red Sox prospects in Arizona Fall League action",
+"url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
+},
+{
+"excerpt": "Next year’s Tour plays to the strengths of Remco Evenepoel. Could it be enough for yellow? Read the full article at Tour de France 2027: What Do Extra TT Kms Mean for Evenepoel’s Prospects? on Velo .",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "43828692a7438cd3",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/GettyImages-2296282285.jpg?width=1200",
+"lang": "en",
+"published": "2026-10-24T22:04:49+00:00",
+"section": "sport",
+"source": "velo",
+"title": "Tour de France 2027: What Do Extra TT Kms Mean for Evenepoel’s Prospects?",
+"url": "https://velo.outsideonline.com/road/road-racing/tour-de-france/extra-tt-kms-remco-evenepoel/"
+},
+{
+"excerpt": "The rescheduled women's Italian national ITT championship took place in Piasco on Saturday, with Elisa Longo Borghini (UAE Team L'IMAD) securing the elite title for the eighth time, having finished runner-up to Vittoria Guazzini (FDJ United-Suez) for the past two seasons. This year, Alessia",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "37c5e2ff3c285e76",
+"lang": "en",
+"published": "2026-10-24T20:29:46+00:00",
+"section": "sport",
+"source": "escape",
+"title": "Longo Borghini wins elite TT title for eighth time in postponed Italian Champs",
+"url": "https://escapecollective.com/longo-borghini-wins-elite-tt-title-for-eighth-time-in-postponed-italian-champs/"
+},
+{
+"excerpt": "Dates for your diary as some of the world's best 'cross riders take on a varied calendar of historic races over mud, sand and even snow.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "d74b8359868911be",
+"image": "https://escapecollective.com/content/images/2026/10/corvos-zonhoven-2026-brand-2.jpg",
+"lang": "en",
+"published": "2026-10-24T20:08:51+00:00",
+"section": "sport",
+"source": "escape",
+"title": "From historic citadels to seaside resorts: Reasons to watch cyclocross this winter",
+"url": "https://escapecollective.com/from-historic-citadels-to-seaside-resorts-reasons-to-watch-cyclocross-this-winter/"
+},
+{
 "excerpt": "There are no guarantees once your bike disappears on the luggage belt. But understanding TSA habits and airline loopholes gives your frame a fighting chance. Read the full article at Why Flying With a Bike is Always a Gamble (And How to Improve Your Odds) on Velo .",
 "first_seen": "2026-10-24T18:21:49+00:00",
 "id": "93e541d62c4e5433",
@@ -12289,7 +12785,7 @@
 "url": "https://www.mtb-news.de/news/jolanda-neff-fenix-premier-tech-2027/"
 },
 {
-"excerpt": "Earlier this season Anna took her first ever World Cup win right here in Lenzerheide. ( Photos: 10, Comments: 12 )",
+"excerpt": "Earlier this season Anna took her first ever World Cup win right here in Lenzerheide. ( Photos: 10, Comments: 13 )",
 "first_seen": "2026-10-23T16:52:57+00:00",
 "id": "efacd2923a47e115",
 "image": "https://ep1.pinkbike.org/p2pb30404688/p2pb30404688.jpg",
@@ -12359,18 +12855,6 @@
 "source": "sydsvenskan",
 "title": "MFF-anfallarnas tunga facit – ett mål på 2,5 månader",
 "url": "https://www.sydsvenskan.se/sport/mff-anfallarnas-tunga-facit-ett-mal-pa-2-5-manader/"
-},
-{
-"excerpt": "",
-"first_seen": "2026-10-22T11:33:03+00:00",
-"id": "d5da169804f6577a",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
-"lang": "en",
-"published": "2026-10-23T03:59:00+00:00",
-"section": "sport",
-"source": "redsox",
-"title": "Watch Red Sox prospects in Arizona Fall League action",
-"url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
 },
 {
 "excerpt": "New England Patriots Head Coach Mike Vrabel and select players comment on their Week 7 game against the Chicago Bears on Thursday, October 22, 2026.",
@@ -14257,18 +14741,6 @@
 "source": "velo",
 "title": "‘The Last Time I Had This Focus I Was 18 or 19’: Taylor Phinney Goes All in on Olympic Dream",
 "url": "https://velo.outsideonline.com/track/taylor-phinney-goes-all-in-on-olympic-dream/"
-},
-{
-"excerpt": "Keegan Swenson and Sofia Gomez Villafañe took the overall Life Time Grand Prix series wins. Read the full article at Big Sugar Gravel: Kongstad and Hobbs Claim the Final Gravel Crowns of the Year on Velo .",
-"first_seen": "2026-10-22T11:33:03+00:00",
-"id": "04ad8460f302436a",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/IMG_7538-e1792271145428.jpg?width=1200",
-"lang": "en",
-"published": "2026-10-17T19:43:43+00:00",
-"section": "sport",
-"source": "velo",
-"title": "Big Sugar Gravel: Kongstad and Hobbs Claim the Final Gravel Crowns of the Year",
-"url": "https://velo.outsideonline.com/news/big-sugar-gravel-results-2026/"
 },
 {
 "excerpt": "AstraZeneca is rolling out its own Imfinzi-Padcev combination pitch in cisplatin-ineligible muscle-invasive bladder cancer, hoping to differentiate from Keytruda-Padcev with a tweaked dosing regimen, while its effort to add a CTLA-4 component appears to have backfired.",
@@ -16577,26 +17049,148 @@
 "url": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-17-2026"
 },
 {
-"excerpt": "The top teams could rest the likes of GMs Nodirbek Abdusattorov, Anish Giri, and Yagiz Kaan Erdogmus while still scoring 6-0 clean sweeps in round one of the 41st European Chess Club Cup in Budva, Montenegro. GM Nils Grandelius was one of the few ...",
-"first_seen": "2026-10-22T11:33:03+00:00",
-"id": "d8f1e446c13ece3f",
-"lang": "en",
-"published": "2026-10-17T22:12:00+00:00",
-"section": "chess",
-"source": "chesscom",
-"title": "Bodhana & Co. Test Favorites As European Club Cup Begins In Budva",
-"url": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-1"
+"excerpt": "In der elften Runde der Super League kommen der FC Zürich und Servette zu Heimsiegen. Die YB bleiben auch ohne Trainer Seoane ungeschlagen.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "7b97d96d842527e7",
+"image": "https://img-msp-prod.nzz.ch/2026/10/24/078d7867-408a-47a3-b7c6-9c62a4799294.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2667,2667,x1087,y0",
+"lang": "de",
+"published": "2026-10-24T20:40:10+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "Weiterhin ungeschlagen: Der FC Zürich zittert sich gegen Luzern zum 2:1-Sieg",
+"url": "https://www.nzz.ch/sport/weiterhin-ungeschlagen-der-fc-zuerich-zittert-sich-gegen-luzern-zum-21-sieg-ld.10043727"
 },
 {
-"excerpt": "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is regarded as one of the most famous games of",
+"excerpt": "In Baden sollen in einem umgebauten Bürogebäude Angestellte arbeiten, wohnen und Sport treiben. Das Angebot ist gefragt.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "7a0e96faf6acd507",
+"image": "https://www.srf.ch/static/cms/images//320ws/de8c12.webp",
+"lang": "de",
+"published": "2026-10-24T20:15:39+00:00",
+"section": "basel",
+"source": "srf_news",
+"title": "Arbeitsplätze der Zukunft? – Hier sollen sich Angestellte im Büro so wohlfühlen wie zu Hause",
+"url": "https://www.srf.ch/news/schweiz/arbeitsplaetze-der-zukunft-hier-sollen-sich-angestellte-im-buero-so-wohlfuehlen-wie-zu-hause"
+},
+{
+"excerpt": "Seit Ende September gehen Schüler, Lehrpersonen und Gewerkschaften auf die Strasse – und lösen eine landesweite Bewegung aus, die zu Krawallen und Gewalt führt. Die neusten Entwicklungen.",
+"first_seen": "2026-10-22T14:21:33+00:00",
+"id": "d14bf6e786b96fc4",
+"image": "https://img-msp-prod.nzz.ch/2026/10/24/620f2c6e-39ef-48c0-8414-c3c2e4a13140.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3544,3544,x641,y0",
+"lang": "de",
+"published": "2026-10-24T19:56:03+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "DIE NEUESTEN ENTWICKLUNGEN - Frankreichs Innenminister spricht von mehr als 1000 Festnahmen bei den Protesten im ganzen Land",
+"url": "https://www.nzz.ch/international/neue-schuelerproteste-in-frankreich-droht-eine-ausweitung-der-ausschreitungen-ld.10026904"
+},
+{
+"excerpt": "Einige Sektionen kritisieren die passive Führung um den Präsidenten Michele Moor, der wiederum öffentlich mit dem Ex-Armeechef Süssli abrechnet. Statt die sicherheitspolitische Debatte zu prägen, beschäftigen sich die Offiziere mit sich selbst.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "d21c3dbdba2f320f",
+"image": "https://img-msp-prod.nzz.ch/2026/10/23/24a709eb-aa83-4ed6-bc54-b54f1ca9fae6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1449,1449,x3489,y1357",
+"lang": "de",
+"published": "2026-10-24T19:45:00+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "Die Schweiz ringt um ihre Sicherheit: Ausgerechnet jetzt streiten ihre Offiziere",
+"url": "https://www.nzz.ch/schweiz/unruhe-in-der-offiziersgesellschaft-ausgerechnet-jetzt-ringt-der-verband-um-seinen-kurs-ld.10041182"
+},
+{
+"excerpt": "Die SVP-Bundesratskandidatin Céline Amaudruz ist neu Verwaltungsrätin in einer Gesellschaft des umtriebigen Investors Antoine Hubert. Der Romand hat in Rekordzeit ein Imperium aufgebaut. Doch er ist auch eine polarisierende Figur.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "8fb29085b8eb4d48",
+"image": "https://img-msp-prod.nzz.ch/2026/10/23/bc9919d2-00e8-476d-ac47-35d164b3434c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2438,2438,x2754,y388",
+"lang": "de",
+"published": "2026-10-24T19:45:00+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "Neues Mandat: Céline Amaudruz arbeitet für den flamboyanten und millionenschweren Spitalkönig der Romandie",
+"url": "https://www.nzz.ch/schweiz/neues-mandat-celine-amaudruz-arbeitet-fuer-spitalkoenig-hubert-ld.10042338"
+},
+{
+"excerpt": "Millionen des Bundes flossen, doch das Ausmass des Missbrauchs geflüchteter Frauen in Tschad blieb der Deza lange verborgen. Interne E-Mails zeigen, wie die Kontrolle versagte. Als Konsequenz verschärft der Bund die Regeln für alle Schweizer NGO-Partner.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "4e62eee84236136e",
+"image": "https://img-msp-prod.nzz.ch/2026/10/23/4af0e58e-a2f2-414b-ae88-2630abd63a00.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=787,787,x709,y94",
+"lang": "de",
+"published": "2026-10-24T19:45:00+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "Missbrauchsskandal in Tschad: Bund stoppt Zahlung an Ärzte ohne Grenzen",
+"url": "https://www.nzz.ch/schweiz/-dass-wir-nicht-von-partnern-absichtlich-getaeuscht-werden-koennen-so-versagte-die-deza-im-missbrauchsskandal-ld.10041206"
+},
+{
+"excerpt": "Vor der Debatte im Nationalrat warnt der Bankpersonalverband vor härteren Kapitalregeln für die UBS. Der Arbeitsmarkt ist bereits heute angespannt. Hochbezahlte Banker müssen ihre Ansprüche senken.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "476bc9b75ee0ad0d",
+"image": "https://img-msp-prod.nzz.ch/2026/09/21/80948dac-be52-42cb-9eee-8aed817c61e8.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1857,1857,x1596,y796",
+"lang": "de",
+"published": "2026-10-24T19:45:00+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "Gewerkschaft eilt UBS-Chef Ermotti zu Hilfe: Wegzug könnte bis zu 12 000 Banker ihre Jobs kosten",
+"url": "https://www.nzz.ch/wirtschaft/gewerkschaft-eilt-ubs-chef-ermotti-zu-hilfe-wegzug-koennte-bis-zu-12-000-banker-ihre-jobs-kosten-ld.10040118"
+},
+{
+"excerpt": "Kaufstreik der Konsumenten, Kurseinbruch an der Börse und ein CEO-Rausschmiss: Lindt & Sprüngli durchlebt die grössten Turbulenzen seit Jahrzehnten. Jetzt erklärt sich der Langzeitpräsident Ernst Tanner.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "401bc4ce4e0a104f",
+"image": "https://img-msp-prod.nzz.ch/2026/10/22/01f4e4c9-b871-481f-84ec-7de2087bb0d6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5464,5464,x0,y791",
+"lang": "de",
+"published": "2026-10-24T19:45:00+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "Der Schokoladenkönig Ernst Tanner spricht erstmals über die Krise von Lindt: «Es tut mir weh, unsere Produkte im Ausverkauf zu sehen»",
+"url": "https://www.nzz.ch/wirtschaft/der-schokoladenkoenig-ernst-tanner-spricht-erstmals-ueber-die-krise-von-lindt-es-tut-mir-weh-unsere-produkte-im-ausverkauf-zu-sehen-ld.10040266"
+},
+{
+"excerpt": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
 "first_seen": "2026-10-22T11:33:03+00:00",
-"id": "717458ff675bb73f",
-"lang": "en",
-"published": "2026-10-17T22:00:00+00:00",
-"section": "chess",
-"source": "chessbase",
-"title": "My 70th Memorable Game",
-"url": "https://en.chessbase.com/post/my-70th-memorable-game"
+"id": "acc0d1b147e12ce7",
+"image": "https://img-msp-prod.nzz.ch/2026/10/15/81dd75be-9f8c-4043-93c1-2e74f5c66f7f.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5587,5587,x1169,y0",
+"lang": "de",
+"published": "2026-10-24T19:33:55+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "LIVE-TICKER - Krieg in der Ukraine: Starlink-Satelliteninternet läuft laut Selenski wieder stabil",
+"url": "https://www.nzz.ch/international/krieg-in-der-ukraine-ukrainische-regierung-stuetzt-selenski-nach-attacke-trumps-trump-fordert-abloesung-selenskis-ld.10021245"
+},
+{
+"excerpt": "Die USA und Iran befinden sich seit Februar 2026 im Kriegszustand. Zwar haben die beiden Länder eine Waffenruhe vereinbart, doch Donald Trump hat diese Anfang Juli für beendet erklärt. Die neuesten Entwicklungen im Ticker.",
+"first_seen": "2026-10-25T01:06:45+00:00",
+"id": "16d9701e4c3f033e",
+"image": "https://img-msp-prod.nzz.ch/2026/10/11/4c37ffa1-3c81-4bae-9e45-f4ef9f5f955a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3840,3840,x0,y0",
+"lang": "de",
+"published": "2026-10-24T19:21:43+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "LIVE-TICKER - Iran-Krieg: Huthi-Miliz meldet Angriffe auf saudische Flughäfen und Ölanlagen",
+"url": "https://www.nzz.ch/international/iran-krieg-erneut-tanker-in-strasse-von-hormuz-angegriffen-eu-behoerde-warnt-fluggesellschaften-ld.10021246"
+},
+{
+"excerpt": "Neugeborene Zwillinge tauschen das Alter, die Polizei verdächtigt die Falschen – was während der Zeitumstellung am Wochenende passieren könnte.",
+"first_seen": "2026-10-23T16:52:57+00:00",
+"id": "14048dcf03a052f0",
+"image": "https://img-msp-prod.nzz.ch/2024/10/24/67d95e4b-78f8-42a2-84d4-6449fba8b797.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3456,3456,x864,y0",
+"lang": "de",
+"published": "2026-10-24T18:51:36+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "Wenn die Zeit für eine Stunde stillsteht",
+"url": "https://www.nzz.ch/panorama/zeitumstellung-warum-die-geschenkte-stunde-fuer-verwirrung-sorgt-ld.10042254"
+},
+{
+"excerpt": "Kompany wurde nach einem Zusammenbruch am Freitag ins Spital gebracht. Dem Klub wird er mehrere Wochen lang fehlen.",
+"first_seen": "2026-10-24T13:34:35+00:00",
+"id": "93ae6ee04323790b",
+"image": "https://img-msp-prod.nzz.ch/2026/10/24/85d19261-47c7-40e6-b0b6-a92667545587.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2096,2096,x524,y0",
+"lang": "de",
+"published": "2026-10-24T18:28:08+00:00",
+"section": "basel",
+"source": "nzz",
+"title": "Bayern-Trainer Kompany: Wenn der Arbeitseifer plötzlich zum Risiko wird",
+"url": "https://www.nzz.ch/sport/vincent-kompany-faellt-nach-kollaps-wohl-fuer-mehrere-wochen-aus-was-bedeutet-das-fuer-bayern-ld.10043480"
 },
 {
 "excerpt": "Am Samstag, 24. Oktober 2026, circa 13.45 Uhr ist beim Kreisel Kannenfeldplatz ein Mann auf den Gleisen der Elsässerbahn von einem Zug erfasst und dabei verletzt worden. Die Sanität der Rettung Basel-Stadt brachte den Verletzten ins Spital. Der Zugverkehr war während des Einsatzes mehrere Stunden la",
@@ -16611,22 +17205,10 @@
 "url": "https://www.bs.ch/medienmitteilungen/2026-mann-nach-sturz-von-zug-erfasst"
 },
 {
-"excerpt": "Seit Ende September gehen Schüler, Lehrpersonen und Gewerkschaften auf die Strasse – und lösen eine landesweite Bewegung aus, die zu Krawallen und Gewalt führt. Die neusten Entwicklungen.",
-"first_seen": "2026-10-22T14:21:33+00:00",
-"id": "d14bf6e786b96fc4",
-"image": "https://img-msp-prod.nzz.ch/2026/10/24/620f2c6e-39ef-48c0-8414-c3c2e4a13140.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3544,3544,x641,y0",
-"lang": "de",
-"published": "2026-10-24T17:53:00+00:00",
-"section": "basel",
-"source": "nzz",
-"title": "DIE NEUESTEN ENTWICKLUNGEN - Proteste in Frankreich: Die Polizei nimmt bei Demonstrationen im ganzen Land 135 Personen fest",
-"url": "https://www.nzz.ch/international/neue-schuelerproteste-in-frankreich-droht-eine-ausweitung-der-ausschreitungen-ld.10026904"
-},
-{
-"excerpt": "Ein grosses Aufgebot an Polizei und privaten Sicherheitsleuten sowie das Verlegen der Demonstration aus der Innenstadt hinaus sorgte tagsüber für eine ruhige Demonstration. Gegen Abend gibt es kleinere Scharmützel in Frankreichs Hauptstadt.",
+"excerpt": "Ein grosses Aufgebot an Polizei und privaten Sicherheitsleuten sowie das Verlegen der Demonstration aus der Innenstadt sorgte tagsüber für Ruhe im Zentrum. Gegen Abend gibt es kleinere Scharmützel in Frankreichs Hauptstadt.",
 "first_seen": "2026-10-24T18:21:49+00:00",
 "id": "6dde314a251a9a1d",
-"image": "https://img-msp-prod.nzz.ch/2026/10/24/5dd8c653-b2bb-49af-af2a-37f511a78345.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2672,2672,x535,y0",
+"image": "https://img-msp-prod.nzz.ch/2026/10/24/5dd8c653-b2bb-49af-af2a-37f511a78345.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1030,1030,x1369,y772",
 "lang": "de",
 "published": "2026-10-24T17:36:29+00:00",
 "section": "basel",
@@ -16657,18 +17239,6 @@
 "source": "baz",
 "title": "Grosseinsatz beim Kannenfeldplatz: Mann stürzt in Basel auf Gleise – Zug evakuiert",
 "url": "https://www.bazonline.ch/basel-mann-stuerzt-auf-gleise-am-kannenfeldplatz-368378352240"
-},
-{
-"excerpt": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick.",
-"first_seen": "2026-10-22T11:33:03+00:00",
-"id": "acc0d1b147e12ce7",
-"image": "https://img-msp-prod.nzz.ch/2026/10/15/81dd75be-9f8c-4043-93c1-2e74f5c66f7f.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5587,5587,x1169,y0",
-"lang": "de",
-"published": "2026-10-24T15:41:44+00:00",
-"section": "basel",
-"source": "nzz",
-"title": "LIVE-TICKER - Krieg in der Ukraine: Starlink läuft laut Selenski wieder stabil +++ Melania Trump vermittelt Waffenruhe in besetzter Frontstadt Oleschki",
-"url": "https://www.nzz.ch/international/krieg-in-der-ukraine-ukrainische-regierung-stuetzt-selenski-nach-attacke-trumps-trump-fordert-abloesung-selenskis-ld.10021245"
 },
 {
 "excerpt": "Am Samstag ist ein Mann auf den Gleisen der Elsässerbahn von einem Zug erfasst und dabei verletzt worden. Die Sanität der Rettung Basel-Stadt brachte den Verletzten ins Spital. Der Zugverkehr war während des Einsatzes mehrere Stunden lang unterbrochen.",
@@ -16801,18 +17371,6 @@
 "source": "srf_news",
 "title": "Zurück zur Winterzeit – Kosten, Aufwand und Nutzen: Sechs Fakten zur Zeitumstellung",
 "url": "https://www.srf.ch/news/schweiz/zurueck-zur-winterzeit-kosten-aufwand-und-nutzen-sechs-fakten-zur-zeitumstellung"
-},
-{
-"excerpt": "Vincent Kompany hat offenbar Warnsignale seines Körpers ignoriert. Der Zusammenbruch hat Auswirkungen auf den FC Bayern.",
-"first_seen": "2026-10-24T13:34:35+00:00",
-"id": "93ae6ee04323790b",
-"image": "https://img-msp-prod.nzz.ch/2026/10/24/85d19261-47c7-40e6-b0b6-a92667545587.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2096,2096,x524,y0",
-"lang": "de",
-"published": "2026-10-24T12:23:58+00:00",
-"section": "basel",
-"source": "nzz",
-"title": "Vincent Kompany fällt nach seinem Kollaps wohl für mehrere Wochen aus: Was bedeutet das für Bayern?",
-"url": "https://www.nzz.ch/sport/vincent-kompany-faellt-nach-kollaps-wohl-fuer-mehrere-wochen-aus-was-bedeutet-das-fuer-bayern-ld.10043480"
 },
 {
 "excerpt": "Wegen der Gefahr von herabfallenden Ästen sind am Sonntag nicht alle Plätze auf der Mäss offen.",
@@ -17533,18 +18091,6 @@
 "source": "nzz",
 "title": "ERKLÄRT - Auch Griechenland verbietet soziale Netzwerke für Jugendliche. Ist das technisch überhaupt machbar? Und was sagt die Forschung über solche Verbote?",
 "url": "https://www.nzz.ch/technologie/verbietet-frankreich-jugendlichen-social-media-ist-das-technisch-ueberhaupt-moeglich-und-was-sagt-die-forschung-ueber-solche-verbote-ld.1922437"
-},
-{
-"excerpt": "Neugeborene Zwillinge tauschen das Alter, die Polizei verdächtigt die Falschen – was während der Zeitumstellung am Wochenende passieren könnte.",
-"first_seen": "2026-10-23T16:52:57+00:00",
-"id": "14048dcf03a052f0",
-"image": "https://img-msp-prod.nzz.ch/2024/10/24/67d95e4b-78f8-42a2-84d4-6449fba8b797.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3456,3456,x864,y0",
-"lang": "de",
-"published": "2026-10-23T13:27:09+00:00",
-"section": "basel",
-"source": "nzz",
-"title": "Wenn die Zeit für eine Stunde stillsteht",
-"url": "https://www.nzz.ch/panorama/zeitumstellung-warum-die-geschenkte-stunde-fuer-verwirrung-sorgt-ld.10042254"
 },
 {
 "excerpt": "",
@@ -21595,16 +22141,5 @@
 "source": "willison",
 "title": "llm-echo 0.5",
 "url": "https://simonwillison.net/2026/Oct/18/llm-echo/"
-},
-{
-"excerpt": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith( ne",
-"first_seen": "2026-10-22T11:33:03+00:00",
-"id": "bc9bcba434252806",
-"lang": "en",
-"published": "2026-10-17T21:11:12+00:00",
-"section": "ai",
-"source": "willison",
-"title": "Inline rendering with document​.currentScript",
-"url": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
 }
 ]
