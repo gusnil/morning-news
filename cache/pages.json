@@ -2956,10 +2956,10 @@
 },
 "2026-10-25": {
 "date": "2026-10-25",
-"built_at": "2026-10-25T14:34:19.868425+00:00",
-"built_local": "15:34",
-"edition": "Midday",
-"feeds_ok": 54,
+"built_at": "2026-10-25T19:14:28.803128+00:00",
+"built_local": "20:14",
+"edition": "Evening",
+"feeds_ok": 55,
 "feeds_total": 55,
 "sections": [
 {
@@ -2988,18 +2988,57 @@
 "excerpt": ""
 },
 {
-"id": "897e59e6537f8078",
-"title": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
-"url": "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections",
+"id": "c5401a576dad9f63",
+"title": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+"url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
 "source": "France 24",
-"when": "13:48",
+"when": "18:10",
 "also": [
 "The Hindu",
 "BBC World"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/cd897c30-d056-11f1-8d7f-5b4a75578ebb/w:1024/p:16x9/2026-10-24T194218Z-1784067987-RC2R9OAGSDD5-RTRMADP-3-FRANCE-PROTEST.jpg",
+"image": "https://s.france24.com/media/display/a71cd552-d096-11f1-a147-4d317af013fd/w:1024/p:16x9/000-D4DM8NQ-1.jpg",
 "excerpt": ""
+},
+{
+"id": "d21151f2d4ddfafc",
+"title": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us'",
+"url": "https://www.thehindu.com/news/international/netanyahu-warns-iran-may-try-to-disrupt-israel-election-says-dont-test-us/article71624345.ece",
+"source": "The Hindu",
+"when": "17:40",
+"also": [
+"SCMP"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/te1jtn/article71624350.ece/alternates/LANDSCAPE_1200/Israel_Elections_17136.jpg",
+"excerpt": "Benjamin Netanyahu, Israel's longest-serving prime minister, has focused heavily on hawkish national security statements in the final days of the campaign"
+},
+{
+"id": "c278e3f771b995ea",
+"title": "Gabon restores social media access after an eight-month ban",
+"url": "http://www.africanews.com/2026/10/25/gabon-restores-social-media-access-after-an-eight-month-ban/",
+"source": "Africanews",
+"when": "16:37",
+"also": [
+"BBC World"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/96/63/02/640x360_cmsv2_54be0c1f-5786-5c6a-826b-ff7d00dc75e8-9966302.jpg?1792921393",
+"excerpt": "The media regulator pulled the plug on social networks in February blaming content posted online for stoking conflict and division in society."
+},
+{
+"id": "3dea8c784cd85ad1",
+"title": "Saudi Arabia's Riyadh airport partially resumes flights after Houthi attacks",
+"url": "http://www.africanews.com/2026/10/25/saudi-arabias-riyadh-airport-partially-resumes-flights-after-houthi-attacks/",
+"source": "Africanews",
+"when": "15:35",
+"also": [
+"The Hindu"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/96/64/15/640x360_cmsv2_d6c6c5c4-3c22-5c30-b30f-e5e0f48fded9-9966415.jpg?1792930854",
+"excerpt": "The announcement comes after a two-week suspension of operations following strikes from Yemen's Houthis on the Saudi capital."
 },
 {
 "id": "fabbff4da24ace14",
@@ -3028,72 +3067,37 @@
 "excerpt": ""
 },
 {
-"id": "c30e27320a02d023",
-"title": "Ebola vaccine trial begins in DR Congo",
-"url": "https://www.thehindu.com/news/international/ebola-vaccine-trial-begins-in-dr-congo/article71617960.ece",
-"source": "The Hindu",
-"when": "Sat 08:01",
-"also": [
-"SCMP"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/lzodtp/article71617962.ece/alternates/LANDSCAPE_1200/Congo_Ebola_9658_.jpg",
-"excerpt": ""
-},
-{
-"id": "4055a817c9be438d",
-"title": "Gaza content creator tells Al Jazeera how much her award win means",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
+"id": "b9613a462ca239b8",
+"title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
+"url": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
 "source": "Al Jazeera",
-"when": "15:16",
+"when": "19:34",
 "also": [],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792937744.jpg?resize=1920%2C1079&quality=80",
-"excerpt": "Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means"
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2186505486-1792907466.jpg?resize=1920%2C1440",
+"excerpt": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London."
 },
 {
-"id": "375edc0d13736d79",
-"title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
-"url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
+"id": "0fb1a411ab42ec08",
+"title": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
+"url": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss",
 "source": "Al Jazeera",
-"when": "15:11",
+"when": "19:27",
 "also": [],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP18111291320142-1770666958.jpg?resize=1920%2C1440",
-"excerpt": "Bangladesh expected to surpass India's per capita GDP this year, but that's not the complete economic picture."
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261025__D4DG7PE__v1__HighRes__FblEngPrManUtdBournemouth-1792950790.jpg?resize=1800%2C1200&quality=80",
+"excerpt": "Manchester United's 0-3 home loss to Bournemouth has left the 20-time champions winless in eight Premier League games."
 },
 {
-"id": "17c8e6855d69732b",
-"title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-"url": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "15:03",
-"also": [],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Sudan3-1792928496.jpg?resize=1620%2C1080&quality=80",
-"excerpt": "As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining."
-},
-{
-"id": "8aff3af19b52c282",
-"title": "Over 1,000 arrested in France after a day of mostly peaceful protests",
-"url": "http://www.africanews.com/2026/10/25/over-1000-arrested-in-france-after-a-day-of-mostly-peaceful-protests/",
-"source": "Africanews",
-"when": "13:48",
-"also": [],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/96/62/08/640x360_cmsv2_b6cf01c7-ea99-568a-b759-317267f5edaa-9966208.jpg?1792914302",
-"excerpt": "There were clashes after night fall as police fired tear gas and water cannon to disperse protesters in a number of cities."
-},
-{
-"id": "0453690d31252c43",
-"title": "Kathleen Belew, historian: ‘Trump is using and benefiting from the white power movement’",
-"url": "https://english.elpais.com/usa/2026-10-25/kathleen-belew-historian-trump-is-using-and-benefiting-from-the-white-power-movement.html",
+"id": "1cdac0d23010a7e5",
+"title": "María Corina Machado returns to Venezuela",
+"url": "https://english.elpais.com/international/2026-10-25/maria-corina-machado-returns-to-venezuela.html",
 "source": "El País English",
-"when": "05:00",
+"when": "17:46",
 "also": [],
 "lang": "en",
-"image": "https://images.english.elpais.com/resizer/v2/6MAKEU4BBFATZPZ46CAV44FKN4.jpg?auth=bab7ea2e61ed570709d55ad13bbca2099f0a60fe85f83dcd6a67147541966943",
-"excerpt": "The expert warns of the dangers of bringing racist and violent groups into mainstream politics, a trend that is gaining ground around the world"
+"image": "https://images.english.elpais.com/resizer/v2/IH7X7BFBYRAQ5GSQGEFSFZFO7A.jpg?auth=cc8cc62cf66c5e0dd7270e0382ab4828b3c883fc3ecd44d17f7906bc6000bffc",
+"excerpt": "The opposition leader has managed to return after several failed attempts and nearly 10 months abroad, posing a direct challenge to the Venezuelan government"
 }
 ]
 }
@@ -3111,37 +3115,59 @@
 "title": null,
 "items": [
 {
-"id": "64a5879f6bd14959",
-"title": "Genf – Der eiskalte Tresor, der die Schweizer Flora retten soll",
-"url": "https://www.srf.ch/news/dialog/genf-der-eiskalte-tresor-der-die-schweizer-flora-retten-soll",
+"id": "ccddb334ff42e2e2",
+"title": "Tessiner Grenze – Brissago: Auf den Spuren eines Weltkriegsflüchtlings",
+"url": "https://www.srf.ch/news/dialog/tessiner-grenze-brissago-auf-den-spuren-eines-weltkriegsfluechtlings",
 "source": "SRF News",
-"when": "14:56",
+"when": "19:08",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/025699.webp",
-"excerpt": "Eine Saatgutbank in Genf führt einen harten Kampf: Ihr Ziel ist, die Flora der Schweiz vor dem Aussterben zu bewahren."
+"image": "https://www.srf.ch/static/cms/images//320ws/43417d.webp",
+"excerpt": "Sydney Short floh während des Weltkrieges in die Schweiz. Nun kehrt seine Familie an die Orte seiner Flucht zurück."
 },
 {
-"id": "a6f4297e322a5235",
-"title": "Jahr der Freiwilligkeit – Diese Freiwilligen brachen Regeln, um Menschen zu helfen",
-"url": "https://www.srf.ch/news/schweiz/jahr-der-freiwilligkeit-diese-freiwilligen-brachen-regeln-um-menschen-zu-helfen",
+"id": "981240cd47f7aa42",
+"title": "Schielen auf Justizdepartement – «Politischer Übergriff»: Politologe kritisiert SVP-Strategie",
+"url": "https://www.srf.ch/news/schweiz/schielen-auf-justizdepartement-politischer-uebergriff-politologe-kritisiert-svp-strategie",
 "source": "SRF News",
-"when": "13:03",
+"when": "18:40",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/e185ac.webp",
-"excerpt": "Freiwillige verändern die Schweiz – manchmal am Rand der Illegalität: vier Geschichten von Mut, Widerstand und Wandel."
+"image": "https://www.srf.ch/static/cms/images//320ws/1093f0.webp",
+"excerpt": "Adrian Vatter kritisiert den SVP-Anspruch auf das Justiz- und Polizeidepartment als «strategisches Eigentor»."
 },
 {
-"id": "3a09a7c8b06af092",
-"title": "Vögel und Hitze – So geht es den Zugvögeln nach dem heissen Sommer",
-"url": "https://www.srf.ch/news/schweiz/voegel-und-hitze-so-geht-es-den-zugvoegeln-nach-dem-heissen-sommer",
+"id": "62142d3263612d82",
+"title": "Dinosaurier im Fricktal – Schweizer Dino-Hotspot: Noch vieles schlummert im Boden",
+"url": "https://www.srf.ch/news/schweiz/dinosaurier-im-fricktal-schweizer-dino-hotspot-noch-vieles-schlummert-im-boden",
 "source": "SRF News",
-"when": "12:13",
+"when": "18:07",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/4c6b35.webp",
-"excerpt": "Vor dem Flug in den Süden stärken sich Zugvögel im Solothurner Jura. Die Hitze kann Auswirkungen haben."
+"image": "https://www.srf.ch/static/cms/images//320ws/7a4ed8.webp",
+"excerpt": "Millionen Jahre alte Saurierknochen liegen in Frick AG in der Erde. Nach 50 Jahren muss man bei der Suche umdenken."
+},
+{
+"id": "8b0c98ca8631dddd",
+"title": "Nach Sturmwarnung: Basler Herbstmesse wieder komplett offen",
+"url": "https://www.bazonline.ch/basler-herbstmesse-petersplatz-nach-sturm-wieder-offen-763515965372",
+"source": "Basler Zeitung",
+"when": "17:41",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/EhsEp0w64yQAxMUADOVQ4X.jpg",
+"excerpt": "Am Sonntagnachmittag waren gewisse Areale der Herbstmesse Basel wegen Sturmwarnung abgesperrt."
+},
+{
+"id": "bc85edce233cc122",
+"title": "Waffendiebstahl und Verfolgungsjagd: In Münchenstein wurden vier Franzosen nach Selbstunfall festgenommen",
+"url": "https://www.bazonline.ch/waffendiebstahl-maegenwil-vier-franzosen-in-muenchenstein-verhaftet-303196649891",
+"source": "Basler Zeitung",
+"when": "15:59",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/8z2NBTsxaKA8S5qG7gJOcE.jpg",
+"excerpt": "Nach einem Einbruch in ein Waffengeschäft und einer wilden Verfolgungsjagd hat die Polizei vier mutmassliche Täter in Münchenstein geschnappt."
 },
 {
 "id": "c89ca9a83da7bd41",
@@ -3155,26 +3181,15 @@
 "excerpt": "Bei einem Brand in einer Wohnung in Augst in der Nacht auf Sonntag hat sich viel Rauch entwickelt."
 },
 {
-"id": "cf0121fd6a5067c8",
-"title": "Interview über Wyniger-Gruppe: «Die Vorstellung, dass bei uns alles gleichgeschaltet ist, steht konträr zu unserer Philosophie»",
-"url": "https://www.bazonline.ch/teufelhof-basel-das-bel-etage-wird-zum-nova-567442971821",
-"source": "Basler Zeitung",
-"when": "07:37",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/2caaZl_nq8i8Illxp208b9.jpg",
-"excerpt": ""
-},
-{
-"id": "93ae6ee04323790b",
+"id": "1f8ffc292a279c7b",
 "title": "Bayern-Trainer Kompany: Wenn der Arbeitseifer plötzlich zum Risiko wird",
-"url": "https://www.nzz.ch/sport/vincent-kompany-faellt-nach-kollaps-wohl-fuer-mehrere-wochen-aus-was-bedeutet-das-fuer-bayern-ld.10043480",
+"url": "https://www.nzz.ch/sport/fussball/vincent-kompany-faellt-nach-kollaps-wohl-fuer-mehrere-wochen-aus-was-bedeutet-das-fuer-bayern-ld.10043480",
 "source": "NZZ",
-"when": "14:54",
+"when": "19:59",
 "also": [],
 "lang": "de",
 "image": "https://img-msp-prod.nzz.ch/2026/10/24/85d19261-47c7-40e6-b0b6-a92667545587.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2096,2096,x526,y0",
-"excerpt": "Kompany wurde nach einem Zusammenbruch am Freitag ins Spital gebracht. Dem Klub wird er mehrere Wochen lang fehlen."
+"excerpt": "Vincent Kompany wurde nach einem Zusammenbruch am Freitag ins Spital gebracht. Dem Klub wird er mehrere Wochen lang fehlen."
 },
 {
 "id": "ca01f4c66b6b1de2",
@@ -3208,22 +3223,11 @@
 "lang": "de",
 "image": null,
 "excerpt": ""
-},
-{
-"id": "a703f1b4fd7ab490",
-"title": "Sturmgefahr an Basler Herbstmesse: «Grosser Verlust, aber sinnvoll» – Schaustellerin bedauert Schliessung am Sonntag",
-"url": "https://www.bazonline.ch/basler-herbstmesse-sturmwarnung-schliesst-drei-standorte-722907268517",
-"source": "Basler Zeitung",
-"when": "Sat 19:15",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/77h62pQ-K5uBI2BSONvAs3.jpg",
-"excerpt": ""
 }
 ]
 }
 ],
-"lead": "64a5879f6bd14959"
+"lead": "ccddb334ff42e2e2"
 },
 {
 "id": "sport",
@@ -3236,88 +3240,77 @@
 "title": "Cycling",
 "items": [
 {
-"id": "1e053312efdb7ffa",
-"title": "Superprestige Overijse: Lucinda Brand takes commanding victory with powerful solo performance",
-"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/superprestige-overijse-lucinda-brand-takes-commanding-victory-with-powerful-solo-performance/",
+"id": "4bc5a91da1f2bc5d",
+"title": "Célia Gery to end cyclo-cross season after European championships due to ‘leg pain’",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/celia-gery-to-end-cyclo-cross-season-after-european-championships-due-to-leg-pain/",
 "source": "Cyclingnews",
-"when": "14:34",
+"when": "18:48",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/sLHUgbEfhvmivv6G4pBgV9-1920-80.jpg",
-"excerpt": "Aniek van Alphen limits the damage in second place, with Inge van der Heijden third"
+"image": "https://cdn.mos.cms.futurecdn.net/tzf9m2dJjmZatCprLJgKCL-1920-80.jpg",
+"excerpt": "French road and cyclo-cross champion to have surgery in the winter"
 },
 {
-"id": "f93588c1579dede4",
-"title": "'I get the feeling they are waiting to see where Paul Seixas really pushes Tadej Pogačar' - Philippa York analyses a 'non-traditional' 2027 Tour de France route",
-"url": "https://www.cyclingnews.com/pro-cycling/i-get-the-feeling-they-are-waiting-to-see-where-paul-seixas-really-pushes-tadej-pogacar-philippa-york-analyses-a-non-traditional-2027-tour-de-france-route/",
+"id": "95b02d4d19e3c6e3",
+"title": "Tour Down Under race director ‘doing everything we can’ to bring Tadej Pogačar to Australia",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/tour-down-under-race-director-doing-everything-we-can-to-bring-tadej-pogacar-to-australia/",
 "source": "Cyclingnews",
-"when": "14:17",
+"when": "18:06",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/SgncTTB9cLKUJf8s9h8eBd-1920-80.png",
-"excerpt": "Cyclingnews' expert columnist dissects the time trial-heavy route, but says Pogačar remains the favourite"
+"image": "https://cdn.mos.cms.futurecdn.net/8DSBavz7TUhaD84iD6HM2C-1920-80.jpg",
+"excerpt": "Stuart O’Grady is hoping the Slovenian will return to race where he made WorldTour debut in 2019"
 },
 {
-"id": "15a8bc73a407d794",
-"title": "'Life had other plans for me' - Belgian cyclo-cross champion Marion Norbert Riberolle undergoes procedure to correct cardiac arrhythmia",
-"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/life-had-other-plans-for-me-belgian-cyclo-cross-champion-marion-norbert-riberolle-undergoes-procedure-to-correct-cardiac-arrhythmia/",
+"id": "15a1e08ebc23a918",
+"title": "Superprestige Oversijse: Michael Vanthourenhout powers to solo victory at Druivencross",
+"url": "https://www.cyclingnews.com/pro-cycling/racing/superprestige-oversijse-michael-vanthourenhout-takes-commanding-solo-victory-at-druivencross/",
 "source": "Cyclingnews",
-"when": "13:43",
+"when": "16:42",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/8V3LN3Tk2SiLPw2nWaGXcm-1920-80.jpg",
-"excerpt": "Former under-23 world champion diagnosed with cardiac arrhythmia following a disappointing start to the 2026 season"
+"image": "https://cdn.mos.cms.futurecdn.net/ztwF2yEc4siXrbRE6ss8TZ-1920-80.jpg",
+"excerpt": "Witse Meeussen is second and Niels Vandeputte takes third in opening round of Belgian series"
 },
 {
-"id": "260813923b772497",
-"title": "VIDEO: Tadej Pogačar Catches Backlash for ‘Reckless’ Riding in Monaco",
-"url": "https://velo.outsideonline.com/road/road-racing/pogacar-slammed-reckless-riding/",
-"source": "Velo",
-"when": "15:12",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/Untitled-Design-46.jpg?width=1200",
-"excerpt": ""
-},
-{
-"id": "43828692a7438cd3",
-"title": "Tour de France 2027: What Do Extra TT Kms Mean for Evenepoel’s Prospects?",
-"url": "https://velo.outsideonline.com/road/road-racing/tour-de-france/extra-tt-kms-remco-evenepoel/",
-"source": "Velo",
-"when": "00:04",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/GettyImages-2296282285.jpg?width=1200",
-"excerpt": ""
-},
-{
-"id": "d74b8359868911be",
-"title": "From historic citadels to seaside resorts: Reasons to watch cyclocross this winter",
-"url": "https://escapecollective.com/from-historic-citadels-to-seaside-resorts-reasons-to-watch-cyclocross-this-winter/",
+"id": "bb0392030b5a5ae3",
+"title": "De Marchi and Laing storm to victory on stage 1 of Nedbank Gravel Burn",
+"url": "https://escapecollective.com/de-marchi-and-laing-storm-to-victory-on-stage-1-of-nedbank-gravel-burn/",
 "source": "Escape Collective",
-"when": "Sat 22:08",
+"when": "19:51",
 "also": [],
 "lang": "en",
-"image": "https://escapecollective.com/content/images/2026/10/corvos-zonhoven-2026-brand-2.jpg",
-"excerpt": "Dates for your diary as some of the world's best 'cross riders take on a varied calendar of historic races over mud, sand and even snow."
-},
-{
-"id": "93e541d62c4e5433",
-"title": "Why Flying With a Bike is Always a Gamble (And How to Improve Your Odds)",
-"url": "https://velo.outsideonline.com/road/road-gear/how-to-fly-with-a-bike-tsa-liability/",
-"source": "Velo",
-"when": "Sat 19:51",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/DSC_7300.jpg?width=1200",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
 "excerpt": ""
 },
 {
-"id": "055596e6fc39431b",
-"title": "Rockets enter Roglič conversation",
-"url": "https://escapecollective.com/rockets-enter-roglic-conversation/",
+"id": "21577c7e61175074",
+"title": "The 2027 Tour de France Femmes Route Design Beats the Men’s Race, and It’s Not Even Close",
+"url": "https://velo.outsideonline.com/road/road-racing/tour-de-france-femmes/route-design-beats-the-mens/",
+"source": "Velo",
+"when": "19:47",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/10/GettyImages-2289754075.jpg?width=1200",
+"excerpt": ""
+},
+{
+"id": "f9d3589785a4b6d9",
+"title": "2027 WWT transfer roundup: A few big moves as status quo evolves further",
+"url": "https://escapecollective.com/2027-wwt-transfer-roundup-a-few-big-moves-as-status-quo-evolves-further/",
 "source": "Escape Collective",
-"when": "Sat 14:25",
+"when": "18:26",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/10/corvos-blasi.jpg",
+"excerpt": "An updated team-by-team summary of this winter's transfers throughout the Women's WorldTour."
+},
+{
+"id": "ea856cb6000fc84b",
+"title": "Célia Gery to undergo iliac artery surgery and miss most of CX season",
+"url": "https://escapecollective.com/celia-gery-to-undergo-iliac-artery-surgery-and-miss-most-of-cx-season/",
+"source": "Escape Collective",
+"when": "18:00",
 "also": [],
 "lang": "en",
 "image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
@@ -3329,6 +3322,28 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "35cc4fa4e4e6a976",
+"title": "Huskies Close Preseason With Purdue, Tuesday In Hartford",
+"url": "https://uconnhuskies.com/news/2026/10/25/mens-basketball-huskies-close-preseason-with-purdue-tuesday-in-hartford",
+"source": "UConn Huskies",
+"when": "19:58",
+"also": [],
+"lang": "en",
+"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/25/261020_MSU_05644.jpg",
+"excerpt": ""
+},
+{
+"id": "2e3df02fce074a4e",
+"title": "Remis im St. Jakob-Park – GC holt sich mit Kampf und zwei Goalies ein 0:0 in Basel",
+"url": "https://www.srf.ch/sport/fussball/super-league/remis-im-st-jakob-park-gc-holt-sich-mit-kampf-und-zwei-goalies-ein-0-0-in-basel",
+"source": "SRF Sport",
+"when": "18:42",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/fc8145a.webp",
+"excerpt": "Der FC Basel kommt in der 11. Runde der Super League zuhause gegen GC nicht über ein 0:0 hinaus."
+},
 {
 "id": "d5da169804f6577a",
 "title": "Watch Red Sox prospects in Arizona Fall League action",
@@ -3361,17 +3376,6 @@
 "lang": "en",
 "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/jiwzclrjwsib8k80bxvw.jpg",
 "excerpt": "Film review of Drake Maye and the Patriots defense from Thursday night's loss to the Bears in Chicago."
-},
-{
-"id": "7cbb557fe5003cc1",
-"title": "Storförlust mot Schweiz",
-"url": "https://www.svenskfotboll.se/nyheter/landslag/2026/10/p15ft_swe-sui/",
-"source": "SvFF",
-"when": "Fri 18:52",
-"also": [],
-"lang": "sv",
-"image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4aa5b1/globalassets/svff/bilderblock/2610/wiltonwesterlund.jpg",
-"excerpt": ""
 }
 ]
 },
@@ -3398,7 +3402,7 @@
 ]
 }
 ],
-"lead": "1e053312efdb7ffa"
+"lead": "4bc5a91da1f2bc5d"
 },
 {
 "id": "chess",
@@ -3410,6 +3414,17 @@
 "id": "chess",
 "title": null,
 "items": [
+{
+"id": "dbe29c007071323a",
+"title": "A farewell triumph: Capablanca wins gold in Buenos Aires 1939",
+"url": "https://en.chessbase.com/post/capablanca-wins-gold-buenos-aires-1939",
+"source": "ChessBase",
+"when": "16:25",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/132916_l200",
+"excerpt": ""
+},
 {
 "id": "edfafd05fc622c3c",
 "title": "Bodhana: youngest female IM ever",
@@ -3457,17 +3472,6 @@
 "excerpt": ""
 },
 {
-"id": "6f55850e2f25d107",
-"title": "The global impact of the Intercontinental Online Chess Championship for Prisoners",
-"url": "https://en.chessbase.com/post/global-impact-intercontinental-online-ch-prisoners-2026",
-"source": "ChessBase",
-"when": "Sat 05:30",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/132908_l200",
-"excerpt": ""
-},
-{
 "id": "70dd6d0b3d2fabef",
 "title": "Niemann Wins Freestyle Friday, Preventing Movahed Repeat",
 "url": "https://www.chess.com/news/view/niemann-wins-freestyle-friday-october-23-2026",
@@ -3503,7 +3507,7 @@
 ]
 }
 ],
-"lead": "edfafd05fc622c3c"
+"lead": "dbe29c007071323a"
 },
 {
 "id": "ai",
@@ -3538,15 +3542,15 @@
 "excerpt": "AI agents now write a growing share of production data pipelines (over 70% of SDP..."
 },
 {
-"id": "ff73d29a9964afd8",
-"title": "MemCurrent: Designing Persistent Memory for Production Agents",
-"url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+"id": "3f556b3a2ecb3d15",
+"title": "Databricks vs. Oracle in 2026",
+"url": "https://www.databricks.com/blog/databricks-vs-oracle-2026",
 "source": "Databricks",
-"when": "Tue 20:15",
+"when": "Fri 15:45",
 "also": [],
 "lang": "en",
-"image": "https://www.databricks.com/sites/default/files/2026-10/2026-10-Blog-Introducing-MemCurrent-A-Benchmark-and-Memory-System-for-Enterprise-Agents-OG-1200x628-2-2x.png",
-"excerpt": "AI tools have made it easy to vibe code agents. Building and maintaining an enterprise..."
+"image": "https://www.databricks.com/sites/default/files/2026-10/2026-10-Blog-Databricks-vs-Oracle-in-2026-OG-1200x628-2x.png",
+"excerpt": "Why organizations are moving beyond OracleEnterprise data warehouses built on Oracle..."
 },
 {
 "id": "277723d211fea1de",
@@ -3619,6 +3623,50 @@
 "title": null,
 "items": [
 {
+"id": "4ec62cf718e005ce",
+"title": "ESMO: AstraZeneca exec insists phase 3 ADC data ‘robust’ enough for regulators despite PFS miss",
+"url": "https://www.fiercebiotech.com/biotech/esmo-az-exec-insists-ph-3-adc-data-robust-enough-approval-despite-pfs-miss",
+"source": "Fierce Biotech",
+"when": "20:14",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/astra.jpg?VersionId=q.z4HzbtgcT9BHAun93ZNsOFGNcSqrdg",
+"excerpt": ""
+},
+{
+"id": "55df4b3811746a24",
+"title": "ESMO: Roche touts ‘convincing’ phase 3 KRAS data after win over rivals",
+"url": "https://www.fiercebiotech.com/biotech/esmo-roche-sees-phase-3-kras-lung-cancer-win-over-krazati-convincing-health-authorities",
+"source": "Fierce Biotech",
+"when": "20:14",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/roche_1.jpg?VersionId=jh9NxR2W2DH4tjBLFBu_4UAYyJy0oUL_",
+"excerpt": "Roche has shed more light on its investigational KRAS G12C inhibitor’s phase 3 victory over Amgen’s Lumakras and Bristol Myers Squibb’s Krazati."
+},
+{
+"id": "9b69894db9e78605",
+"title": "ESMO: J&J exec says RIPTAC readout is ‘best data we’ve ever seen’ for a prostate cancer drug",
+"url": "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug",
+"source": "Fierce Biotech",
+"when": "20:14",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/jnj_2_0.jpg?VersionId=QWIVshIM9.ZVIQlHLfB9QcdiotXTUj6D",
+"excerpt": ""
+},
+{
+"id": "e054f937f7bbf51c",
+"title": "#ESMO26: Merck and Moderna's cancer vaccine data were 'a triumph of science.' And now, the work begins",
+"url": "https://endpoints.news/esmo26-merck-and-modernas-cancer-vaccine-data-were-a-triumph-of-science-and-now-the-work-begins/",
+"source": "Endpoints News",
+"when": "16:46",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/10/esmo-madrid-2026-og.jpg",
+"excerpt": ""
+},
+{
 "id": "7226f95ee9432bc6",
 "title": "ESMO: Merck, Kelun’s ‘workhorse’ ADC posts major tumor progression benefit in PD-L1-negative NSCLC",
 "url": "https://www.fiercepharma.com/pharma/merck-kelun-workhorse-adc-posts-major-tumor-progression-benefit-pd-l1-negative-nsclc",
@@ -3627,6 +3675,28 @@
 "also": [],
 "lang": "en",
 "image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-957245678.jpg?VersionId=ozwQRMN.9dM801IJ6F6tXrM8Oc0JviE6",
+"excerpt": ""
+},
+{
+"id": "0a4905108a26a4a9",
+"title": "ESMO: AZ, Hutchmed’s Orpathys combo shows post-Tagrisso power in MET-driven lung cancer",
+"url": "https://www.fiercepharma.com/pharma/az-hutchmed-orpathys-combo-shows-post-tagrisso-power-met-driven-lung-cancer",
+"source": "Fierce Pharma",
+"when": "20:14",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/AZ%20China.jpg?VersionId=BVr_lMxjuibAB6CRxdstc0p.pQ1t85hM",
+"excerpt": ""
+},
+{
+"id": "cadd092d35b28cef",
+"title": "‘Infinite potential’: Akeso CEO looks for more ivonescimab combos amid AstraZeneca investment, new phase 3 win",
+"url": "https://www.fiercepharma.com/pharma/akeso-ceo-looks-more-ivonescimab-combos-amid-astrazeneca-investment-new-phase-3-win",
+"source": "Fierce Pharma",
+"when": "20:14",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/michelle_xia.jpg?VersionId=o5lIGuY7hJIbyDxpOstJfBsYyl1eqE3r",
 "excerpt": ""
 },
 {
@@ -3639,77 +3709,11 @@
 "lang": "en",
 "image": "https://endpoints.news/wp-content/uploads/2026/10/amgen-esmo-2026_og-social@2x.jpg",
 "excerpt": ""
-},
-{
-"id": "15ef531c3083afcb",
-"title": "Cancer vaccine data from #ESMO26; Treasury proposal could curb China investment; and more",
-"url": "https://endpoints.news/cancer-vaccine-data-from-esmo26-treasury-proposal-could-curb-china-investment-and-more/",
-"source": "Endpoints News",
-"when": "Sat 12:00",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2019/12/endpts_SM_01.jpg",
-"excerpt": ""
-},
-{
-"id": "faad35ad402168e5",
-"title": "ESMO: GSK cancer R&D chief says mo-rez data ‘reinforces our belief’ in ADC as phase 3 push ramps up",
-"url": "https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc",
-"source": "Fierce Biotech",
-"when": "Sat 03:33",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/GSK%20ESMO.jpg?VersionId=cPXHRHPjNhePLQmiX0RePvDyiWbWN73E",
-"excerpt": ""
-},
-{
-"id": "9e7abdca8849c0b9",
-"title": "Windward Bio files for Nasdaq IPO to fund China-derived assets and in-house R&D",
-"url": "https://endpoints.news/windward-bio-files-for-nasdaq-ipo-to-fund-china-derived-assets-and-in-house-rd/",
-"source": "Endpoints News",
-"when": "Sat 01:15",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2026/05/Luca-Santarelli-Windward-Bio-tile.jpg",
-"excerpt": ""
-},
-{
-"id": "184b9d3c8172cbae",
-"title": "ESMO: Takeda’s $1.2B bet on Innovent ‘absolutely’ pays off with details of ADC’s phase 3 win",
-"url": "https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win",
-"source": "Fierce Biotech",
-"when": "Fri 18:52",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/IMG_0609.jpg?VersionId=dygDRlklYc_F5Xmm5LzL4CszbFlM1MIN",
-"excerpt": ""
-},
-{
-"id": "c7c361254893ea15",
-"title": "Bolt makes inflammation play with Prana reverse merger, $120M financing",
-"url": "https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies",
-"source": "Fierce Biotech",
-"when": "Fri 18:52",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/2016-10/lightning-399853_1280_0.jpg?VersionId=AeqEDBIn31dJtSlcRUxMqn5qd4ivVRyI",
-"excerpt": ""
-},
-{
-"id": "912820e934ad8bf2",
-"title": "GSK's double FDA win, Roche's $15B deal and the rise of point-of-care marketing",
-"url": "https://www.fiercepharma.com/pharma/gsks-double-fda-win-roches-15b-deal-and-rise-point-care-marketing",
-"source": "Fierce Pharma",
-"when": "Fri 18:52",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/yellow_background_ttl_1.png?VersionId=Z.PGPSD_l.ox_asu3hEbyryfFxP8nWYz",
-"excerpt": "This week on \"The Top Line,\" we cover GSK's pair of FDA approvals, Roche's $15 billion ADC deal and the rise of point-of-care pharma marketing."
 }
 ]
 }
 ],
-"lead": "7226f95ee9432bc6"
+"lead": "4ec62cf718e005ce"
 }
 ],
 "weather": {
@@ -3718,18 +3722,18 @@
 "date": "2026-10-25",
 "dow": "Today",
 "dm": "25.10.",
-"label": "Light showers",
+"label": "Light rain",
 "icon": "🌦️",
 "hi": 16,
 "lo": 9,
-"rain_mm": 7.3,
+"rain_mm": 7.0,
 "rain_pct": 100,
 "wind": 32,
 "uv": 0,
 "sunrise": "07:02",
 "sunset": "17:23",
-"bar_l": 44,
-"bar_w": 39
+"bar_l": 47,
+"bar_w": 41
 },
 "slots": [
 {
@@ -3737,7 +3741,7 @@
 "temp": 14,
 "icon": "🌦️",
 "label": "Light rain",
-"rain_pct": 43
+"rain_pct": 35
 },
 {
 "name": "Afternoon",
@@ -3751,7 +3755,7 @@
 "temp": 11,
 "icon": "🌤️",
 "label": "Mostly clear",
-"rain_pct": 3
+"rain_pct": 10
 }
 ],
 "days": [
@@ -3759,35 +3763,35 @@
 "date": "2026-10-25",
 "dow": "Today",
 "dm": "25.10.",
-"label": "Light showers",
+"label": "Light rain",
 "icon": "🌦️",
 "hi": 16,
 "lo": 9,
-"rain_mm": 7.3,
+"rain_mm": 7.0,
 "rain_pct": 100,
 "wind": 32,
 "uv": 0,
 "sunrise": "07:02",
 "sunset": "17:23",
-"bar_l": 44,
-"bar_w": 39
+"bar_l": 47,
+"bar_w": 41
 },
 {
 "date": "2026-10-26",
 "dow": "Mon",
 "dm": "26.10.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 12,
+"label": "Overcast",
+"icon": "☁️",
+"hi": 14,
 "lo": 7,
-"rain_mm": 0.2,
-"rain_pct": 18,
+"rain_mm": 0,
+"rain_pct": 20,
 "wind": 11,
-"uv": 2,
+"uv": 3,
 "sunrise": "07:04",
 "sunset": "17:22",
-"bar_l": 33,
-"bar_w": 28
+"bar_l": 35,
+"bar_w": 41
 },
 {
 "date": "2026-10-27",
@@ -3795,33 +3799,33 @@
 "dm": "27.10.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 19,
-"lo": 7,
+"hi": 18,
+"lo": 6,
 "rain_mm": 0,
 "rain_pct": 3,
 "wind": 5,
 "uv": 3,
 "sunrise": "07:05",
 "sunset": "17:20",
-"bar_l": 33,
-"bar_w": 67
+"bar_l": 29,
+"bar_w": 71
 },
 {
 "date": "2026-10-28",
 "dow": "Wed",
 "dm": "28.10.",
-"label": "Light showers",
+"label": "Light rain",
 "icon": "🌦️",
-"hi": 14,
-"lo": 8,
-"rain_mm": 1.9,
-"rain_pct": 55,
-"wind": 10,
+"hi": 13,
+"lo": 7,
+"rain_mm": 3.4,
+"rain_pct": 73,
+"wind": 9,
 "uv": 1,
 "sunrise": "07:07",
 "sunset": "17:18",
-"bar_l": 39,
-"bar_w": 33
+"bar_l": 35,
+"bar_w": 35
 },
 {
 "date": "2026-10-29",
@@ -3829,67 +3833,67 @@
 "dm": "29.10.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 12,
+"hi": 11,
 "lo": 5,
 "rain_mm": 0,
-"rain_pct": 0,
+"rain_pct": 1,
 "wind": 5,
-"uv": 2,
+"uv": 3,
 "sunrise": "07:08",
 "sunset": "17:17",
-"bar_l": 22,
-"bar_w": 39
+"bar_l": 24,
+"bar_w": 35
 },
 {
 "date": "2026-10-30",
 "dow": "Fri",
 "dm": "30.10.",
-"label": "Overcast",
-"icon": "☁️",
-"hi": 14,
+"label": "Fog",
+"icon": "🌫️",
+"hi": 12,
 "lo": 4,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 8,
+"wind": 5,
 "uv": 3,
 "sunrise": "07:10",
 "sunset": "17:15",
-"bar_l": 17,
-"bar_w": 56
+"bar_l": 18,
+"bar_w": 47
 },
 {
 "date": "2026-10-31",
 "dow": "Sat",
 "dm": "31.10.",
-"label": "Partly cloudy",
-"icon": "⛅",
-"hi": 13,
-"lo": 4,
-"rain_mm": 0,
+"label": "Light showers",
+"icon": "🌦️",
+"hi": 10,
+"lo": 6,
+"rain_mm": 1.2,
 "rain_pct": 0,
-"wind": 11,
+"wind": 4,
 "uv": 3,
 "sunrise": "07:11",
 "sunset": "17:14",
-"bar_l": 17,
-"bar_w": 50
+"bar_l": 29,
+"bar_w": 24
 },
 {
 "date": "2026-11-01",
 "dow": "Sun",
 "dm": "01.11.",
-"label": "Overcast",
-"icon": "☁️",
-"hi": 11,
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 9,
 "lo": 5,
-"rain_mm": 0,
-"rain_pct": 16,
-"wind": 5,
+"rain_mm": 1.5,
+"rain_pct": 6,
+"wind": 4,
 "uv": 2,
 "sunrise": "07:13",
 "sunset": "17:12",
-"bar_l": 22,
-"bar_w": 33
+"bar_l": 24,
+"bar_w": 24
 },
 {
 "date": "2026-11-02",
@@ -3900,13 +3904,13 @@
 "hi": 9,
 "lo": 2,
 "rain_mm": 0,
-"rain_pct": 16,
+"rain_pct": 9,
 "wind": 5,
-"uv": 0,
+"uv": 2,
 "sunrise": "07:14",
 "sunset": "17:10",
 "bar_l": 6,
-"bar_w": 39
+"bar_w": 41
 },
 {
 "date": "2026-11-03",
@@ -3917,17 +3921,17 @@
 "hi": 8,
 "lo": 1,
 "rain_mm": 0,
-"rain_pct": 13,
+"rain_pct": 6,
 "wind": 13,
 "uv": 2,
 "sunrise": "07:16",
 "sunset": "17:09",
 "bar_l": 0,
-"bar_w": 39
+"bar_w": 41
 }
 ],
 "lo": 1,
-"hi": 19
+"hi": 18
 }
 }
 }
