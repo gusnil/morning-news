@@ -7,14 +7,14 @@
   "result": "ok",
   "working_url": "https://www.france24.com/en/rss",
   "items": 24,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.france24.com/en/rss",
     "ok": true,
     "items": 24,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "France 24 - International breaking news, top stories and hea",
     "final_url": "https://www.france24.com/en/rss"
@@ -29,14 +29,14 @@
   "result": "ok",
   "working_url": "https://www.aljazeera.com/xml/rss/all.xml",
   "items": 25,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.aljazeera.com/xml/rss/all.xml",
     "ok": true,
     "items": 25,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jaz",
     "final_url": "https://www.aljazeera.com/xml/rss/all.xml"
@@ -50,15 +50,15 @@
   "configured": "https://rss.dw.com/rdf/rss-en-all",
   "result": "ok",
   "working_url": "https://rss.dw.com/rdf/rss-en-all",
-  "items": 134,
-  "newest": "2026-10-22",
+  "items": 130,
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://rss.dw.com/rdf/rss-en-all",
     "ok": true,
-    "items": 134,
-    "newest": "2026-10-22",
+    "items": 130,
+    "newest": "2026-10-25",
     "error": null,
     "title": "Deutsche Welle",
     "final_url": "https://rss.dw.com/rdf/rss-en-all"
@@ -72,15 +72,15 @@
   "configured": "https://feeds.bbci.co.uk/news/world/rss.xml",
   "result": "ok",
   "working_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-  "items": 38,
-  "newest": "2026-10-22",
+  "items": 37,
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "ok": true,
-    "items": 38,
-    "newest": "2026-10-22",
+    "items": 37,
+    "newest": "2026-10-25",
     "error": null,
     "title": "BBC News",
     "final_url": "https://feeds.bbci.co.uk/news/world/rss.xml"
@@ -95,14 +95,14 @@
   "result": "ok",
   "working_url": "https://www.thehindu.com/news/international/feeder/default.rss",
   "items": 60,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.thehindu.com/news/international/feeder/default.rss",
     "ok": true,
     "items": 60,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "World News: Latest International News & Updates | The Hindu",
     "final_url": "https://www.thehindu.com/news/international/feeder/default.rss"
@@ -117,14 +117,14 @@
   "result": "ok",
   "working_url": "https://www.scmp.com/rss/91/feed",
   "items": 50,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.scmp.com/rss/91/feed",
     "ok": true,
     "items": 50,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "News - South China Morning Post",
     "final_url": "https://www.scmp.com/rss/91/feed/"
@@ -139,14 +139,14 @@
   "result": "ok",
   "working_url": "https://www.africanews.com/feed/rss",
   "items": 50,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://www.africanews.com/feed/rss",
     "ok": true,
     "items": 50,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Africanews RSS",
     "final_url": "https://www.africanews.com/feed/rss"
@@ -160,15 +160,15 @@
   "configured": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada",
   "result": "ok",
   "working_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada",
-  "items": 56,
-  "newest": "2026-10-22",
+  "items": 59,
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada",
     "ok": true,
-    "items": 56,
-    "newest": "2026-10-22",
+    "items": 59,
+    "newest": "2026-10-25",
     "error": null,
     "title": "EL PA\u00cdS in English",
     "final_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada"
@@ -183,14 +183,14 @@
   "result": "ok",
   "working_url": "https://www1.folha.uol.com.br/internacional/en/rss091.xml",
   "items": 15,
-  "newest": "2026-10-22",
+  "newest": "2026-10-23",
   "note": "",
   "tried": [
    {
     "url": "https://www1.folha.uol.com.br/internacional/en/rss091.xml",
     "ok": true,
     "items": 15,
-    "newest": "2026-10-22",
+    "newest": "2026-10-23",
     "error": null,
     "title": "Folha de S.Paulo - Internacional - En - Principal",
     "final_url": "https://www1.folha.uol.com.br/internacional/en/rss091.xml"
@@ -322,14 +322,14 @@
   "result": "ok",
   "working_url": "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel",
   "items": 36,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel",
     "ok": true,
     "items": 36,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "Basler Zeitung Basel",
     "final_url": "https://partner-feeds.publishing.tamedia.ch/rss/bazonline/basel"
@@ -344,14 +344,14 @@
   "result": "ok",
   "working_url": "https://onlinereports.ch/api/rss-feed",
   "items": 50,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://onlinereports.ch/api/rss-feed",
     "ok": true,
     "items": 50,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "OnlineReports",
     "final_url": "https://onlinereports.ch/api/rss-feed"
@@ -366,14 +366,14 @@
   "result": "ok",
   "working_url": "https://partner-feeds.20min.ch/rss/20minuten/regionen/basel",
   "items": 129,
-  "newest": "2026-10-21",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://partner-feeds.20min.ch/rss/20minuten/regionen/basel",
     "ok": true,
     "items": 129,
-    "newest": "2026-10-21",
+    "newest": "2026-10-24",
     "error": null,
     "title": "20 Minuten | Basel",
     "final_url": "https://partner-feeds.20min.ch/rss/20minuten/regionen/basel"
@@ -388,14 +388,14 @@
   "result": "ok",
   "working_url": "https://www.blick.ch/schweiz/basel/rss.xml",
   "items": 1,
-  "newest": "2026-10-13",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://www.blick.ch/schweiz/basel/rss.xml",
     "ok": true,
     "items": 1,
-    "newest": "2026-10-13",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Basel - Alle News, Analysen, Bilder & Videos | Blick.ch",
     "final_url": "https://www.blick.ch/schweiz/basel/rss.xml"
@@ -410,14 +410,14 @@
   "result": "ok",
   "working_url": "https://bajour.ch/api/rss-feed",
   "items": 50,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://bajour.ch/api/rss-feed",
     "ok": true,
     "items": 50,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "Bajour",
     "final_url": "https://bajour.ch/api/rss-feed"
@@ -563,14 +563,14 @@
   "result": "ok",
   "working_url": "https://www.srf.ch/news/bnf/rss/1890",
   "items": 60,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.srf.ch/news/bnf/rss/1890",
     "ok": true,
     "items": 60,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "Schweiz \u2013 News aus dem Inland \u2013 SRF",
     "final_url": "https://www.srf.ch/news/bnf/rss/1890"
@@ -584,15 +584,15 @@
   "configured": "https://www.nzz.ch/recent.rss",
   "result": "ok",
   "working_url": "https://www.nzz.ch/recent.rss",
-  "items": 14,
-  "newest": "2026-10-22",
+  "items": 16,
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.nzz.ch/recent.rss",
     "ok": true,
-    "items": 14,
-    "newest": "2026-10-22",
+    "items": 16,
+    "newest": "2026-10-25",
     "error": null,
     "title": "Neueste Artikel - NZZ Nachrichten",
     "final_url": "https://www.nzz.ch/recent.rss"
@@ -607,14 +607,14 @@
   "result": "ok",
   "working_url": "https://www.cyclingnews.com/feeds/all/",
   "items": 50,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://www.cyclingnews.com/feeds/all/",
     "ok": true,
     "items": 50,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Latest from Cyclingnews",
     "final_url": "https://www.cyclingnews.com/feeds.xml"
@@ -629,14 +629,14 @@
   "result": "ok",
   "working_url": "https://velo.outsideonline.com/feed/",
   "items": 25,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://velo.outsideonline.com/feed/",
     "ok": true,
     "items": 25,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Velo",
     "final_url": "https://velo.outsideonline.com/feed/?scope=anon"
@@ -651,14 +651,14 @@
   "result": "ok",
   "working_url": "https://www.cyclingweekly.com/feeds.xml",
   "items": 50,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://www.cyclingweekly.com/feeds.xml",
     "ok": true,
     "items": 50,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Latest from Cycling Weekly",
     "final_url": "https://www.cyclingweekly.com/feeds.xml"
@@ -673,14 +673,14 @@
   "result": "ok",
   "working_url": "https://escapecollective.com/feed/",
   "items": 15,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://escapecollective.com/feed/",
     "ok": true,
     "items": 15,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Escape Collective",
     "final_url": "https://escapecollective.com/rss/"
@@ -695,14 +695,14 @@
   "result": "ok",
   "working_url": "https://www.pinkbike.com/pinkbike_xml_feed.php",
   "items": 30,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://www.pinkbike.com/pinkbike_xml_feed.php",
     "ok": true,
     "items": 30,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Pinkbike.com",
     "final_url": "https://www.pinkbike.com/pinkbike_xml_feed.php"
@@ -717,14 +717,14 @@
   "result": "ok",
   "working_url": "https://www.mtb-news.de/news/feed/",
   "items": 20,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.mtb-news.de/news/feed/",
     "ok": true,
     "items": 20,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "MTB-News.de",
     "final_url": "https://www.mtb-news.de/feed/"
@@ -739,14 +739,14 @@
   "result": "ok",
   "working_url": "https://www.patriots.com/rss/news",
   "items": 5,
-  "newest": "2026-10-22",
+  "newest": "2026-10-23",
   "note": "",
   "tried": [
    {
     "url": "https://www.patriots.com/rss/news",
     "ok": true,
     "items": 5,
-    "newest": "2026-10-22",
+    "newest": "2026-10-23",
     "error": null,
     "title": "News",
     "final_url": "https://www.patriots.com/rss/news"
@@ -985,14 +985,14 @@
   "result": "ok",
   "working_url": "https://www.mlb.com/redsox/feeds/news/rss.xml",
   "items": 25,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.mlb.com/redsox/feeds/news/rss.xml",
     "ok": true,
     "items": 25,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "Red Sox News",
     "final_url": "https://www.mlb.com/redsox/feeds/news/rss.xml"
@@ -1146,14 +1146,14 @@
   "result": "ok",
   "working_url": "https://www.srf.ch/news/bnf/rss/2562",
   "items": 61,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.srf.ch/news/bnf/rss/2562",
     "ok": true,
     "items": 61,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "Fussball \u2013 News, Analysen & Highlights",
     "final_url": "https://www.srf.ch/news/bnf/rss/2562"
@@ -1168,14 +1168,14 @@
   "result": "ok",
   "working_url": "https://www.mff.se/nyheter/feed/",
   "items": 10,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://www.mff.se/nyheter/feed/",
     "ok": true,
     "items": 10,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Nyheter - Malm\u00f6 FF",
     "final_url": "https://www.mff.se/nyheter/feed/"
@@ -1190,14 +1190,14 @@
   "result": "ok",
   "working_url": "https://www.sydsvenskan.se/feeds/section/sport/feed.xml",
   "items": 50,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.sydsvenskan.se/feeds/section/sport/feed.xml",
     "ok": true,
     "items": 50,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "Sydsvenskan RSS \u2013 Sport",
     "final_url": "https://www.sydsvenskan.se/feeds/section/sport/feed.xml"
@@ -1209,20 +1209,99 @@
   "name": "SvFF",
   "section": "sport",
   "configured": "https://www.svenskfotboll.se/rss.xml",
-  "result": "ok",
-  "working_url": "https://www.svenskfotboll.se/rss.xml",
-  "items": 10,
-  "newest": "undated",
-  "note": "",
+  "result": "dead",
+  "working_url": null,
+  "items": 0,
+  "newest": null,
+  "note": "configured url: HTTP 403. www.svenskfotboll.se/ -> HTTP 403; www.svenskfotboll.se/landslag/herr/ -> HTTP 403; HTTP 403",
   "tried": [
    {
     "url": "https://www.svenskfotboll.se/rss.xml",
-    "ok": true,
-    "items": 10,
-    "newest": "undated",
-    "error": null,
-    "title": "Senaste nyheterna - Svensk fotboll",
-    "final_url": "https://www.svenskfotboll.se/rss.xml"
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
+   },
+   {
+    "url": "https://www.svenskfotboll.se/rss/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
+   },
+   {
+    "url": "https://www.svenskfotboll.se/rss/nyheter/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
+   },
+   {
+    "url": "https://www.svenskfotboll.se/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
+   },
+   {
+    "url": "https://www.svenskfotboll.se/feed",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
+   },
+   {
+    "url": "https://www.svenskfotboll.se/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
+   },
+   {
+    "url": "https://www.svenskfotboll.se/feed.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
+   },
+   {
+    "url": "https://www.svenskfotboll.se/atom.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
+   },
+   {
+    "url": "https://www.svenskfotboll.se/index.xml",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
+   },
+   {
+    "url": "https://www.svenskfotboll.se/news/rss",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
+   },
+   {
+    "url": "https://www.svenskfotboll.se/blog/feed/",
+    "ok": false,
+    "items": 0,
+    "newest": null,
+    "error": "HTTP 403",
+    "title": null
    }
   ]
  },
@@ -1346,14 +1425,14 @@
   "result": "ok",
   "working_url": "https://tachiai.org/feed/",
   "items": 10,
-  "newest": "2026-10-19",
+  "newest": "2026-10-23",
   "note": "",
   "tried": [
    {
     "url": "https://tachiai.org/feed/",
     "ok": true,
     "items": 10,
-    "newest": "2026-10-19",
+    "newest": "2026-10-23",
     "error": null,
     "title": "Tachiai (\u7acb\u5408\u3044)",
     "final_url": "https://tachiai.org/feed/"
@@ -1368,14 +1447,14 @@
   "result": "ok",
   "working_url": "https://www.japantimes.co.jp/sports/feed/",
   "items": 30,
-  "newest": "2026-10-22",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.japantimes.co.jp/sports/feed/",
     "ok": true,
     "items": 30,
-    "newest": "2026-10-22",
+    "newest": "2026-10-25",
     "error": null,
     "title": "Sports - The Japan Times",
     "final_url": "https://www.japantimes.co.jp/sports/feed/"
@@ -1390,14 +1469,14 @@
   "result": "ok",
   "working_url": "https://www.chess.com/rss/news",
   "items": 25,
-  "newest": "2026-10-21",
+  "newest": "2026-10-25",
   "note": "",
   "tried": [
    {
     "url": "https://www.chess.com/rss/news",
     "ok": true,
     "items": 25,
-    "newest": "2026-10-21",
+    "newest": "2026-10-25",
     "error": null,
     "title": "Chess.com News",
     "final_url": "https://www.chess.com/rss/news"
@@ -1434,14 +1513,14 @@
   "result": "ok",
   "working_url": "https://en.chessbase.com/feed",
   "items": 100,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://en.chessbase.com/feed",
     "ok": true,
     "items": 100,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Chess News",
     "final_url": "https://en.chessbase.com/feed"
@@ -1456,14 +1535,14 @@
   "result": "ok",
   "working_url": "https://www.fide.com/feed/",
   "items": 10,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://www.fide.com/feed/",
     "ok": true,
     "items": 10,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "International Chess Federation",
     "final_url": "https://www.fide.com/feed/"
@@ -1478,14 +1557,14 @@
   "result": "ok",
   "working_url": "https://theweekinchess.com/twic-rss-feed",
   "items": 20,
-  "newest": "2026-10-03",
+  "newest": "2026-10-23",
   "note": "",
   "tried": [
    {
     "url": "https://theweekinchess.com/twic-rss-feed",
     "ok": true,
     "items": 20,
-    "newest": "2026-10-03",
+    "newest": "2026-10-23",
     "error": null,
     "title": "The Week in Chess",
     "final_url": "https://theweekinchess.com/twic-rss-feed"
@@ -1501,14 +1580,14 @@
   "working_url": null,
   "items": 0,
   "newest": null,
-  "note": "configured url: stale: newest item 52 days old. HTTP 404; no items / unparseable; stale: newest item 52 days old",
+  "note": "configured url: stale: newest item 54 days old. HTTP 404; no items / unparseable; stale: newest item 54 days old",
   "tried": [
    {
     "url": "https://www.chessdom.com/feed/",
     "ok": false,
     "items": 10,
     "newest": "2026-08-31",
-    "error": "stale: newest item 52 days old",
+    "error": "stale: newest item 54 days old",
     "title": "Chessdom",
     "final_url": "https://www.chessdom.com/feed/"
    },
@@ -1517,7 +1596,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-08-31",
-    "error": "stale: newest item 52 days old",
+    "error": "stale: newest item 54 days old",
     "title": "Chessdom",
     "final_url": "https://www.chessdom.com/feed/"
    },
@@ -1526,7 +1605,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-08-31",
-    "error": "stale: newest item 52 days old",
+    "error": "stale: newest item 54 days old",
     "title": "Chessdom",
     "final_url": "https://www.chessdom.com/feed/"
    },
@@ -1535,7 +1614,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-08-31",
-    "error": "stale: newest item 52 days old",
+    "error": "stale: newest item 54 days old",
     "title": "Chessdom",
     "final_url": "https://www.chessdom.com/feed/"
    },
@@ -1599,14 +1678,14 @@
   "result": "ok",
   "working_url": "https://www.databricks.com/feed",
   "items": 10,
-  "newest": "2026-10-21",
+  "newest": "2026-10-23",
   "note": "",
   "tried": [
    {
     "url": "https://www.databricks.com/feed",
     "ok": true,
     "items": 10,
-    "newest": "2026-10-21",
+    "newest": "2026-10-23",
     "error": null,
     "title": "Databricks",
     "final_url": "https://www.databricks.com/feed"
@@ -1775,14 +1854,14 @@
   "working_url": null,
   "items": 0,
   "newest": null,
-  "note": "configured url: stale: newest item 48 days old. HTTP 301; HTTP 404; stale: newest item 48 days old",
+  "note": "configured url: stale: newest item 51 days old. HTTP 301; HTTP 404; stale: newest item 51 days old",
   "tried": [
    {
     "url": "https://www.ben-evans.com/benedictevans?format=rss",
     "ok": false,
     "items": 20,
     "newest": "2026-09-03",
-    "error": "stale: newest item 48 days old",
+    "error": "stale: newest item 51 days old",
     "title": "Essays - Benedict Evans",
     "final_url": "https://www.ben-evans.com/benedictevans?format=rss"
    },
@@ -1791,7 +1870,7 @@
     "ok": false,
     "items": 20,
     "newest": "2026-09-03",
-    "error": "stale: newest item 48 days old",
+    "error": "stale: newest item 51 days old",
     "title": "Essays - Benedict Evans",
     "final_url": "https://www.ben-evans.com/benedictevans?format=rss"
    },
@@ -1885,14 +1964,14 @@
   "result": "ok",
   "working_url": "https://simonwillison.net/atom/everything/",
   "items": 30,
-  "newest": "2026-10-21",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://simonwillison.net/atom/everything/",
     "ok": true,
     "items": 30,
-    "newest": "2026-10-21",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Simon Willison's Weblog",
     "final_url": "https://simonwillison.net/atom/everything/"
@@ -1907,14 +1986,14 @@
   "result": "ok",
   "working_url": "https://www.mckinsey.com/insights/rss",
   "items": 50,
-  "newest": "2026-10-22",
+  "newest": "2026-10-23",
   "note": "",
   "tried": [
    {
     "url": "https://www.mckinsey.com/insights/rss",
     "ok": true,
     "items": 50,
-    "newest": "2026-10-22",
+    "newest": "2026-10-23",
     "error": null,
     "title": "McKinsey Insights & Publications",
     "final_url": "https://www.mckinsey.com/insights/rss"
@@ -2069,14 +2148,14 @@
   "working_url": null,
   "items": 0,
   "newest": null,
-  "note": "configured url: stale: newest item 93 days old. HTTP 404; stale: newest item 93 days old",
+  "note": "configured url: stale: newest item 96 days old. HTTP 404; stale: newest item 96 days old",
   "tried": [
    {
     "url": "https://www.tableau.com/feed.rss",
     "ok": false,
     "items": 10,
     "newest": "2026-07-20",
-    "error": "stale: newest item 93 days old",
+    "error": "stale: newest item 96 days old",
     "title": "What's New",
     "final_url": "https://www.tableau.com/feed.rss"
    },
@@ -2093,7 +2172,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-07-20",
-    "error": "stale: newest item 93 days old",
+    "error": "stale: newest item 96 days old",
     "title": "What's New",
     "final_url": "https://www.tableau.com/feed.rss"
    },
@@ -2102,7 +2181,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-07-20",
-    "error": "stale: newest item 93 days old",
+    "error": "stale: newest item 96 days old",
     "title": "What's New",
     "final_url": "https://www.tableau.com/feed.rss"
    },
@@ -2111,7 +2190,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-07-20",
-    "error": "stale: newest item 93 days old",
+    "error": "stale: newest item 96 days old",
     "title": "What's New",
     "final_url": "https://www.tableau.com/feed.rss"
    },
@@ -2120,7 +2199,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-07-20",
-    "error": "stale: newest item 93 days old",
+    "error": "stale: newest item 96 days old",
     "title": "What's New",
     "final_url": "https://www.tableau.com/feed.rss"
    },
@@ -2129,7 +2208,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-07-20",
-    "error": "stale: newest item 93 days old",
+    "error": "stale: newest item 96 days old",
     "title": "What's New",
     "final_url": "https://www.tableau.com/feed.rss"
    },
@@ -2138,7 +2217,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-07-20",
-    "error": "stale: newest item 93 days old",
+    "error": "stale: newest item 96 days old",
     "title": "What's New",
     "final_url": "https://www.tableau.com/feed.rss"
    },
@@ -2155,7 +2234,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-07-20",
-    "error": "stale: newest item 93 days old",
+    "error": "stale: newest item 96 days old",
     "title": "What's New",
     "final_url": "https://www.tableau.com/feed.rss"
    },
@@ -2180,7 +2259,7 @@
     "ok": false,
     "items": 10,
     "newest": "2026-07-20",
-    "error": "stale: newest item 93 days old",
+    "error": "stale: newest item 96 days old",
     "title": "What's New",
     "final_url": "https://www.tableau.com/feed.rss"
    }
@@ -2194,14 +2273,14 @@
   "result": "ok",
   "working_url": "https://www.snowflake.com/feed/",
   "items": 20,
-  "newest": "2026-10-21",
+  "newest": "2026-10-23",
   "note": "",
   "tried": [
    {
     "url": "https://www.snowflake.com/feed/",
     "ok": true,
     "items": 20,
-    "newest": "2026-10-21",
+    "newest": "2026-10-23",
     "error": null,
     "title": "",
     "final_url": "https://publish-p57963-e462109.adobeaemcloud.com/feed/?lang=en"
@@ -2216,14 +2295,14 @@
   "result": "ok",
   "working_url": "https://endpts.com/feed/",
   "items": 24,
-  "newest": "2026-10-22",
+  "newest": "2026-10-24",
   "note": "",
   "tried": [
    {
     "url": "https://endpts.com/feed/",
     "ok": true,
     "items": 24,
-    "newest": "2026-10-22",
+    "newest": "2026-10-24",
     "error": null,
     "title": "Endpoints News",
     "final_url": "https://endpoints.news/feed/"
@@ -2282,14 +2361,14 @@
   "result": "ok",
   "working_url": "https://www.biopharmadive.com/feeds/news/",
   "items": 10,
-  "newest": "2026-10-21",
+  "newest": "2026-10-23",
   "note": "",
   "tried": [
    {
     "url": "https://www.biopharmadive.com/feeds/news/",
     "ok": true,
     "items": 10,
-    "newest": "2026-10-21",
+    "newest": "2026-10-23",
     "error": null,
     "title": "BioPharma Dive - Latest News",
     "final_url": "https://www.biopharmadive.com/feeds/news/"
@@ -2304,14 +2383,14 @@
   "result": "ok",
   "working_url": "https://www.statnews.com/category/pharma/feed/",
   "items": 20,
-  "newest": "2026-10-22",
+  "newest": "2026-10-23",
   "note": "",
   "tried": [
    {
     "url": "https://www.statnews.com/category/pharma/feed/",
     "ok": true,
     "items": 20,
-    "newest": "2026-10-22",
+    "newest": "2026-10-23",
     "error": null,
     "title": "STAT Pharma: The science and business of new drug developmen",
     "final_url": "https://www.statnews.com/category/pharma/feed/"
@@ -2326,14 +2405,14 @@
   "result": "ok",
   "working_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
   "items": 20,
-  "newest": "2026-10-20",
+  "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
     "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
     "ok": true,
     "items": 20,
-    "newest": "2026-10-20",
+    "newest": "2026-10-22",
     "error": null,
     "title": "FDA Press Releases RSS Feed",
     "final_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml"
@@ -2347,15 +2426,15 @@
   "configured": "https://www.ema.europa.eu/en/news.xml",
   "result": "ok",
   "working_url": "https://www.ema.europa.eu/en/news.xml",
-  "items": 10,
-  "newest": "2026-10-16",
+  "items": 11,
+  "newest": "2026-10-23",
   "note": "",
   "tried": [
    {
     "url": "https://www.ema.europa.eu/en/news.xml",
     "ok": true,
-    "items": 10,
-    "newest": "2026-10-16",
+    "items": 11,
+    "newest": "2026-10-23",
     "error": null,
     "title": "News and press releases",
     "final_url": "https://www.ema.europa.eu/en/news.xml"
@@ -2370,14 +2449,14 @@
   "result": "ok",
   "working_url": "https://newsroom.astellas.com/news?pagetemplate=rss",
   "items": 5,
-  "newest": "2026-10-08",
+  "newest": "2026-10-22",
   "note": "",
   "tried": [
    {
     "url": "https://newsroom.astellas.com/news?pagetemplate=rss",
     "ok": true,
     "items": 5,
-    "newest": "2026-10-08",
+    "newest": "2026-10-22",
     "error": null,
     "title": "Global News | Astellas",
     "final_url": "https://newsroom.astellas.com/news?pagetemplate=rss"
