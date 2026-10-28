@@ -5888,8 +5888,8 @@
 },
 "2026-10-28": {
 "date": "2026-10-28",
-"built_at": "2026-10-28T16:50:01.602524+00:00",
-"built_local": "17:50",
+"built_at": "2026-10-28T21:18:49.474565+00:00",
+"built_local": "22:18",
 "edition": "Evening",
 "feeds_ok": 55,
 "feeds_total": 55,
@@ -5905,32 +5905,76 @@
 "title": null,
 "items": [
 {
-"id": "3b0b0b444da1bcb2",
-"title": "Brazil: Bolsonaro defeated and on the run",
-"url": "https://www.france24.com/en/brazil-bolsonaro-defeated-and-on-the-run",
+"id": "6f301dbbbefba77e",
+"title": "Bolsonaro flees Brazil for US after election defeat",
+"url": "https://www.france24.com/en/bolsonaro-flees-brazil-for-us-after-election-defeat",
 "source": "France 24",
-"when": "12:30",
+"when": "20:44",
 "also": [
-"Africanews",
-"DW",
 "Al Jazeera",
-"SCMP"
+"DW",
+"The Hindu",
+"Africanews",
+"BBC World",
+"SCMP",
+"El País English"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/4fa02f68-d2bc-11f1-a74e-75c7729144f1/w:1024/p:16x9/EN-20261028-103955-104147-CS.jpg",
+"image": "https://s.france24.com/media/display/5551a2de-d307-11f1-ab35-75c7729144f1/w:1024/p:16x9/EN-20261028-201254-202039-CS.jpg",
 "excerpt": ""
 },
 {
-"id": "9e9fd868e7918e54",
-"title": "Defeated Brazilian presidential candidate Flavio Bolsonaro lands in Miami",
-"url": "https://www.france24.com/en/video/20261028-defeated-brazilian-presidential-candidate-flavio-bolsonaro-lands-in-miami",
+"id": "e6ecf509e20f8206",
+"title": "Spain high-speed train crash kills 68, injures over 100",
+"url": "https://www.france24.com/en/spain-high-speed-train-crash-kills-68-injures-over-100",
 "source": "France 24",
-"when": "17:28",
+"when": "20:32",
+"also": [
+"DW",
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/9520b7d6-d304-11f1-bd08-811458fcf026/w:1024/p:16x9/EN-20261028-200141-200812-CS.jpg",
+"excerpt": ""
+},
+{
+"id": "a37bfee3bdfe3808",
+"title": "Historic gains for Arab-majority parties in Israeli election",
+"url": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
+"source": "France 24",
+"when": "21:32",
+"also": [
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/0517f4d4-d2c2-11f1-9e41-bf69a9ce9852/w:1024/p:16x9/000-D4LX4B4.jpg",
+"excerpt": ""
+},
+{
+"id": "28ff3ae4caca38da",
+"title": "Fed leaves interest rates unchanged despite inflation in the US",
+"url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "20:05",
+"also": [
+"The Hindu",
+"SCMP"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae20a83-1793198723.jpg?resize=1920%2C1440",
+"excerpt": "Rates will remain 3.75-4 percent even as inflation continues to rise."
+},
+{
+"id": "e23d7851a632648b",
+"title": "At least 68 dead after two trains collide in Spain’s Toledo Province",
+"url": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
+"source": "The Hindu",
+"when": "18:22",
 "also": [
 "SCMP"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/8afb5d34-d2e5-11f1-98a1-75c7729144f1/w:1024/p:16x9/AP26301497988107-1.jpg",
+"image": "https://th-i.thgim.com/public/incoming/tnsvx9/article71637717.ece/alternates/LANDSCAPE_1200/2026-10-28T130752Z_330256527_RC2CCOAA9HSL_RTRMADP_3_SPAIN-ACCIDENT.JPG",
 "excerpt": ""
 },
 {
@@ -5989,55 +6033,20 @@
 "excerpt": "Lissu, who faces treason charge carrying a possible death sentence, refused food after being denied access to lawyers."
 },
 {
-"id": "86f675d0378d4ace",
-"title": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
-"url": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Tue 19:35",
-"also": [
-"El País English"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6adfd21a-1793053210.jpg?resize=1920%2C1440",
-"excerpt": "Andre Janones built a WhatsApp army of nearly 11 million subscribers. Did it help Lula win?"
-},
-{
-"id": "031f483f6a5b79f9",
-"title": "S. Jaishankar holds talks with Austrian counterpart Meinl-Reisinger",
-"url": "https://www.thehindu.com/news/national/s-jaishankar-holds-talks-with-austrian-counterpart-meinl-reisinger/article71637593.ece",
-"source": "The Hindu",
-"when": "17:41",
+"id": "d4debd7498031954",
+"title": "International Left Adopts Lula's Digital Strategist's 'Playbook' and Uses 'L' as Anti-Far-Right Symbol",
+"url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/10/international-left-adopts-lulas-digital-strategists-playbook-and-uses-l-as-anti-far-right-symbol.shtml",
+"source": "Folha",
+"when": "21:59",
 "also": [],
 "lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/n7hw38/article71637622.ece/alternates/LANDSCAPE_1200/HVtdYfobsAAlwkT.jpg",
-"excerpt": "The EAM said he and Meinl-Reisinger exchanged views on global developments and their impacts"
-},
-{
-"id": "f53c1f277c651ecb",
-"title": "Spain: Rescuers search mangled train wreckage near Toledo",
-"url": "http://www.africanews.com/2026/10/28/spain-rescuers-search-mangled-train-wreckage-near-toledo/",
-"source": "Africanews",
-"when": "16:54",
-"also": [],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/97/08/29/640x360_cmsv2_3ed1edd1-f4fa-5e76-8e39-a332c479f939-9970829.jpg?1793200870",
+"image": "https://f.i.uol.com.br/fotografia/2026/10/25/17929612566ade6ae85bca7_1792961256_3x2_rt.jpg",
 "excerpt": ""
-},
-{
-"id": "67ce925fd992a5a9",
-"title": "Dolores Huerta, champion of migrant workers’ rights, dead at 96",
-"url": "https://english.elpais.com/usa/2026-10-28/dolores-huerta-champion-of-migrant-workers-rights-dead-at-96.html",
-"source": "El País English",
-"when": "17:43",
-"also": [],
-"lang": "en",
-"image": "https://images.english.elpais.com/resizer/v2/YSBPEKGNR5GEROKSWTAAL6C3SM.jpg?auth=a7d2d451534e13bfbaaee2df16ce116c75720d622563b51632d1d0c4752160de",
-"excerpt": "The labor leader co-founded the largest farmworkers’ union in the US alongside César Chávez, whom she would later accuse of having raped her"
 }
 ]
 }
 ],
-"lead": "3b0b0b444da1bcb2"
+"lead": "6f301dbbbefba77e"
 },
 {
 "id": "basel",
@@ -6050,6 +6059,19 @@
 "title": null,
 "items": [
 {
+"id": "586c00f625495f38",
+"title": "Angriff in Basel: Mann geht mit Stichwaffe auf zwei Passanten los",
+"url": "https://www.bazonline.ch/basel-messerangriff-auf-der-klingelbergstrasse-487301837859",
+"source": "Basler Zeitung",
+"when": "18:06",
+"also": [
+"Blick Basel"
+],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/AZPSaNZGqC0B8uR58udTiR.jpg",
+"excerpt": "An der Klingelbergstrasse verletzt ein Angreifer am Dienstagabend einen 65-Jährigen und einen 30-jährigen Helfer. Die Polizei nimmt einen Tatverdächtigen fest."
+},
+{
 "id": "36864f6f0401275e",
 "title": "Mehrheit im Bachletten zufrieden mit Unterflurcontainern",
 "url": "https://bajour.ch/a/mehrheit-im-bachletten-zufrieden-mit-unterflurcontainern",
@@ -6061,6 +6083,28 @@
 "lang": "de",
 "image": "https://media-bajour.wepublish.cloud/01a182d3-96d3-76bc-b6ff-f7806783f6ef?quality=80&sig=k_7N4taCeTkoZExMfHpFjSTlq-GsxSFgxV3KVs7oZe41xNZzUKded93MUk0Eaeexk1Tfq7swAXhUPaSshOkbCA",
 "excerpt": ""
+},
+{
+"id": "3b578502ddfd9cd5",
+"title": "Migros im Umbruch – Ursula Nold: «Bei einem Nein wiederholen wir die Abstimmung»",
+"url": "https://www.srf.ch/news/wirtschaft/migros-im-umbruch-ursula-nold-bei-einem-nein-wiederholen-wir-die-abstimmung",
+"source": "SRF News",
+"when": "21:02",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/6842be.webp",
+"excerpt": "Migros-Präsidentin Ursula Nold spricht über den radikalen Umbau und erklärt: Einsparungen seien nicht das Ziel."
+},
+{
+"id": "8a53145ab9f483cc",
+"title": "Cassis besucht Nordkorea – Was bringt der Schweiz ein Büro in Nordkorea?",
+"url": "https://www.srf.ch/news/schweiz/cassis-besucht-nordkorea-was-bringt-der-schweiz-ein-buero-in-nordkorea",
+"source": "SRF News",
+"when": "20:48",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/9b4ff8.webp",
+"excerpt": "Die Schweiz versucht, den politischen Dialog mit Nordkorea zu reaktivieren. Nordkorea-Kenner Thomas Filser ordnet ein."
 },
 {
 "id": "17ec1df05ad92f62",
@@ -6076,70 +6120,48 @@
 "excerpt": "Der St. Galler-Ring soll künftig die Anforderungen an eine Velovorzugsroute erfüllen. Dafür werden 13 Parkplätze aufgehoben."
 },
 {
-"id": "45a98d800abbe1ba",
-"title": "Nach dem Hitzesommer – Bundesrat legt Plan gegen Hitze und Trockenheit vor",
-"url": "https://www.srf.ch/news/schweiz/nach-dem-hitzesommer-bundesrat-legt-plan-gegen-hitze-und-trockenheit-vor",
+"id": "7e65c59ec59d1e3a",
+"title": "AKW-Diskussion in der Schweiz – Politologin: «Die politischen Hürden für neue AKW sind sehr hoch»",
+"url": "https://www.srf.ch/news/schweiz/akw-diskussion-in-der-schweiz-politologin-die-politischen-huerden-fuer-neue-akw-sind-sehr-hoch",
 "source": "SRF News",
-"when": "17:37",
+"when": "20:45",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/b728cc.webp",
-"excerpt": "Kompetenzzentrum gegen Hitzerisiken, neue Hitzekarten und Ausbau der Trockenheitsplattform: Das plant der Bundesrat."
+"image": "https://www.srf.ch/static/cms/images//320ws/6614e5.webp",
+"excerpt": "Schon bald steht eine Abstimmung über die Atomkraft an. Für Politologin Isabelle Stadelmann ist der Ausgang offen."
 },
 {
-"id": "9aa01c9d472406a6",
-"title": "Polizei, Feuerwehr und Co.: Führt Tempo 30 zur Gefährdung von Menschenleben?",
-"url": "https://www.bazonline.ch/tempo-30-in-baselland-kein-risiko-fuer-rettungsdienste-339949720651",
+"id": "b2ff714ce7ad6f18",
+"title": "Er kämpft gegen Littering in Basel: «Die Situation ist an vielen Orten in der Stadt immer noch unterirdisch»",
+"url": "https://www.bazonline.ch/aktion-pinguin-basler-kaempft-seit-jahren-gegen-littering-526778196123",
 "source": "Basler Zeitung",
-"when": "17:35",
+"when": "18:56",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/4816zbzi4VXBUKF1p69AQn.jpg",
-"excerpt": "Im Baselbiet gibt es immer mehr Tempo 30-Zonen. Eine Politikerin wollte wissen, ob diese die Arbeit von Blaulichtorganisationen behinderten."
-},
-{
-"id": "85a6fffacb3173fa",
-"title": "Faustschlag in Birsfelden: Auto touchiert Hund – als der Fahrer aussteigen will, greift der Halter an",
-"url": "https://www.bazonline.ch/birsfelden-hundehalter-schlaegt-autofahrer-ins-gesicht-298975431621",
-"source": "Basler Zeitung",
-"when": "16:44",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/7xON6NvlK86ARCUNDJgenq.jpg",
-"excerpt": "Ein 32-jähriger Mann wurde wegen einfacher Körperverletzung und Sachbeschädigung verurteilt. Dies, nachdem ihm sein Hund entwichen war."
-},
-{
-"id": "21c02857fd873423",
-"title": "Overground Basel: Ryan Zhou ist Weltmeister – seiner Trainingshalle fehlt die Unterstützung",
-"url": "https://www.bazonline.ch/ninja-weltmeister-ryan-zhou-trainiert-im-overground-basel-800778899511",
-"source": "Basler Zeitung",
-"when": "15:58",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/3mY8T9PgqnE8CJfydn2trf.jpg",
+"image": "https://cdn.unitycms.io/images/3q9Z5mIJaWvA9X1IrCQl02.jpg",
 "excerpt": ""
 },
 {
-"id": "b130a62b2ebc37ed",
-"title": "Eidgenössische Abstimmungen – Schweiz stimmt Ende Februar gleich über fünf Vorlagen ab",
-"url": "https://www.srf.ch/news/schweiz/eidgenoessische-abstimmungen-schweiz-stimmt-ende-februar-gleich-ueber-fuenf-vorlagen-ab",
-"source": "SRF News",
-"when": "15:53",
+"id": "68d497a776457ef5",
+"title": "Goldener Herbst in Basel: Für die Herbstmesse reist Jutta (74) extra aus Deutschland an – «Es ist so sauber hier»",
+"url": "https://www.bazonline.ch/herbstmesse-basel-kaserne-bis-barfi-besuch-aus-luzern-und-de-344270526371",
+"source": "Basler Zeitung",
+"when": "18:08",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/7f8d320.webp",
-"excerpt": "Die Schweiz wird am 28. Februar über überdurchschnittlich viele Vorlagen abstimmen – ein Rekord ist es aber nicht."
+"image": "https://cdn.unitycms.io/images/0gCmgmNe441AkGxzlDr3jy.jpg",
+"excerpt": ""
 },
 {
-"id": "2439fd73e4a77cf0",
-"title": "Hilfsorganisation unter Druck – Missbrauchsfälle bei Ärzte ohne Grenzen – Schaden ist angerichtet",
-"url": "https://www.srf.ch/news/schweiz/hilfsorganisation-unter-druck-missbrauchsfaelle-bei-aerzte-ohne-grenzen-schaden-ist-angerichtet",
-"source": "SRF News",
-"when": "15:15",
+"id": "48012616a1dfbfec",
+"title": "MELDUNGEN WIRTSCHAFT - Googles Muttergesellschaft Alphabet verfehlt Umsatzerwartungen +++ Deutsche Bank erzielt Milliardengewinn im dritten Quartal",
+"url": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+"source": "NZZ",
+"when": "22:09",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/593877.webp",
-"excerpt": "MSF kämpft mit Missbrauchsvorwürfen. Die Deza hält Geld zurück. Die Glückskette arbeitet weiter mit dem Hilfswerk."
+"image": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
+"excerpt": "Die neuesten Meldungen aus der Wirtschaft."
 },
 {
 "id": "3a34408449059a08",
@@ -6151,22 +6173,11 @@
 "lang": "de",
 "image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
 "excerpt": ""
-},
-{
-"id": "47b861b9b117fab0",
-"title": "Festnahme nach Betrug",
-"url": "https://www.bs.ch/medienmitteilungen/2026-festnahme-nach-betrug-1",
-"source": "Kanton Basel-Stadt",
-"when": "17:50",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
 }
 ]
 }
 ],
-"lead": "36864f6f0401275e"
+"lead": "586c00f625495f38"
 },
 {
 "id": "sport",
@@ -6192,26 +6203,37 @@
 "excerpt": "Katherine Sarkisov, Tabea Huys and Kate Richardson among first-year line-up for Lidl-Trek Future Racing Women"
 },
 {
-"id": "b167e021b3b81f9d",
-"title": "Netcompany Ineos to use AI-based aero testing app from 2027",
-"url": "https://www.cyclingnews.com/pro-cycling/netcompany-ineos-to-use-ai-based-aero-testing-app-from-2027/",
+"id": "50fa905e2497889f",
+"title": "'I can still win this day' - Alison Jackson recovers from mechanical to win middle stage at seven-day Gravel Burn",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-can-still-win-this-day-alison-jackson-recovers-from-mechanical-to-win-middle-stage-at-seven-day-gravel-burn/",
 "source": "Cyclingnews",
-"when": "16:50",
+"when": "19:11",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/QM4NoJjRGzHhQvAxvXDQBZ-1920-80.jpg",
-"excerpt": "Partnership with US-based AiRO announced, as brand reveals new AI-based testing tech"
+"image": "https://cdn.mos.cms.futurecdn.net/XQWxYfGXsqkmT4kz5xgkxS-1920-80.jpg",
+"excerpt": "Off-road specialists Nele Laing and Matthew Beers lead GC standings with three days to go in South African gravel stage race"
 },
 {
-"id": "d92373307fb71fe9",
-"title": "'He has a very long way to go' - 19-year-old Tofik Beshir continues recovery in hospital from horrific training crash as CXD Trek Bikes teammates offer support with 'endless supply of bracelets'",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/he-has-a-very-long-way-to-go-19-year-old-tofik-beshir-continues-recovery-in-hospital-from-horrific-training-crash-as-cxd-trek-bikes-teammates-offer-support-with-endless-supply-of-bracelets/",
+"id": "9d0bab826118f009",
+"title": "'He's now one of the big stars in cycling' – Can Visma fit British rider Matthew Brennan into Tour de France plans alongside Vingegaard and Van Aert?",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/hes-now-one-of-the-big-stars-in-cycling-can-visma-fit-british-rider-matthew-brennan-into-tour-de-france-plans-alongside-vingegaard-and-van-aert/",
 "source": "Cyclingnews",
-"when": "15:24",
+"when": "18:19",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/5C6xZakwwXMFyEtQA4AJSn-1920-80.jpg",
-"excerpt": "Cyclo-cross team questioned racing at Kings CX in Ohio as 'right thing to do' and then sweep elite races at Major Taylor Cross Cup"
+"image": "https://cdn.mos.cms.futurecdn.net/NyVRCirvDUHoWfK6a9RdNm-1920-80.jpg",
+"excerpt": "Team boss Richard Plugge says team will have to consider bringing 21-year-old star after five stage wins in Vuelta a España and stunning season"
+},
+{
+"id": "0d1ec540ff8528fc",
+"title": "Nedbank Gravel Burn Stage 4: Alison Jackson and Travis Stedman sprint to victory",
+"url": "https://escapecollective.com/nedbank-gravel-burn-stage-4-alison-jackson-and-travis-stedman-sprint-to-victory/",
+"source": "Escape Collective",
+"when": "19:22",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
 },
 {
 "id": "1a5a2825eb3ef068",
@@ -6219,28 +6241,6 @@
 "url": "https://escapecollective.com/matt-white-joins-ef-as-sports-director/",
 "source": "Escape Collective",
 "when": "17:16",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
-"excerpt": ""
-},
-{
-"id": "0d9427c07457d201",
-"title": "The Factor Sarana Proves Weight Isn’t Everything in Gravel",
-"url": "https://velo.outsideonline.com/gravel/gravel-gear/factor-sarana-gravel-bike-review/",
-"source": "Velo",
-"when": "17:09",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/09/DSC01055-scaled.jpg?width=1200",
-"excerpt": ""
-},
-{
-"id": "bcbfda3ee608ac18",
-"title": "BMC plans women's road sponsorship, will close Factory XC team",
-"url": "https://escapecollective.com/bmc-plans-womens-road-sponsorship-will-close-factory-xc-team/",
-"source": "Escape Collective",
-"when": "17:04",
 "also": [],
 "lang": "en",
 "image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
@@ -6253,6 +6253,61 @@
 "title": "Teams",
 "items": [
 {
+"id": "3b2b58ad58d4c37a",
+"title": "Tre poäng mot HBK: ”Vi tar kampen”",
+"url": "https://www.mff.se/nyheter/seger-mot-hbk-vi-tar-kampen-2026-10-28/",
+"source": "Malmö FF",
+"when": "21:45",
+"also": [],
+"lang": "sv",
+"image": "https://cdn.mff.se/2026/10/BB261028KA036.jpg",
+"excerpt": "The post Tre poäng mot HBK: ”Vi tar kampen” appeared first on Malmö FF ."
+},
+{
+"id": "e31d198c81b05f81",
+"title": "Week 8 Injury Report: Patriots at Dolphins",
+"url": "https://www.patriots.com/news/week-8-injury-report-patriots-at-dolphins-x9227",
+"source": "Patriots.com",
+"when": "21:35",
+"also": [],
+"lang": "en",
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ktpjsebpur3fu7wpiw9z.png",
+"excerpt": "The New England Patriots and the Miami Dolphins announce the following player injuries and practice participation ahead of their Week 8 game."
+},
+{
+"id": "d5da169804f6577a",
+"title": "Watch LIVE: Red Sox prospects in Arizona Fall League action",
+"url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+"source": "MLB.com",
+"when": "21:28",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
+"excerpt": ""
+},
+{
+"id": "e34eb5c26ef358f9",
+"title": "Erster Job nach Moskau – FCB-Meistertrainer Celestini heuert bei Burnley an",
+"url": "https://www.srf.ch/sport/fussball/internationale-ligen/erster-job-nach-moskau-fcb-meistertrainer-celestini-heuert-bei-burnley-an",
+"source": "SRF Sport",
+"when": "20:30",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/154443.webp",
+"excerpt": "Burnley steht nach 12 Runden auf Rang 22 der 2. englischen Liga. Nun soll Fabio Celestini den Abstieg abwenden."
+},
+{
+"id": "b5ce769b3d4da76b",
+"title": "Colben Landrew On Erving Award Preseason Watch List",
+"url": "https://uconnhuskies.com/news/2026/10/28/mens-basketball-colben-landrew-on-erving-award-preseason-watch-list",
+"source": "UConn Huskies",
+"when": "19:11",
+"also": [],
+"lang": "en",
+"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/28/10272026UCONNMBBvPURDUE036.jpg",
+"excerpt": ""
+},
+{
 "id": "563fcbc398cd3f1b",
 "title": "Extra biljettsläpp för guldmedlemmar",
 "url": "https://www.svenskfotboll.se/nyheter/landslag/2026/10/extra-biljettslapp-sve-b-h/",
@@ -6261,50 +6316,6 @@
 "also": [],
 "lang": "sv",
 "image": null,
-"excerpt": ""
-},
-{
-"id": "4a3d69d4e6d3c7fc",
-"title": "How to Watch and Stream Sunday's Patriots Game Against the Dolphins | NFL Week 8",
-"url": "https://www.patriots.com/news/how-to-watch-and-stream-sunday-s-patriots-game-against-the-dolphins-nfl-week-8",
-"source": "Patriots.com",
-"when": "16:55",
-"also": [],
-"lang": "en",
-"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/y6zwty9isgnmyr2on5cl.png",
-"excerpt": "Complete broadcast information for this week's game between the New England Patriots and the Miami Dolphins on Sunday, November 1, 2026 at 4:25 PM ET."
-},
-{
-"id": "4791d1d4cb218376",
-"title": "MFF:aren var hetast i allsvenskan – då kom smällen: ”Inte skitkul”",
-"url": "https://www.sydsvenskan.se/sport/mff-aren-var-hetast-i-allsvenskan-da-kom-smallen-inte-skitkul/",
-"source": "Sydsvenskan",
-"when": "12:00",
-"also": [],
-"lang": "sv",
-"image": "https://static.bonniernews.se/ba/af16be9b-ad6b-4c5c-946f-a84355da5d78.jpeg?crop=2560%2C1440%2Cx0%2Cy0&width=1200&format=pjpg&auto=avif",
-"excerpt": "Vellingekamp i toppen av den damallsvenska assistligan."
-},
-{
-"id": "61f65f2a10622e2b",
-"title": "Huskies Close Preseason With 76-53 Win Over Purdue",
-"url": "https://uconnhuskies.com/news/2026/10/27/mens-basketball-huskies-close-preseason-with-76-53-win-over-purdue",
-"source": "UConn Huskies",
-"when": "04:47",
-"also": [],
-"lang": "en",
-"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/27/PUR-49.png",
-"excerpt": ""
-},
-{
-"id": "d5da169804f6577a",
-"title": "Watch Red Sox prospects in Arizona Fall League action",
-"url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-"source": "MLB.com",
-"when": "03:56",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
 "excerpt": ""
 }
 ]
@@ -6337,7 +6348,7 @@
 {
 "id": "chess",
 "title": "Chess",
-"count": 8,
+"count": 7,
 "thin": false,
 "groups": [
 {
@@ -6411,17 +6422,6 @@
 "excerpt": ""
 },
 {
-"id": "9633e3b9419e0f0f",
-"title": "Invitation: FIDE Extraordinary General Assembly 2026",
-"url": "https://www.fide.com/invitation-fide-extraordinary-general-assembly-2026/",
-"source": "FIDE",
-"when": "Mon 18:06",
-"also": [],
-"lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/FIDE-Blue-3.png",
-"excerpt": ""
-},
-{
 "id": "b3a958785b59be4e",
 "title": "Chess.com Crazyhouse Championship 2026 Starts November 5",
 "url": "https://www.chess.com/news/view/announcing-chesscom-crazyhouse-chess-championship-2026",
@@ -6447,6 +6447,17 @@
 "id": "ai",
 "title": null,
 "items": [
+{
+"id": "5cefbb4ae752c068",
+"title": "Voice Agents are here. Context turns them into real customer value.",
+"url": "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
+"source": "Databricks",
+"when": "19:00",
+"also": [],
+"lang": "en",
+"image": "https://www.databricks.com/sites/default/files/2026-10/2025-10-ogimages-blogs-10personas-artificial-ntelligence-og-1200x627-2x.png",
+"excerpt": "Before you read further: watch this short demo. In this short demo, the voice agent..."
+},
 {
 "id": "2d8f4c849c6e6396",
 "title": "Vital Skills: Upskilling Genie Code with Healthcare and Life Sciences skills",
@@ -6479,17 +6490,6 @@
 "lang": "en",
 "image": "https://static.simonwillison.net/static/2026/github-numbers.jpg",
 "excerpt": ""
-},
-{
-"id": "5a5bb09257f1ad81",
-"title": "BigQuery to Databricks: A Strategic Framework",
-"url": "https://www.databricks.com/blog/bigquery-databricks-strategic-framework",
-"source": "Databricks",
-"when": "Tue 12:07",
-"also": [],
-"lang": "en",
-"image": "https://www.databricks.com/sites/default/files/2026-08/bigquery-databricks-strategic-framework-modern-migration-blog-og.png",
-"excerpt": "Migration as a strategic evolutionMany organizations support a range of data and analytics workloads on BigQuery today..."
 },
 {
 "id": "8e908080fed3ad4b",
@@ -6538,7 +6538,7 @@
 ]
 }
 ],
-"lead": "2d8f4c849c6e6396"
+"lead": "5cefbb4ae752c068"
 },
 {
 "id": "rd",
@@ -6562,6 +6562,28 @@
 "excerpt": ""
 },
 {
+"id": "38d24421b85e4b2d",
+"title": "Formation Bio unveils $600M fund tied to existing model",
+"url": "https://endpoints.news/formation-bio-unveils-600m-fund-tied-to-existing-model/",
+"source": "Endpoints News",
+"when": "19:40",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2024/06/Benjamine-Liu.jpg",
+"excerpt": ""
+},
+{
+"id": "eb363da0def329d5",
+"title": "FDA charts path for approval of individualized gene editing therapies",
+"url": "https://endpoints.news/fda-charts-path-for-approval-of-individualized-gene-editing-therapies/",
+"source": "Endpoints News",
+"when": "19:21",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2025/12/FDA-HQ-AP-social1.jpg",
+"excerpt": ""
+},
+{
 "id": "5d458bf696f2e430",
 "title": "Astellas makes $1.3B bet on Audax’s preclinical push to reverse decades of IL-12 woes",
 "url": "https://www.fiercebiotech.com/biotech/astellas-makes-13b-bet-audaxs-preclinical-push-reverse-decades-il-12-woes",
@@ -6573,25 +6595,14 @@
 "excerpt": ""
 },
 {
-"id": "69ce00787e1d1c79",
-"title": "Analysts press Biogen on lupus drug litifilimab ahead of pivotal readouts",
-"url": "https://endpoints.news/analysts-press-biogen-on-lupus-drug-litifilimab-ahead-of-pivotal-readouts/",
-"source": "Endpoints News",
-"when": "16:25",
+"id": "236349aa56800c36",
+"title": "Genmab's $8B Merus bet delivers as bispecific combo halves risk of death in phase 3",
+"url": "https://www.fiercebiotech.com/biotech/genmabs-head-and-neck-cancer-bispecific-cuts-risk-death-half-ph3",
+"source": "Fierce Biotech",
+"when": "22:18",
 "also": [],
 "lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2024/05/Chris-Viehbacher-Biogen-FT-Summit-social.jpg",
-"excerpt": ""
-},
-{
-"id": "1cc128bbd924eec3",
-"title": "Beijing-based BioGeometry gets $100M+ for AI drug R&D",
-"url": "https://endpoints.news/beijing-based-biogeometry-gets-100m-for-ai-drug-rd/",
-"source": "Endpoints News",
-"when": "15:08",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2026/02/China-drugs-Credit_-Kathy-Wong-1.jpg",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/three_arrows_on_target.jpg?VersionId=D5h8AN32bD13umRHxuDBmIe8TEX6c55H",
 "excerpt": ""
 },
 {
@@ -6604,17 +6615,6 @@
 "lang": "en",
 "image": "https://qtxasset.com/quartz/qcloud5/media/image/Lilly%20ADA.jpg?VersionId=hR7vyuwKNf3m3EKAdHVMCll51mNGhrQv",
 "excerpt": ""
-},
-{
-"id": "b8c40e9a986204d5",
-"title": "Biogen CEO tells analysts he’s focused on early-stage R&D as ‘we were not very good with that’",
-"url": "https://www.fiercebiotech.com/biotech/biogen-ceo-focused-early-stage-future-company",
-"source": "Fierce Biotech",
-"when": "17:50",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/Viehbacher.jpg?VersionId=WQXs4eBmmuJBkenvY8T0vYw9KHCJuGs6",
-"excerpt": "Biogen's CEO has pointed to the company's ability to take five drugs into clinical trials so far this year as evidence of its new focus on early-stage R&D."
 },
 {
 "id": "600d2182be099498",
@@ -6674,11 +6674,11 @@
 "rain_mm": 0.5,
 "rain_pct": 98,
 "wind": 13,
-"uv": 1,
+"uv": 2,
 "sunrise": "07:07",
 "sunset": "17:18",
-"bar_l": 46,
-"bar_w": 54
+"bar_l": 50,
+"bar_w": 50
 },
 "slots": [
 {
@@ -6698,8 +6698,8 @@
 {
 "name": "Evening",
 "temp": 8,
-"icon": "☁️",
-"label": "Overcast",
+"icon": "⛅",
+"label": "Partly cloudy",
 "rain_pct": 0
 }
 ],
@@ -6715,11 +6715,11 @@
 "rain_mm": 0.5,
 "rain_pct": 98,
 "wind": 13,
-"uv": 1,
+"uv": 2,
 "sunrise": "07:07",
 "sunset": "17:18",
-"bar_l": 46,
-"bar_w": 54
+"bar_l": 50,
+"bar_w": 50
 },
 {
 "date": "2026-10-29",
@@ -6731,29 +6731,29 @@
 "lo": 4,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 14,
+"wind": 13,
 "uv": 3,
 "sunrise": "07:08",
 "sunset": "17:17",
-"bar_l": 23,
-"bar_w": 77
+"bar_l": 29,
+"bar_w": 71
 },
 {
 "date": "2026-10-30",
 "dow": "Fri",
 "dm": "30.10.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 10,
+"label": "Overcast",
+"icon": "☁️",
+"hi": 9,
 "lo": 4,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 8,
+"wind": 10,
 "uv": 3,
 "sunrise": "07:10",
 "sunset": "17:15",
-"bar_l": 23,
-"bar_w": 46
+"bar_l": 29,
+"bar_w": 36
 },
 {
 "date": "2026-10-31",
@@ -6769,8 +6769,8 @@
 "uv": 3,
 "sunrise": "07:11",
 "sunset": "17:14",
-"bar_l": 15,
-"bar_w": 62
+"bar_l": 21,
+"bar_w": 57
 },
 {
 "date": "2026-11-01",
@@ -6786,8 +6786,8 @@
 "uv": 3,
 "sunrise": "07:13",
 "sunset": "17:12",
-"bar_l": 8,
-"bar_w": 46
+"bar_l": 14,
+"bar_w": 43
 },
 {
 "date": "2026-11-02",
@@ -6803,8 +6803,8 @@
 "uv": 1,
 "sunrise": "07:14",
 "sunset": "17:10",
-"bar_l": 15,
-"bar_w": 46
+"bar_l": 21,
+"bar_w": 43
 },
 {
 "date": "2026-11-03",
@@ -6817,11 +6817,11 @@
 "rain_mm": 0,
 "rain_pct": 3,
 "wind": 12,
-"uv": 1,
+"uv": 0,
 "sunrise": "07:16",
 "sunset": "17:09",
-"bar_l": 0,
-"bar_w": 54
+"bar_l": 7,
+"bar_w": 50
 },
 {
 "date": "2026-11-04",
@@ -6837,45 +6837,45 @@
 "uv": 1,
 "sunrise": "07:17",
 "sunset": "17:07",
-"bar_l": 15,
-"bar_w": 38
+"bar_l": 21,
+"bar_w": 36
 },
 {
 "date": "2026-11-05",
 "dow": "Thu",
 "dm": "05.11.",
-"label": "Fog",
-"icon": "🌫️",
+"label": "Overcast",
+"icon": "☁️",
 "hi": 8,
-"lo": 2,
+"lo": 0,
 "rain_mm": 0,
 "rain_pct": 1,
-"wind": 11,
+"wind": 6,
 "uv": 1,
 "sunrise": "07:19",
 "sunset": "17:06",
-"bar_l": 8,
-"bar_w": 46
+"bar_l": 0,
+"bar_w": 57
 },
 {
 "date": "2026-11-06",
 "dow": "Fri",
 "dm": "06.11.",
-"label": "Partly cloudy",
-"icon": "⛅",
-"hi": 10,
-"lo": 1,
+"label": "Fog",
+"icon": "🌫️",
+"hi": 8,
+"lo": 0,
 "rain_mm": 0,
 "rain_pct": 3,
 "wind": 6,
-"uv": 2,
+"uv": 1,
 "sunrise": "07:20",
 "sunset": "17:05",
 "bar_l": 0,
-"bar_w": 69
+"bar_w": 57
 }
 ],
-"lo": 1,
+"lo": 0,
 "hi": 14
 }
 }
