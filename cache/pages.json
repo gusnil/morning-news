@@ -5881,9 +5881,9 @@
 },
 "2026-10-31": {
 "date": "2026-10-31",
-"built_at": "2026-10-31T05:35:43.721355+00:00",
-"built_local": "06:35",
-"edition": "Morning",
+"built_at": "2026-10-31T15:52:21.248847+00:00",
+"built_local": "16:52",
+"edition": "Evening",
 "feeds_ok": 55,
 "feeds_total": 55,
 "sections": [
@@ -5898,17 +5898,69 @@
 "title": null,
 "items": [
 {
-"id": "3fc2830da312092f",
-"title": "Could US midterms impact the EU? Transatlantic ties hit new low after Trump-Putin diesel deal",
-"url": "https://www.france24.com/en/tv-shows/talking-europe/20261030-could-us-midterms-impact-the-eu-transatlantic-ties-hit-new-low-after-trump-putin-diesel-deal",
+"id": "d2fc4373408bbd18",
+"title": "Third weekend of protests in France",
+"url": "https://www.france24.com/en/third-weekend-of-protests-in-france",
 "source": "France 24",
-"when": "Fri 17:24",
+"when": "12:13",
 "also": [
-"SCMP",
-"BBC World"
+"The Hindu",
+"Al Jazeera"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/8c3484b0-d3ac-11f1-9ed9-399efcf9f4d0/w:1024/p:16x9/PHOTO-DEBAT-EN-1.png",
+"image": "https://s.france24.com/media/display/8d26b616-d51b-11f1-b158-d18c5759e759/w:1024/p:16x9/EN-20261031-110610-110903-CS.jpg",
+"excerpt": ""
+},
+{
+"id": "047e9fe75d0065a9",
+"title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+"url": "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
+"source": "France 24",
+"when": "13:31",
+"also": [
+"SCMP"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/0a003486-d527-11f1-b75d-bf1914cabd52/w:1024/p:16x9/74706f6624812bdb75973570d6ce3acdf7330c24.jpg",
+"excerpt": ""
+},
+{
+"id": "67ecde7dce3add90",
+"title": "Iran’s Supreme Leader warns U.S., Israel against new attacks",
+"url": "https://www.thehindu.com/news/international/irans-supreme-leader-warns-us-israel-against-new-attacks/article71649244.ece",
+"source": "The Hindu",
+"when": "15:10",
+"also": [
+"SCMP"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/k5g6kq/article71649275.ece/alternates/LANDSCAPE_1200/Iraq_US_Withdrawal_92226.jpg",
+"excerpt": ""
+},
+{
+"id": "a3e55146b71f2a92",
+"title": "Thousands protest across Italy over living costs and military spending",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "12:07",
+"also": [
+"Africanews"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793444851.jpg?resize=1620%2C1080&quality=80",
+"excerpt": "Thousands have protested across Italy against rising living costs and increased military spending."
+},
+{
+"id": "5d319a5a3551f5d5",
+"title": "Drone strikes in Ethiopia kill at least 25: witnesses",
+"url": "http://www.africanews.com/2026/10/31/drone-strikes-in-ethiopia-kill-at-least-25-witnesses/",
+"source": "Africanews",
+"when": "10:11",
+"also": [
+"The Hindu"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/97/46/45/640x360_cmsv2_b49ca76b-8d0f-5791-85e5-5c3ca82c3e7c-9974645.jpg?1793428193",
 "excerpt": ""
 },
 {
@@ -5940,33 +5992,16 @@
 "excerpt": "Russia’s most prominent investigative newspaper is closing, with staff accusing the government of killing it off."
 },
 {
-"id": "1261dac108ea343a",
-"title": "Pope Leo becomes first pontiff to vote in US general election",
-"url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "02:31",
+"id": "8b23de8532955e8d",
+"title": "U.S., South Korea, Japan vow ‘complete’ North Korea’s denuclearisation",
+"url": "https://www.thehindu.com/news/international/us-south-korea-japan-vow-complete-north-korea-denuclearisation/article71648121.ece",
+"source": "The Hindu",
+"when": "04:28",
 "also": [
-"BBC World",
 "SCMP"
 ],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26301412148787-1793405625.jpg?resize=1920%2C1440",
-"excerpt": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections"
-},
-{
-"id": "fc151a2f3d0598ae",
-"title": "Patrick Stewart, star of 'Star Trek' and 'X men', dies at 86",
-"url": "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
-"source": "France 24",
-"when": "Thu 21:21",
-"also": [
-"The Hindu",
-"Al Jazeera",
-"DW",
-"SCMP"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/3f9776de-d3d5-11f1-8290-695cb59fade5/w:1024/p:16x9/AP26302717036908.jpg",
+"image": "https://th-i.thgim.com/public/incoming/njkv9v/article71648164.ece/alternates/LANDSCAPE_1200/2026-10-30T064256Z_417233320_RC29DOACZ2FD_RTRMADP_3_NORTHKOREA-ARMS.JPG",
 "excerpt": ""
 },
 {
@@ -5983,39 +6018,6 @@
 "excerpt": ""
 },
 {
-"id": "0eef971c90e35afc",
-"title": "Fears of violence as France braces for Halloween protests",
-"url": "https://www.thehindu.com/news/international/fears-of-violence-as-france-braces-for-halloween-protests/article71648280.ece",
-"source": "The Hindu",
-"when": "06:30",
-"also": [],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/fe01of/article71648345.ece/alternates/LANDSCAPE_1200/2026-10-30T200031Z_1679103374_RC2TDOATTGFW_RTRMADP_3_FRANCE-SECURITY-SHOOTING-PROTEST.JPG",
-"excerpt": ""
-},
-{
-"id": "1da97a2f39d83c0f",
-"title": "Flavio Bolsonaro says he left Brazil because he is the victim of 'persecution'",
-"url": "https://www.thehindu.com/news/international/flavio-bolsonaro-says-he-left-brazil-because-he-is-the-victim-of-persecution/article71648100.ece",
-"source": "The Hindu",
-"when": "05:29",
-"also": [],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/8ahhp1/article71648113.ece/alternates/LANDSCAPE_1200/2026-10-30T100011Z_620004563_RC2ECOAK2QK5_RTRMADP_3_USA-TRUMP-BRAZIL-BOLSONARO.JPG",
-"excerpt": ""
-},
-{
-"id": "fabcb3e607492504",
-"title": "Guinean cinema: A new generation strives to bring the industry back to life",
-"url": "http://www.africanews.com/2026/10/30/guinean-cinema-a-new-generation-strives-to-bring-the-industry-back-to-life/",
-"source": "Africanews",
-"when": "Fri 21:52",
-"also": [],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/97/39/62/640x360_cmsv2_cf47aab7-19cd-5616-b60c-053a87fd3c73-9973962.jpg?1793374229",
-"excerpt": ""
-},
-{
 "id": "039b2019a902abab",
 "title": "Trailblazing, sexualized, legendary: Lara Croft and ‘Tomb Raider’ celebrate 30 years of adventure",
 "url": "https://english.elpais.com/culture/2026-10-31/trailblazing-sexualized-legendary-lara-croft-and-tomb-raider-celebrate-30-years-of-adventure.html",
@@ -6029,7 +6031,7 @@
 ]
 }
 ],
-"lead": "3fc2830da312092f"
+"lead": "d2fc4373408bbd18"
 },
 {
 "id": "basel",
@@ -6042,15 +6044,92 @@
 "title": null,
 "items": [
 {
-"id": "1d0d3a3757d4be27",
-"title": "«Abstimmungs-Arena» – Bundesrätin Keller-Sutter: «Es stimmt nicht, was Herr Bregy sagt»",
-"url": "https://www.srf.ch/news/schweiz/abstimmungs-arena-bundesraetin-keller-sutter-es-stimmt-nicht-was-herr-bregy-sagt",
+"id": "8e634af90e34301c",
+"title": "Zwei Jahre nach dem Unwetter – Neue Visletto-Brücke über Maggia eingeweiht",
+"url": "https://www.srf.ch/news/schweiz/zwei-jahre-nach-dem-unwetter-neue-visletto-bruecke-ueber-maggia-eingeweiht",
 "source": "SRF News",
-"when": "Fri 23:52",
+"when": "16:40",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/71448cf.webp",
-"excerpt": "Die Initiative der Mitte will die Heiratsstrafe auf ihre Weise abschaffen. Führt sie zu Fairness oder zu einem Chaos?"
+"image": "https://www.srf.ch/static/cms/images//320ws/668704.webp",
+"excerpt": "Das Unwetter von 2024 riss die alte Brücke weg. Die Kosten für das Bauwerk belaufen sich auf 10.5 Millionen Franken."
+},
+{
+"id": "abd294aaf14c26eb",
+"title": "Cyberangriff im Kanton Waadt – Hacker stehlen Daten von über 40'000 Schülern und Lehrkräften",
+"url": "https://www.srf.ch/news/schweiz/cyberangriff-im-kanton-waadt-hacker-stehlen-daten-von-ueber-40-000-schuelern-und-lehrkraeften",
+"source": "SRF News",
+"when": "15:51",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/1c4916.webp",
+"excerpt": "Eine IT-Supportplattform für Waadtländer Schulen ist angegriffen worden. Betroffen sind auch Namen und E-Mail-Adressen."
+},
+{
+"id": "e60a1b0b8c7919ae",
+"title": "Lärmstreit auf dem Land – Landwirtschaftslärm treibt Nachbarschaft auf die Barrikaden",
+"url": "https://www.srf.ch/news/schweiz/laermstreit-auf-dem-land-landwirtschaftslaerm-treibt-nachbarschaft-auf-die-barrikaden",
+"source": "SRF News",
+"when": "15:15",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/601de0.webp",
+"excerpt": "Trotz Gerichtsurteil – Anwohnerinnen und Anwohner in Hohenrain LU leiden weiter unter dem Lärm aus der Landwirtschaft."
+},
+{
+"id": "59922f4aeb52e5a9",
+"title": "US-Rock-Versuchung in Basel: «Orgastisch» – «Das ist das schlimmste Konzert, an dem ich je war»",
+"url": "https://www.bazonline.ch/baloise-session-james-arthur-ueberzeugt-in-basel-101239160326",
+"source": "Basler Zeitung",
+"when": "12:12",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/2YFi4mxw4WSB6av9i-ZKcc.jpg",
+"excerpt": ""
+},
+{
+"id": "3240c07b0ae848bc",
+"title": "Demos während der Herbstmesse: Zwei Aufrufe kündigen für heute Jugendproteste in Basel an",
+"url": "https://www.bazonline.ch/basel-zwei-gen-z-demos-heute-waehrend-der-herbstmesse-937597890454",
+"source": "Basler Zeitung",
+"when": "11:26",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/A3Oc46hLqtx9xNNEIyZcue.jpg",
+"excerpt": ""
+},
+{
+"id": "439ad17fa741c2e9",
+"title": "Fan der Woche ist Stan Wawrinka ❤️‍🔥",
+"url": "https://bajour.ch/a/fan-der-woche-stan-wawrinka",
+"source": "Bajour",
+"when": "10:53",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a19160-1252-72a7-a09f-67e69fedb892?quality=80&sig=nkL0IOz1ylGdppgGmK-82TMcfJE-IfDrqlm-mf3SzkcJJBhyCVOu2HpDr7IKY66wSmsYD8cU0aFSN3KeetfHCA",
+"excerpt": ""
+},
+{
+"id": "9cd19e85e22b13e5",
+"title": "Co-Chef der Basler Juso: «Nein, ich würde nicht für die Schweiz in den Krieg ziehen»",
+"url": "https://www.bazonline.ch/jugendstreik-basel-juso-chef-ueber-krieg-und-klimaangst-384368366222",
+"source": "Basler Zeitung",
+"when": "07:21",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/FuiLuFHDqA-B8gneJJBQvx.jpg",
+"excerpt": ""
+},
+{
+"id": "41267531a2d85f42",
+"title": "BILDSTRECKE - Tödliche Angriffe auf Kiew ohne Vorwarnung – Bilder des Krieges in der Ukraine",
+"url": "https://www.nzz.ch/fotografie/in-der-ukraine-herrscht-krieg-ld.1671702",
+"source": "NZZ",
+"when": "15:59",
+"also": [],
+"lang": "de",
+"image": "https://img-msp-prod.nzz.ch/2026/10/31/304bc19c-1ba1-4b17-9703-c078440db34b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2277,2277,x1427,y626",
+"excerpt": "Die russische Invasion führt bereits im fünften Jahr zu Hunderttausenden Toten und der Zerstörung ganzer Städte. Die neuesten Entwicklungen in Bildern."
 },
 {
 "id": "d470e0de0b364114",
@@ -6066,50 +6145,6 @@
 "excerpt": "Die bisherigen Betreiber*innen erhalten den Zuschlag für weitere fünf Jahre."
 },
 {
-"id": "bdffb95740421ea7",
-"title": "Verhärtete Fronten – «dialog»-Community: Polarisierung ist heute «grösstes Risiko»",
-"url": "https://www.srf.ch/news/dialog/verhaertete-fronten-dialog-community-polarisierung-ist-heute-groesstes-risiko",
-"source": "SRF News",
-"when": "Fri 20:44",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/ed288b.webp",
-"excerpt": "Die gesellschaftlichen Gräben werden tiefer. In der «dialog»-Community wächst die Sorge um Zusammenhalt."
-},
-{
-"id": "4995348381d4d248",
-"title": "Abkommen Schweiz–China – Parmelin: «China hat noch immer gewisse Handelshemmnisse»",
-"url": "https://www.srf.ch/news/schweiz/abkommen-schweiz-china-parmelin-china-hat-noch-immer-gewisse-handelshemmnisse",
-"source": "SRF News",
-"when": "Fri 20:43",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/cd1b790.webp",
-"excerpt": "Die Schweiz und China erneuern das Freihandelsabkommen. Bundesrat Parmelin sagt, warum es am Schluss so schnell ging."
-},
-{
-"id": "ccdf0baee931a773",
-"title": "Der Herbst spielt Diebinnen und Dieben in die Hände",
-"url": "https://www.bs.ch/medienmitteilungen/jsd/2026-der-herbst-spielt-diebinnen-und-dieben-die-haende",
-"source": "Kanton Basel-Stadt",
-"when": "06:35",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
-},
-{
-"id": "3b8ba42a74bb62dc",
-"title": "Bottmingen erinnert Grundeigentümer: Gemeinde fordert Rückschnitt überhängender Pflanzen",
-"url": "https://www.bazonline.ch/bottmingen-grundeigentuemer-sollen-hecken-zurueckschneiden-836797414015",
-"source": "Basler Zeitung",
-"when": "Fri 19:35",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": ""
-},
-{
 "id": "1b54ed8b1d16d7b8",
 "title": "Tribelhorn von der GLP nominiert",
 "url": "https://bajour.ch/a/tribelhorn-von-der-glp-in-den-regierungsrat",
@@ -6121,44 +6156,11 @@
 "lang": "de",
 "image": null,
 "excerpt": "Die Grünliberalen Baselland stellen ihren Parteipräsidenten für die Regierungsratswahlen auf."
-},
-{
-"id": "44b9d6798ac3c46d",
-"title": "Abdul El-Sayed könnte die Midterms für die US-Demokraten entscheiden – doch viele Juden fürchten den scharfen Israelkritiker",
-"url": "https://www.nzz.ch/international/ich-bin-der-jude-fuer-abdul-el-sayed-spaltet-die-juedischen-waehler-ld.10047806",
-"source": "NZZ",
-"when": "05:30",
-"also": [],
-"lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/10/29/941ae814-5f3c-4c7c-9e49-9d8c5b4ec8e3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1487,1487,x3399,y86",
-"excerpt": "Andere feiern den «Mamdani von Michigan» aber auch. Eine Reportage."
-},
-{
-"id": "5c0618879547268e",
-"title": "Mutmassliche Beziehungstat: 24-Jähriger in Wohnung schwer verletzt – Mann auf der Flucht",
-"url": "https://www.bazonline.ch/loerrach-haftbefehl-nach-gewalttat-taeter-fluechtig-246060309978",
-"source": "Basler Zeitung",
-"when": "Fri 17:22",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/8zowVo0aqAUA1BhCYA3elt.jpg",
-"excerpt": "Ein 29-jähriger Mann soll in Lörrach einen 24-Jährigen in einer Wohnung mit massiver Gewalt schwer verletzt haben."
-},
-{
-"id": "bb6f44ec59fa34db",
-"title": "Unbekannte Täterschaft: Gestohlener Heuballen blockiert den Verkehr",
-"url": "https://www.bazonline.ch/steinen-diebstahl-eines-heuballen-mit-traktor-514025156052",
-"source": "Basler Zeitung",
-"when": "Fri 17:05",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/3VZ6GpHlarq8HE7n7fWvbr.jpg",
-"excerpt": "In Steinen DE hat eine unbekannte Täterschaft in der Nacht auf Freitag einen Heuballen gestohlen."
 }
 ]
 }
 ],
-"lead": "1d0d3a3757d4be27"
+"lead": "8e634af90e34301c"
 },
 {
 "id": "sport",
@@ -6171,59 +6173,66 @@
 "title": "Cycling",
 "items": [
 {
-"id": "eb096311b31d3aab",
-"title": "'In recent years, I put too much pressure on myself' – Failed search for a new team ends in retirement for former La Flèche Wallonne winner Dylan Teuns",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/in-recent-years-i-put-too-much-pressure-on-myself-failed-search-for-a-new-team-ends-in-retirement-for-former-la-fleche-wallonne-winner-dylan-teuns/",
+"id": "7d32e47b69590c8a",
+"title": "'They’ve destroyed cycling' - Bardiani-CSF-7 Saber boss gives scathing assessment of the UCI after Italian team unable to race Giro d’Italia in 2027",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/theyve-destroyed-cycling-bardiani-csf-7-saber-boss-gives-scathing-assessment-of-the-uci-after-italian-team-unable-to-race-giro-ditalia-in-2027/",
 "source": "Cyclingnews",
-"when": "Fri 12:00",
-"also": [
-"Escape Collective"
-],
-"lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/8VUsE5cW4nvjMvuyCULHBi-1920-80.png",
-"excerpt": "Belgian decides to end career at 34 after talks with three WorldTour teams come to nothing"
-},
-{
-"id": "3cd6e14d48937dd4",
-"title": "'A contract is about more than salary' - The Cyclists' Alliance 2026 rider survey finds financial insecurity, health and safety issues among the main concerns of the women's peloton",
-"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/a-contract-is-about-more-than-salary-the-cyclists-alliance-2026-rider-survey-finds-financial-insecurity-health-and-safety-issues-among-the-main-concerns-of-the-womens-peloton/",
-"source": "Cyclingnews",
-"when": "Fri 19:31",
+"when": "15:03",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/WjkvTreZYtwMqtqU3WksF5-1920-80.jpg",
+"image": "https://cdn.mos.cms.futurecdn.net/kuFKjsgyvjokNf8kWvgm4Z-1920-80.jpg",
+"excerpt": "Long-standing ProTeam could fold in the coming years due to UCI regulations, says Bruno Reverberi"
+},
+{
+"id": "a6f0a3b0a5ef27f3",
+"title": "'It really feels like a victory' - Belgian cyclo-cross champion returns to training following surgery for cardiac arrhythmias",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/it-really-feels-like-a-victory-belgian-cyclo-cross-champion-returns-to-training-following-surgery-for-cardiac-arrhythmias/",
+"source": "Cyclingnews",
+"when": "14:24",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/pdDy8Mibem8y85Tu6XPniA-1920-80.jpg",
+"excerpt": "Former under-23 World Champion Marion Norbert Riberolle's race return dates unconfirmed"
+},
+{
+"id": "bfc4ff26b402f53c",
+"title": "'I still need some time to analyse what I really want' - Tadej Pogačar to return to the UAE Tour, but 2027 race calendar still undecided with Tour de France the main target",
+"url": "https://www.cyclingnews.com/pro-cycling/racing/i-still-need-some-time-to-analyse-what-i-really-want-tadej-pogacar-to-return-to-the-uae-tour-but-2027-race-calendar-still-undecided-with-tour-de-france-the-main-target/",
+"source": "Cyclingnews",
+"when": "12:57",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/LsquEF3rLAg5pnkVjzz5wJ-1920-80.jpg",
+"excerpt": "UAE Team Emirates-XRG rider likely to head to the Classics again"
+},
+{
+"id": "27350e98cb4cecc2",
+"title": "'Cycling has no future' – Bardiani boss damns UCI points system that may herald team's demise",
+"url": "https://escapecollective.com/cycling-has-no-future-bardiani-boss-damns-uci-points-system-that-may-herald-teams-demise/",
+"source": "Escape Collective",
+"when": "14:27",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
 "excerpt": ""
 },
 {
-"id": "04b423047408a88e",
-"title": "Indoor cycling is boring, discuss – A for-and-against debate on the sport's most polarising training tool",
-"url": "https://www.cyclingnews.com/cycling-tech-components/smart-trainers/indoor-cycling-is-boring-discuss-a-for-and-against-debate-on-the-sports-most-polarising-training-tool/",
-"source": "Cyclingnews",
-"when": "Fri 17:58",
+"id": "d1dac3caed22b54e",
+"title": "‘I’m just happy to be alive’ – Pogačar opens up about difficult recovery",
+"url": "https://escapecollective.com/im-just-happy-to-be-alive-pogacar-opens-up-about-difficult-recovery/",
+"source": "Escape Collective",
+"when": "14:12",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/QNAVtjHvJ5on5P9xSRnH5A-1920-80.jpg",
-"excerpt": "Not everyone likes cycling indoors, even here in the Cyclingnews team there are mixed opinions, so we thought we'd share a few"
-},
-{
-"id": "235d2447a105adf6",
-"title": "Bahrain Victorious to ride Factor Bikes from 2027",
-"url": "https://escapecollective.com/bahrain-victorious-to-ride-factor-bikes-from-2027/",
-"source": "Escape Collective",
-"when": "Fri 09:01",
-"also": [
-"Cycling Weekly"
-],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/10/Human-Powered-Health-Factor-One-2026-Team-Bike-11.jpg",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
 "excerpt": ""
 },
 {
-"id": "9a1cd5c80b510ef1",
-"title": "Van Aert still isn't sure about his 'cross program",
-"url": "https://escapecollective.com/van-aert-still-isnt-sure-about-his-cross-program/",
+"id": "97fe0fc437cf8cf1",
+"title": "UAE Tour, Classics, then Tour – Pogačar lays out likely early-2027 plans",
+"url": "https://escapecollective.com/uae-tour-classics-then-tour-pogacar-lays-out-likely-early-2027-plans/",
 "source": "Escape Collective",
-"when": "Fri 18:47",
+"when": "11:08",
 "also": [],
 "lang": "en",
 "image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
@@ -6235,6 +6244,17 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "3d7a63e112e904d5",
+"title": "P19 är svenska mästare",
+"url": "https://www.mff.se/nyheter/p19-ar-svenska-mastare-2026-10-31/",
+"source": "Malmö FF",
+"when": "16:06",
+"also": [],
+"lang": "sv",
+"image": "https://cdn.mff.se/2026/10/BB261031CO027.jpg",
+"excerpt": "The post P19 är svenska mästare appeared first on Malmö FF ."
+},
 {
 "id": "7cbb557fe5003cc1",
 "title": "Storförlust mot Schweiz",
@@ -6289,17 +6309,6 @@
 "lang": "en",
 "image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/30/20260329_MBBvsDuke_NCAAT_6746.jpg",
 "excerpt": ""
-},
-{
-"id": "3c430c10bc1676e2",
-"title": "Laddade hos mamma – kan få nyckelroll mot Bajen: ”Vill alltid spela”",
-"url": "https://www.sydsvenskan.se/sport/laddade-hos-mamma-kan-fa-nyckelroll-mot-bajen-vill-alltid-spela/",
-"source": "Sydsvenskan",
-"when": "Fri 18:00",
-"also": [],
-"lang": "sv",
-"image": "https://static.bonniernews.se/ba/0dac70d1-285b-4fd9-8dcb-7e99362a30d5.jpeg?crop=2560%2C1440%2Cx0%2Cy0&width=1200&format=pjpg&auto=avif",
-"excerpt": "MFF-tränaren: ”Förtjänat den här chansen.” • Grafik:…"
 }
 ]
 },
@@ -6311,22 +6320,10 @@
 {
 "id": "sumo",
 "title": "Sumo",
-"items": [
-{
-"id": "b3d8428dfc7754a1",
-"title": "November banzuke reveals intriguing trio of dark horse candidates",
-"url": "https://www.japantimes.co.jp/sports/2026/10/28/sumo/kyushu-basho-banzuke-dark-horses/",
-"source": "Japan Times",
-"when": "Wed 08:10",
-"also": [],
-"lang": "en",
-"image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/29/570969.jpg",
-"excerpt": "Popular veteran Tamawashi is among the rikishi to watch for the upcoming tournament."
-}
-]
+"items": []
 }
 ],
-"lead": "eb096311b31d3aab"
+"lead": "7d32e47b69590c8a"
 },
 {
 "id": "chess",
@@ -6353,25 +6350,25 @@
 "excerpt": ""
 },
 {
-"id": "08bfc4556b421e65",
-"title": "International conference \"Chess in Education\" to b­­e held in Almaty",
-"url": "https://en.chessbase.com/post/chess-in-education-international-conference-almaty",
-"source": "ChessBase",
-"when": "02:00",
+"id": "2fc980003156b6fa",
+"title": "Carlsen Trains With Abdusattorov In Spain Ahead Of Total Chess Debut",
+"url": "https://www.chess.com/news/view/carlsen-trains-with-abdusattorov-in-spain-ahead-of-total-chess-debut",
+"source": "Chess.com",
+"when": "15:10",
 "also": [],
 "lang": "en",
-"image": "https://en.chessbase.com/thumb/133005_l200",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2255037.79b60a62.5000x5000o.712fb669e5ce.png",
 "excerpt": ""
 },
 {
-"id": "ea79fa1e689a4998",
-"title": "Sindarov takes Clutch Chess title ahead of World Championship match",
-"url": "https://en.chessbase.com/post/clutch-chess-showdown-2026-3",
+"id": "7f73550b7cfe67f7",
+"title": "KazChess Masters Almaty 2026 - Live!",
+"url": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
 "source": "ChessBase",
-"when": "Fri 12:20",
+"when": "12:00",
 "also": [],
 "lang": "en",
-"image": "https://en.chessbase.com/thumb/132995_l200",
+"image": "https://en.chessbase.com/thumb/132948_l200",
 "excerpt": ""
 },
 {
@@ -6385,6 +6382,17 @@
 ],
 "lang": "en",
 "image": "https://en.chessbase.com/thumb/132954_l200",
+"excerpt": ""
+},
+{
+"id": "ea79fa1e689a4998",
+"title": "Sindarov takes Clutch Chess title ahead of World Championship match",
+"url": "https://en.chessbase.com/post/clutch-chess-showdown-2026-3",
+"source": "ChessBase",
+"when": "Fri 12:20",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/132995_l200",
 "excerpt": ""
 },
 {
@@ -6418,17 +6426,6 @@
 "also": [],
 "lang": "en",
 "image": "https://www.fide.com/wp-content/uploads/FCCC-new-club-night1300.png",
-"excerpt": ""
-},
-{
-"id": "a2b7354294b6c4b7",
-"title": "Sarana Wins Early, Arjun Wins Twice In 3 0 Thursday",
-"url": "https://www.chess.com/news/view/sarana-arjun-3-0-thursday-10-29-2026",
-"source": "Chess.com",
-"when": "Fri 20:32",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2254763.0364a8f5.5000x5000o.cbbee8f507d2.png",
 "excerpt": ""
 }
 ]
@@ -6562,7 +6559,7 @@
 },
 {
 "id": "22411b0392cb30b5",
-"title": "Sanofi has no plans for a 'major' overhaul as Dupixent's patent cliff looms",
+"title": "Sanofi has no plans for 'major' reconstruction as Dupixent's patent cliff looms",
 "url": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
 "source": "Endpoints News",
 "when": "Fri 12:12",
@@ -6655,7 +6652,7 @@
 "lo": 3,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 8,
+"wind": 9,
 "uv": 3,
 "sunrise": "07:11",
 "sunset": "17:14",
@@ -6666,22 +6663,22 @@
 {
 "name": "Morning",
 "temp": 3,
-"icon": "⛅",
-"label": "Partly cloudy",
+"icon": "☁️",
+"label": "Overcast",
 "rain_pct": 0
 },
 {
 "name": "Afternoon",
-"temp": 9,
-"icon": "☀️",
-"label": "Clear",
+"temp": 8,
+"icon": "🌤️",
+"label": "Mostly clear",
 "rain_pct": 0
 },
 {
 "name": "Evening",
-"temp": 6,
-"icon": "🌤️",
-"label": "Mostly clear",
+"temp": 7,
+"icon": "⛅",
+"label": "Partly cloudy",
 "rain_pct": 0
 }
 ],
@@ -6696,7 +6693,7 @@
 "lo": 3,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 8,
+"wind": 9,
 "uv": 3,
 "sunrise": "07:11",
 "sunset": "17:14",
@@ -6707,18 +6704,18 @@
 "date": "2026-11-01",
 "dow": "Sun",
 "dm": "01.11.",
-"label": "Fog",
-"icon": "🌫️",
+"label": "Light drizzle",
+"icon": "🌦️",
 "hi": 10,
-"lo": 2,
+"lo": 3,
 "rain_mm": 0,
-"rain_pct": 3,
-"wind": 8,
+"rain_pct": 0,
+"wind": 10,
 "uv": 3,
 "sunrise": "07:13",
 "sunset": "17:12",
-"bar_l": 9,
-"bar_w": 73
+"bar_l": 18,
+"bar_w": 64
 },
 {
 "date": "2026-11-02",
@@ -6726,7 +6723,7 @@
 "dm": "02.11.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 7,
+"hi": 8,
 "lo": 1,
 "rain_mm": 0,
 "rain_pct": 0,
@@ -6735,7 +6732,7 @@
 "sunrise": "07:14",
 "sunset": "17:10",
 "bar_l": 0,
-"bar_w": 55
+"bar_w": 64
 },
 {
 "date": "2026-11-03",
@@ -6744,15 +6741,15 @@
 "label": "Overcast",
 "icon": "☁️",
 "hi": 8,
-"lo": 4,
+"lo": 2,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 10,
+"wind": 9,
 "uv": 2,
 "sunrise": "07:16",
 "sunset": "17:09",
-"bar_l": 27,
-"bar_w": 36
+"bar_l": 9,
+"bar_w": 55
 },
 {
 "date": "2026-11-04",
@@ -6764,7 +6761,7 @@
 "lo": 4,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 10,
+"wind": 11,
 "uv": 1,
 "sunrise": "07:17",
 "sunset": "17:07",
@@ -6781,7 +6778,7 @@
 "lo": 2,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 4,
+"wind": 5,
 "uv": 2,
 "sunrise": "07:19",
 "sunset": "17:06",
@@ -6809,52 +6806,52 @@
 "date": "2026-11-07",
 "dow": "Sat",
 "dm": "07.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 10,
-"lo": 2,
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 12,
+"lo": 5,
 "rain_mm": 0,
 "rain_pct": 7,
-"wind": 5,
+"wind": 6,
 "uv": 2,
 "sunrise": "07:22",
 "sunset": "17:03",
-"bar_l": 9,
-"bar_w": 73
+"bar_l": 36,
+"bar_w": 64
 },
 {
 "date": "2026-11-08",
 "dow": "Sun",
 "dm": "08.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 8,
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 11,
 "lo": 2,
-"rain_mm": 0,
-"rain_pct": 15,
-"wind": 4,
+"rain_mm": 7.2,
+"rain_pct": 12,
+"wind": 9,
 "uv": 2,
 "sunrise": "07:23",
 "sunset": "17:02",
 "bar_l": 9,
-"bar_w": 55
+"bar_w": 82
 },
 {
 "date": "2026-11-09",
 "dow": "Mon",
 "dm": "09.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 12,
-"lo": 1,
-"rain_mm": 0,
-"rain_pct": 24,
-"wind": 7,
+"label": "Heavy drizzle",
+"icon": "🌧️",
+"hi": 9,
+"lo": 4,
+"rain_mm": 12.2,
+"rain_pct": 25,
+"wind": 12,
 "uv": 2,
 "sunrise": "07:25",
 "sunset": "17:00",
-"bar_l": 0,
-"bar_w": 100
+"bar_l": 27,
+"bar_w": 45
 }
 ],
 "lo": 1,
