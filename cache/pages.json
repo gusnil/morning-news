@@ -5878,8 +5878,8 @@
 },
 "2026-11-01": {
 "date": "2026-11-01",
-"built_at": "2026-11-01T16:54:46.879380+00:00",
-"built_local": "17:54",
+"built_at": "2026-11-01T20:48:58.310388+00:00",
+"built_local": "21:48",
 "edition": "Evening",
 "feeds_ok": 55,
 "feeds_total": 55,
@@ -5908,16 +5908,30 @@
 "excerpt": ""
 },
 {
-"id": "ce4b8a1d10a3454b",
-"title": "Indian opposition parties stage mega rally seeking election chief’s resignation",
-"url": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
-"source": "France 24",
-"when": "07:24",
+"id": "30998679e5ea4d11",
+"title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+"url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "19:58",
 "also": [
-"BBC World"
+"DW",
+"SCMP"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/2e7f6500-d5d8-11f1-ac7a-1beafce15fea/w:1024/p:16x9/AP26305338577567.jpg",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae780295f69-1793556521.jpg?resize=1920%2C1440",
+"excerpt": "No arrests made after several security officers were reportedly injured during incidents at Saturday's protests."
+},
+{
+"id": "4102316ff6332246",
+"title": "Ceasefire in Ukraine's Kherson region set to end after Russia refuses extension",
+"url": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
+"source": "France 24",
+"when": "13:41",
+"also": [
+"SCMP"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/dc18dae8-d628-11f1-82a9-695cb59fade5/w:1024/p:16x9/AP26305286890794.jpg",
 "excerpt": ""
 },
 {
@@ -5987,26 +6001,15 @@
 "excerpt": ""
 },
 {
-"id": "239dd825c8a4b64a",
-"title": "India protesters march with 1km banner of deleted voters’ names",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
+"id": "6b9d1a6ad0a302e1",
+"title": "Al Jazeera celebrates 30th anniversary",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss",
 "source": "Al Jazeera",
-"when": "17:42",
+"when": "21:21",
 "also": [],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-16.35.32-1793551091.png?resize=1200%2C675",
-"excerpt": "Protesters in New Delhi carried a one-kilometre banner bearing the names of people removed from India’s voter rolls."
-},
-{
-"id": "a567da61f63a105e",
-"title": "Russia detains minor over alleged Moscow attack plot after US warning",
-"url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "17:24",
-"also": [],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae75dc9-1793547721.jpg?resize=1920%2C1440",
-"excerpt": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park."
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-20.17.54-1793564385.png?resize=1200%2C675",
+"excerpt": "Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide."
 },
 {
 "id": "3d469caec754f2ad",
@@ -6035,6 +6038,50 @@
 "title": null,
 "items": [
 {
+"id": "b6d8f03e7f4e9e37",
+"title": "Swiss Indoors Basel: Roger Brennwald: «Wir haben noch nie so viel Geld ausgegeben»",
+"url": "https://www.bazonline.ch/swiss-indoors-basel-brennwald-zieht-bilanz-nach-rekordjahr-157772340405",
+"source": "Basler Zeitung",
+"when": "20:46",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/7TnU526Qang8yFym8O6ard.jpg",
+"excerpt": "Knapp 19 Millionen Franken kostete die jüngste Ausgabe des Basler Tennisturniers. Boss Brennwald will künftig sparen."
+},
+{
+"id": "12ef6677282da5f6",
+"title": "Unverständnis und Forderungen – Nach der Krawallnacht in Zürich – so reagiert die Politik",
+"url": "https://www.srf.ch/news/schweiz/unverstaendnis-und-forderungen-nach-der-krawallnacht-in-zuerich-so-reagiert-die-politik",
+"source": "SRF News",
+"when": "19:39",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/0e6a5c.webp",
+"excerpt": "Nach den gewalttätigen Protesten linksextremer Kreise in Zürich reagieren die Parteien mit viel Unverständnis."
+},
+{
+"id": "e2f73ad22406472f",
+"title": "Fussgänger gegen Velo – Luzerner Bahnhofstrasse – Zwist zwischen Velos und Fussgängern",
+"url": "https://www.srf.ch/news/schweiz/fussgaenger-gegen-velo-luzerner-bahnhofstrasse-zwist-zwischen-velos-und-fussgaengern",
+"source": "SRF News",
+"when": "19:26",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/7a1122.webp",
+"excerpt": "Die Bahnhofstrasse in Luzern ist neu autofrei. Jetzt streiten sich Velofahrerinnen und Fussgänger um den Platz."
+},
+{
+"id": "3d06cdee655cb599",
+"title": "St. Gallens Stadtbach – Neuer Anlauf für die alte Idee einer offenen Steinach",
+"url": "https://www.srf.ch/news/schweiz/st-gallens-stadtbach-neuer-anlauf-fuer-die-alte-idee-einer-offenen-steinach",
+"source": "SRF News",
+"when": "19:11",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/4cbf40.webp",
+"excerpt": "Die Steinach verschwand vor über 100 Jahren im Untergrund. Nun soll sie teilweise zurück ans Tageslicht."
+},
+{
 "id": "ed322ef70e4d801b",
 "title": "Kommentar zur Gen-Z-Demo: Krawallparty statt konstruktiver Protest in Basel",
 "url": "https://www.bazonline.ch/basler-krawallnacht-krawall-statt-debatte-214047874880",
@@ -6044,39 +6091,6 @@
 "lang": "de",
 "image": "https://cdn.unitycms.io/images/3tdopDDfq-P8eR4CSoE6RC.jpg",
 "excerpt": "Chaoten provozieren in Basel Ausschreitungen wie in Frankreich. Das schadet den Jungen, die ernsthaft etwas ändern wollen."
-},
-{
-"id": "56e8f4827e03eae3",
-"title": "Eierwürfe und Böller – Halloween hält Polizei in Schweizer Städten auf Trab",
-"url": "https://www.srf.ch/news/schweiz/eierwuerfe-und-boeller-halloween-haelt-polizei-in-schweizer-staedten-auf-trab",
-"source": "SRF News",
-"when": "17:28",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/638e97.webp",
-"excerpt": "Die Einsatzkräfte in mehreren Schweizer Kantonen sind in der Halloween-Nacht auf Trab gehalten worden. Die Übersicht."
-},
-{
-"id": "12ef6677282da5f6",
-"title": "Unverständnis und Forderungen – Nach der Krawallnacht in Zürich – so reagiert die Politik",
-"url": "https://www.srf.ch/news/schweiz/unverstaendnis-und-forderungen-nach-der-krawallnacht-in-zuerich-so-reagiert-die-politik",
-"source": "SRF News",
-"when": "16:55",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/0e6a5c.webp",
-"excerpt": "Nach den gewalttätigen Protesten linksextremer Kreise in Zürich reagieren die Parteien mit viel Unverständnis."
-},
-{
-"id": "61ba6225714e45b3",
-"title": "Schweizer Kleinstädte beleben – Laufenburger Altstadt wurde aufgemöbelt – mit Geld der Stadt",
-"url": "https://www.srf.ch/news/schweiz/schweizer-kleinstaedte-beleben-laufenburger-altstadt-wurde-aufgemoebelt-mit-geld-der-stadt",
-"source": "SRF News",
-"when": "16:29",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/0382b76.webp",
-"excerpt": "Dass eine Kleinstadt 20 Millionen Franken in die Aufwertung der Altstadt investiert, sei unüblich, sagt ein Experte."
 },
 {
 "id": "52f5fc0d084e8c44",
@@ -6090,15 +6104,15 @@
 "excerpt": "Der Mitte-Kandidat setzt sich im zweiten Wahlgang gegen Manuel Kreis von der SP durch. Damit verliert die SP ihre Mehrheit am Basler Appellationsgericht."
 },
 {
-"id": "055a72f8dca46e96",
-"title": "Erinnerung an Schweizerhalle: Unbekannte färben Basler Brunnen 40 Jahre nach Schweizerhalle rot",
-"url": "https://www.bazonline.ch/basler-brunnen-rot-gefaerbt-aktion-zum-schweizerhalle-gedenken-259470948990",
-"source": "Basler Zeitung",
-"when": "12:37",
+"id": "b8c6fefeddc5b62d",
+"title": "MELDUNGEN POLIZEI - In Teilen von Brugg ist zeitweise der Strom ausgefallen",
+"url": "https://www.nzz.ch/zuerich/diebe-bestehlen-konzertbesucher-im-hallenstadion-und-werden-verhaftet-ld.10041727",
+"source": "NZZ",
+"when": "21:31",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/Bo8hgY4Kq7j8vjbtDMpsVu.jpg",
-"excerpt": "Die Aktion soll an den Chemiebrand erinnern, bei dem giftiges Löschwasser in den Rhein gelangte."
+"image": "https://img-msp-prod.nzz.ch/2026/10/22/5f3eb940-ea36-4211-869f-d6babadd1ded.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
+"excerpt": "Die neuesten Polizeimeldungen aus der Schweiz."
 },
 {
 "id": "16765971434a9389",
@@ -6110,17 +6124,6 @@
 "lang": "de",
 "image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
 "excerpt": ""
-},
-{
-"id": "77e9d15aa501db04",
-"title": "Der ungesetzte Valentin Vacherot gewinnt die Swiss Indoors in Basel",
-"url": "https://www.nzz.ch/sport/tennis/der-ungesetzte-valentin-vacherot-gewinnt-die-swiss-indoors-in-basel-ld.10051174",
-"source": "NZZ",
-"when": "17:50",
-"also": [],
-"lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/11/01/11861fdf-9317-4f64-bf9b-7030b737d204.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2288,2288,x576,y0",
-"excerpt": "Vacherot besiegt im Final den Tschechen Jiri Lehecka mit 2:6, 6:3, 6:3. Er ist der erste Monegasse, der in Basel triumphiert."
 },
 {
 "id": "3269bdc93f54c9f4",
@@ -6147,7 +6150,7 @@
 ]
 }
 ],
-"lead": "ed322ef70e4d801b"
+"lead": "b6d8f03e7f4e9e37"
 },
 {
 "id": "sport",
@@ -6159,6 +6162,17 @@
 "id": "cycling",
 "title": "Cycling",
 "items": [
+{
+"id": "43e49a8f8b71b9f0",
+"title": "Matt Beers defends Gravel Burn title as Nele Laing led from start to finish across South Africa’s Great Karoo",
+"url": "https://www.cyclingnews.com/pro-cycling/racing/gravel-burn-matt-beers-defends-title-as-nele-laing-led-from-start-to-finish-across-south-africas-great-karoo/",
+"source": "Cyclingnews",
+"when": "19:24",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/fh5p47sp6i2y4SKptzjY36-1920-80.jpg",
+"excerpt": "American Griffin Easter won penultimate stage of gravel stage race"
+},
 {
 "id": "6f0180123cf06222",
 "title": "South Africa’s Lisa Bone makes the leap to the WorldTour with EF Education-Oatly",
@@ -6180,17 +6194,6 @@
 "lang": "en",
 "image": "https://cdn.mos.cms.futurecdn.net/aFmH7vYNKbBXnEMHHAco3M-1920-80.jpg",
 "excerpt": "Emile Perreault is second and Alexander Woodford is third in Oro-Medonte, Ontario"
-},
-{
-"id": "ae1f32ddd0284124",
-"title": "X2O Trofee Oudenaarde: Thibau Nys wins Koppenbergcross after heated battle with Michael Vanthourenhout",
-"url": "https://www.cyclingnews.com/pro-cycling/racing/x2o-trofee-oudenaarde-thibau-nys-wins-koppenbergcross-after-heated-battle-with-michael-vanthourenhout/",
-"source": "Cyclingnews",
-"when": "16:26",
-"also": [],
-"lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/Pd98iHBhwsmxuELze6DLbC-1920-80.jpg",
-"excerpt": "Belgian champion overcomes two crashes and 30-second deficit to third victory"
 },
 {
 "id": "5e0af66da494e82d",
@@ -6243,48 +6246,59 @@
 "title": "Teams",
 "items": [
 {
-"id": "ddaa1115367bab64",
-"title": "Därför firade inte Rydström målen mot MFF: ”Hade en otrolig tid här”",
-"url": "https://www.sydsvenskan.se/sport/rydstrom-fick-fira-seger-i-malmo-otroligt-haftigt/",
+"id": "53f74b47f2f5060a",
+"title": "Red Sox exercise club option on reliever Whitlock",
+"url": "https://www.mlb.com/redsox/news/garrett-whitlock-red-sox-pick-up-team-option",
+"source": "MLB.com",
+"when": "21:22",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/ohtbzsypokq141tixg7b.jpg",
+"excerpt": ""
+},
+{
+"id": "9b4222fb7c265ce9",
+"title": "Inactives Analysis: Carlton Davis III returns, A.J. Brown and TreVeyon Henderson inactive for Week 8 vs. Dolphins",
+"url": "https://www.patriots.com/news/inactives-analysis-carlton-davis-iii-returns-a-j-brown-and-treveyon-henderson-inactive-for-week-8-vs-dolphins",
+"source": "Patriots.com",
+"when": "20:55",
+"also": [],
+"lang": "en",
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/mk5turbxoxa9k6sglasa.png",
+"excerpt": "With the Patriots offense shorthanded, CB Carlton Davis III (neck) is officially active for Sunday's game in Miami."
+},
+{
+"id": "d2e377cfe853d38d",
+"title": "MFF-backen ångerfull – bad om ursäkt: ”Jag var stressad”",
+"url": "https://www.sydsvenskan.se/sport/mff-backen-angerfull-bad-om-ursakt-jag-var-stressad/",
 "source": "Sydsvenskan",
-"when": "17:54",
+"when": "20:00",
 "also": [],
 "lang": "sv",
-"image": "https://static.bonniernews.se/ba/9f2dd8aa-e2e0-467c-a08e-59238e0f864e.jpeg?crop=4664%2C2624%2Cx2087%2Cy1492&width=1200&format=pjpg&auto=avif",
-"excerpt": "Men efter 2–1-segern släppte Hammarby-tränaren loss."
+"image": "https://static.bonniernews.se/ba/889fbd18-2cc4-4f29-b20e-29d298b3ee74.jpeg?crop=3200%2C1800%2Cx0%2Cy0&width=1200&format=pjpg&auto=avif",
+"excerpt": "Helstrup irriterad över ett odisciplinerat MFF."
 },
 {
-"id": "3f3533fb2bf74016",
-"title": "Roster Analysis: Patriots downgrade WR A.J. Brown, RB TreVeyon Henderson to out for Week 8 vs. Dolphins",
-"url": "https://www.patriots.com/news/roster-analysis-patriots-downgrade-wr-a-j-brown-rb-treveyon-henderson-to-out-for-week-8-vs-dolphins",
-"source": "Patriots.com",
-"when": "16:27",
-"also": [],
-"lang": "en",
-"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ilenzcrnn0nhw7err9br.png",
-"excerpt": ""
-},
-{
-"id": "e89ad629c3b0bf29",
-"title": "Durbin, Rafaela, Abreu nominated for Gold Glove Awards",
-"url": "https://www.mlb.com/redsox/news/2026-gold-glove-award-finalists",
-"source": "MLB.com",
-"when": "05:00",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/wfbuwgporg32wfwjttw8.jpg",
-"excerpt": ""
-},
-{
-"id": "e10e6663ecec4b0b",
-"title": "Huskies Open 2026-27 On Monday Night In Hartford",
-"url": "https://uconnhuskies.com/news/2026/10/31/huskies-open-2026-27-on-monday-night-in-hartford",
+"id": "0f5a5e666ecc2018",
+"title": "UConn MBB Announces 2026-27 Promotional Schedule",
+"url": "https://uconnhuskies.com/news/2026/11/1/mens-basketball-uconn-mbb-announces-2026-27-promotional-schedule",
 "source": "UConn Huskies",
-"when": "Sat 19:44",
+"when": "19:30",
 "also": [],
 "lang": "en",
-"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/31/UCA_1048.JPG",
-"excerpt": ""
+"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/1/10272026UCONNMBBvPURDUE020.jpg",
+"excerpt": "STORRS – The UConn men's basketball team has announced the promotion schedule for the upcoming 2026-27 season."
+},
+{
+"id": "0475299ed963ca22",
+"title": "2:1-Heimsieg in der 12. Runde – Passives Lugano feiert knappen Sieg über Basel und distanziert YB",
+"url": "https://www.srf.ch/sport/fussball/super-league/2-1-heimsieg-in-der-12-runde-passives-lugano-feiert-knappen-sieg-ueber-basel-und-distanziert-yb",
+"source": "SRF Sport",
+"when": "18:41",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/1a7749.webp",
+"excerpt": "Gegen einen kriselnden FCB muss Lugano keine Topleistung abrufen, um in der 12. Super-League-Runde 3 Punkte einzufahren."
 },
 {
 "id": "7cbb557fe5003cc1",
@@ -6296,17 +6310,6 @@
 "lang": "sv",
 "image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4aa5b1/globalassets/svff/bilderblock/2610/wiltonwesterlund.jpg",
 "excerpt": ""
-},
-{
-"id": "cdbf6d005f45161c",
-"title": "2:1-Sieg über FCZ Frauen – Umstrittenes Tor hilft dem FCB aus dem Tief",
-"url": "https://www.srf.ch/sport/fussball/women-s-super-league/2-1-sieg-ueber-fcz-frauen-umstrittenes-tor-hilft-dem-fcb-aus-dem-tief",
-"source": "SRF Sport",
-"when": "Fri 21:47",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/5df24e.webp",
-"excerpt": "Die Frauen des FC Basel gewinnen in der Women's Super League gegen Zürich mit 2:1."
 }
 ]
 },
@@ -6321,18 +6324,29 @@
 "items": []
 }
 ],
-"lead": "6f0180123cf06222"
+"lead": "43e49a8f8b71b9f0"
 },
 {
 "id": "chess",
 "title": "Chess",
-"count": 7,
+"count": 6,
 "thin": false,
 "groups": [
 {
 "id": "chess",
 "title": null,
 "items": [
+{
+"id": "7ef169afb96fafbd",
+"title": "Vasily Panov: An influential theoretician with a dark side",
+"url": "https://en.chessbase.com/post/vasily-panov-influential-theoretician-dark-side",
+"source": "ChessBase",
+"when": "19:15",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133016_l200",
+"excerpt": ""
+},
 {
 "id": "7f73550b7cfe67f7",
 "title": "KazChess Masters Almaty 2026 - Live!",
@@ -6356,17 +6370,6 @@
 "excerpt": ""
 },
 {
-"id": "04c7584790f0127e",
-"title": "Review: Libiszewski's Chigorin Defence – Calculated Risk against 1.d4 d5 2.c4",
-"url": "https://en.chessbase.com/post/review-libiszewski-s-chigorin-defence-calculated-risk-against-1-d4-d5-2-c4",
-"source": "ChessBase",
-"when": "08:00",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/132991_l200",
-"excerpt": ""
-},
-{
 "id": "2f33bc3eb6112a34",
 "title": "November FIDE Rating List: Nihal Enters Top 20, Sindarov Leads Gukesh By 72 Points",
 "url": "https://www.chess.com/news/view/november-2026-fide-rating-list",
@@ -6375,28 +6378,6 @@
 "also": [],
 "lang": "en",
 "image": "https://images.chesscomfiles.com/uploads/v1/news/2255337.47796c46.5000x5000o.b60c7c94240f.png",
-"excerpt": ""
-},
-{
-"id": "483504ab17eb776e",
-"title": "FIDE World U7-U17 Rapid and Blitz Championships 2026 Egypt: Registration deadline extended",
-"url": "https://www.fide.com/fide-world-u7-u17-rapid-and-blitz-championships-2026-egypt-registration-deadline-extended/",
-"source": "FIDE",
-"when": "Fri 19:54",
-"also": [],
-"lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/U7-U17-R-B.jpg",
-"excerpt": ""
-},
-{
-"id": "fded4c4741bffeac",
-"title": "Firouzja Snaps Nakamura's Streak, Outscores Six Super-GMs",
-"url": "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-oct-31-2026",
-"source": "Chess.com",
-"when": "08:20",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2255651.612c5e1d.5000x5000o.22cda302eb9b.png",
 "excerpt": ""
 },
 {
@@ -6409,11 +6390,22 @@
 "lang": "en",
 "image": "https://images.chesscomfiles.com/uploads/v1/news/2255037.79b60a62.5000x5000o.712fb669e5ce.png",
 "excerpt": ""
+},
+{
+"id": "fded4c4741bffeac",
+"title": "Firouzja Snaps Nakamura's Streak, Outscores Six Super-GMs",
+"url": "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-oct-31-2026",
+"source": "Chess.com",
+"when": "08:20",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2255651.612c5e1d.5000x5000o.22cda302eb9b.png",
+"excerpt": ""
 }
 ]
 }
 ],
-"lead": "7f73550b7cfe67f7"
+"lead": "7ef169afb96fafbd"
 },
 {
 "id": "ai",
@@ -6470,6 +6462,17 @@
 "excerpt": ""
 },
 {
+"id": "3593462939d7e979",
+"title": "Quoting Kyle Kingsbury",
+"url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+"source": "Simon Willison",
+"when": "17:49",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
+},
+{
 "id": "95e2101c5a46a2d1",
 "title": "Waniwani’s CEO on the agentic future of insurance distribution",
 "url": "https://www.mckinsey.com/industries/financial-services/our-insights/waniwanis-ceo-on-the-agentic-future-of-insurance-distribution",
@@ -6492,17 +6495,6 @@
 "excerpt": ""
 },
 {
-"id": "50606303c4ac1df0",
-"title": "Quoting Ben Hylak",
-"url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
-"source": "Simon Willison",
-"when": "Thu 15:06",
-"also": [],
-"lang": "en",
-"image": null,
-"excerpt": ""
-},
-{
 "id": "b2d7a67076b9f02b",
 "title": "We urgently need to monitor AI agents’ actions in real time",
 "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
@@ -6521,24 +6513,13 @@
 {
 "id": "rd",
 "title": "R&D",
-"count": 5,
+"count": 4,
 "thin": false,
 "groups": [
 {
 "id": "rd",
 "title": null,
 "items": [
-{
-"id": "8b90e240b49da06f",
-"title": "FDA Approves First Plasmid DNA-based Immunotherapy for Adults with Recurrent Respiratory Papillomatosis",
-"url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
-"source": "FDA",
-"when": "Fri 21:32",
-"also": [],
-"lang": "en",
-"image": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-"excerpt": ""
-},
 {
 "id": "b06b214f88206759",
 "title": "Anthropic’s one-person biotech buy; Jake Van Naarden’s dealmaking strategy; and more",
@@ -6586,7 +6567,7 @@
 ]
 }
 ],
-"lead": "8b90e240b49da06f"
+"lead": "b06b214f88206759"
 }
 ],
 "weather": {
@@ -6605,8 +6586,8 @@
 "uv": 3,
 "sunrise": "07:13",
 "sunset": "17:12",
-"bar_l": 6,
-"bar_w": 56
+"bar_l": 11,
+"bar_w": 47
 },
 "slots": [
 {
@@ -6646,8 +6627,8 @@
 "uv": 3,
 "sunrise": "07:13",
 "sunset": "17:12",
-"bar_l": 6,
-"bar_w": 56
+"bar_l": 11,
+"bar_w": 47
 },
 {
 "date": "2026-11-02",
@@ -6655,8 +6636,8 @@
 "dm": "02.11.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 8,
-"lo": 1,
+"hi": 9,
+"lo": 0,
 "rain_mm": 0,
 "rain_pct": 0,
 "wind": 11,
@@ -6664,24 +6645,24 @@
 "sunrise": "07:14",
 "sunset": "17:10",
 "bar_l": 0,
-"bar_w": 44
+"bar_w": 47
 },
 {
 "date": "2026-11-03",
 "dow": "Tue",
 "dm": "03.11.",
-"label": "Overcast",
-"icon": "☁️",
-"hi": 8,
-"lo": 3,
+"label": "Fog",
+"icon": "🌫️",
+"hi": 9,
+"lo": 2,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 10,
+"wind": 11,
 "uv": 2,
 "sunrise": "07:16",
 "sunset": "17:09",
-"bar_l": 12,
-"bar_w": 31
+"bar_l": 11,
+"bar_w": 37
 },
 {
 "date": "2026-11-04",
@@ -6697,8 +6678,8 @@
 "uv": 1,
 "sunrise": "07:17",
 "sunset": "17:07",
-"bar_l": 19,
-"bar_w": 31
+"bar_l": 21,
+"bar_w": 26
 },
 {
 "date": "2026-11-05",
@@ -6709,13 +6690,13 @@
 "hi": 10,
 "lo": 2,
 "rain_mm": 0,
-"rain_pct": 2,
+"rain_pct": 3,
 "wind": 8,
 "uv": 2,
 "sunrise": "07:19",
 "sunset": "17:06",
-"bar_l": 6,
-"bar_w": 50
+"bar_l": 11,
+"bar_w": 42
 },
 {
 "date": "2026-11-06",
@@ -6731,8 +6712,8 @@
 "uv": 2,
 "sunrise": "07:20",
 "sunset": "17:05",
-"bar_l": 6,
-"bar_w": 50
+"bar_l": 11,
+"bar_w": 42
 },
 {
 "date": "2026-11-07",
@@ -6745,11 +6726,11 @@
 "rain_mm": 0,
 "rain_pct": 12,
 "wind": 6,
-"uv": 2,
+"uv": 1,
 "sunrise": "07:22",
 "sunset": "17:03",
-"bar_l": 6,
-"bar_w": 56
+"bar_l": 11,
+"bar_w": 47
 },
 {
 "date": "2026-11-08",
@@ -6759,52 +6740,52 @@
 "icon": "🌦️",
 "hi": 11,
 "lo": 4,
-"rain_mm": 10.9,
+"rain_mm": 11.5,
 "rain_pct": 19,
 "wind": 11,
 "uv": 2,
 "sunrise": "07:23",
 "sunset": "17:02",
-"bar_l": 19,
-"bar_w": 44
+"bar_l": 21,
+"bar_w": 37
 },
 {
 "date": "2026-11-09",
 "dow": "Mon",
 "dm": "09.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 11,
-"lo": 2,
-"rain_mm": 6.2,
+"label": "Rain",
+"icon": "🌧️",
+"hi": 10,
+"lo": 8,
+"rain_mm": 33.7,
 "rain_pct": 31,
-"wind": 10,
-"uv": 0,
+"wind": 5,
+"uv": 2,
 "sunrise": "07:25",
 "sunset": "17:00",
-"bar_l": 6,
-"bar_w": 56
+"bar_l": 42,
+"bar_w": 11
 },
 {
 "date": "2026-11-10",
 "dow": "Tue",
 "dm": "10.11.",
-"label": "Light showers",
+"label": "Light drizzle",
 "icon": "🌦️",
-"hi": 17,
+"hi": 19,
 "lo": 8,
-"rain_mm": 25.6,
+"rain_mm": 2.0,
 "rain_pct": 39,
-"wind": 10,
+"wind": 9,
 "uv": 0,
 "sunrise": "07:26",
 "sunset": "16:59",
-"bar_l": 44,
-"bar_w": 56
+"bar_l": 42,
+"bar_w": 58
 }
 ],
-"lo": 1,
-"hi": 17
+"lo": 0,
+"hi": 19
 }
 }
 }
