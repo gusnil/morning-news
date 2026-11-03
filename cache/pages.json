@@ -5824,8 +5824,8 @@
 },
 "2026-11-03": {
 "date": "2026-11-03",
-"built_at": "2026-11-02T23:40:26.395877+00:00",
-"built_local": "00:40",
+"built_at": "2026-11-03T06:43:52.880429+00:00",
+"built_local": "07:43",
 "edition": "Morning",
 "feeds_ok": 55,
 "feeds_total": 55,
@@ -5841,46 +5841,47 @@
 "title": null,
 "items": [
 {
-"id": "91964dd05c500d77",
-"title": "US to drop South Africa, Rwanda from duty-free trade initiative",
-"url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf",
-"source": "DW",
-"when": "Mon 22:40",
+"id": "26c4b55504890834",
+"title": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
+"url": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks",
+"source": "France 24",
+"when": "03:28",
 "also": [
 "Al Jazeera",
-"Africanews",
-"BBC World"
+"The Hindu",
+"SCMP"
 ],
 "lang": "en",
-"image": "https://static.dw.com/image/73497516_6.jpg",
+"image": "https://s.france24.com/media/display/3748a8b2-a186-11f1-a403-005056bfb2b6/w:1024/p:16x9/AP26225375678305.jpg",
 "excerpt": ""
 },
 {
-"id": "954df39857d65973",
-"title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
-"url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf",
-"source": "DW",
-"when": "00:18",
+"id": "85c229228708c80b",
+"title": "Russian strikes kill at least 26 in Ukraine after war's longest ceasefire ends",
+"url": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
+"source": "France 24",
+"when": "02:18",
 "also": [
 "Al Jazeera",
-"SCMP"
+"DW"
 ],
 "lang": "en",
-"image": "https://static.dw.com/image/79833931_6.jpg",
-"excerpt": "The Trump administration had appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens."
+"image": "https://s.france24.com/media/display/77d61602-d701-11f1-8594-d18c5759e759/w:1024/p:16x9/c83c0482d49f8575fc0b65f32d551aa79b4d413b.jpg",
+"excerpt": ""
 },
 {
-"id": "f812ab9e04e4076f",
-"title": "Trump approval rating near record low on eve of US midterm elections: Poll",
-"url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+"id": "c853c7dc7b743bdd",
+"title": "Russian bombing of Ukrainian aid centre kills 26 people",
+"url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
 "source": "Al Jazeera",
-"when": "00:05",
+"when": "Mon 19:23",
 "also": [
+"BBC World",
 "SCMP"
 ],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae9074a7e41-1793656650.jpg?resize=1920%2C1440",
-"excerpt": "Only 32 percent of voters approve of Trump's job performance in the latest Reuters/Ipsos poll."
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26295629644025-1793644448.jpg?resize=1920%2C1440",
+"excerpt": "Ukraine's president calls attack further proof that Russia does not want any ‌kind of de-escalation or real justice."
 },
 {
 "id": "b49aed18c8199623",
@@ -5896,45 +5897,6 @@
 "excerpt": ""
 },
 {
-"id": "c853c7dc7b743bdd",
-"title": "Russian bombing of Ukrainian aid centre kills 26 people",
-"url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Mon 19:23",
-"also": [
-"BBC World"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26295629644025-1793644448.jpg?resize=1920%2C1440",
-"excerpt": "Ukraine's president calls attack further proof that Russia does not want any ‌kind of de-escalation or real justice."
-},
-{
-"id": "477f1b84e31ae811",
-"title": "Israel’s first ambassador presents credentials in Somaliland",
-"url": "http://www.africanews.com/2026/11/02/israels-first-ambassador-presents-credentials-in-somaliland/",
-"source": "Africanews",
-"when": "Mon 15:57",
-"also": [
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/97/60/70/640x360_cmsv2_687a5a16-05a9-59ad-86c3-ac58a05829c9-9976070.jpg?1793608769",
-"excerpt": ""
-},
-{
-"id": "da80c611a80b60a6",
-"title": "Senegal prepares to open 2026 Youth Olympic Games in Dakar",
-"url": "http://www.africanews.com/2026/10/31/senegal-prepares-to-open-2026-youth-olympic-games-in-dakar/",
-"source": "Africanews",
-"when": "Mon 14:54",
-"also": [
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/97/47/91/640x360_cmsv2_b5bf28f8-3261-5b1a-9673-ee396532ec1b-9974791.jpg?1793442031",
-"excerpt": "About 2,700 young athletes aged 14 to 17 will compete through Nov. 13 in the capital, Dakar, the nearby city of Diamniadio and the beach resort of Saly"
-},
-{
 "id": "b5b222d10c64cdc9",
 "title": "Iran says considering two-day plan to reopen Hormuz",
 "url": "https://www.thehindu.com/news/international/iran-says-considering-two-day-plan-to-reopen-hormuz/article71656060.ece",
@@ -5948,19 +5910,52 @@
 "excerpt": "“The possibility of implementing this plan in two days is another indication of Iran's good-faith approach,” Foreign Ministry spokesperson Esmaeil Baqaei said"
 },
 {
+"id": "e8db2ac8a21d9d7e",
+"title": "Cyber attacks hit Russia, Ukraine after truce ends",
+"url": "https://www.thehindu.com/news/international/cyber-attacks-hit-russia-ukraine-after-truce-ends/article71655174.ece",
+"source": "The Hindu",
+"when": "Mon 03:22",
+"also": [
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/l0i7u8/article71655181.ece/alternates/LANDSCAPE_1200/APTOPIX_Russia_Ukraine_War_9_794.jpg",
+"excerpt": ""
+},
+{
 "id": "30998679e5ea4d11",
 "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
 "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
 "source": "Al Jazeera",
 "when": "Sun 19:58",
 "also": [
-"DW",
-"BBC World",
-"SCMP"
+"BBC World"
 ],
 "lang": "en",
 "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae780295f69-1793556521.jpg?resize=1920%2C1440",
 "excerpt": "No arrests made after several security officers were reportedly injured during incidents at Saturday's protests."
+},
+{
+"id": "005e5097b9f950f2",
+"title": "Displaced Ethiopians await registration in Kenya after fleeing clashes",
+"url": "http://www.africanews.com/2026/11/03/displaced-ethiopians-await-registration-in-kenya-after-fleeing-clashes/",
+"source": "Africanews",
+"when": "06:57",
+"also": [],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/97/70/16/640x360_cmsv2_81cc0237-9f0a-521c-a044-16882b5c6b34-9977016.jpg?1793640868",
+"excerpt": ""
+},
+{
+"id": "93b31ad28d60eab2",
+"title": "How a Harvard dream ended in tragedy for a Pakistani family",
+"url": "https://www.aljazeera.com/features/2026/11/3/how-a-harvard-dream-ended-in-tragedy-for-a-pakistani-family?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "06:51",
+"also": [],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/25858a7b-306b-49f4-adad-d63ad8c6681a-1793621607.jpg?resize=1200%2C630",
+"excerpt": "A 24-year-old physics graduate dies after her family pays millions to a man who lied about getting her into university."
 },
 {
 "id": "62c84e72819cca8c",
@@ -5976,7 +5971,7 @@
 ]
 }
 ],
-"lead": "91964dd05c500d77"
+"lead": "26c4b55504890834"
 },
 {
 "id": "basel",
@@ -5989,37 +5984,92 @@
 "title": null,
 "items": [
 {
-"id": "ec69a43c452d9b3a",
-"title": "Kritischer Aufsichtsbericht – Finanzkontrolle kritisiert harzende Planung bei VBS-Immobilien",
-"url": "https://www.srf.ch/news/schweiz/kritischer-aufsichtsbericht-finanzkontrolle-kritisiert-harzende-planung-bei-vbs-immobilien",
+"id": "8a6167b628ea0559",
+"title": "Expertin gibt Rat – Jobkiller KI: So treten Sie der Angst entgegen",
+"url": "https://www.srf.ch/news/schweiz/expertin-gibt-rat-jobkiller-ki-so-treten-sie-der-angst-entgegen",
+"source": "SRF News",
+"when": "07:18",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/ae6097.webp",
+"excerpt": "Die KI ist gekommen, um zu bleiben. Der Rat der Expertin: mitgestalten, weiterbilden und sich auf den Wandel einlassen."
+},
+{
+"id": "7adf68da24ae7764",
+"title": "«The Voice of Germany»-Kandidat aus Oberdorf: Vor den Blindauditions hat Janis 40 Kilos verloren",
+"url": "https://www.bazonline.ch/janis-thommen-40-kilo-abgenommen-fuer-the-voice-of-germany-111171000180",
+"source": "Basler Zeitung",
+"when": "06:41",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/DMOYNFtcqMHAyk1uPnB-YC.jpg",
+"excerpt": "Der 25-jährige Janis Thommen aus Oberdorf hat es am Freitag als zweiter Schweizer Kandidat in die Teamfights von «The Voice of Germany» geschafft."
+},
+{
+"id": "9dcd60be6180f223",
+"title": "Kriminalität auf dem Pausenplatz: Kindern wird das Velo gestohlen, doch die Behörden bremsen Schulen bei Video­überwachung aus",
+"url": "https://www.bazonline.ch/schulen-baselland-kanton-blockiert-videoueberwachung-476944818519",
+"source": "Basler Zeitung",
+"when": "06:28",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/6BMiR4aXquZ9PFt3QDFGEp.jpg",
+"excerpt": ""
+},
+{
+"id": "6c70913aa1264351",
+"title": "Steigender Konsum – Snus-Boom: Politik übernimmt umstrittene Argumente der Tabaklobby",
+"url": "https://www.srf.ch/news/schweiz/steigender-konsum-snus-boom-politik-uebernimmt-umstrittene-argumente-der-tabaklobby",
+"source": "SRF News",
+"when": "06:05",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/b35ba7.webp",
+"excerpt": "Dank Snus weniger Raucher, so die Tabaklobby. Politiker übernehmen diese Argumentation, die Wissenschaft zweifelt."
+},
+{
+"id": "bfe78d2fd5f9e97a",
+"title": "Kritik an Bürgerspital-Leitung",
+"url": "https://bajour.ch/a/basel-kritik-an-buergerspital-leitung",
+"source": "Bajour",
+"when": "03:31",
+"also": [],
+"lang": "de",
+"image": null,
+"excerpt": "Geschäftsleiter weist Vorwürfe von Spardruck, abgebrochene Wohnprojekte und schlechtes Arbeitsklima zurück."
+},
+{
+"id": "99a41c2352f7277c",
+"title": "Keine Panik wegen Cyberattacken-Welle",
+"url": "https://bajour.ch/a/keine-panik-wegen-cyberattacken-welle",
+"source": "Bajour",
+"when": "02:37",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/IzoWfB2np4oXyQD?quality=80&sig=PSPi37qvOse-QfNKthODnh6M9YxNSB9jih3k66hc2Zp5mCFhmFkYGgDCkUquSzE5vWSU9nq4lYl5qgZ2r8tzCA",
+"excerpt": ""
+},
+{
+"id": "c90589ace7d09d65",
+"title": "Nicolas Walder",
+"url": "https://bajour.ch/a/nicolas-walder",
+"source": "Bajour",
+"when": "02:00",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a19eb8-45f6-7428-a4f4-2a5173dd102b?quality=80&sig=K0lbaw7fRtIdHErH7de4mlUxX7pjZC_J_GVtkIyE2PPtwaNG0yl30b2bYBqOgMt6dTukOxO1b5EDgVDum1LZBw",
+"excerpt": ""
+},
+{
+"id": "eafb3fc51d0a4c18",
+"title": "Kritischer Aufsichtsbericht – Immobilien-Organisation der Armee kann Aufgabe nicht erfüllen",
+"url": "https://www.srf.ch/news/schweiz/kritischer-aufsichtsbericht-immobilien-organisation-der-armee-kann-aufgabe-nicht-erfuellen",
 "source": "SRF News",
 "when": "00:35",
 "also": [],
 "lang": "de",
 "image": "https://www.srf.ch/static/cms/images//320ws/dbd32f.webp",
 "excerpt": "Die Armee will ihren Immobilienbestand ausbauen. Doch die Eidgenössische Finanzkontrolle warnt vor Fehlinvestitionen."
-},
-{
-"id": "d3fa06bd08f8d7fc",
-"title": "Brandkatastrophe Crans-Montana – Jacques Moretti erneut befragt – Opfer und Angehörige angereist",
-"url": "https://www.srf.ch/news/schweiz/brandkatastrophe-crans-montana-jacques-moretti-erneut-befragt-opfer-und-angehoerige-angereist",
-"source": "SRF News",
-"when": "Mon 21:41",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/41a402.webp",
-"excerpt": "«Le Constellation»-Betreiber Jacques Moretti ist neun Stunden lang von der Walliser Staatsanwaltschaft befragt worden."
-},
-{
-"id": "63e04088aded0849",
-"title": "OSZE-Ministerkonferenz – Lugano wird zur Hochsicherheitszone",
-"url": "https://www.srf.ch/news/schweiz/osze-ministerkonferenz-lugano-wird-zur-hochsicherheitszone",
-"source": "SRF News",
-"when": "Mon 20:59",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/a7a22c1.webp",
-"excerpt": "Über 1000 Teilnehmende werden zur OSZE-Konferenz erwartet – eine anspruchsvolle Aufgabe für die Stadt Lugano."
 },
 {
 "id": "75adc276365a9177",
@@ -6033,79 +6083,20 @@
 "excerpt": "Der französische Restaurantführer kürt am Montagabend die besten kulinarischen Adressen des Landes. Das sind die Empfehlungen in der Region Basel."
 },
 {
-"id": "0bcbfa0ce55421b5",
-"title": "Sammelprozess gegen «Saubannerzug»",
-"url": "https://bajour.ch/a/basel-18-prozess-gegen-saubannerzug-vor-appellationsgericht",
-"source": "Bajour",
-"when": "Mon 20:01",
+"id": "82e99a9fb86b2785",
+"title": "Die Golfstaaten bereiten sich auf eine neue Runde des Iran-Kriegs vor",
+"url": "https://www.nzz.ch/international/iran-konflikt-golfstaaten-fuerchten-massive-angriffe-ld.10051182",
+"source": "NZZ",
+"when": "07:20",
 "also": [],
 "lang": "de",
-"image": "https://media-bajour.wepublish.cloud/01a19d86-3257-734c-bdbd-77116286764d?quality=80&sig=143L5rzqxgFcgysIKhjk-9JRXAYfn90LfRU8s25Ng2mFJHAXIbhpsQi-_d_nEQRwHSWiC5Lh3gwgnWFGYDekDQ",
-"excerpt": ""
-},
-{
-"id": "36cb0848abd1e5f7",
-"title": "Gemeindepolizei Allschwil: Anwohnerparkkarte 2027 muss neu beantragt werden",
-"url": "https://www.bazonline.ch/allschwil-anwohnerparkkarte-2027-neu-beantragen-819389705369",
-"source": "Basler Zeitung",
-"when": "Mon 19:29",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": ""
-},
-{
-"id": "a977cf72a94a2a35",
-"title": "Nach Hausbesetzung: Zack-Aktivisten errichten in einer Nacht- und-Nebel-Aktion eine Hütte im Klybeck",
-"url": "https://www.bazonline.ch/zack-besetzt-swiss-life-areal-in-basel-erneut-202638666194",
-"source": "Basler Zeitung",
-"when": "Mon 18:42",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/2vul8Gm6qN48SEQPDPRH-i.jpg",
-"excerpt": ""
-},
-{
-"id": "2f46c6b20132c3be",
-"title": "Basler Verwaltung verfehlt Klima-Zwischenziel",
-"url": "https://bajour.ch/a/basler-verwaltung-verfehlt-klima-zwischenziel",
-"source": "Bajour",
-"when": "Mon 10:54",
-"also": [
-"OnlineReports"
-],
-"lang": "de",
-"image": "https://media-bajour.wepublish.cloud/01a19bac-74bb-7107-bef3-79d48a2d4b9c?resize=%7B%22width%22:1200,%22withoutEnlargement%22:true,%22fit%22:%22cover%22,%22position%22:%22top%22%7D&quality=80&sig=EvtzEd-FdKRZP5mxl3JM4vXOr4pQ9lWV9gYZmddFGKefAsjAhBKwsFMUVHfdfb8RvXX3EUkWqNEQI4V4CusPCA",
-"excerpt": "Der Regierungsrat räumt ein, dass die Verwaltung ihr Klima-Zwischenziel verfehlt hat. Am Ziel Netto-Null bis 2030 hält er dennoch fest."
-},
-{
-"id": "26fb5b8089dd5382",
-"title": "Vacherot gewinnt Swiss Indoors",
-"url": "https://bajour.ch/a/vacherot-gewinnt-swiss-indoors",
-"source": "Bajour",
-"when": "Mon 06:00",
-"also": [
-"NZZ"
-],
-"lang": "de",
-"image": null,
-"excerpt": "Der Monegasse bleibt im Einzel-Final siegreich – im Doppel verliert das Schweizer Duo."
-},
-{
-"id": "2ac21f4e642dc2ae",
-"title": "Einladung zur Grabmalprämierung und zur Allerheiligenfeier",
-"url": "https://www.bs.ch/medienmitteilungen/bvd/2026-einladung-zur-grabmalpraemierung-und-zur-allerheiligenfeier",
-"source": "Kanton Basel-Stadt",
-"when": "00:40",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/05435c76a0cc62c80a529ce8b708639537e25662/261026-foto-friedhof-am-hoernli.jpg?h=481317ef&itok=5218Qpqs",
+"image": "https://img-msp-prod.nzz.ch/2026/11/02/a6bedba9-f9f6-4566-a420-035f7486f861.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2339,2339,x1169,y0",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "ec69a43c452d9b3a"
+"lead": "8a6167b628ea0559"
 },
 {
 "id": "sport",
@@ -6151,6 +6142,17 @@
 "excerpt": "Belgian heads from important commitments in California to time off in Japan after lengthy first season with Red Bull"
 },
 {
+"id": "ccd49ed51053610f",
+"title": "German Steel and American Bling: The Custom Sour Purple Haze",
+"url": "https://velo.outsideonline.com/gravel/gravel-gear/sour-bicycles-purple-haze-gravel-bike-check/",
+"source": "Velo",
+"when": "01:38",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/DSC02683.jpg?width=1200",
+"excerpt": ""
+},
+{
 "id": "3a99eead579251c4",
 "title": "‘We have been too ambitious’ - Bianchi fights to survive after years of losses",
 "url": "https://escapecollective.com/bianchi-files-for-restructuring/",
@@ -6171,17 +6173,6 @@
 "lang": "en",
 "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Aero-drybag.jpg?width=1200",
 "excerpt": ""
-},
-{
-"id": "f9cf3e0846447f24",
-"title": "Velo Poll: We Want to Know What You Care About the Most in a Bike Helmet",
-"url": "https://velo.outsideonline.com/road/road-gear/pikio-si-oblik-virginia-tech-helmet-poll/",
-"source": "Velo",
-"when": "Mon 21:22",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Helmet-Poll-header.jpg?width=1200",
-"excerpt": ""
 }
 ]
 },
@@ -6190,15 +6181,37 @@
 "title": "Teams",
 "items": [
 {
-"id": "947f3200f7cb4f22",
-"title": "Tracy an AL Manager of the Year finalist in first season",
-"url": "https://www.mlb.com/redsox/news/2026-bbwaa-awards-finalists",
+"id": "d5da169804f6577a",
+"title": "Watch Red Sox prospects in Arizona Fall League action",
+"url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
 "source": "MLB.com",
-"when": "00:33",
+"when": "07:04",
 "also": [],
 "lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/mokvaaqxpr0vkmuyd8l7.jpg",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
 "excerpt": ""
+},
+{
+"id": "4d7d16f5636a66cc",
+"title": "Hurley Wins 200th As #4 Huskies Cruise In Opener",
+"url": "https://uconnhuskies.com/news/2026/11/3/mens-basketball-hurley-wins-200th-as-4-huskies-cruise-in-opener",
+"source": "UConn Huskies",
+"when": "06:55",
+"also": [],
+"lang": "en",
+"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/3/BRAYLON-2.png",
+"excerpt": ""
+},
+{
+"id": "ab9fe5c2144acca7",
+"title": "MFF-lånet sköt Bois närmare allsvenskan",
+"url": "https://www.sydsvenskan.se/sport/sydsvenskan-sport-direkt-de-senaste-nyheterna/?ifr-dir-postId=35d6f6b1-95d2-43cc-8384-255b00bbc909",
+"source": "Sydsvenskan",
+"when": "06:12",
+"also": [],
+"lang": "sv",
+"image": null,
+"excerpt": "Skåningarna bara en poäng från kvalplats • Glödhett…"
 },
 {
 "id": "f449d4489a279972",
@@ -6220,28 +6233,6 @@
 "also": [],
 "lang": "sv",
 "image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4aa9a5/globalassets/svff/nyhetsblock-start/dam-lottning-nl.jpg",
-"excerpt": ""
-},
-{
-"id": "5fda0d04653408f1",
-"title": "Delat pott mot IFK Norrköping: ”Gynnsam situation”",
-"url": "https://www.mff.se/nyheter/delat-pott-mot-ifk-norrkoping-gynnsam-situation-2026-11-02/",
-"source": "Malmö FF",
-"when": "Mon 20:40",
-"also": [],
-"lang": "sv",
-"image": "https://cdn.mff.se/2026/11/BB261102CO057.jpg",
-"excerpt": "The post Delat pott mot IFK Norrköping: ”Gynnsam situation” appeared first on Malmö FF ."
-},
-{
-"id": "d76339b02776901f",
-"title": "Demary Jr. and Mullins On Naismith POY Watch List",
-"url": "https://uconnhuskies.com/news/2026/11/2/mens-basketball-demary-jr-and-mullins-on-naismith-poy-watch-list",
-"source": "UConn Huskies",
-"when": "Mon 18:01",
-"also": [],
-"lang": "en",
-"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/2/basketball-08.jpg",
 "excerpt": ""
 },
 {
@@ -6292,6 +6283,17 @@
 "excerpt": ""
 },
 {
+"id": "7d611191ed6dbdfb",
+"title": "FIDE ratings - November 2026",
+"url": "https://en.chessbase.com/post/fide-ratings-november-2026",
+"source": "ChessBase",
+"when": "00:50",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133038_l200",
+"excerpt": ""
+},
+{
 "id": "7160fc8015622f17",
 "title": "FIDE World Junior U20 Championship 2026: Registration deadline extended",
 "url": "https://www.fide.com/fide-world-junior-u20-championship-2026-registration-deadline-extended/",
@@ -6322,17 +6324,6 @@
 "also": [],
 "lang": "en",
 "image": "https://en.chessbase.com/thumb/132948_l200",
-"excerpt": ""
-},
-{
-"id": "d4cb6d7bd9fc1d15",
-"title": "Bavarian Championship: Few surprises in the opening rounds at Tegernsee",
-"url": "https://en.chessbase.com/post/tegernsee-open-2026-r2",
-"source": "ChessBase",
-"when": "Mon 07:30",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133029_l200",
 "excerpt": ""
 },
 {
@@ -6395,17 +6386,6 @@
 "excerpt": ""
 },
 {
-"id": "94bdffd71cc1f44c",
-"title": "Raising the quality of insights in agentic analytics",
-"url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-"source": "MIT Technology Review",
-"when": "Mon 18:00",
-"also": [],
-"lang": "en",
-"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png",
-"excerpt": ""
-},
-{
 "id": "b8a04ab397873e2d",
 "title": "Deliberate decisions and enterprise AI value",
 "url": "https://www.databricks.com/blog/deliberate-decisions-and-enterprise-ai-value",
@@ -6417,6 +6397,17 @@
 "excerpt": "AI progress is moving quickly. Expectations are rising, experimentation is spreading..."
 },
 {
+"id": "94bdffd71cc1f44c",
+"title": "Raising the quality of insights in agentic analytics",
+"url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+"source": "MIT Technology Review",
+"when": "Mon 18:00",
+"also": [],
+"lang": "en",
+"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png",
+"excerpt": ""
+},
+{
 "id": "c9c51dfec636c3fc",
 "title": "Lakebase Postgres is now generally available on Google Cloud",
 "url": "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
@@ -6426,17 +6417,6 @@
 "lang": "en",
 "image": "https://www.databricks.com/sites/default/files/blog_images/lakebase-postgres-is-now-generally-available-on-blog-img-og.png",
 "excerpt": ""
-},
-{
-"id": "f096e51c5170e614",
-"title": "How Procore is powering construction analytics with OpenSharing",
-"url": "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
-"source": "Databricks",
-"when": "Thu 01:29",
-"also": [],
-"lang": "en",
-"image": "https://www.databricks.com/sites/default/files/2026-10/Copy-of-Industry-Blog-OG-Images-2.png",
-"excerpt": "Connecting an industry built on disconnected dataConstruction runs on data that rarely sits in one place..."
 },
 {
 "id": "088bffd5e48d6317",
@@ -6461,11 +6441,22 @@
 "excerpt": ""
 },
 {
-"id": "49c889a6253bca2a",
-"title": "datasette-llm 0.1a9",
-"url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+"id": "dda2e1f130f8cd3b",
+"title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+"url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
 "source": "Simon Willison",
-"when": "Sat 23:10",
+"when": "06:32",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
+},
+{
+"id": "213555e7186cc1f3",
+"title": "October sponsors-only newsletter",
+"url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+"source": "Simon Willison",
+"when": "06:28",
 "also": [],
 "lang": "en",
 "image": null,
@@ -6586,23 +6577,23 @@
 "date": "2026-11-03",
 "dow": "Today",
 "dm": "03.11.",
-"label": "Overcast",
-"icon": "☁️",
+"label": "Light rain",
+"icon": "🌦️",
 "hi": 9,
-"lo": 5,
+"lo": 7,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 14,
+"wind": 16,
 "uv": 1,
 "sunrise": "07:16",
 "sunset": "17:09",
-"bar_l": 30,
-"bar_w": 40
+"bar_l": 50,
+"bar_w": 17
 },
 "slots": [
 {
 "name": "Morning",
-"temp": 5,
+"temp": 7,
 "icon": "☁️",
 "label": "Overcast",
 "rain_pct": 0
@@ -6627,18 +6618,18 @@
 "date": "2026-11-03",
 "dow": "Today",
 "dm": "03.11.",
-"label": "Overcast",
-"icon": "☁️",
+"label": "Light rain",
+"icon": "🌦️",
 "hi": 9,
-"lo": 5,
+"lo": 7,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 14,
+"wind": 16,
 "uv": 1,
 "sunrise": "07:16",
 "sunset": "17:09",
-"bar_l": 30,
-"bar_w": 40
+"bar_l": 50,
+"bar_w": 17
 },
 {
 "date": "2026-11-04",
@@ -6654,8 +6645,8 @@
 "uv": 2,
 "sunrise": "07:17",
 "sunset": "17:07",
-"bar_l": 30,
-"bar_w": 50
+"bar_l": 33,
+"bar_w": 42
 },
 {
 "date": "2026-11-05",
@@ -6664,15 +6655,15 @@
 "label": "Overcast",
 "icon": "☁️",
 "hi": 12,
-"lo": 2,
+"lo": 3,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 7,
+"wind": 8,
 "uv": 2,
 "sunrise": "07:19",
 "sunset": "17:06",
-"bar_l": 0,
-"bar_w": 100
+"bar_l": 17,
+"bar_w": 75
 },
 {
 "date": "2026-11-06",
@@ -6683,13 +6674,13 @@
 "hi": 8,
 "lo": 2,
 "rain_mm": 0,
-"rain_pct": 15,
+"rain_pct": 16,
 "wind": 4,
 "uv": 2,
 "sunrise": "07:20",
 "sunset": "17:05",
-"bar_l": 0,
-"bar_w": 60
+"bar_l": 8,
+"bar_w": 50
 },
 {
 "date": "2026-11-07",
@@ -6697,67 +6688,67 @@
 "dm": "07.11.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 10,
+"hi": 11,
 "lo": 3,
 "rain_mm": 0,
-"rain_pct": 12,
+"rain_pct": 16,
 "wind": 4,
-"uv": 2,
+"uv": 1,
 "sunrise": "07:22",
 "sunset": "17:03",
-"bar_l": 10,
-"bar_w": 70
+"bar_l": 17,
+"bar_w": 67
 },
 {
 "date": "2026-11-08",
 "dow": "Sun",
 "dm": "08.11.",
-"label": "Rain",
-"icon": "🌧️",
-"hi": 11,
-"lo": 2,
-"rain_mm": 12.1,
-"rain_pct": 23,
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 10,
+"lo": 1,
+"rain_mm": 0.7,
+"rain_pct": 26,
 "wind": 8,
 "uv": 2,
 "sunrise": "07:23",
 "sunset": "17:02",
 "bar_l": 0,
-"bar_w": 90
+"bar_w": 75
 },
 {
 "date": "2026-11-09",
 "dow": "Mon",
 "dm": "09.11.",
-"label": "Light showers",
+"label": "Light rain",
 "icon": "🌦️",
-"hi": 12,
+"hi": 13,
 "lo": 8,
-"rain_mm": 27.1,
-"rain_pct": 52,
-"wind": 9,
-"uv": 0,
+"rain_mm": 10.8,
+"rain_pct": 57,
+"wind": 10,
+"uv": 1,
 "sunrise": "07:25",
 "sunset": "17:00",
-"bar_l": 60,
-"bar_w": 40
+"bar_l": 58,
+"bar_w": 42
 },
 {
 "date": "2026-11-10",
 "dow": "Tue",
 "dm": "10.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 10,
+"label": "Rain",
+"icon": "🌧️",
+"hi": 12,
 "lo": 5,
-"rain_mm": 2.1,
-"rain_pct": 42,
+"rain_mm": 12.2,
+"rain_pct": 66,
 "wind": 7,
 "uv": 1,
 "sunrise": "07:26",
 "sunset": "16:59",
-"bar_l": 30,
-"bar_w": 50
+"bar_l": 33,
+"bar_w": 58
 },
 {
 "date": "2026-11-11",
@@ -6770,11 +6761,11 @@
 "rain_mm": 8.8,
 "rain_pct": 37,
 "wind": 13,
-"uv": 2,
+"uv": 0,
 "sunrise": "07:28",
 "sunset": "16:58",
-"bar_l": 30,
-"bar_w": 30
+"bar_l": 33,
+"bar_w": 25
 },
 {
 "date": "2026-11-12",
@@ -6790,12 +6781,12 @@
 "uv": 2,
 "sunrise": "07:29",
 "sunset": "16:57",
-"bar_l": 20,
-"bar_w": 70
+"bar_l": 25,
+"bar_w": 58
 }
 ],
-"lo": 2,
-"hi": 12
+"lo": 1,
+"hi": 13
 }
 }
 }
