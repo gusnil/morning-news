@@ -5824,8 +5824,8 @@
 },
 "2026-11-03": {
 "date": "2026-11-03",
-"built_at": "2026-11-03T18:02:27.069109+00:00",
-"built_local": "19:02",
+"built_at": "2026-11-03T21:58:16.094463+00:00",
+"built_local": "22:58",
 "edition": "Evening",
 "feeds_ok": 55,
 "feeds_total": 55,
@@ -5871,16 +5871,16 @@
 "excerpt": ""
 },
 {
-"id": "8d516f40e9878563",
-"title": "Americans vote in key midterms set to upend Trump presidency",
-"url": "https://www.france24.com/en/video/20261103-americans-vote-in-key-midterms-set-to-upend-trump-presidency",
-"source": "France 24",
-"when": "15:18",
+"id": "78abbb6cfe819cd1",
+"title": "King Charles addresses 'monstrous injustice' of slavery as UK PM mulls apology",
+"url": "http://www.africanews.com/2026/11/03/king-charles-addresses-monstrous-injustice-of-slavery-as-uk-pm-mulls-apology/",
+"source": "Africanews",
+"when": "21:17",
 "also": [
-"Africanews"
+"SCMP"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/0961fbc0-d790-11f1-8ddc-bf1914cabd52/w:1024/p:16x9/EN-20261103-140150-140543-CS.jpg",
+"image": "https://images.euronews.com/articles/stories/09/97/87/45/640x360_cmsv2_9e48a909-4b4a-5877-b8db-5c3e8eb43d28-9978745.jpg?1793727811",
 "excerpt": ""
 },
 {
@@ -5963,15 +5963,15 @@
 "excerpt": "The United Nations's peacekeeping mission in Western Sahara ceased operations on Sunday, after the Security Council failed to extend its mandate."
 },
 {
-"id": "9ed94f6fa56a1ab6",
-"title": "Race for Brazilian Uranium Attracts Foreign Groups and Former Bolsonaro Government Officials",
-"url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/11/race-for-brazilian-uranium-attracts-foreign-groups-and-former-bolsonaro-government-officials.shtml",
-"source": "Folha",
-"when": "17:49",
+"id": "d99165b8749789ca",
+"title": "US midterms: When will we know who controls Congress?",
+"url": "https://english.elpais.com/usa/2026-11-03/us-midterms-when-will-we-know-who-controls-congress.html",
+"source": "El País English",
+"when": "18:39",
 "also": [],
 "lang": "en",
-"image": "https://f.i.uol.com.br/fotografia/2019/11/01/15726527225dbcc6b2484b2_1572652722_3x2_rt.jpg",
-"excerpt": ""
+"image": "https://images.english.elpais.com/resizer/v2/L22JZI27BVMI5DDNMEIIG7NZL4.jpg?auth=2e71ddf8ee908b1496fca442bf11323476c38fcf440132a74ed2ce5b7956bdaf",
+"excerpt": "This guide explains when key states are expected to report results and when the winners in the House and Senate races may become clear"
 }
 ]
 }
@@ -6015,6 +6015,39 @@
 "excerpt": "Die Krankenkassenprämien steigen, entsprechend auch die kantonalen Prämienverbilligungen."
 },
 {
+"id": "03b49ef035f67bdc",
+"title": "Treibstoffknappheit – Kerosin-Versorgung: Bund gibt erneut Pflichtlagerreserven frei",
+"url": "https://www.srf.ch/news/schweiz/treibstoffknappheit-kerosin-versorgung-bund-gibt-erneut-pflichtlagerreserven-frei",
+"source": "SRF News",
+"when": "20:08",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/2c0423.webp",
+"excerpt": "Der Delegierte für wirtschaftliche Landesversorgung bewilligte die Freigabe von 50’000 Kubikmetern bis Ende November."
+},
+{
+"id": "bc0a7c8a2abd7c9f",
+"title": "Krawallnacht in Zürich – Zwei Männer sollen nach Ausschreitungen in Zürich ins Gefängnis",
+"url": "https://www.srf.ch/news/schweiz/krawallnacht-in-zuerich-zwei-maenner-sollen-nach-ausschreitungen-in-zuerich-ins-gefaengnis",
+"source": "SRF News",
+"when": "20:06",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/bba200.webp",
+"excerpt": "Nach den Ausschreitungen wurden zwei junge Männer jeweils zu mehreren Monaten Freiheitsstrafe ohne Bewährung verurteilt."
+},
+{
+"id": "230089b292cbd7b0",
+"title": "Exklusive, neue Zahlen – Immer mehr Krebsbetroffene in der Schweiz",
+"url": "https://www.srf.ch/news/schweiz/exklusive-neue-zahlen-immer-mehr-krebsbetroffene-in-der-schweiz",
+"source": "SRF News",
+"when": "19:30",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/ffaca0.webp",
+"excerpt": "Fast eine halbe Million Menschen in der Schweiz haben oder hatten Krebs. Die Behandlungsmethoden werden derweil besser."
+},
+{
 "id": "c09c67256784f283",
 "title": "Betteln in Basel: Das hat es mit den Plakaten an der Herbstmesse auf sich",
 "url": "https://www.bazonline.ch/herbstmesse-basel-kaum-bettler-dank-polizeikampagne-708492010937",
@@ -6024,28 +6057,6 @@
 "lang": "de",
 "image": "https://cdn.unitycms.io/images/5SJGie7Jq7q9nao6_KvKiM.jpg",
 "excerpt": "Schilder an den verschiedenen «Mäss»-Plätzen weisen darauf hin, dass aggressives Betteln verboten ist. Gibt es wieder Probleme?"
-},
-{
-"id": "97c61bd7e5940579",
-"title": "Treibstoffknappheit – Kerosin-Versorgung: Bund gibt erneut Pflichlagerreserven frei",
-"url": "https://www.srf.ch/news/schweiz/treibstoffknappheit-kerosin-versorgung-bund-gibt-erneut-pflichlagerreserven-frei",
-"source": "SRF News",
-"when": "18:26",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/2c0423.webp",
-"excerpt": "Der Delegierte für wirtschaftliche Landesversorgung bewilligte die Freigabe von 50’000 Kubikmetern bis Ende November."
-},
-{
-"id": "3f724417cb993614",
-"title": "Wanderung des Monats November – Hinter den Villen von Wollerau beginnt die Wildnis",
-"url": "https://www.srf.ch/radio-srf-1/wanderung-des-monats-november-hinter-den-villen-von-wollerau-beginnt-die-wildnis",
-"source": "SRF News",
-"when": "15:02",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/f6c6b0.webp",
-"excerpt": "Wo Zürich und Schwyz auf Tuchfühlung gehen: Eine Wanderung zum Hüttnersee."
 },
 {
 "id": "e289b77842604e5b",
@@ -6059,17 +6070,6 @@
 "excerpt": "ÖV fahren im Baselbiet kostet per Dezember mehr."
 },
 {
-"id": "27570c42623cbdc2",
-"title": "Skisport – Ebnat-Kappel SG bald ohne Skilift",
-"url": "https://www.srf.ch/news/schweiz/skisport-ebnat-kappel-sg-bald-ohne-skilift",
-"source": "SRF News",
-"when": "14:24",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/2f259d.webp",
-"excerpt": "Schneemangel und finanzielle Probleme haben das Ende des einzigen Skilifts von Ebnat-Kappel besiegelt."
-},
-{
 "id": "3310c225dc2ef289",
 "title": "SVP will Lehrplan 21 überdenken",
 "url": "https://bajour.ch/a/svp-motion-will-lehrplan-21-ueberdenken",
@@ -6081,26 +6081,26 @@
 "excerpt": "Profitieren Schüler*innen von «zeitgemässen Unterrichtsmethoden»? Das stellt eine Motion der Basler SVP zur Debatte."
 },
 {
-"id": "4ad16b3d5fe15eeb",
-"title": "Wohnpark Herz erhält Heimbewilligung",
-"url": "https://bajour.ch/a/nach-kuendigungen-wohnpark-herz-in-wahlen-bei-laufen-hat-bewilligung",
-"source": "Bajour",
-"when": "11:47",
-"also": [],
-"lang": "de",
-"image": "https://media-bajour.wepublish.cloud/87dcb4f1-ef0c-49fb-adc2-06231ed1913b?quality=80&sig=GG2FmgJaur-ymZscL7yNDmI-52BYu3SwfcTuzBugvrh-Eawggx4G_8CPw-jdamIyMcob6vCr4qh-vQWdVbvtBw",
-"excerpt": ""
-},
-{
-"id": "2a36652a7b1e294f",
-"title": "Der Regierungsrat erhöht die Prämienverbilligungen fürs kommende Jahr 2027",
-"url": "https://www.bs.ch/medienmitteilungen/2026-der-regierungsrat-erhoeht-die-praemienverbilligungen-fuers-kommende-jahr-2027",
+"id": "01e17a76236a0f42",
+"title": "Kurzmitteilungen aus der Regierungsrats-Sitzung (Bulletin)",
+"url": "https://www.bs.ch/medienmitteilungen/2026-kurzmitteilungen-aus-der-regierungsrats-sitzung-bulletin-28",
 "source": "Kanton Basel-Stadt",
-"when": "19:02",
+"when": "22:58",
 "also": [],
 "lang": "de",
 "image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": "Der Regierungsrat des Kantons Basel-Stadt hat die Anpassungen der kantonalen Prämienbeiträge für das Jahr 2027 beschlossen."
+"excerpt": "Der Regierungsrat hat …"
+},
+{
+"id": "abe5fb4d855ccbfd",
+"title": "Regierungsräte beider Basel genehmigen Investitionen für die landseitige Erweiterung des EuroAirport-Terminals",
+"url": "https://www.bs.ch/medienmitteilungen/2026-regierungsraete-beider-basel-genehmigen-investitionen-fuer-die-landseitige-erweiterung-des-euroairport-terminals",
+"source": "Kanton Basel-Stadt",
+"when": "22:58",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/c7be1192849d9e78afd6dbd0138d0ca4e0cc678e/mm-2026-10-27-eap-landside.jpg?h=3b1202c6&itok=m5uNTYfR",
+"excerpt": ""
 }
 ]
 }
@@ -6118,37 +6118,73 @@
 "title": "Cycling",
 "items": [
 {
-"id": "478cb4a43048308d",
-"title": "'Too ambitious in too many segments' – Bianchi to renegotiate debt repayments amid financial woes",
-"url": "https://www.cyclingnews.com/cycling-tech-components/too-ambitious-in-too-many-segments-bianchi-to-renegotiate-debt-repayments-amid-financial-woes/",
-"source": "Cyclingnews",
-"when": "14:36",
-"also": [],
-"lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/QFjLN6niECxC99PVYapyGQ-1920-80.jpg",
-"excerpt": "The company has until late May to agree new terms with its creditors"
-},
-{
-"id": "90e3f3ad45efb2e7",
-"title": "Giro d'Italia 2027 route – A comprehensive guide to all 21 stages",
-"url": "https://www.cyclingnews.com/pro-cycling/racing/giro-d-italia-2027-route-a-comprehensive-guide-to-all-21-stages/",
-"source": "Cyclingnews",
-"when": "14:22",
-"also": [],
-"lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/ZY25KreVxTXeKZsDRnCdf7-1920-80.jpg",
-"excerpt": "Stage profiles and details for every single stage of the Italian Grand Tour"
-},
-{
 "id": "f2104710eac26c5b",
 "title": "Giro d'Italia 2027 route revealed – A climber's paradise with double Mortirolo ascent and return to iconic Monte Zoncolan and Passo Gavia",
 "url": "https://www.cyclingnews.com/pro-cycling/racing/giro-d-italia-2027-route-revealed-a-climbers-paradise-with-double-mortirolo-ascent-and-return-to-iconic-monte-zoncolan-and-passo-gavia/",
 "source": "Cyclingnews",
 "when": "13:30",
-"also": [],
+"also": [
+"Escape Collective",
+"Cycling Weekly"
+],
 "lang": "en",
 "image": "https://cdn.mos.cms.futurecdn.net/ZTGWgUMjVqtkRHrwARN2z7-1920-80.jpg",
 "excerpt": "110th edition features Trieste start, two time trials, and some of Italy's most iconic climbs en route to Rome"
+},
+{
+"id": "68175b19d4a73a9b",
+"title": "Eric Brunner finds his groove and 'a little bit of an adrenaline rush' with pair of wins ahead of Pan-American Cyclo-cross Championships",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/eric-brunner-finds-his-groove-and-a-little-bit-of-an-adrenaline-rush-with-pair-of-wins-ahead-of-pan-american-cyclo-cross-championships/",
+"source": "Cyclingnews",
+"when": "21:10",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/v2nzPKdv2SYj7rmCgaKcJd-1920-80.jpg",
+"excerpt": "Reigning Pan Am and US elite women's titlist Lizzy Gunsalus sweeps races in Northampton"
+},
+{
+"id": "bbada91fd0516eb7",
+"title": "Giro d'Italia boss says motor-racing circuit sprints will improve safety, but recent Tour de France evidence suggests otherwise",
+"url": "https://www.cyclingnews.com/pro-cycling/safety/giro-d-italia-boss-says-motor-racing-circuit-sprints-will-improve-safety-but-recent-tour-de-france-evidence-suggests-otherwise/",
+"source": "Cyclingnews",
+"when": "19:26",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/uygxQTWogKchkDxHpQpoZQ-1920-80.jpg",
+"excerpt": "'The initiative stems from listening to athletes and teams regarding the need for safe finishes' says Luca Guercilena"
+},
+{
+"id": "7c8d0d77c4c534ba",
+"title": "The Hitec Products-Fluid Control team is shutting down after 18 years",
+"url": "https://escapecollective.com/the-hitec-products-fluid-control-team-is-shutting-down-after-18-years/",
+"source": "Escape Collective",
+"when": "22:47",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
+},
+{
+"id": "ccccb6c4e9d7ffea",
+"title": "Why I’m Willingly Giving Up 3 Watts for the New Giant Pursuit",
+"url": "https://velo.outsideonline.com/road/road-gear/giant-pursuit-aero-helmet-review/",
+"source": "Velo",
+"when": "22:30",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/DSC_7219-Edit.jpg?width=1200",
+"excerpt": ""
+},
+{
+"id": "bad8e464f2a2cf18",
+"title": "Wheel Talk Newsletter: You, me, Tuscany, and a pink jersey",
+"url": "https://escapecollective.com/wheel-talk-newsletter-you-me-tuscany-and-a-pink-jersey/",
+"source": "Escape Collective",
+"when": "20:56",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/11/CORVOS_00039031-227.jpg",
+"excerpt": "The 2027 Giro route is out!"
 },
 {
 "id": "c77c39b716f82920",
@@ -6160,39 +6196,6 @@
 "lang": "en",
 "image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
 "excerpt": ""
-},
-{
-"id": "2d60c58aa54a1ab0",
-"title": "What Makes This a Race Bike for Humans? Pivot Gets Into Road Bikes.",
-"url": "https://velo.outsideonline.com/road/road-gear/pivot-pravia-road-bike-velo-podcast/",
-"source": "Velo",
-"when": "17:59",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Velo-Podcast-thumbnail-Velo2.jpg?width=1200",
-"excerpt": ""
-},
-{
-"id": "8b7837e476f94d78",
-"title": "A spectacular queen stage and the Zoncolan too: The 2027 Giro route revealed",
-"url": "https://escapecollective.com/a-spectacular-queen-stage-and-the-zoncolan-too-the-2027-giro-route-revealed/",
-"source": "Escape Collective",
-"when": "17:22",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/zoncolan.jpeg",
-"excerpt": "The Passo del Mortirolo, Passo di Gavia, Monte Zoncolan, and two time trials will be among the challenges facing GC hopefuls in May."
-},
-{
-"id": "5ae2bae5a777cebd",
-"title": "Pro cycling has a visa problem",
-"url": "https://escapecollective.com/pro-cyclings-visa-problem-and-how-to-solve-it/",
-"source": "Escape Collective",
-"when": "16:54",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/4.png",
-"excerpt": "Visa restrictions remain one of the biggest barriers to entry for riders from outside of Europe. Some think that the UCI should be doing more about it."
 }
 ]
 },
@@ -6200,6 +6203,28 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "d604ed2f935a4653",
+"title": "Patriots Activate T Marcus Bryant to the 53-Man Roster from Injured Reserve; Release CB Kindle Vildor; Announce Practice Squad Moves",
+"url": "https://www.patriots.com/news/patriots-activate-t-marcus-bryant-to-the-53-man-roster-from-injured-reserve-release-cb-kindle-vildor-announce-practice-squad-moves",
+"source": "Patriots.com",
+"when": "22:00",
+"also": [],
+"lang": "en",
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/gnatzcpqynoo5s2umeal.png",
+"excerpt": ""
+},
+{
+"id": "d5da169804f6577a",
+"title": "Watch Red Sox prospects in Arizona Fall League action",
+"url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+"source": "MLB.com",
+"when": "21:23",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
+"excerpt": ""
+},
 {
 "id": "6800f6093ecd76a0",
 "title": "Sveriges lottning till Nations League",
@@ -6210,28 +6235,6 @@
 "lang": "sv",
 "image": null,
 "excerpt": "Under dagen genomförde UEFA lottningen för vårens Nations League. Sverige hamnade i grupp A4 med motsåndarna Tyskland, Nederländerna och Skottland."
-},
-{
-"id": "ba647854bff05327",
-"title": "How to Watch and Stream Sunday's Patriots Game Against the Packers | NFL Week 9",
-"url": "https://www.patriots.com/news/how-to-watch-and-stream-sunday-s-patriots-game-against-the-packers-nfl-week-9",
-"source": "Patriots.com",
-"when": "18:53",
-"also": [],
-"lang": "en",
-"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/asriisxzzswglbc26m7f.png",
-"excerpt": "Complete broadcast information for this week's game between the New England Patriots and the Green Bay Packser on Sunday, November 8, 2026 at 4:25 PM ET."
-},
-{
-"id": "7115a5f26f2cd98c",
-"title": "This is the 2026 Arizona Fall League Home Run Derby field",
-"url": "https://www.mlb.com/redsox/news/arizona-fall-league-home-run-derby-2026",
-"source": "MLB.com",
-"when": "17:02",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/yiorgi07fsjktsuvyc7n.jpg",
-"excerpt": ""
 },
 {
 "id": "7e0ba6ec218da458",
@@ -6268,7 +6271,7 @@
 "items": []
 }
 ],
-"lead": "478cb4a43048308d"
+"lead": "f2104710eac26c5b"
 },
 {
 "id": "chess",
@@ -6289,6 +6292,17 @@
 "also": [],
 "lang": "en",
 "image": "https://www.fide.com/wp-content/uploads/WJRB-2026-Playing-Hall.jpg",
+"excerpt": ""
+},
+{
+"id": "72e49bba93628ac9",
+"title": "Speed Chess Championship Celebrates 10-Year Anniversary With Live Finals In London",
+"url": "https://www.chess.com/news/view/announcing-speed-chess-championship-2026",
+"source": "Chess.com",
+"when": "21:45",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2135735.d2e5af61.5000x5000o.bda19ba1f071.png",
 "excerpt": ""
 },
 {
@@ -6356,17 +6370,6 @@
 "lang": "en",
 "image": "https://images.chesscomfiles.com/uploads/v1/news/2256847.b3c9970a.5000x5000o.80ca42d44bf6.png",
 "excerpt": ""
-},
-{
-"id": "dc8e4a2419a49385",
-"title": "English Open Championships 2026 - Games and Results",
-"url": "https://theweekinchess.com/chessnews/events/english-open-championships-2026",
-"source": "The Week in Chess",
-"when": "Mon 14:23",
-"also": [],
-"lang": "en",
-"image": null,
-"excerpt": ""
 }
 ]
 }
@@ -6384,15 +6387,26 @@
 "title": null,
 "items": [
 {
-"id": "0586c750909e693e",
-"title": "How “reverse game theory” could keep AI agents in check",
-"url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-"source": "MIT Technology Review",
-"when": "11:43",
+"id": "4040bd5e5462676c",
+"title": "Claude Platform now supports native OpenTelemetry observability in Databricks MLflow",
+"url": "https://www.databricks.com/blog/claude-platform-now-supports-native-opentelemetry-observability-databricks-mlflow",
+"source": "Databricks",
+"when": "22:00",
 "also": [],
 "lang": "en",
-"image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600",
-"excerpt": ""
+"image": "https://www.databricks.com/sites/default/files/2026-11/claude-platform-supports-native-open-telemetry-observability-databricks-mlflow-blog-og.png",
+"excerpt": "An agent can return a plausible answer while missing an important finding or reading the same source repeatedly..."
+},
+{
+"id": "297ecce21e247eba",
+"title": "Declare and optimize with UNIQUE constraints on Databricks",
+"url": "https://www.databricks.com/blog/declare-and-optimize-unique-constraints-databricks",
+"source": "Databricks",
+"when": "22:00",
+"also": [],
+"lang": "en",
+"image": "https://www.databricks.com/sites/default/files/2026-11/blog-og-Declare-and-optimize-with-UNIQUE-constraints-on-Databricks.png",
+"excerpt": "Data teams often maintain uniqueness guarantees in their pipelines, but without a..."
 },
 {
 "id": "b8a04ab397873e2d",
@@ -6404,6 +6418,17 @@
 "lang": "en",
 "image": "https://www.databricks.com/sites/default/files/2026-10/2026-09-eb-data-iq-report-social-1200x628.png",
 "excerpt": "AI progress is moving quickly. Expectations are rising, experimentation is spreading..."
+},
+{
+"id": "0586c750909e693e",
+"title": "How “reverse game theory” could keep AI agents in check",
+"url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+"source": "MIT Technology Review",
+"when": "11:43",
+"also": [],
+"lang": "en",
+"image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600",
+"excerpt": ""
 },
 {
 "id": "f018890827cd6b3e",
@@ -6421,7 +6446,7 @@
 "title": "Fuel Every Agent and App With Data That Keeps Pace",
 "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/autonomous-data-engineering-ai-agents-apps",
 "source": "Snowflake blog",
-"when": "19:02",
+"when": "21:58",
 "also": [],
 "lang": "en",
 "image": "https://www.snowflake.com/content/dam/snowflake-site/blog/2026/11/expedition-data-engineering.png",
@@ -6432,7 +6457,7 @@
 "title": "Real-Time Analytics on Snowflake: Stream, Transform, Serve",
 "url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/real-time-analytics-snowflake",
 "source": "Snowflake blog",
-"when": "19:02",
+"when": "21:58",
 "also": [],
 "lang": "en",
 "image": "https://www.snowflake.com/content/dam/snowflake-site/blog/2026/11/ai-ready-data-foundation-blog-header.png",
@@ -6448,33 +6473,11 @@
 "lang": "en",
 "image": "https://www.snowflake.com/content/dam/snowflake-site/blog/2026/11/expedition-rollup-1-temp-blog-header.png",
 "excerpt": ""
-},
-{
-"id": "94bdffd71cc1f44c",
-"title": "Raising the quality of insights in agentic analytics",
-"url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-"source": "MIT Technology Review",
-"when": "Mon 18:00",
-"also": [],
-"lang": "en",
-"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png",
-"excerpt": ""
-},
-{
-"id": "c9c51dfec636c3fc",
-"title": "Lakebase Postgres is now generally available on Google Cloud",
-"url": "https://www.databricks.com/blog/lakebase-postgres-now-generally-available-google-cloud",
-"source": "Databricks",
-"when": "Mon 15:26",
-"also": [],
-"lang": "en",
-"image": "https://www.databricks.com/sites/default/files/blog_images/lakebase-postgres-is-now-generally-available-on-blog-img-og.png",
-"excerpt": ""
 }
 ]
 }
 ],
-"lead": "0586c750909e693e"
+"lead": "4040bd5e5462676c"
 },
 {
 "id": "rd",
@@ -6486,6 +6489,28 @@
 "id": "rd",
 "title": null,
 "items": [
+{
+"id": "9e5a414bd90569e0",
+"title": "Ultragenyx to lay off 20% of employees, scrap a Wilson disease gene therapy",
+"url": "https://endpoints.news/ultragenyx-to-lay-off-20-of-employees-scrap-a-wilson-disease-gene-therapy/",
+"source": "Endpoints News",
+"when": "22:55",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2024/04/Ultragenyx-shutterstock-social.jpg",
+"excerpt": ""
+},
+{
+"id": "043300b60e4108a4",
+"title": "Servier's $1.5B bet on Edgewise drug fails five months in",
+"url": "https://endpoints.news/serviers-1-5b-bet-on-edgewise-drug-fails-five-months-in/",
+"source": "Endpoints News",
+"when": "20:27",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2025/09/Servier-AP-social1.jpg",
+"excerpt": ""
+},
 {
 "id": "132cca9c167317e9",
 "title": "Rhythm doubles down on LG obesity license, raising payout to as much as $855M",
@@ -6533,17 +6558,6 @@
 "excerpt": ""
 },
 {
-"id": "85127388f9395deb",
-"title": "UniQure gets review date and adcomm; Inovio's stock surges after approval",
-"url": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/",
-"source": "Endpoints News",
-"when": "Mon 17:10",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2025/03/News-Briefing-Social-and-Tile.jpg",
-"excerpt": ""
-},
-{
 "id": "adbcf63dba7578cc",
 "title": "BioArctic left out in the cold as Novartis walks away from $800M neuro collab",
 "url": "https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year",
@@ -6555,31 +6569,20 @@
 "excerpt": "Just 14 months after Novartis signed an $800 million biobucks neuroscience partnership with BioArctic, the Swiss pharma has walked away from the deal."
 },
 {
-"id": "5e889e4c50cae1be",
-"title": "Pfizer lifts 2026 guidance as cancer, migraine sales offset Covid slide",
-"url": "https://endpoints.news/pfizer-lifts-2026-guidance-as-cancer-migraine-sales-offset-covid-slide/",
-"source": "Endpoints News",
-"when": "16:04",
+"id": "ca8ea03c59dfe071",
+"title": "Madrigal’s Rezdiffra storms past blockbuster milestone as CEO hails ‘accelerating’ MASH market",
+"url": "https://www.fiercepharma.com/pharma/madrigal-rezdiffra-storms-past-blockbuster-milestone-ceo-hails-accelerating-mash-market",
+"source": "Fierce Pharma",
+"when": "22:58",
 "also": [],
 "lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2024/08/Pfizer-shutterstock-social41.jpg",
-"excerpt": ""
-},
-{
-"id": "9340e55426640c21",
-"title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
-"url": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
-"source": "BioPharma Dive",
-"when": "Mon 18:07",
-"also": [],
-"lang": "en",
-"image": "https://imgproxy.divecdn.com/CSn7mb9kUJKt7C4B-Hg90ixWPga0R-Efvq-YxlFSZ5I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzI3MjY4MzcuanBn.webp",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/Liver_0.jpg?VersionId=sgFZWisIGsCyj17fn_oqHH1Yo.dLH9fc",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "132cca9c167317e9"
+"lead": "9e5a414bd90569e0"
 }
 ],
 "weather": {
@@ -6598,7 +6601,7 @@
 "uv": 1,
 "sunrise": "07:16",
 "sunset": "17:09",
-"bar_l": 27,
+"bar_l": 21,
 "bar_w": 7
 },
 "slots": [
@@ -6639,7 +6642,7 @@
 "uv": 1,
 "sunrise": "07:16",
 "sunset": "17:09",
-"bar_l": 27,
+"bar_l": 21,
 "bar_w": 7
 },
 {
@@ -6656,8 +6659,8 @@
 "uv": 2,
 "sunrise": "07:17",
 "sunset": "17:07",
-"bar_l": 20,
-"bar_w": 33
+"bar_l": 14,
+"bar_w": 36
 },
 {
 "date": "2026-11-05",
@@ -6669,12 +6672,12 @@
 "lo": 3,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 8,
+"wind": 7,
 "uv": 2,
 "sunrise": "07:19",
 "sunset": "17:06",
-"bar_l": 7,
-"bar_w": 60
+"bar_l": 0,
+"bar_w": 64
 },
 {
 "date": "2026-11-06",
@@ -6682,50 +6685,50 @@
 "dm": "06.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 8,
+"hi": 9,
 "lo": 3,
-"rain_mm": 0.3,
-"rain_pct": 18,
+"rain_mm": 0.2,
+"rain_pct": 28,
 "wind": 4,
 "uv": 2,
 "sunrise": "07:20",
 "sunset": "17:05",
-"bar_l": 7,
-"bar_w": 33
+"bar_l": 0,
+"bar_w": 43
 },
 {
 "date": "2026-11-07",
 "dow": "Sat",
 "dm": "07.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 10,
-"lo": 5,
-"rain_mm": 0,
-"rain_pct": 18,
-"wind": 4,
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 13,
+"lo": 4,
+"rain_mm": 0.1,
+"rain_pct": 24,
+"wind": 5,
 "uv": 2,
 "sunrise": "07:22",
 "sunset": "17:03",
-"bar_l": 20,
-"bar_w": 33
+"bar_l": 7,
+"bar_w": 64
 },
 {
 "date": "2026-11-08",
 "dow": "Sun",
 "dm": "08.11.",
-"label": "Light showers",
+"label": "Light rain",
 "icon": "🌦️",
-"hi": 12,
-"lo": 2,
-"rain_mm": 0.9,
+"hi": 10,
+"lo": 4,
+"rain_mm": 5.4,
 "rain_pct": 43,
-"wind": 7,
-"uv": 1,
+"wind": 6,
+"uv": 2,
 "sunrise": "07:23",
 "sunset": "17:02",
-"bar_l": 0,
-"bar_w": 67
+"bar_l": 7,
+"bar_w": 43
 },
 {
 "date": "2026-11-09",
@@ -6738,11 +6741,11 @@
 "rain_mm": 19.7,
 "rain_pct": 64,
 "wind": 9,
-"uv": 1,
+"uv": 0,
 "sunrise": "07:25",
 "sunset": "17:00",
-"bar_l": 27,
-"bar_w": 33
+"bar_l": 21,
+"bar_w": 36
 },
 {
 "date": "2026-11-10",
@@ -6752,51 +6755,51 @@
 "icon": "🌦️",
 "hi": 12,
 "lo": 10,
-"rain_mm": 19.0,
+"rain_mm": 19.1,
 "rain_pct": 73,
 "wind": 8,
-"uv": 1,
+"uv": 0,
 "sunrise": "07:26",
 "sunset": "16:59",
-"bar_l": 53,
-"bar_w": 13
+"bar_l": 50,
+"bar_w": 14
 },
 {
 "date": "2026-11-11",
 "dow": "Wed",
 "dm": "11.11.",
-"label": "Drizzle",
+"label": "Light drizzle",
 "icon": "🌦️",
 "hi": 17,
-"lo": 8,
-"rain_mm": 2.6,
+"lo": 9,
+"rain_mm": 2.3,
 "rain_pct": 54,
-"wind": 9,
-"uv": 2,
+"wind": 14,
+"uv": 1,
 "sunrise": "07:28",
 "sunset": "16:58",
-"bar_l": 40,
-"bar_w": 60
+"bar_l": 43,
+"bar_w": 57
 },
 {
 "date": "2026-11-12",
 "dow": "Thu",
 "dm": "12.11.",
-"label": "Light showers",
+"label": "Light drizzle",
 "icon": "🌦️",
-"hi": 14,
-"lo": 8,
-"rain_mm": 32.6,
+"hi": 17,
+"lo": 9,
+"rain_mm": 1.4,
 "rain_pct": 53,
-"wind": 20,
+"wind": 12,
 "uv": 2,
 "sunrise": "07:29",
 "sunset": "16:57",
-"bar_l": 40,
-"bar_w": 40
+"bar_l": 43,
+"bar_w": 57
 }
 ],
-"lo": 2,
+"lo": 3,
 "hi": 17
 }
 }
