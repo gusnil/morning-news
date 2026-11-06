@@ -5814,8 +5814,8 @@
 },
 "2026-11-06": {
 "date": "2026-11-06",
-"built_at": "2026-11-06T17:40:45.866503+00:00",
-"built_local": "18:40",
+"built_at": "2026-11-06T21:44:51.958149+00:00",
+"built_local": "22:44",
 "edition": "Evening",
 "feeds_ok": 55,
 "feeds_total": 55,
@@ -5831,61 +5831,78 @@
 "title": null,
 "items": [
 {
-"id": "6731a44f5db51b03",
-"title": "California governor to grant clemency to all 548 death row inmates in state",
-"url": "https://www.france24.com/en/video/20261106-california-governor-to-grant-clemency-to-all-548-death-row-inmates-in-state",
+"id": "abedf3ffa17cc92f",
+"title": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
+"url": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
 "source": "France 24",
-"when": "15:54",
+"when": "21:51",
 "also": [
 "Al Jazeera",
 "DW",
-"BBC World",
-"SCMP"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/06d29b9a-d9ec-11f1-b5f2-d18c5759e759/w:1024/p:16x9/capture-77fd1be3.jpg",
-"excerpt": ""
-},
-{
-"id": "3c9c9c4f810decfc",
-"title": "British comedian Russell Brand found guilty of rape and three sexual assaults",
-"url": "https://www.france24.com/en/video/20261106-british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults",
-"source": "France 24",
-"when": "17:45",
-"also": [
 "The Hindu",
+"El País English",
+"SCMP"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/e4ccbd52-da20-11f1-92bf-a575454bc579/w:1024/p:16x9/000-D6PN3T3.jpg",
+"excerpt": ""
+},
+{
+"id": "f72564ba6abcebeb",
+"title": "Pope Leo arrives in Uruguay for first stop on 12-day South America tour",
+"url": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour",
+"source": "France 24",
+"when": "22:14",
+"also": [
+"Al Jazeera",
+"DW"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/0aab0508-da1a-11f1-81c8-d18c5759e759/w:1024/p:16x9/2026-11-06T193927Z-1437835472-RC2JIOACA4EZ-RTRMADP-3-POPE-LATAM-URUGUAY.jpg",
+"excerpt": ""
+},
+{
+"id": "b63325056251c25d",
+"title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+"url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "21:28",
+"also": [
 "DW",
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/090853f4-da01-11f1-95a1-695cb59fade5/w:1024/p:16x9/capture-9b57246d.jpg",
-"excerpt": ""
-},
-{
-"id": "92fb1aa7a17ab479",
-"title": "FBI arrests Thomas Markle, father of Meghan, over child sexual abuse material",
-"url": "https://www.thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece",
-"source": "The Hindu",
-"when": "17:09",
-"also": [
+"The Hindu",
 "SCMP"
 ],
 "lang": "en",
-"image": "https://th-i.thgim.com/public/news/national/wnbu3i/article71675665.ece/alternates/LANDSCAPE_1200/thomas%20markle%20reuters%20itv.jpg",
-"excerpt": "Meghan Markle recently said she was “deeply distressed” by allegations that a collection of child sexual abuse images had been found at her father's former home"
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee2c4940d7-1793993801.jpg?resize=1920%2C1440",
+"excerpt": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls."
 },
 {
-"id": "31096c1d93a7a4aa",
-"title": "Kenyan doomsday cult leader sentenced to 200 years in prison for murder of 191",
-"url": "http://www.africanews.com/2026/11/06/kenyan-doomsday-cult-leader-sentenced-to-200-years-in-prison-for-murder-of-191/",
+"id": "2795bd3585527d27",
+"title": "Protesters break into Microsoft data centre site in Amsterdam",
+"url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "22:04",
+"also": [
+"Africanews",
+"DW"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee37531362-1793996627.jpg?resize=1920%2C1440",
+"excerpt": "Data centres face protests across Europe due to the massive amounts of computing power and water they use."
+},
+{
+"id": "ab90b4986c0ed762",
+"title": "Kenya: Sentencing of cult leader Mackenzie draws mixed reactions",
+"url": "http://www.africanews.com/2026/11/06/kenya-sentencing-of-cult-leader-mackenzie-draws-mixed-reactions/",
 "source": "Africanews",
-"when": "15:22",
+"when": "21:14",
 "also": [
-"SCMP"
+"Al Jazeera",
+"DW"
 ],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/98/26/36/640x360_cmsv2_fb20297b-5464-518a-8b2e-13819666e6e4-9982636.jpg?1793968487",
-"excerpt": ""
+"image": "https://images.euronews.com/articles/stories/09/98/32/46/640x360_cmsv2_20025581-3e49-5313-ac56-a5ca4e09a132-9983246.jpg?1793985738",
+"excerpt": "Some called the prison term of 200 years for Paul Mackenzie fair, while others said it did not go far enough"
 },
 {
 "id": "8d5696b0fc0213ad",
@@ -5903,16 +5920,16 @@
 "excerpt": "Following election losses, the signing marks Trump's third event of the week focused on signature renovation projects."
 },
 {
-"id": "f628564adc7edfe7",
-"title": "Who is Kenya’s starvation cult leader?",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "14:43",
+"id": "31096c1d93a7a4aa",
+"title": "Kenyan doomsday cult leader sentenced to 200 years in prison for murder of 191",
+"url": "http://www.africanews.com/2026/11/06/kenyan-doomsday-cult-leader-sentenced-to-200-years-in-prison-for-murder-of-191/",
+"source": "Africanews",
+"when": "15:22",
 "also": [
-"DW"
+"SCMP"
 ],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Kenya-cult-leader-Horizontal-thumb-1793972517.jpg?resize=1920%2C1080&quality=80",
+"image": "https://images.euronews.com/articles/stories/09/98/26/36/640x360_cmsv2_fb20297b-5464-518a-8b2e-13819666e6e4-9982636.jpg?1793968487",
 "excerpt": ""
 },
 {
@@ -5929,31 +5946,17 @@
 "excerpt": ""
 },
 {
-"id": "52e0c9837ab34604",
-"title": "Paraguay’s president impeached amid bank collapse crisis",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "04:49",
+"id": "6ffa874c2a63178d",
+"title": "China's Macau jails ex-lawmaker in first national security trial",
+"url": "https://www.thehindu.com/news/international/chinas-macau-jails-ex-lawmaker-in-first-national-security-trial/article71672885.ece",
+"source": "The Hindu",
+"when": "06:32",
 "also": [
 "DW",
-"BBC World",
 "SCMP"
 ],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793936932.jpg?resize=1620%2C1080&quality=80",
-"excerpt": "Lawmakers have voted to impeach Paraguay’s President Santiago Pena amid a banking collapse that has roiled the country."
-},
-{
-"id": "b3c7620a67f5a12e",
-"title": "Guinea-Bissau cancels controversial US-Funded hepatitis B vaccine trial",
-"url": "http://www.africanews.com/2026/11/06/guinea-bissau-cancels-controversial-us-funded-hepatitis-b-vaccine-trial/",
-"source": "Africanews",
-"when": "13:02",
-"also": [
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/98/24/67/640x360_cmsv2_97e8e885-e79a-5674-9ac3-303cc11b28b0-9982467.jpg?1793962646",
+"image": "https://th-i.thgim.com/public/incoming/yj2eff/article71672925.ece/alternates/LANDSCAPE_1200/Macao_National_Security_Law_66_31.jpg",
 "excerpt": ""
 },
 {
@@ -5970,7 +5973,7 @@
 ]
 }
 ],
-"lead": "6731a44f5db51b03"
+"lead": "abedf3ffa17cc92f"
 },
 {
 "id": "basel",
@@ -5983,6 +5986,50 @@
 "title": null,
 "items": [
 {
+"id": "5a37c4628b46b137",
+"title": "Bahnhof in Schaffhausen – Verdächtiger Koffer am Bahnhof: Polizei gibt Entwarnung",
+"url": "https://www.srf.ch/news/schweiz/bahnhof-in-schaffhausen-verdaechtiger-koffer-am-bahnhof-polizei-gibt-entwarnung",
+"source": "SRF News",
+"when": "22:43",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/b56282.webp",
+"excerpt": "In Schaffhausen hat die Polizei den Bahnhof und die Bahnhofstrasse wegen eines verdächtigen Koffers gesperrt."
+},
+{
+"id": "d01b61224c2a5207",
+"title": "EU-Vertragspaket – Nationalratskommission befürwortet Schweizer Erasmus-Beitrag",
+"url": "https://www.srf.ch/news/schweiz/eu-vertragspaket-nationalratskommission-befuerwortet-schweizer-erasmus-beitrag",
+"source": "SRF News",
+"when": "21:10",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/5ec624.webp",
+"excerpt": "Eine Mehrheit der APK-N ist für den Beitrag von 193 Millionen Franken für den Bildungsaustausch im nächsten Jahr."
+},
+{
+"id": "46160acaac3028fa",
+"title": "Architektur am Birsufer: Zwischen «Bierdeckel­konstruktion» und «Prototyp» – Birsfelden stimmt über Turm von Herzog & de Meuron ab",
+"url": "https://www.bazonline.ch/birsfelden-herzog-de-meuron-plant-86-meter-hochhaus-699587639267",
+"source": "Basler Zeitung",
+"when": "20:33",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/B1y_ySy54vk8AOuqkS9lHD.jpg",
+"excerpt": ""
+},
+{
+"id": "d4361f3890b949a0",
+"title": "Pionierprojekt – Gegen Hitzestau: Bier-Abwasser rettet Basler Gründächer",
+"url": "https://www.srf.ch/news/schweiz/pionierprojekt-gegen-hitzestau-bier-abwasser-rettet-basler-gruendaecher",
+"source": "SRF News",
+"when": "19:56",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/7e2977.webp",
+"excerpt": "Weil Gründächer bei Hitze vertrocknen, testet Basel eine Rettung mit Brauerei-Brauchwasser."
+},
+{
 "id": "9920fa36db4e8f76",
 "title": "Sorgen im Basler Rosental: Wohnhaus für Obdachlose: «Es gäbe andere Quartiere, die nicht so belastet sind»",
 "url": "https://www.bazonline.ch/housing-first-plus-basel-bietet-36-obdachlosen-wohnplaetze-487678051497",
@@ -5994,17 +6041,6 @@
 "excerpt": ""
 },
 {
-"id": "d87ac06cd2c2889c",
-"title": "Bezirksgericht Brig – Ex-Swiss-Ski-Vize Schmidhalter verurteilt",
-"url": "https://www.srf.ch/news/schweiz/bezirksgericht-brig-ex-swiss-ski-vize-schmidhalter-verurteilt",
-"source": "SRF News",
-"when": "18:04",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/1b2f669.webp",
-"excerpt": "Der ehemalige Präsident der Ski-WM in Crans-Montana ist wegen ungetreuer Geschäftsbesorgung verurteilt worden."
-},
-{
 "id": "cf4f203d32316c84",
 "title": "Basler Herbstmesse: Grossandrang bei Fressmeile auf dem Messeplatz – Personenfluss wird reguliert",
 "url": "https://www.bazonline.ch/basler-herbstmesse-wartezeiten-an-der-fressmeile-erwartet-925764178883",
@@ -6014,28 +6050,6 @@
 "lang": "de",
 "image": "https://cdn.unitycms.io/images/8FoG3ktJq5DAsnjHpxhhkw.jpg",
 "excerpt": "Die Fressmeile zieht an gut besuchten Tagen viel Publikum an – die Polizei bittet um Geduld."
-},
-{
-"id": "644d446a417a2139",
-"title": "Basler Klybeck: Swiss Life lässt Zack-Hütte abreissen – das Kollektiv deutet neue Pläne an",
-"url": "https://www.bazonline.ch/klybeck-swiss-life-laesst-zack-huette-abreissen-285738066167",
-"source": "Basler Zeitung",
-"when": "16:54",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/4jPKSPLiaNWBp8ptV_74HQ.webp",
-"excerpt": ""
-},
-{
-"id": "6196568686f3389b",
-"title": "Motion abgelehnt – Ständeratskommission gegen sechste Ferienwoche für Lernende",
-"url": "https://www.srf.ch/news/schweiz/motion-abgelehnt-staenderatskommission-gegen-sechste-ferienwoche-fuer-lernende",
-"source": "SRF News",
-"when": "16:35",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/7806c2.webp",
-"excerpt": "Was die Motion verlange, sei ein unnötiger, punktueller Eingriff in die Verantwortlichkeit von Arbeitgebern."
 },
 {
 "id": "373a34c73965cf01",
@@ -6060,42 +6074,31 @@
 "excerpt": "Der designierte Rektor der Uni Basel heisst Martin Wallraff. Im Kurzinterview gibt er Bajour einen Ausblick auf seine kommende Amtszeit."
 },
 {
-"id": "68567b44e224a812",
-"title": "Wieder in Zürich gelandet – «Aussergewöhnlicher Geruch»: Swiss-Flug nach Paris muss umdrehen",
-"url": "https://www.srf.ch/news/international/wieder-in-zuerich-gelandet-aussergewoehnlicher-geruch-swiss-flug-nach-paris-muss-umdrehen",
-"source": "SRF News",
-"when": "09:39",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/a74fe7.webp",
-"excerpt": "Am Freitagmorgen musste ein Swiss-Flug wegen eines verdächtigen Geruchs im Cockpit und in der Kabine umkehren."
-},
-{
-"id": "48e514fdbcae0488",
-"title": "Bleiben Sie aktiv im Winter",
-"url": "https://www.bs.ch/medienmitteilungen/ed/2026-bleiben-sie-aktiv-im-winter",
+"id": "2f269f3450a36aa6",
+"title": "Vorschau auf die Novembersession des Grossen Rates",
+"url": "https://www.bs.ch/medienmitteilungen/grosser-rat/2026-vorschau-auf-die-novembersession-des-grossen-rates",
 "source": "Kanton Basel-Stadt",
-"when": "18:40",
+"when": "22:44",
 "also": [],
 "lang": "de",
 "image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
 "excerpt": ""
 },
 {
-"id": "3228e09dcf8bb33d",
-"title": "BILDSTRECKE - Skifahren auf dem Schnee vom letzten Winter",
-"url": "https://www.nzz.ch/fotografie/skifahren-auf-dem-schnee-vom-letzten-winter-ld.10056471",
-"source": "NZZ",
-"when": "18:13",
+"id": "6c4b9176e07197d2",
+"title": "Clubs profitieren von den Förderangeboten",
+"url": "https://www.bs.ch/medienmitteilungen/pd/2026-clubs-profitieren-von-den-foerderangeboten",
+"source": "Kanton Basel-Stadt",
+"when": "22:44",
 "also": [],
 "lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/11/04/8dba73de-4235-4548-bb45-850965c03e02.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4846,4846,x1212,y0",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "9920fa36db4e8f76"
+"lead": "5a37c4628b46b137"
 },
 {
 "id": "sport",
@@ -6107,6 +6110,17 @@
 "id": "cycling",
 "title": "Cycling",
 "items": [
+{
+"id": "52b7f921c7f8e7ab",
+"title": "World Champion Brandon McNulty to debut rainbow jersey on home soil at El Tour de Tucson - North American Roundup",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/world-champion-brandon-mcnulty-to-debut-rainbow-jersey-on-home-soil-at-el-tour-de-tucson-north-american-roundup/",
+"source": "Cyclingnews",
+"when": "19:57",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/peFGNGwD7dXVhJh28h7CuP-1920-80.jpg",
+"excerpt": ""
+},
 {
 "id": "429f56a3ffe1b420",
 "title": "TotalEnergies team survives as new three-year sponsor announcement imminent",
@@ -6130,15 +6144,26 @@
 "excerpt": "Dutch rider targets a stage win as he maintains the joy of training and racing on French ProTeam"
 },
 {
-"id": "342c71aa70727561",
-"title": "'I think she has grown a lot mentally' – Lars Boom highlights reason for Demi Vollering's stunning season, outlines 2027 goals",
-"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/i-think-she-has-grown-a-lot-mentally-lars-boom-highlights-reason-for-demi-vollerings-stunning-season-outlines-2027-goals/",
-"source": "Cyclingnews",
-"when": "15:10",
+"id": "b4ab051214d7858a",
+"title": "Don't race what you can't afford to replace: US criterium racing looks to China for bikes",
+"url": "https://escapecollective.com/dont-race-what-you-cant-afford-to-replace-us-criterium-racing-looks-to-china-for-bikes/",
+"source": "Escape Collective",
+"when": "20:46",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/GqiUf37Z5PA2w2vWsDSwgY-1920-80.jpg",
-"excerpt": "Tour de France Femmes and World Championships defences high on the priority list for Dutch racer"
+"image": "https://escapecollective.com/content/images/2026/11/CY8A4266-2.jpg",
+"excerpt": "With lower prices than legacy brands, new Asian brands are finding a foothold on the US crit circuit and investing in sponsorship accordingly."
+},
+{
+"id": "c5da308521e38dd8",
+"title": "A Literal Love Letter to Steel: The Custom Cicli Barco Road Bike",
+"url": "https://velo.outsideonline.com/road/road-gear/cicli-barco-custom-steel-bike-check-bespoked-osaka/",
+"source": "Velo",
+"when": "19:21",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/DSC02598.jpg?width=1200",
+"excerpt": ""
 },
 {
 "id": "d934a1051c1fd837",
@@ -6150,28 +6175,6 @@
 "lang": "en",
 "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Velo-Podcast-thumbnail-Velo.jpg?width=1200",
 "excerpt": ""
-},
-{
-"id": "2c4c6a28e705504b",
-"title": "The TotalEnergies team has reportedly found a new sponsor at last",
-"url": "https://escapecollective.com/the-totalenergies-team-has-reportedly-found-a-new-sponsor-at-last/",
-"source": "Escape Collective",
-"when": "16:52",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
-"excerpt": ""
-},
-{
-"id": "39c383b5ea2e37f7",
-"title": "‘It Definitely Wasn’t Good’: Ineos Vowed the Transition Was Over. 2026 Shows It’s Only Just Starting.",
-"url": "https://velo.outsideonline.com/road/road-racing/netcompany-ineos-reboot-2026-definitely-wasnt-good/",
-"source": "Velo",
-"when": "15:35",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/netcompany-ineos-26.jpg?width=1200",
-"excerpt": ""
 }
 ]
 },
@@ -6179,6 +6182,39 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "d3685e528d66ba48",
+"title": "Week 9 Injury Report: Patriots vs. Packers",
+"url": "https://www.patriots.com/news/week-9-injury-report-patriots-vs-packers",
+"source": "Patriots.com",
+"when": "22:04",
+"also": [],
+"lang": "en",
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ktpjsebpur3fu7wpiw9z.png",
+"excerpt": "The New England Patriots and the Green Bay Packers announce the following player injuries and practice participation ahead of their Week 9 game."
+},
+{
+"id": "d5da169804f6577a",
+"title": "Watch LIVE: Red Sox prospects in Arizona Fall League action",
+"url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+"source": "MLB.com",
+"when": "21:25",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
+"excerpt": ""
+},
+{
+"id": "0a7aa9b3f493f10a",
+"title": "MFF-backen uttagen till Kosovos landslag",
+"url": "https://www.sydsvenskan.se/sport/mff-backen-uttagen-till-kosovos-landslag/",
+"source": "Sydsvenskan",
+"when": "21:09",
+"also": [],
+"lang": "sv",
+"image": "https://static.bonniernews.se/ba/2100844f-2b6a-4808-8248-7becdf970306.jpeg?crop=5296%2C2979%2Cx0%2Cy291&width=1200&format=pjpg&auto=avif",
+"excerpt": "Kan få göra A-landslagsdebut."
+},
 {
 "id": "bf7f25c5ed1431e4",
 "title": "Fem blågula trotjänare hyllas på Strawberry Arena",
@@ -6189,39 +6225,6 @@
 "lang": "sv",
 "image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4aae13/globalassets/svff/bilderblock/2611/avtackning_kvintett.jpg",
 "excerpt": ""
-},
-{
-"id": "2b2f2e006ed1b43d",
-"title": "Rob Gronkowski Induction Ceremony to be Held on Saturday, November 7",
-"url": "https://www.patriots.com/news/rob-gronkowski-induction-ceremony-to-be-held-on-saturday-november-7",
-"source": "Patriots.com",
-"when": "17:48",
-"also": [],
-"lang": "en",
-"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/fbooufiozgmgntjfeqfe.png",
-"excerpt": "Tight end Rob Gronkowski will be inducted into the Patriots Hall of Fame on Saturday, November 7, 2026 at 1 PM at Patriot Place Plaza."
-},
-{
-"id": "5c183571c9341f12",
-"title": "Offseason approach, Whitlock, pitching depth among hot Reddit AMA topics",
-"url": "https://www.mlb.com/redsox/news/red-sox-reddit-ama-ahead-of-2026-offseason-with-reporter-ian-browne",
-"source": "MLB.com",
-"when": "15:10",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/ujqcr0tthidbcadejhss.jpg",
-"excerpt": ""
-},
-{
-"id": "2a0c58c909413053",
-"title": "MFF förlänger med 40-åring",
-"url": "https://www.sydsvenskan.se/sport/sydsvenskan-sport-direkt-de-senaste-nyheterna/?ifr-dir-postId=b835e920-4127-42b4-a1dc-a94916d35ad0",
-"source": "Sydsvenskan",
-"when": "14:43",
-"also": [],
-"lang": "sv",
-"image": null,
-"excerpt": "Målvakten har flest SM-guld."
 },
 {
 "id": "8f556e935b0ec50e",
@@ -6259,7 +6262,7 @@
 ]
 }
 ],
-"lead": "429f56a3ffe1b420"
+"lead": "52b7f921c7f8e7ab"
 },
 {
 "id": "chess",
@@ -6305,6 +6308,17 @@
 "excerpt": ""
 },
 {
+"id": "3a1166bdcfd1ca90",
+"title": "Nakamura, Maghsoodloo, Movahed Take 3 0 Thursday Titles",
+"url": "https://www.chess.com/news/view/nakamura-maghsoodloo-movahed-3-0-thursday-11-5-2026",
+"source": "Chess.com",
+"when": "21:39",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2260139.2d408ab6.5000x5000o.76c437b540c8.png",
+"excerpt": ""
+},
+{
 "id": "3337caec1aaa703e",
 "title": "World Junior Rapid Championship 2026: Khumoyun Begmuratov and Eline Roebers capture titles",
 "url": "https://www.fide.com/world-junior-rapid-championship-2026-khumoyun-begmuratov-and-eline-roebers-capture-titles/",
@@ -6346,17 +6360,6 @@
 "also": [],
 "lang": "en",
 "image": "https://www.fide.com/wp-content/uploads/Sutovsky-CEO-FIDE-Enterprises.jpg",
-"excerpt": ""
-},
-{
-"id": "f0f9b9e782a59fd3",
-"title": "SLU, UTD Fight For First Place As Collegiate Chess League Heads To Playoffs",
-"url": "https://www.chess.com/news/view/ccl-week-6-2026",
-"source": "Chess.com",
-"when": "Thu 21:49",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2258829.36d68709.5000x5000o.9a93732f0870.png",
 "excerpt": ""
 }
 ]
@@ -6441,17 +6444,6 @@
 "excerpt": ""
 },
 {
-"id": "4f8b508d59452e10",
-"title": "Power BI reports support OAP exceptions for semantic models in separate workspaces (Preview)",
-"url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-reports-support-OAP-exceptions-for-semantic-models-in/ba-p/5377907",
-"source": "Power BI blog",
-"when": "Thu 23:00",
-"also": [],
-"lang": "en",
-"image": null,
-"excerpt": ""
-},
-{
 "id": "f1c1fd3319736319",
 "title": "Securing the agentic enterprise with data lineage",
 "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
@@ -6460,6 +6452,17 @@
 "also": [],
 "lang": "en",
 "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR_Cyberhaven_V4_Cover.png?w=840",
+"excerpt": ""
+},
+{
+"id": "9486f18fa2a5e49d",
+"title": "datasette-apps 0.3a0",
+"url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+"source": "Simon Willison",
+"when": "Wed 01:29",
+"also": [],
+"lang": "en",
+"image": null,
 "excerpt": ""
 }
 ]
@@ -6522,6 +6525,32 @@
 "excerpt": ""
 },
 {
+"id": "6f1b620d268e7589",
+"title": "Agios aims to shed over 100 R&D roles this year ahead of hoped-for sickle cell disease approval",
+"url": "https://www.fiercebiotech.com/biotech/agios-aims-shed-100-rd-roles-year-ahead-hoped-scd-approval",
+"source": "Fierce Biotech",
+"when": "Thu 19:17",
+"also": [
+"Fierce Pharma"
+],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2221463964.jpg?VersionId=flynrg9GIjnE5qYK9qF.AbE11IQYemTp",
+"excerpt": ""
+},
+{
+"id": "cf9b6912105975c9",
+"title": "AstraZeneca said to offer $10B to acquire Rhythm, analysts whisper of a bidding war",
+"url": "https://www.fiercebiotech.com/pharma/astrazeneca-offers-10b-acquire-rhythm-analysts-whisper-bidding-war",
+"source": "Fierce Biotech",
+"when": "Thu 19:17",
+"also": [
+"Fierce Pharma"
+],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/M%26A24.jpg?VersionId=C.FsKt7NUy1obRC7ODrMf.NqCjMX0jfl",
+"excerpt": ""
+},
+{
 "id": "6b2c75273f8901cf",
 "title": "Merck abandons Sutro-partnered IL-2 drug in ‘routine pipeline prioritization’",
 "url": "https://www.fiercebiotech.com/biotech/merck-abandons-sutro-partnered-il-2-drug-routine-pipeline-prioritization",
@@ -6533,17 +6562,6 @@
 "excerpt": "Merck & Co. has called time on a Sutro Biopharma-partnered IL-2 agonist that was being tested for solid tumors."
 },
 {
-"id": "ae943b29ffc9655d",
-"title": "Moderna’s norovirus vaccine plans in limbo in wake of phase 3 miss",
-"url": "https://www.fiercebiotech.com/biotech/modernas-norovirus-plans-limbo-after-ph3-miss",
-"source": "Fierce Biotech",
-"when": "18:40",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/Moderna_1.jpg?VersionId=39ojQUguDmYfK1xRYkJSYOAwLYe11brL",
-"excerpt": "Moderna has scrapped plans to enroll a new cohort in a phase 3 trial of its norovirus vaccine and instead will meet with regulators to decide on next steps."
-},
-{
 "id": "5724b8a67a87bab7",
 "title": "Fierce Pharma Asia—Boehringer’s $7.4B SBP deal; Fresenius’ sweeping biosim pact; A $1B molecular glue bet",
 "url": "https://www.fiercepharma.com/pharma/boehringer-74b-sbp-deal-fresenius-wuxi-bio-sweeping-biosim-pact-evommune-molecular-glue-bet",
@@ -6552,19 +6570,6 @@
 "also": [],
 "lang": "en",
 "image": "https://qtxasset.com/quartz/qcloud5/media/image/Asia_0.jpg?VersionId=V0Qcs49QmzIJakvwVvX4vzNOQ4n_adir",
-"excerpt": ""
-},
-{
-"id": "6f1b620d268e7589",
-"title": "Agios aims to shed over 100 R&D roles this year ahead of hoped-for sickle cell disease approval",
-"url": "https://www.fiercebiotech.com/biotech/agios-aims-shed-100-rd-roles-year-ahead-hoped-scd-approval",
-"source": "Fierce Biotech",
-"when": "Thu 19:17",
-"also": [
-"Fierce Pharma"
-],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2221463964.jpg?VersionId=flynrg9GIjnE5qYK9qF.AbE11IQYemTp",
 "excerpt": ""
 }
 ]
@@ -6589,8 +6594,8 @@
 "uv": 1,
 "sunrise": "07:20",
 "sunset": "17:05",
-"bar_l": 7,
-"bar_w": 33
+"bar_l": 30,
+"bar_w": 25
 },
 "slots": [
 {
@@ -6630,8 +6635,8 @@
 "uv": 1,
 "sunrise": "07:20",
 "sunset": "17:05",
-"bar_l": 7,
-"bar_w": 33
+"bar_l": 30,
+"bar_w": 25
 },
 {
 "date": "2026-11-07",
@@ -6642,13 +6647,13 @@
 "hi": 11,
 "lo": 6,
 "rain_mm": 0,
-"rain_pct": 63,
-"wind": 4,
+"rain_pct": 73,
+"wind": 5,
 "uv": 2,
 "sunrise": "07:22",
 "sunset": "17:03",
-"bar_l": 20,
-"bar_w": 33
+"bar_l": 40,
+"bar_w": 25
 },
 {
 "date": "2026-11-08",
@@ -6659,13 +6664,13 @@
 "hi": 13,
 "lo": 5,
 "rain_mm": 0,
-"rain_pct": 6,
-"wind": 7,
+"rain_pct": 10,
+"wind": 6,
 "uv": 2,
 "sunrise": "07:23",
 "sunset": "17:02",
-"bar_l": 13,
-"bar_w": 53
+"bar_l": 35,
+"bar_w": 40
 },
 {
 "date": "2026-11-09",
@@ -6676,13 +6681,13 @@
 "hi": 12,
 "lo": 7,
 "rain_mm": 7.3,
-"rain_pct": 76,
+"rain_pct": 82,
 "wind": 7,
 "uv": 1,
 "sunrise": "07:25",
 "sunset": "17:00",
-"bar_l": 27,
-"bar_w": 33
+"bar_l": 45,
+"bar_w": 25
 },
 {
 "date": "2026-11-10",
@@ -6693,13 +6698,13 @@
 "hi": 10,
 "lo": 8,
 "rain_mm": 21.0,
-"rain_pct": 85,
+"rain_pct": 93,
 "wind": 4,
 "uv": 0,
 "sunrise": "07:26",
 "sunset": "16:59",
-"bar_l": 33,
-"bar_w": 13
+"bar_l": 50,
+"bar_w": 10
 },
 {
 "date": "2026-11-11",
@@ -6709,14 +6714,14 @@
 "icon": "🌦️",
 "hi": 13,
 "lo": 9,
-"rain_mm": 3.8,
+"rain_mm": 2.0,
 "rain_pct": 47,
 "wind": 5,
 "uv": 1,
 "sunrise": "07:28",
 "sunset": "16:58",
-"bar_l": 40,
-"bar_w": 27
+"bar_l": 55,
+"bar_w": 20
 },
 {
 "date": "2026-11-12",
@@ -6726,14 +6731,14 @@
 "icon": "🌦️",
 "hi": 18,
 "lo": 9,
-"rain_mm": 0,
+"rain_mm": 0.7,
 "rain_pct": 45,
 "wind": 6,
 "uv": 0,
 "sunrise": "07:29",
 "sunset": "16:57",
-"bar_l": 40,
-"bar_w": 60
+"bar_l": 55,
+"bar_w": 45
 },
 {
 "date": "2026-11-13",
@@ -6742,52 +6747,52 @@
 "label": "Rain",
 "icon": "🌧️",
 "hi": 9,
-"lo": 3,
-"rain_mm": 0.1,
+"lo": 2,
+"rain_mm": 15.2,
 "rain_pct": 43,
 "wind": 11,
 "uv": 0,
 "sunrise": "07:31",
 "sunset": "16:55",
-"bar_l": 0,
-"bar_w": 40
+"bar_l": 20,
+"bar_w": 35
 },
 {
 "date": "2026-11-14",
 "dow": "Sat",
 "dm": "14.11.",
-"label": "Light showers",
-"icon": "🌦️",
-"hi": 10,
-"lo": 5,
-"rain_mm": 11.9,
+"label": "Fog",
+"icon": "🌫️",
+"hi": 8,
+"lo": -2,
+"rain_mm": 0.6,
 "rain_pct": 40,
-"wind": 12,
+"wind": 8,
 "uv": 2,
 "sunrise": "07:32",
 "sunset": "16:54",
-"bar_l": 13,
-"bar_w": 33
+"bar_l": 0,
+"bar_w": 50
 },
 {
 "date": "2026-11-15",
 "dow": "Sun",
 "dm": "15.11.",
-"label": "Light drizzle",
-"icon": "🌦️",
-"hi": 6,
-"lo": 5,
-"rain_mm": 0.2,
+"label": "Mostly clear",
+"icon": "🌤️",
+"hi": 7,
+"lo": -2,
+"rain_mm": 0,
 "rain_pct": 22,
-"wind": 6,
+"wind": 8,
 "uv": 2,
 "sunrise": "07:34",
 "sunset": "16:53",
-"bar_l": 13,
-"bar_w": 7
+"bar_l": 0,
+"bar_w": 45
 }
 ],
-"lo": 3,
+"lo": -2,
 "hi": 18
 }
 }
