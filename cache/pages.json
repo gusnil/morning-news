@@ -5881,8 +5881,8 @@
 },
 "2026-11-08": {
 "date": "2026-11-08",
-"built_at": "2026-11-08T16:47:00.469321+00:00",
-"built_local": "17:47",
+"built_at": "2026-11-08T20:44:46.401554+00:00",
+"built_local": "21:44",
 "edition": "Evening",
 "feeds_ok": 55,
 "feeds_total": 55,
@@ -5898,14 +5898,29 @@
 "title": null,
 "items": [
 {
+"id": "8a325e0c4f4cba1e",
+"title": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
+"url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
+"source": "France 24",
+"when": "21:40",
+"also": [
+"DW",
+"Al Jazeera",
+"The Hindu"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/8db004c0-db6f-11f1-9c7c-a575454bc579/w:1024/p:16x9/c9e8d80cbfc13f8f43d3833c67fbf17f6e5ccb25.jpg",
+"excerpt": ""
+},
+{
 "id": "1e7b0f8f6e57db6c",
 "title": "Middle East live: Israeli president officially tasks Eisenkot with forming government",
 "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
 "source": "France 24",
 "when": "10:47",
 "also": [
-"The Hindu",
 "Al Jazeera",
+"The Hindu",
 "DW",
 "BBC World",
 "SCMP"
@@ -5915,17 +5930,17 @@
 "excerpt": ""
 },
 {
-"id": "f966d263cf2686e8",
-"title": "Mourning in Poland after mass shooting",
-"url": "https://www.france24.com/en/mourning-in-poland-after-mass-shooting",
-"source": "France 24",
-"when": "15:18",
+"id": "adb026cb6c62f6b2",
+"title": "Coalition building begins as ANC suffers major blow in South Africa local elections",
+"url": "http://www.africanews.com/2026/11/08/coalition-building-begins-as-anc-suffers-major-blow-in-south-africa-local-elections/",
+"source": "Africanews",
+"when": "19:27",
 "also": [
-"The Hindu",
-"DW"
+"DW",
+"Al Jazeera"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/ac245178-db7d-11f1-9478-695cb59fade5/w:1024/p:16x9/EN-20261108-140118-140318-CS.jpg",
+"image": "https://images.euronews.com/articles/stories/09/98/46/60/640x360_cmsv2_43277678-a563-5671-9576-82bbda53670c-9984660.jpg?1794150163",
 "excerpt": ""
 },
 {
@@ -5940,19 +5955,6 @@
 "lang": "en",
 "image": "https://th-i.thgim.com/public/incoming/viw209/article71681078.ece/alternates/LANDSCAPE_1200/Egypt_Train_Crash_948_8.jpg",
 "excerpt": ""
-},
-{
-"id": "91b97fd4aa14e95a",
-"title": "South Africa’s ANC suffers setback in local elections",
-"url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "13:19",
-"also": [
-"DW"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T120837Z_64687481_RC2WGOA6DT10_RTRMADP_3_SAFRICA-ELECTION-1794136310.jpg?resize=1920%2C1440",
-"excerpt": "With 99 percent of votes counted, President Cyril Ramaphosa's party wins 31 percent nationally."
 },
 {
 "id": "478e628e35c25f7e",
@@ -5981,17 +5983,17 @@
 "excerpt": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains."
 },
 {
-"id": "9bd6b241fae60422",
-"title": "Paraguay's ousted President charged with crimes linked to collapse of major bank",
-"url": "https://www.thehindu.com/news/international/paraguays-ousted-president-charged-with-crimes-linked-to-collapse-of-major-bank/article71680452.ece",
+"id": "22ebde9a5d3db3cd",
+"title": "Iran executes three men over armed unrest during January protests",
+"url": "https://www.thehindu.com/news/international/iran-executes-three-men-over-armed-unrest-during-january-protests/article71680580.ece",
 "source": "The Hindu",
-"when": "02:22",
+"when": "06:52",
 "also": [
 "BBC World"
 ],
 "lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/ry3w3u/article71680455.ece/alternates/LANDSCAPE_1200/APTOPIX_Paraguay_Bank_Failure_767_.jpg",
-"excerpt": "In a farewell message released shortly before he was ousted on Friday (November 6), Mr. Peña expressed hope his departure would spare Paraguay further harm"
+"image": "https://th-i.thgim.com/public/incoming/87f0sz/article71397521.ece/alternates/LANDSCAPE_1200/Trump_Iran_The_Changing_Rationale_90343.jpg",
+"excerpt": ""
 },
 {
 "id": "3e167029cfa0dd70",
@@ -6007,15 +6009,17 @@
 "excerpt": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’."
 },
 {
-"id": "fb0e508bf4fd20a7",
-"title": "Egypt: 4 dead and dozens injured after two trains collide south of Cairo",
-"url": "http://www.africanews.com/2026/11/08/egypt-4-dead-and-dozens-injured-after-two-trains-collide-south-of-cairo/",
-"source": "Africanews",
-"when": "16:45",
-"also": [],
+"id": "b238a369cdc67098",
+"title": "Guatemalan lawmaker and three police officers killed in armed attack",
+"url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "Sat 17:15",
+"also": [
+"SCMP"
+],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/98/46/75/640x360_cmsv2_81c9e7d7-f163-5ca0-a19f-e2d5a7831253-9984675.jpg?1794150732",
-"excerpt": ""
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aef4b9de861a-1794067357.jpg?resize=1920%2C1440",
+"excerpt": "It happened in a region of the country known to have drug trafficking activity."
 },
 {
 "id": "0daea8e24ffb9ec0",
@@ -6031,7 +6035,7 @@
 ]
 }
 ],
-"lead": "1e7b0f8f6e57db6c"
+"lead": "8a325e0c4f4cba1e"
 },
 {
 "id": "basel",
@@ -6044,37 +6048,37 @@
 "title": null,
 "items": [
 {
-"id": "b2c1bb8abd827d59",
-"title": "Wahlen Kanton Freiburg – Die SVP gewinnt auf Kosten der FDP Sitze im Kantonsparlament",
-"url": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-die-svp-gewinnt-auf-kosten-der-fdp-sitze-im-kantonsparlament",
+"id": "94e7b6a5b3567ad2",
+"title": "Essenslieferant – Zürcher Just-Eat-Kuriere legen ihre Arbeit nieder",
+"url": "https://www.srf.ch/news/schweiz/essenslieferant-zuercher-just-eat-kuriere-legen-ihre-arbeit-nieder",
 "source": "SRF News",
-"when": "17:45",
+"when": "21:10",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/b459f3.webp",
-"excerpt": "Das Freiburger Stimmvolk hat den Grossen Rat neu gewählt. SVP und SP gewinnen."
+"image": "https://www.srf.ch/static/cms/images//320ws/9d9f81.webp",
+"excerpt": "Wegen geplanter Entlassungen haben Just-Eat-Fahrerinnen und -Fahrer in Zürich und im Glatttal gestreikt."
 },
 {
-"id": "565bf8d5ab01b650",
-"title": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
-"url": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
+"id": "3afc28d12b828ff1",
+"title": "Sonderkredit beantragt – Kleintheater Luzern muss trotz Finanzhilfe um Zukunft bangen",
+"url": "https://www.srf.ch/news/schweiz/sonderkredit-beantragt-kleintheater-luzern-muss-trotz-finanzhilfe-um-zukunft-bangen",
 "source": "SRF News",
-"when": "17:36",
+"when": "19:00",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/d393a6.webp",
-"excerpt": ""
+"image": "https://www.srf.ch/static/cms/images//320ws/010fb2.webp",
+"excerpt": "Im geplanten Neubau wird ein Mehrfaches an Miete fällig. Am Einnahmekonzept will das Theater vorderhand aber festhalten."
 },
 {
-"id": "46685bd096a168fb",
-"title": "700-jähriges Haus in Steinen – Schwyzer Baudenkmal aus dem Mittelalter soll zum Hotel werden",
-"url": "https://www.srf.ch/news/schweiz/700-jaehriges-haus-in-steinen-schwyzer-baudenkmal-aus-dem-mittelalter-soll-zum-hotel-werden",
+"id": "6f0890c325578af0",
+"title": "Marmorbruch – Wenn Tessiner Marmor zum Designobjekt wird",
+"url": "https://www.srf.ch/news/schweiz/marmorbruch-wenn-tessiner-marmor-zum-designobjekt-wird",
 "source": "SRF News",
-"when": "17:29",
+"when": "18:19",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/66a352.webp",
-"excerpt": "Der «Adler» ist für die Bauforschung beinahe wie ein Lotto-Sechser. Unter anderem wegen eines besonderen Lochs im Boden."
+"image": "https://www.srf.ch/static/cms/images//320ws/270f94.webp",
+"excerpt": "Der einzige Schweizer Marmorsteinbruch setzt auf Designobjekte: Damit sollen neue Märkte erobert werden."
 },
 {
 "id": "52d2189927f98f92",
@@ -6110,6 +6114,39 @@
 "excerpt": "Eine Frau zahlt mit einer 200er-Note und plaudert mit der Kassierin, während diese Geld wechselt. Dadurch kommt sie an mehr Rückgeld, als ihr zustehen würde."
 },
 {
+"id": "42695dee771b3f9e",
+"title": "Mann nach Sturz von Zug erfasst",
+"url": "https://www.bs.ch/medienmitteilungen/2026-mann-nach-sturz-von-zug-erfasst",
+"source": "Kanton Basel-Stadt",
+"when": "21:44",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
+},
+{
+"id": "626b68006e77b5a1",
+"title": "Unbewilligte Demonstration behindert den Verkehr in der Innenstadt",
+"url": "https://www.bs.ch/medienmitteilungen/jsd/2026-unbewilligte-demonstration-behindert-den-verkehr-der-innenstadt",
+"source": "Kanton Basel-Stadt",
+"when": "21:44",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
+},
+{
+"id": "31131985dc1bdd38",
+"title": "Schwere Herzen und ein gebrochener Goalie: Der Fussball verarbeitet die Tragödie um den verstorbenen Jesús de Miguel",
+"url": "https://www.nzz.ch/sport/fussball/fussballwelt-trauert-um-jesus-de-miguel-abschied-auf-teneriffa-ld.10057935",
+"source": "NZZ",
+"when": "21:08",
+"also": [],
+"lang": "de",
+"image": "https://img-msp-prod.nzz.ch/2026/11/07/c743a314-7bec-4281-bd22-0af2fe504f69.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3316,3316,x742,y0",
+"excerpt": ""
+},
+{
 "id": "f47be5fc157a61a1",
 "title": "Positive Bilanz zur Basler Herbstmesse 2026",
 "url": "https://www.bs.ch/medienmitteilungen/pd/2026-positive-bilanz-zur-basler-herbstmesse-2026",
@@ -6119,44 +6156,11 @@
 "lang": "de",
 "image": "https://media.bs.ch/og_image/d0d6866a74ea0de3a17d7e29d433310870f51d4d/2026-basler-herbstmesse-muensterplatz-042.jpg?h=4d1acf38&itok=8-33zeUw",
 "excerpt": ""
-},
-{
-"id": "f240878c97cfb84a",
-"title": "Erste Niederlage in der Super League: Der Tabellenführer Lugano verliert in St. Gallen 0:5",
-"url": "https://www.nzz.ch/sport/der-tabellenfuehrer-lugano-verliert-05-gegen-den-fc-st-gallen-ld.10057982",
-"source": "NZZ",
-"when": "17:33",
-"also": [],
-"lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/11/08/5dfc8bec-21a7-47db-9eaa-f90087433c3b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3346,3346,x837,y0",
-"excerpt": "Die Resultate der 13. Super-League-Runde im Überblick."
-},
-{
-"id": "7466a4ffc40e0464",
-"title": "Fan der Woche ist Mattia",
-"url": "https://bajour.ch/a/fan-der-woche-mattia",
-"source": "Bajour",
-"when": "Sat 17:08",
-"also": [],
-"lang": "de",
-"image": "https://media-bajour.wepublish.cloud/01a1b6c4-3ec0-72a4-994d-664e932940a7?quality=80&sig=6hCbRz9kc6Mp9wvO0lcjjSCfxtFhdnkxyRq4tDorcgcxcfkX05Wddf3HfxpERJgEwxwDHkvaeBVGGGnZSrK-DQ",
-"excerpt": ""
-},
-{
-"id": "b0e2cf94d1e4cf69",
-"title": "In Basel ist wieder «Mäss»!",
-"url": "https://www.bs.ch/medienmitteilungen/pd/2026-basel-ist-wieder-maess",
-"source": "Kanton Basel-Stadt",
-"when": "06:57",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
 }
 ]
 }
 ],
-"lead": "b2c1bb8abd827d59"
+"lead": "94e7b6a5b3567ad2"
 },
 {
 "id": "sport",
@@ -6169,6 +6173,28 @@
 "title": "Cycling",
 "items": [
 {
+"id": "96c78e42b4809644",
+"title": "Fastest lap is not enough to overcome a slow start for Cameron Mason sixth at UEC European Cyclo-cross Championships",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/fastest-lap-is-not-enough-to-overcome-a-slow-start-for-cameron-mason-sixth-at-uec-european-cyclo-cross-championships/",
+"source": "Cyclingnews",
+"when": "19:37",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/Y2Sg8p36jZj9E24bVpmnm-1920-80.jpg",
+"excerpt": "British champion ‘didn’t stop believing until one lap to go’"
+},
+{
+"id": "49f683fb8efe6fd3",
+"title": "‘Why not?’ - Isaac Del Toro on a Mexican rider winning Tour de France in the future",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/why-not-isaac-del-toro-on-a-mexican-rider-winning-tour-de-france-in-the-future/",
+"source": "Cyclingnews",
+"when": "18:49",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/6RLhg32sxhUZ2eq6qQQMHT-1920-80.jpg",
+"excerpt": "After a remarkable 2026 campaign that included Tour de France podium, UAE rider looks back on his rapid rise and growing leadership role"
+},
+{
 "id": "e58f03e5e4385ad7",
 "title": "Commissaire who relegated Marie Schreiber at the European Cyclo-cross Championships has a history with her SD Worx-Protime team",
 "url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/commissaire-who-relegated-marie-schreiber-at-the-european-cyclo-cross-championships-has-a-history-with-her-sd-worx-protime-team/",
@@ -6180,26 +6206,37 @@
 "excerpt": "SD Worx coach Sanne Cant describes decision as 'ridiculous’"
 },
 {
-"id": "49875427457cecc7",
-"title": "European Cyclo-cross Championships: Thibau Nys wins second elite title as Belgium sweeps the podium",
-"url": "https://www.cyclingnews.com/pro-cycling/racing/european-cyclo-cross-championships-thibau-nys-wins-second-elite-title-as-belgium-sweeps-the-podium/",
-"source": "Cyclingnews",
-"when": "16:22",
+"id": "bfff84977a9224da",
+"title": "Controversy Continues One Day After European Championship Relegation",
+"url": "https://velo.outsideonline.com/cyclocross/cyclocross-racing/controversy-continues-one-day-after-european-champs/",
+"source": "Velo",
+"when": "20:40",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/xCq9PUrhpCfFPWYWo5Q8Ni-1920-80.jpg",
-"excerpt": "Joran Wyseure is second and Niels Vandeputte takes third in Zeggam"
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/GettyImages-2303644741.jpg?width=1200",
+"excerpt": ""
 },
 {
-"id": "01d43512cc09d4ab",
-"title": "Singapore Criterium: Isaac Del Toro takes surprise solo win as the sprinters miss out",
-"url": "https://www.cyclingnews.com/pro-cycling/racing/singapore-criterium-isaac-del-toro-takes-surprise-solo-win-as-the-sprinters-miss-out/",
-"source": "Cyclingnews",
-"when": "13:14",
+"id": "ad13e18ea00b0b87",
+"title": "UCI commissaire who relegated Schreiber also responsible for SD Worx teammate Wiebes' Giro DQ",
+"url": "https://escapecollective.com/uci-commissaire-who-relegated-schreiber-also-responsible-for-sd-worx-teammate-wiebes-giro-dq/",
+"source": "Escape Collective",
+"when": "20:23",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/oo8VKYZDwha3LLjcTZYtnJ-1920-80.jpg",
-"excerpt": "Paul Seixas finishes second with Søren Warenskjold third"
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
+},
+{
+"id": "074507aa467c73cd",
+"title": "CX Euros 2026 gallery: 99 steps to the stars",
+"url": "https://escapecollective.com/cx-euros-2026-gallery-99-steps-to-the-stars/",
+"source": "Escape Collective",
+"when": "20:08",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/11/corvos-cx-euros-2026-me-nys-stairs-3-1.jpg",
+"excerpt": "Thibau Nys and Lucinda Brand headline the list of new European Champions on a weekend of dramatic racing and a little controversy."
 },
 {
 "id": "d4ca65b7087f95e6",
@@ -6211,50 +6248,6 @@
 "lang": "en",
 "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/GettyImages-2304129022.jpg?width=1200",
 "excerpt": ""
-},
-{
-"id": "01542cb1be89deb2",
-"title": "Nys wins second European CX title atop all-Belgian podium",
-"url": "https://escapecollective.com/nys-wins-second-european-cx-title-atop-all-belgian-podium/",
-"source": "Escape Collective",
-"when": "16:31",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
-"excerpt": ""
-},
-{
-"id": "b320a707ae6d375f",
-"title": "One Cyclist Killed, 20 Others Injured After Felony Hit and Run",
-"url": "https://velo.outsideonline.com/road/cyclist-killed-others-injured-north-carolina-hit-and-run/",
-"source": "Velo",
-"when": "15:50",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-08-at-14.44.16.jpg?width=1200",
-"excerpt": ""
-},
-{
-"id": "b9ec3a4c3bfb4c50",
-"title": "Schreiber's Luxembourg federation files official complaint after sprint controversy at CX Euros",
-"url": "https://escapecollective.com/schreibers-luxembourg-federation-files-official-complaint-after-sprint-controversy-at-cx-euros/",
-"source": "Escape Collective",
-"when": "15:46",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
-"excerpt": ""
-},
-{
-"id": "78b3feaf370ff885",
-"title": "Isaac del Toro wins Tour de France Singapore Criterium",
-"url": "https://escapecollective.com/isaac-del-toro-wins-tour-de-france-singapore-criterium/",
-"source": "Escape Collective",
-"when": "11:48",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/_20261107SING191_A.S.O.-Quentin-JOLY-28.jpg",
-"excerpt": ""
 }
 ]
 },
@@ -6263,37 +6256,48 @@
 "title": "Teams",
 "items": [
 {
-"id": "6676d58a9cffeb57",
-"title": "MFF-spelarna reagerade på polisprotesten: ”Jag fick gåshud”",
-"url": "https://www.sydsvenskan.se/sport/mff-spelarna-reagerade-pa-polisprotesten-jag-fick-gashud/",
+"id": "9e62cabecd8fa312",
+"title": "Inactives Analysis: TE Hunter Henry, WR Mack Hollins active; CB Charles Woods inactive for Patriots vs. Packers in Week 9",
+"url": "https://www.patriots.com/news/inactives-analysis-te-hunter-henry-wr-mack-hollins-active-cb-charles-woods-inactive-for-patriots-vs-packers-in-week-9",
+"source": "Patriots.com",
+"when": "20:57",
+"also": [],
+"lang": "en",
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/xvz61tej2o7rqe2mzaqm.png",
+"excerpt": "Woods (hamstring) is officially inactive as a late addition to the Patriots injury report on Sunday."
+},
+{
+"id": "d5da169804f6577a",
+"title": "Watch Red Sox prospects in Arizona Fall League action",
+"url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+"source": "MLB.com",
+"when": "20:55",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
+"excerpt": ""
+},
+{
+"id": "9b03dc4de3ba91b3",
+"title": "MFF-backen erkänner – kunde ha varit straff: ”Men så blåser han inte”",
+"url": "https://www.sydsvenskan.se/sport/mff-backen-erkanner-kunde-ha-varit-straff-men-sa-blaser-han-inte/",
 "source": "Sydsvenskan",
-"when": "17:23",
+"when": "20:00",
 "also": [],
 "lang": "sv",
-"image": "https://static.bonniernews.se/ba/d69d2da2-e6ec-413e-96f7-adba3418416b.jpeg?crop=3200%2C1800%2Cx0%2Cy0&width=1200&format=pjpg&auto=avif",
-"excerpt": "Tyst första 20 minuterna på Gamla Ullevi."
+"image": "https://static.bonniernews.se/ba/d6c9df20-842a-45d3-9ad7-036cffcfddd6.jpeg?crop=5477%2C3081%2Cx0%2Cy235&width=1200&format=pjpg&auto=avif",
+"excerpt": "Malte Frejd Pålsson i centrum i andra halvlek."
 },
 {
-"id": "ba647854bff05327",
-"title": "How to Watch and Stream Sunday's Patriots Game Against the Packers | NFL Week 9",
-"url": "https://www.patriots.com/news/how-to-watch-and-stream-sunday-s-patriots-game-against-the-packers-nfl-week-9",
-"source": "Patriots.com",
-"when": "15:54",
+"id": "1a640525582ee8cc",
+"title": "13. Runde der Super League – Spätes Eigentor: Basel muss sich in Thun mit 3:3 begnügen",
+"url": "https://www.srf.ch/sport/fussball/super-league/13-runde-der-super-league-spaetes-eigentor-basel-muss-sich-in-thun-mit-3-3-begnuegen",
+"source": "SRF Sport",
+"when": "18:46",
 "also": [],
-"lang": "en",
-"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/asriisxzzswglbc26m7f.png",
-"excerpt": "Complete broadcast information for this week's game between the New England Patriots and the Green Bay Packser on Sunday, November 8, 2026 at 4:25 PM ET."
-},
-{
-"id": "36663fb480d5dfe3",
-"title": "Breaking down the Fall Stars Game participants by organization",
-"url": "https://www.mlb.com/redsox/news/2026-arizona-fall-league-fall-stars-by-organization",
-"source": "MLB.com",
-"when": "06:14",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/pvhuq2ggzugogxyeyhkx.jpg",
-"excerpt": ""
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/b1416a.webp",
+"excerpt": "Der FCB holt trotz zwei Celar-Toren und zwischenzeitlicher 2:0-Führung «nur» einen Punkt im Berner Oberland."
 },
 {
 "id": "e7b27e4bf9b6b719",
@@ -6353,12 +6357,12 @@
 ]
 }
 ],
-"lead": "e58f03e5e4385ad7"
+"lead": "96c78e42b4809644"
 },
 {
 "id": "chess",
 "title": "Chess",
-"count": 8,
+"count": 7,
 "thin": false,
 "groups": [
 {
@@ -6431,17 +6435,6 @@
 "also": [],
 "lang": "en",
 "image": "https://images.chesscomfiles.com/uploads/v1/news/2260125.62547ed4.5000x5000o.e92f7fc69261.png",
-"excerpt": ""
-},
-{
-"id": "a7c825460673903d",
-"title": "Sahel Chess Festival: Bringing the world of chess to Africa",
-"url": "https://www.fide.com/sahel-chess-festival-bringing-the-world-of-chess-to-africa/",
-"source": "FIDE",
-"when": "Fri 20:13",
-"also": [],
-"lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/Sahel-2026-Sambuev.jpg",
 "excerpt": ""
 },
 {
@@ -6566,7 +6559,7 @@
 {
 "id": "rd",
 "title": "R&D",
-"count": 8,
+"count": 7,
 "thin": false,
 "groups": [
 {
@@ -6582,17 +6575,6 @@
 "also": [],
 "lang": "en",
 "image": "https://endpoints.news/wp-content/uploads/2025/03/heart-illustration-shutterstock-social.jpg",
-"excerpt": ""
-},
-{
-"id": "99e88e5c61db621d",
-"title": "J&J’s Rybrevant nets FDA approval in head and neck cancer",
-"url": "https://endpoints.news/jjs-rybrevant-nets-fda-approval-in-head-and-neck-cancer/",
-"source": "Endpoints News",
-"when": "Fri 17:53",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2026/05/Johnson-Johnson-JJ-shutterstock-social51.jpg",
 "excerpt": ""
 },
 {
@@ -6629,36 +6611,36 @@
 "excerpt": "Hims & Hers struck a deal with Eli Lilly to offer the drugmaker’s branded obesity treatments through its online health and wellness platform."
 },
 {
-"id": "6b2c75273f8901cf",
-"title": "Merck abandons Sutro-partnered IL-2 drug in ‘routine pipeline prioritization’",
-"url": "https://www.fiercebiotech.com/biotech/merck-abandons-sutro-partnered-il-2-drug-routine-pipeline-prioritization",
-"source": "Fierce Biotech",
-"when": "Fri 18:40",
+"id": "ffe008ddc4327589",
+"title": "Novo’s race to catch Lilly; Q3 earnings recap; and more",
+"url": "https://endpoints.news/novos-race-to-catch-lilly-q3-earnings-recap-and-more/",
+"source": "Endpoints News",
+"when": "Sat 12:00",
 "also": [],
 "lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/merck_1_0.jpg?VersionId=sYr0BJGjhhKHkJ6R4.eRFfkax31uPFAU",
-"excerpt": "Merck & Co. has called time on a Sutro Biopharma-partnered IL-2 agonist that was being tested for solid tumors."
+"image": "https://endpoints.news/wp-content/uploads/2021/02/epn_weekly_twitter.jpg",
+"excerpt": ""
 },
 {
-"id": "ae943b29ffc9655d",
-"title": "Moderna’s norovirus vaccine plans in limbo in wake of phase 3 miss",
-"url": "https://www.fiercebiotech.com/biotech/modernas-norovirus-plans-limbo-after-ph3-miss",
-"source": "Fierce Biotech",
-"when": "Fri 18:40",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/Moderna_1.jpg?VersionId=39ojQUguDmYfK1xRYkJSYOAwLYe11brL",
-"excerpt": "Moderna has scrapped plans to enroll a new cohort in a phase 3 trial of its norovirus vaccine and instead will meet with regulators to decide on next steps."
-},
-{
-"id": "5724b8a67a87bab7",
-"title": "Fierce Pharma Asia—Boehringer’s $7.4B SBP deal; Fresenius’ sweeping biosim pact; A $1B molecular glue bet",
-"url": "https://www.fiercepharma.com/pharma/boehringer-74b-sbp-deal-fresenius-wuxi-bio-sweeping-biosim-pact-evommune-molecular-glue-bet",
+"id": "d7bc555da32e1d31",
+"title": "The Oral GLP-1 Tracker: Foundayo sets new Rx record as Wegovy pill rebounds to prior high",
+"url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
 "source": "Fierce Pharma",
-"when": "Fri 18:40",
+"when": "Sat 17:37",
 "also": [],
 "lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/Asia_0.jpg?VersionId=V0Qcs49QmzIJakvwVvX4vzNOQ4n_adir",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1312304496.jpg?VersionId=uk2Tg0yB9mKL7bPW0SVtm7nf7SVxqROr",
+"excerpt": ""
+},
+{
+"id": "9a7141fd8fa4e182",
+"title": "CMS makes it official, codifying Medicare drug price negotiations established under IRA",
+"url": "https://www.fiercepharma.com/pharma/cms-makes-it-official-codifying-medicare-drug-price-negotiations-rolled-out-under-ira",
+"source": "Fierce Pharma",
+"when": "Sat 06:54",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1236378567.jpg?VersionId=74TIFsfEzcfyVnRLEFJDaK.f8TfSxcNu",
 "excerpt": ""
 }
 ]
@@ -6676,15 +6658,15 @@
 "label": "Light showers",
 "icon": "🌦️",
 "hi": 13,
-"lo": 5,
+"lo": 4,
 "rain_mm": 0,
 "rain_pct": 0,
 "wind": 8,
 "uv": 2,
 "sunrise": "07:23",
 "sunset": "17:02",
-"bar_l": 33,
-"bar_w": 44
+"bar_l": 28,
+"bar_w": 50
 },
 "slots": [
 {
@@ -6703,7 +6685,7 @@
 },
 {
 "name": "Evening",
-"temp": 8,
+"temp": 7,
 "icon": "🌤️",
 "label": "Mostly clear",
 "rain_pct": 0
@@ -6717,32 +6699,32 @@
 "label": "Light showers",
 "icon": "🌦️",
 "hi": 13,
-"lo": 5,
+"lo": 4,
 "rain_mm": 0,
 "rain_pct": 0,
 "wind": 8,
 "uv": 2,
 "sunrise": "07:23",
 "sunset": "17:02",
-"bar_l": 33,
-"bar_w": 44
+"bar_l": 28,
+"bar_w": 50
 },
 {
 "date": "2026-11-09",
 "dow": "Mon",
 "dm": "09.11.",
-"label": "Light showers",
+"label": "Light rain",
 "icon": "🌦️",
 "hi": 11,
-"lo": 6,
-"rain_mm": 4.8,
-"rain_pct": 93,
+"lo": 4,
+"rain_mm": 3.6,
+"rain_pct": 95,
 "wind": 6,
 "uv": 1,
 "sunrise": "07:25",
 "sunset": "17:00",
-"bar_l": 39,
-"bar_w": 28
+"bar_l": 28,
+"bar_w": 39
 },
 {
 "date": "2026-11-10",
@@ -6750,16 +6732,16 @@
 "dm": "10.11.",
 "label": "Light showers",
 "icon": "🌦️",
-"hi": 12,
-"lo": 9,
-"rain_mm": 10.2,
+"hi": 11,
+"lo": 10,
+"rain_mm": 22.8,
 "rain_pct": 93,
-"wind": 5,
+"wind": 4,
 "uv": 0,
 "sunrise": "07:26",
 "sunset": "16:59",
-"bar_l": 56,
-"bar_w": 17
+"bar_l": 61,
+"bar_w": 6
 },
 {
 "date": "2026-11-11",
@@ -6770,7 +6752,7 @@
 "hi": 17,
 "lo": 10,
 "rain_mm": 2.6,
-"rain_pct": 41,
+"rain_pct": 50,
 "wind": 5,
 "uv": 2,
 "sunrise": "07:28",
@@ -6787,9 +6769,9 @@
 "hi": 16,
 "lo": 8,
 "rain_mm": 2.4,
-"rain_pct": 75,
+"rain_pct": 71,
 "wind": 6,
-"uv": 1,
+"uv": 0,
 "sunrise": "07:29",
 "sunset": "16:57",
 "bar_l": 50,
@@ -6804,7 +6786,7 @@
 "hi": 8,
 "lo": 3,
 "rain_mm": 16.1,
-"rain_pct": 79,
+"rain_pct": 75,
 "wind": 9,
 "uv": 2,
 "sunrise": "07:31",
@@ -6821,7 +6803,7 @@
 "hi": 8,
 "lo": 2,
 "rain_mm": 0,
-"rain_pct": 52,
+"rain_pct": 32,
 "wind": 10,
 "uv": 2,
 "sunrise": "07:32",
@@ -6838,7 +6820,7 @@
 "hi": 6,
 "lo": -1,
 "rain_mm": 0,
-"rain_pct": 20,
+"rain_pct": 5,
 "wind": 12,
 "uv": 2,
 "sunrise": "07:34",
@@ -6850,35 +6832,35 @@
 "date": "2026-11-16",
 "dow": "Mon",
 "dm": "16.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 12,
-"lo": 4,
+"label": "Overcast",
+"icon": "☁️",
+"hi": 9,
+"lo": 2,
 "rain_mm": 0,
 "rain_pct": 32,
-"wind": 12,
+"wind": 9,
 "uv": 2,
 "sunrise": "07:35",
 "sunset": "16:52",
-"bar_l": 28,
-"bar_w": 44
+"bar_l": 17,
+"bar_w": 39
 },
 {
 "date": "2026-11-17",
 "dow": "Tue",
 "dm": "17.11.",
-"label": "Light rain",
+"label": "Drizzle",
 "icon": "🌦️",
-"hi": 9,
-"lo": 6,
-"rain_mm": 17.6,
+"hi": 14,
+"lo": 4,
+"rain_mm": 3.2,
 "rain_pct": 61,
-"wind": 10,
+"wind": 18,
 "uv": 2,
 "sunrise": "07:37",
 "sunset": "16:51",
-"bar_l": 39,
-"bar_w": 17
+"bar_l": 28,
+"bar_w": 56
 }
 ],
 "lo": -1,
