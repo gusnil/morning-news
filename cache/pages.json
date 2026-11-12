@@ -5951,10 +5951,10 @@
 },
 "2026-11-12": {
 "date": "2026-11-12",
-"built_at": "2026-11-11T23:01:29.215397+00:00",
-"built_local": "00:01",
+"built_at": "2026-11-12T07:06:06.692949+00:00",
+"built_local": "08:06",
 "edition": "Morning",
-"feeds_ok": 54,
+"feeds_ok": 55,
 "feeds_total": 55,
 "sections": [
 {
@@ -5967,6 +5967,20 @@
 "id": "world",
 "title": null,
 "items": [
+{
+"id": "5ef3bd3044759e8a",
+"title": "Democrat Scott Colom wins historic Senate race in Mississippi",
+"url": "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi",
+"source": "France 24",
+"when": "00:47",
+"also": [
+"DW",
+"BBC World"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/e7807fc4-de27-11f1-b242-f71d22e7fea9/w:1024/p:16x9/AP26314768923953.jpg",
+"excerpt": ""
+},
 {
 "id": "2cda798de94b104c",
 "title": "Schools evacuated across Italy after bomb threats",
@@ -5983,46 +5997,84 @@
 "excerpt": ""
 },
 {
-"id": "93d9d901572b6b9c",
-"title": "Russia and Ukraine agree to major prisoner swap as peace talks end",
-"url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
+"id": "3e8821e5fa8c1a13",
+"title": "Nvidia board to decide whether to oust longtime CEO Jensen Huang",
+"url": "https://www.france24.com/en/technology/20261112-nvidia-board-to-decide-whether-to-oust-longtime-ceo-jensen-huang",
 "source": "France 24",
-"when": "Wed 22:46",
+"when": "05:05",
 "also": [
-"The Hindu",
-"SCMP"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/ac4aeb04-de15-11f1-876f-3f371022a770/w:1024/p:16x9/2026-11-11T121539Z-1035325634-RC2OLOA6XBUN-RTRMADP-3-UKRAINE-CRISIS-TALKS.jpg",
-"excerpt": ""
-},
-{
-"id": "e5e86fdd1db04a30",
-"title": "Brazil electoral court fines Meta $1.3 MN, sees no deliberate election bias",
-"url": "https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias",
-"source": "France 24",
-"when": "Wed 17:08",
-"also": [
-"DW",
 "The Hindu"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/c4a5b334-dde6-11f1-9c6b-695cb59fade5/w:1024/p:16x9/EN-20261111-161101-161439-CS.jpg",
-"excerpt": "Jan Onoszko, our correspondent in Rio, has more."
+"image": "https://s.france24.com/media/display/adc9839a-de43-11f1-b3fb-3f371022a770/w:1024/p:16x9/8ddea3d92713a356312bc00778a8eceba072dea5.jpg",
+"excerpt": ""
 },
 {
-"id": "d3f5b0a179795dee",
-"title": "Will Sheikh Hasina return to Bangladesh?",
-"url": "https://www.aljazeera.com/video/inside-story/2026/11/11/will-sheikh-hasina-return-to-bangladesh?traffic_source=rss",
+"id": "802eedda25474c93",
+"title": "Sheikh Hasina must return to Bangladesh to face her sentence",
+"url": "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss",
 "source": "Al Jazeera",
-"when": "Wed 19:43",
+"when": "07:37",
 "also": [
 "The Hindu",
 "SCMP"
 ],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794420528.jpg?resize=1920%2C1080&quality=80",
-"excerpt": "The former Bangladeshi PM says she is planning to go back, despite a death sentence."
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-05T153555Z_1937349999_RC2CSMA6NKK7_RTRMADP_3_BANGLADESH-POLITICS-HASINA-1786004218.jpg?resize=1920%2C1440",
+"excerpt": "Delhi should ensure that its territory is not used to incite violence in Bangladesh or threaten its people."
+},
+{
+"id": "72600c125a40af36",
+"title": "U.S. Defence Secretary Hegseth, staff reprimanded by guard at Tomb of the Unknown Soldier",
+"url": "https://www.thehindu.com/news/international/us-defence-secretary-hegseth-staff-reprimanded-by-guard-at-tomb-of-the-unknown-soldier/article71692421.ece",
+"source": "The Hindu",
+"when": "06:41",
+"also": [
+"Al Jazeera",
+"SCMP"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/tp2ipu/article71692447.ece/alternates/LANDSCAPE_1200/2026-11-11T193027Z_776701442_RC2SLOAQQ7OU_RTRMADP_3_USA-TRUMP.JPG",
+"excerpt": ""
+},
+{
+"id": "3efa093ad604dd81",
+"title": "Indonesia vice president resigns amid dispute over eligibility",
+"url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "07:38",
+"also": [
+"The Hindu"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af55279b616-1794462329.jpg?resize=1920%2C1440",
+"excerpt": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education."
+},
+{
+"id": "8d737e0caf170c16",
+"title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+"url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "05:00",
+"also": [
+"The Hindu"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8c941bcc3a1-1787597851.jpg?resize=1920%2C1440",
+"excerpt": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report."
+},
+{
+"id": "0f3df33814b7affd",
+"title": "Spain: Clashes erupt in Barcelona after peaceful general strike march",
+"url": "http://www.africanews.com/2026/11/11/spain-clashes-erupt-in-barcelona-after-peaceful-general-strike-march/",
+"source": "Africanews",
+"when": "Wed 23:54",
+"also": [
+"BBC World"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/09/98/90/33/640x360_cmsv2_2c46f7b4-9916-5bf2-ab5f-e959853c0f46-9989033.jpg?1794436653",
+"excerpt": ""
 },
 {
 "id": "3f13179411c3f931",
@@ -6038,56 +6090,6 @@
 "excerpt": "Mr. Trump said in his remarks that the conflict was started not by Washington but by Tehran, which “has been waging war on America since 1979”"
 },
 {
-"id": "32cbec7244addfc1",
-"title": "F1 champion Lewis Hamilton calls on Israel to open Gaza’s Rafah border",
-"url": "https://www.aljazeera.com/news/2026/11/11/f1-champion-lewis-hamilton-calls-on-israel-to-open-rafah-border?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Wed 21:24",
-"also": [
-"Africanews"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af4c95c75cda-1794427228.jpg?resize=1920%2C1440",
-"excerpt": "Hamilton visited the Egypt-Gaza border as conditions worsened for Palestinians in Gaza after heavy rains."
-},
-{
-"id": "dc1aaa2046f5cb0a",
-"title": "DR Congo Ebola outbreak exceeds 11,000 cases, causes 5,387 deaths",
-"url": "https://www.thehindu.com/news/international/dr-congo-ebola-outbreak-exceeds-11000-cases-causes-5387-deaths/article71691022.ece",
-"source": "The Hindu",
-"when": "Wed 18:23",
-"also": [
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/r1mldy/article71691031.ece/alternates/LANDSCAPE_1200/2026-11-10T231521Z_1038667610_RC2DEOALC7O8_RTRMADP_3_HEALTH-EBOLA-CONGO.JPG",
-"excerpt": "The 17th outbreak of the virus in the DRC's history was officially declared in May, but experts believe it emerged weeks or even months earlier"
-},
-{
-"id": "979c2aa258f59d0f",
-"title": "Kenya discharges last Ebola patient, awaits disease-free status",
-"url": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Wed 16:34",
-"also": [
-"BBC World"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af47b4c-1794407244.jpg?resize=1920%2C1440",
-"excerpt": "Health Minister Aden Duale says Kenya will continue to exercise prevention measures until December 23."
-},
-{
-"id": "481e86c93a472f3f",
-"title": "Spain: 120,000 brave rain to demand affordable housing and better wages",
-"url": "http://www.africanews.com/2026/11/11/spain-120000-brave-rain-to-demand-affordable-housing-and-better-wages/",
-"source": "Africanews",
-"when": "Wed 23:37",
-"also": [],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/98/90/20/640x360_cmsv2_5a20112a-17f3-59d6-bd53-0c618aa3ab6b-9989020.jpg?1794434645",
-"excerpt": ""
-},
-{
 "id": "0146abfd54dc3086",
 "title": "Brazil's Electoral Court Fines Meta $1.3 Million in Case Over Unequal Treatment of Lula and Flávio Bolsonaro",
 "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/11/brazils-electoral-court-fines-meta-13-million-in-case-over-unequal-treatment-of-lula-and-flavio-bolsonaro.shtml",
@@ -6101,7 +6103,7 @@
 ]
 }
 ],
-"lead": "2cda798de94b104c"
+"lead": "5ef3bd3044759e8a"
 },
 {
 "id": "basel",
@@ -6128,108 +6130,108 @@
 "excerpt": "Am 15. Mai 2025 soll ein Mann einen 49-Jährigen getötet haben."
 },
 {
-"id": "a85bf0fee9596d40",
-"title": "Neun Festnahmen bei Kontrolle am Bahnhof SBB",
-"url": "https://bajour.ch/a/neun-festnahmen-bei-kontrolle-am-bahnhof-sbb",
-"source": "Bajour",
-"when": "Wed 23:19",
+"id": "550bdcb993f0f4b6",
+"title": "Massenkündigung bei Just Eat – Kuriere fühlen sich von den Behörden im Stich gelassen",
+"url": "https://www.srf.ch/news/schweiz/massenkuendigung-bei-just-eat-kuriere-fuehlen-sich-von-den-behoerden-im-stich-gelassen",
+"source": "SRF News",
+"when": "07:02",
 "also": [],
 "lang": "de",
-"image": null,
-"excerpt": "Am Dienstag führte die Kantonspolizei eine Grosskontrolle beim Bahnhof durch."
+"image": "https://www.srf.ch/static/cms/images//320ws/615202a.webp",
+"excerpt": "In mehreren Städten sollen Kuriere künftig ohne Mindestlohn und Kündigungsschutz ausliefern. Dagegen wehren sie sich."
 },
 {
-"id": "f93d73d96405b3fd",
-"title": "Julia Weber",
-"url": "https://bajour.ch/a/julia-weber",
+"id": "e224c7da8a557f32",
+"title": "Eindrücklicher Vergleich mit Aargau: Plötzlich geht es ganz schnell: Weshalb das Baselbiet bereits 2027 die Steuern senken könnte",
+"url": "https://www.bazonline.ch/baselland-buergerliche-fordern-steuersenkung-ab-2027-284632326887",
+"source": "Basler Zeitung",
+"when": "06:37",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/BWSBqVoLK4FBy4Dl7f2Mqc.png",
+"excerpt": ""
+},
+{
+"id": "5c964306c97d9351",
+"title": "Angriff bei Prilly-Malley – Bis zu fünf Jahre Gefängnis für gewalttätige Eishockey-Fans",
+"url": "https://www.srf.ch/news/dialog/angriff-bei-prilly-malley-bis-zu-fuenf-jahre-gefaengnis-fuer-gewalttaetige-eishockey-fans",
+"source": "SRF News",
+"when": "06:06",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/3c3663.webp",
+"excerpt": "Am 24. Oktober kam es am Bahnhof Prilly-Malley (VD) zu Angriffen von Eishockey-Fans. Ihnen drohen lange Haftstrafen."
+},
+{
+"id": "0f8649de00e8b385",
+"title": "Auf Plaine-Morte-Gletscher – Von der Lenk ins Wallis per Seilbahn: Machbar, aber umstritten",
+"url": "https://www.srf.ch/news/schweiz/auf-plaine-morte-gletscher-von-der-lenk-ins-wallis-per-seilbahn-machbar-aber-umstritten",
+"source": "SRF News",
+"when": "06:03",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/effab8.webp",
+"excerpt": "Die Seilbahn zwischen Lenk BE und Crans-Montana VS könnte sich touristisch lohnen, greift jedoch stark in die Natur ein."
+},
+{
+"id": "95f9a7e4a8e5b0f1",
+"title": "«Auch wir könnten sein wie Ruth, wenn wir ein Fell hätten»",
+"url": "https://bajour.ch/a/autorin-julia-weber-ueber-ihren-dritten-roman",
 "source": "Bajour",
-"when": "Wed 23:14",
+"when": "02:00",
 "also": [],
 "lang": "de",
 "image": "https://media-bajour.wepublish.cloud/01a1cb29-e78e-720f-aa59-9ff53cd6e447?quality=80&sig=w9PXtfBTyYuEYYtlIW9oR56ZUErzZ2RDTDH-b456sE1bRtsfA27q2NOeU0kYFIH5dU8bodBHgM_jYoPZAtgFBA",
 "excerpt": ""
 },
 {
-"id": "141921c02e98c075",
-"title": "Liebesaffäre am Bundesgericht – Bundesrichter Donzallaz hat seine Kandidatur zurückgezogen",
-"url": "https://www.srf.ch/news/schweiz/liebesaffaere-am-bundesgericht-bundesrichter-donzallaz-hat-seine-kandidatur-zurueckgezogen",
-"source": "SRF News",
-"when": "Wed 21:19",
+"id": "86cfb2440ec80488",
+"title": "Immer früher im Sog der Glücksspiele",
+"url": "https://bajour.ch/a/immer-frueher-im-sog-der-gluecksspiele",
+"source": "Bajour",
+"when": "02:00",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/7127f1c.webp",
-"excerpt": "Die Gerichtskommission empfiehlt Bundesrichterin Beatrice van de Graaf zur Wiederwahl."
-},
-{
-"id": "af422509bf16c21a",
-"title": "Liebe zwischen Bundesrichtern – Die Affäre am Bundesgericht nimmt überraschende Wendungen",
-"url": "https://www.srf.ch/news/schweiz/liebe-zwischen-bundesrichtern-die-affaere-am-bundesgericht-nimmt-ueberraschende-wendungen",
-"source": "SRF News",
-"when": "Wed 21:13",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/cf4bfb.webp",
-"excerpt": "Bundesrichter Donzallaz tritt nicht mehr an. Seine Amtskollegin Van de Graaf hingegen wird zur Wiederwahl empfohlen."
-},
-{
-"id": "77bd1a7914a6a870",
-"title": "Schwarzarbeit bei Standbetreibern?: «Basler Herbstmesse darf nicht auf Kosten derer stattfinden, die sie ermöglichen»",
-"url": "https://www.bazonline.ch/basler-herbstmesse-interpellation-zu-lohndumping-und-schwarzarbeit-355540559811",
-"source": "Basler Zeitung",
-"when": "Wed 19:02",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/DTjmsCcHazt8fc-xiUbymD.jpg",
+"image": "https://media-bajour.wepublish.cloud/01a1c4e2-a0dd-7481-aea6-45b93cf128ed?quality=80&sig=DmUkKx9aMLpxdXSVnoFOAVrjsIyR2nx8j-gse7Y5l_47VvtiWc-lIyPDHhqTpaWO81R9hmIZfF_qQrRXcobUBA",
 "excerpt": ""
 },
 {
-"id": "44c2a447bc754241",
-"title": "Streit um autofreien Bankverein: Esther Keller: «Die zusätzlichen Fahrzeuge haben kaum Auswirkungen auf den heutigen Aeschenplatz»",
-"url": "https://www.bazonline.ch/bankverein-autofrei-haelt-aeschenplatz-mehrverkehr-aus-840103417039",
-"source": "Basler Zeitung",
-"when": "Wed 19:02",
+"id": "3a34408449059a08",
+"title": "Festnahme nach Körperverletzung",
+"url": "https://www.bs.ch/medienmitteilungen/2026-festnahme-nach-koerperverletzung-5",
+"source": "Kanton Basel-Stadt",
+"when": "08:06",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/4wxp7oz5KCy9ig_kd5phhF.jpg",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
 "excerpt": ""
 },
 {
-"id": "21ee3a7e4d4200a5",
-"title": "Studie der Uni Zürich – Neue Methode lässt K.-o.-Tropfen im Körper länger nachweisen",
-"url": "https://www.srf.ch/news/schweiz/studie-der-uni-zuerich-neue-methode-laesst-k-o-tropfen-im-koerper-laenger-nachweisen",
-"source": "SRF News",
-"when": "Wed 18:59",
+"id": "47b861b9b117fab0",
+"title": "Festnahme nach Betrug",
+"url": "https://www.bs.ch/medienmitteilungen/2026-festnahme-nach-betrug-1",
+"source": "Kanton Basel-Stadt",
+"when": "08:06",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/ad6a1e.webp",
-"excerpt": "Wie lange K.-o.-Tropfen neu nachweisbar sind und warum das wichtig ist, erklärt die stellvertretende Institutsleiterin."
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
 },
 {
-"id": "66d05e2b283e5eca",
-"title": "Entscheid im Grossen Rat: Zahl der Kontrollen gegen Parksünder soll verdreifacht werden – Gegner sprechen von «Autohass»",
-"url": "https://www.bazonline.ch/basel-grosser-rat-fordert-mehr-parkraumkontrolle-762453705596",
-"source": "Basler Zeitung",
-"when": "Wed 18:08",
+"id": "48c82e3ae36ba3ba",
+"title": "«Ystimme»: Neuer Eröffnungsanlass für die Basler Weihnacht",
+"url": "https://www.bs.ch/medienmitteilungen/pd/2026-ystimme-neuer-eroeffnungsanlass-fuer-die-basler-weihnacht",
+"source": "Kanton Basel-Stadt",
+"when": "08:06",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/EHLPO0yU4W489L5U76V2z2.jpg",
-"excerpt": "Nach einer emotionalen Debatte muss die Regierung nun prüfen, ob und wie der ruhende Verkehr mehr kontrolliert werden kann."
-},
-{
-"id": "50fb642b40bf1dec",
-"title": "Homeschooling ohne Bewilligung: Familien nutzen Schlupflöcher",
-"url": "https://www.20min.ch/story/homeschooling-in-basel-kanton-bewilligt-privatunterricht-nur-ausnahmsweise-103664517",
-"source": "20 Minuten Basel",
-"when": "Wed 21:33",
-"also": [],
-"lang": "de",
-"image": "https://image.20min.ch/2026/11/09/fb2be677-1442-40b3-ad4c-f5e74e8120fc.jpg?s=2cd94bd3c9b124e4733cd5a50dee547f",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "f93d73d96405b3fd"
+"lead": "550bdcb993f0f4b6"
 },
 {
 "id": "sport",
@@ -6247,12 +6249,21 @@
 "url": "https://www.cyclingnews.com/bikes/classic-british-steel-bike-maker-temple-cycles-set-to-close-after-12-years-in-business/",
 "source": "Cyclingnews",
 "when": "Wed 22:19",
-"also": [
-"Escape Collective"
-],
+"also": [],
 "lang": "en",
 "image": "https://cdn.mos.cms.futurecdn.net/ykVu3Qck8PBsRgiuruhdFM-1920-80.jpg",
 "excerpt": "The company had shops in London and Bristol"
+},
+{
+"id": "193c894c88161e2d",
+"title": "Nobl goes light with AR40 and AR50 all-road wheels",
+"url": "https://escapecollective.com/nobl-goes-light-with-ar40-and-ar50-all-road-wheels/",
+"source": "Escape Collective",
+"when": "06:03",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/11/Noble-AR40-AR50.jpg",
+"excerpt": ""
 },
 {
 "id": "52a4218eddb518a8",
@@ -6277,8 +6288,30 @@
 "excerpt": "British champion beats Joran Wyseure in late duel after Michael Vanthourenhout crashed out of contention"
 },
 {
+"id": "aa87b64db77a28fd",
+"title": "Denmark to host the 2027 European Road Championships",
+"url": "https://escapecollective.com/denmark-to-host-the-2027-european-road-championships/",
+"source": "Escape Collective",
+"when": "02:03",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
+},
+{
+"id": "7f07b9ff505da8ba",
+"title": "The Best Shoe Covers I’ve Ever Used Are 55% Off and Even Cheaper Than Last Year",
+"url": "https://velo.outsideonline.com/road/road-gear/specialized-tall-neoprene-shoe-cover-discount/",
+"source": "Velo",
+"when": "00:42",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2025/12/DSC_2829.jpg?width=1200",
+"excerpt": ""
+},
+{
 "id": "65514e1d232bb245",
-"title": "This fabric might be the key to making aero kit faster for all",
+"title": "Fusion's attempt at fixing the problem with aero kit",
 "url": "https://escapecollective.com/fusion-chevron-skinsuit-technology/",
 "source": "Escape Collective",
 "when": "Wed 21:02",
@@ -6286,28 +6319,6 @@
 "lang": "en",
 "image": "https://escapecollective.com/content/images/2026/11/Fusion-Wind-Tunnel-02-2.jpg",
 "excerpt": "A key tenet of aero kit design is that what's fastest for one rider might be slow for another. Fusion believes its new chevron fabrics could change that."
-},
-{
-"id": "dc29dedee9d9c530",
-"title": "Brand sprains ankle at Superprestige Niel",
-"url": "https://escapecollective.com/brand-sprains-ankle-at-superprestige-niel/",
-"source": "Escape Collective",
-"when": "Wed 18:39",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
-"excerpt": ""
-},
-{
-"id": "0b8de5c058c9c0a3",
-"title": "Kaden Groves is betting on himself",
-"url": "https://escapecollective.com/kaden-groves-is-betting-on-himself-tudor-pro-cycling/",
-"source": "Escape Collective",
-"when": "Wed 18:05",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/CORVOS_00039254-176.jpg",
-"excerpt": ""
 },
 {
 "id": "565f0178870b1f76",
@@ -6319,17 +6330,6 @@
 "lang": "en",
 "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/09/DSC01385-scaled.jpg?width=1200",
 "excerpt": ""
-},
-{
-"id": "b090bfcb64bc80cf",
-"title": "‘Seixas Is Better Than Pogačar Was at That Age’: Geraint Thomas Overlooks the Pizza and PlayStation Factor",
-"url": "https://velo.outsideonline.com/road/road-racing/seixas-is-better-than-pogacar-was-at-that-age-geraint-thomas-overlooks-the-pizza-and-playstation-factor/",
-"source": "Velo",
-"when": "Wed 16:56",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Too-late-3.jpg?width=1200",
-"excerpt": ""
 }
 ]
 },
@@ -6337,6 +6337,28 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "528a9c010381bfd3",
+"title": "Gray, Contreras earn All-MLB honors after helping fuel Red Sox's turnaround",
+"url": "https://www.mlb.com/redsox/news/sonny-gray-willson-contreras-2026-all-mlb",
+"source": "MLB.com",
+"when": "05:08",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/o0hq6du66bzjgm6txkgq.jpg",
+"excerpt": ""
+},
+{
+"id": "0ea3bc5231a9006c",
+"title": "No. 4 Huskies Host Ohio State, Friday Night In Hartford",
+"url": "https://uconnhuskies.com/news/2026/11/11/mens-basketball-no-4-huskies-host-ohio-state-friday-night-in-hartford",
+"source": "UConn Huskies",
+"when": "02:36",
+"also": [],
+"lang": "en",
+"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/11/UCA_9883.JPG",
+"excerpt": ""
+},
 {
 "id": "ab3ba614a8e1fa32",
 "title": "Week 10 Injury Report: Patriots at Lions",
@@ -6349,17 +6371,6 @@
 "excerpt": "The New England Patriots and the Detroit Lions announce the following player injuries and practice participation ahead of their Week 10 game."
 },
 {
-"id": "d5da169804f6577a",
-"title": "Watch Red Sox prospects in Arizona Fall League action",
-"url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-"source": "MLB.com",
-"when": "Wed 23:32",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg",
-"excerpt": ""
-},
-{
 "id": "8e33f40b5e9dedd9",
 "title": "Tung förlust mot AFC Ajax: ”Det lilla sista saknas”",
 "url": "https://www.mff.se/nyheter/tung-forlust-mot-afc-ajax-det-lilla-sista-saknas-2026-11-11/",
@@ -6368,17 +6379,6 @@
 "also": [],
 "lang": "sv",
 "image": "https://cdn.mff.se/2026/10/BB261111CB088.jpg",
-"excerpt": ""
-},
-{
-"id": "b464b580f2f95925",
-"title": "Huskies Topple Wagner On Monday Night in Storrs",
-"url": "https://uconnhuskies.com/news/2026/11/9/mens-basketball-huskies-topple-wagner-on-monday-night-in-storrs",
-"source": "UConn Huskies",
-"when": "Tue 05:03",
-"also": [],
-"lang": "en",
-"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/9/WAG_0326.jpg",
 "excerpt": ""
 }
 ]
@@ -6463,17 +6463,6 @@
 "excerpt": ""
 },
 {
-"id": "768745c042bef76a",
-"title": "Chessboxing World Championship Set For Istanbul After '60 Minutes' Spotlight",
-"url": "https://www.chess.com/news/view/chessboxing-world-championship-2026-istanbul",
-"source": "Chess.com",
-"when": "Wed 17:00",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2262723.b5bb97ef.5000x5000o.9ea359fcb0a0.png",
-"excerpt": ""
-},
-{
 "id": "a97f40e1263ed81d",
 "title": "Unbeaten Carlsen wins opening blitz as Total Chess Pilot gets underway in Budapest",
 "url": "https://www.fide.com/unbeaten-carlsen-wins-opening-blitz-as-total-chess-pilot-gets-underway-in-budapest/",
@@ -6482,6 +6471,17 @@
 "also": [],
 "lang": "en",
 "image": "https://www.fide.com/wp-content/uploads/TC-Pilot-D01-Carlsen-Aronian.jpg",
+"excerpt": ""
+},
+{
+"id": "768745c042bef76a",
+"title": "Chessboxing World Championship Set For Istanbul After '60 Minutes' Spotlight",
+"url": "https://www.chess.com/news/view/chessboxing-world-championship-2026-istanbul",
+"source": "Chess.com",
+"when": "Wed 17:00",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2262723.b5bb97ef.5000x5000o.9ea359fcb0a0.png",
 "excerpt": ""
 },
 {
@@ -6537,7 +6537,7 @@
 "title": "Air gapped, not data dark: how Bright Machines gives customers live factory dashboards without opening the plant",
 "url": "https://www.databricks.com/blog/air-gapped-not-data-dark-how-bright-machines-gives-customers-live-factory-dashboards-without",
 "source": "Databricks",
-"when": "Wed 17:10",
+"when": "00:42",
 "also": [],
 "lang": "en",
 "image": "https://www.databricks.com/sites/default/files/2026-11/Bright-Machines-OG.png",
@@ -6636,17 +6636,6 @@
 "title": null,
 "items": [
 {
-"id": "730c79ca70e59e8c",
-"title": "How Hims plans to revive its business after pivoting to branded GLP-1s",
-"url": "https://endpoints.news/how-hims-plans-to-revive-its-business-after-pivoting-to-branded-glp-1s/",
-"source": "Endpoints News",
-"when": "Wed 21:20",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2026/02/Hims-Hers-Carlo-Allegri_Reuters.jpg",
-"excerpt": ""
-},
-{
 "id": "62c8e7ef9b054f0e",
 "title": "Beeline reveals Phase 2 lupus data from old Bristol Myers drug",
 "url": "https://endpoints.news/beeline-reveals-phase-2-lupus-data-from-old-bristol-myers-drug/",
@@ -6668,6 +6657,17 @@
 ],
 "lang": "en",
 "image": "https://qtxasset.com/quartz/qcloud5/media/image/biontech_0.jpg?VersionId=TYIds9Grwge2XgM0XsyUsPnZKt.HMxpM",
+"excerpt": ""
+},
+{
+"id": "730c79ca70e59e8c",
+"title": "How Hims plans to reinvigorate its business",
+"url": "https://endpoints.news/how-hims-plans-to-revive-its-business-after-pivoting-to-branded-glp-1s/",
+"source": "Endpoints News",
+"when": "Wed 21:20",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/02/Hims-Hers-Carlo-Allegri_Reuters.jpg",
 "excerpt": ""
 },
 {
@@ -6728,7 +6728,7 @@
 ]
 }
 ],
-"lead": "730c79ca70e59e8c"
+"lead": "62c8e7ef9b054f0e"
 }
 ],
 "weather": {
@@ -6741,36 +6741,36 @@
 "icon": "🌧️",
 "hi": 12,
 "lo": 6,
-"rain_mm": 17.5,
+"rain_mm": 14.6,
 "rain_pct": 100,
-"wind": 14,
+"wind": 15,
 "uv": 1,
 "sunrise": "07:29",
 "sunset": "16:57",
-"bar_l": 40,
-"bar_w": 40
+"bar_l": 43,
+"bar_w": 43
 },
 "slots": [
 {
 "name": "Morning",
-"temp": 11,
-"icon": "🌦️",
-"label": "Light rain",
-"rain_pct": 40
+"temp": 10,
+"icon": "🌫️",
+"label": "Fog",
+"rain_pct": 63
 },
 {
 "name": "Afternoon",
-"temp": 11,
+"temp": 12,
 "icon": "🌦️",
 "label": "Light rain",
-"rain_pct": 95
+"rain_pct": 65
 },
 {
 "name": "Evening",
-"temp": 10,
+"temp": 9,
 "icon": "🌧️",
 "label": "Rain",
-"rain_pct": 98
+"rain_pct": 100
 }
 ],
 "days": [
@@ -6782,14 +6782,14 @@
 "icon": "🌧️",
 "hi": 12,
 "lo": 6,
-"rain_mm": 17.5,
+"rain_mm": 14.6,
 "rain_pct": 100,
-"wind": 14,
+"wind": 15,
 "uv": 1,
 "sunrise": "07:29",
 "sunset": "16:57",
-"bar_l": 40,
-"bar_w": 40
+"bar_l": 43,
+"bar_w": 43
 },
 {
 "date": "2026-11-13",
@@ -6797,33 +6797,33 @@
 "dm": "13.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 8,
+"hi": 7,
 "lo": 2,
-"rain_mm": 3.6,
-"rain_pct": 68,
-"wind": 15,
+"rain_mm": 1.4,
+"rain_pct": 98,
+"wind": 13,
 "uv": 2,
 "sunrise": "07:31",
 "sunset": "16:55",
-"bar_l": 13,
-"bar_w": 40
+"bar_l": 14,
+"bar_w": 36
 },
 {
 "date": "2026-11-14",
 "dow": "Sat",
 "dm": "14.11.",
-"label": "Fog",
-"icon": "🌫️",
+"label": "Mostly clear",
+"icon": "🌤️",
 "hi": 8,
 "lo": 0,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 11,
+"wind": 14,
 "uv": 2,
 "sunrise": "07:32",
 "sunset": "16:54",
 "bar_l": 0,
-"bar_w": 53
+"bar_w": 57
 },
 {
 "date": "2026-11-15",
@@ -6831,67 +6831,67 @@
 "dm": "15.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 11,
-"lo": 4,
-"rain_mm": 0.1,
-"rain_pct": 38,
-"wind": 8,
-"uv": 0,
+"hi": 13,
+"lo": 3,
+"rain_mm": 0.3,
+"rain_pct": 15,
+"wind": 7,
+"uv": 2,
 "sunrise": "07:34",
 "sunset": "16:53",
-"bar_l": 27,
-"bar_w": 47
+"bar_l": 21,
+"bar_w": 71
 },
 {
 "date": "2026-11-16",
 "dow": "Mon",
 "dm": "16.11.",
-"label": "Light showers",
-"icon": "🌦️",
-"hi": 12,
-"lo": 5,
-"rain_mm": 16.4,
-"rain_pct": 68,
-"wind": 18,
+"label": "Rain",
+"icon": "🌧️",
+"hi": 11,
+"lo": 6,
+"rain_mm": 21.3,
+"rain_pct": 73,
+"wind": 14,
 "uv": 2,
 "sunrise": "07:35",
 "sunset": "16:52",
-"bar_l": 33,
-"bar_w": 47
+"bar_l": 43,
+"bar_w": 36
 },
 {
 "date": "2026-11-17",
 "dow": "Tue",
 "dm": "17.11.",
-"label": "Rain",
-"icon": "🌧️",
+"label": "Light showers",
+"icon": "🌦️",
 "hi": 10,
-"lo": 4,
-"rain_mm": 21.0,
-"rain_pct": 83,
-"wind": 11,
-"uv": 0,
+"lo": 3,
+"rain_mm": 6.3,
+"rain_pct": 73,
+"wind": 13,
+"uv": 2,
 "sunrise": "07:37",
 "sunset": "16:51",
-"bar_l": 27,
-"bar_w": 40
+"bar_l": 21,
+"bar_w": 50
 },
 {
 "date": "2026-11-18",
 "dow": "Wed",
 "dm": "18.11.",
-"label": "Light rain",
+"label": "Light showers",
 "icon": "🌦️",
-"hi": 15,
+"hi": 14,
 "lo": 10,
-"rain_mm": 7.0,
-"rain_pct": 85,
-"wind": 19,
-"uv": 2,
+"rain_mm": 2.4,
+"rain_pct": 77,
+"wind": 20,
+"uv": 0,
 "sunrise": "07:38",
 "sunset": "16:50",
-"bar_l": 67,
-"bar_w": 33
+"bar_l": 71,
+"bar_w": 29
 },
 {
 "date": "2026-11-19",
@@ -6900,15 +6900,15 @@
 "label": "Light showers",
 "icon": "🌦️",
 "hi": 12,
-"lo": 8,
-"rain_mm": 15.8,
-"rain_pct": 70,
+"lo": 9,
+"rain_mm": 7.2,
+"rain_pct": 69,
 "wind": 26,
-"uv": 0,
+"uv": 2,
 "sunrise": "07:39",
 "sunset": "16:49",
-"bar_l": 53,
-"bar_w": 27
+"bar_l": 64,
+"bar_w": 21
 },
 {
 "date": "2026-11-20",
@@ -6924,8 +6924,8 @@
 "uv": 1,
 "sunrise": "07:41",
 "sunset": "16:48",
-"bar_l": 40,
-"bar_w": 27
+"bar_l": 43,
+"bar_w": 29
 },
 {
 "date": "2026-11-21",
@@ -6938,15 +6938,15 @@
 "rain_mm": 3.0,
 "rain_pct": 48,
 "wind": 10,
-"uv": 2,
+"uv": 1,
 "sunrise": "07:42",
 "sunset": "16:47",
 "bar_l": 7,
-"bar_w": 67
+"bar_w": 71
 }
 ],
 "lo": 0,
-"hi": 15
+"hi": 14
 }
 }
 }
