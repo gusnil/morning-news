@@ -6007,10 +6007,10 @@
 },
 "2026-11-14": {
 "date": "2026-11-14",
-"built_at": "2026-11-14T06:15:40.851429+00:00",
-"built_local": "07:15",
-"edition": "Morning",
-"feeds_ok": 55,
+"built_at": "2026-11-14T16:44:00.529729+00:00",
+"built_local": "17:44",
+"edition": "Evening",
+"feeds_ok": 54,
 "feeds_total": 55,
 "sections": [
 {
@@ -6023,6 +6023,20 @@
 "id": "world",
 "title": null,
 "items": [
+{
+"id": "2cd663c10baf0ddb",
+"title": "USA: All passengers survive after tanker hits docked river cruise ship in New Orleans",
+"url": "https://www.france24.com/en/usa-all-passengers-survive-after-tanker-hits-docked-river-cruise-ship-in-new-orleans",
+"source": "France 24",
+"when": "14:15",
+"also": [
+"The Hindu",
+"DW"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/655a8158-e024-11f1-8b4c-695cb59fade5/w:1024/p:16x9/EN-20261114-120344-120524-CS.jpg",
+"excerpt": ""
+},
 {
 "id": "747620f14787221a",
 "title": "FAA lifts nationwide ground stop on all US flights",
@@ -6040,6 +6054,19 @@
 "excerpt": ""
 },
 {
+"id": "9f93e80dddb6cbab",
+"title": "South Sudan postpones first-ever national elections until February",
+"url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "11:30",
+"also": [
+"The Hindu"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8208bcd843-1794646155.jpg?resize=1920%2C1440",
+"excerpt": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission."
+},
+{
 "id": "73bec2c9ec298871",
 "title": "Democratic U.S. senators order Musk to preserve records on Ukraine Starlink access",
 "url": "https://www.thehindu.com/news/international/democratic-us-senators-order-musk-to-preserve-records-on-ukraine-starlink-access/article71700765.ece",
@@ -6050,34 +6077,6 @@
 ],
 "lang": "en",
 "image": "https://th-i.thgim.com/public/incoming/eo65yq/article71700771.ece/alternates/LANDSCAPE_1200/Election_2_26_Musk__6793.jpg",
-"excerpt": ""
-},
-{
-"id": "fe742fff85a77bf4",
-"title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
-"url": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
-"source": "France 24",
-"when": "Thu 23:10",
-"also": [
-"The Hindu",
-"SCMP",
-"BBC World"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/531ee640-dee5-11f1-a2c0-5f54d898a954/w:1024/p:16x9/XX-NW-HDL-JENSEN-HUANG-RESIGNS-22H-AN-Meiqi-transfer.png",
-"excerpt": ""
-},
-{
-"id": "cddded21be243c58",
-"title": "All passengers, crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
-"url": "https://www.thehindu.com/news/international/new-orleans-usa-tanker-ship-river-cruise-crash-updates/article71699607.ece",
-"source": "The Hindu",
-"when": "03:12",
-"also": [
-"DW"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/409voc/article71699744.ece/alternates/LANDSCAPE_1200/New_Orleans_Cruise_Ship__7457.jpg",
 "excerpt": ""
 },
 {
@@ -6120,26 +6119,28 @@
 "excerpt": "Tech giant CEO resigned and will testify before Congress."
 },
 {
-"id": "73d4d26b5150e812",
-"title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
-"url": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "06:59",
-"also": [],
+"id": "fc405c2726bd9311",
+"title": "Iran says it struck U.S. military radar in Bahrain",
+"url": "https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece",
+"source": "The Hindu",
+"when": "Fri 16:51",
+"also": [
+"Africanews"
+],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261113__D7F93G3__v1__HighRes__FilesFblEspAndorraTenerifeAccident-1794634335.jpg?resize=1920%2C1440",
-"excerpt": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2."
+"image": "https://th-i.thgim.com/public/incoming/d845dx/article71696582.ece/alternates/LANDSCAPE_1200/2026-11-08T175031Z_603691181_RC2PJOACU6TK_RTRMADP_3_IRAN-CRISIS.JPG",
+"excerpt": ""
 },
 {
-"id": "a4427ae9fdb511c6",
-"title": "France escalates Algeria trade dispute to EU-level",
-"url": "http://www.africanews.com/2026/11/13/france-escalates-algeria-trade-dispute-to-eu-level/",
+"id": "12decf7898b97606",
+"title": "World Diabetes Day: South African health leaders urge early action to detect the disease",
+"url": "http://www.africanews.com/2026/11/14/world-diabetes-day-south-african-health-leaders-urge-early-action-to-detect-the-disease/",
 "source": "Africanews",
-"when": "Fri 22:37",
+"when": "15:35",
 "also": [],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/99/22/59/640x360_cmsv2_e5d5d110-ed68-53ac-9a64-7213fbe82a44-9992259.jpg?1794595507",
-"excerpt": ""
+"image": "https://images.euronews.com/articles/stories/09/99/24/15/640x360_cmsv2_726ce63c-924b-5c14-b431-07442367e352-9992415.jpg?1794633620",
+"excerpt": "The health minister said the condition is now the country's number one killer, taking the top spot from HIV/AIDS."
 },
 {
 "id": "e4b7682bba8dfa38",
@@ -6155,7 +6156,7 @@
 ]
 }
 ],
-"lead": "747620f14787221a"
+"lead": "2cd663c10baf0ddb"
 },
 {
 "id": "basel",
@@ -6168,6 +6169,61 @@
 "title": null,
 "items": [
 {
+"id": "ca50175991156ace",
+"title": "Kundgebung – Männer demonstrieren in Bern gegen Gewalt an Frauen",
+"url": "https://www.srf.ch/news/schweiz/kundgebung-maenner-demonstrieren-in-bern-gegen-gewalt-an-frauen",
+"source": "SRF News",
+"when": "17:34",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/51183b.webp",
+"excerpt": "Die Organisatoren forderten Männer auf, Betroffenen Mitgefühl zu zeigen und sichtbar Stellung zu beziehen."
+},
+{
+"id": "a4e3dc32e007eb45",
+"title": "Modeschau im Bergdorf – Guarda und Moncler: Ein Luxus-Event stört die Idylle",
+"url": "https://www.srf.ch/news/dialog/modeschau-im-bergdorf-guarda-und-moncler-ein-luxus-event-stoert-die-idylle",
+"source": "SRF News",
+"when": "17:09",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/1a55841.webp",
+"excerpt": "Moncler plant eine Modeschau in Guarda. Für die einen überwiegt der Nutzen, andere fürchten um den Erhalt der Tradition."
+},
+{
+"id": "54e358bce3820774",
+"title": "Verleihung im Sudhaus: Indie-Rock-Band Malummí gewinnt den letzten Basler Pop-Preis",
+"url": "https://www.bazonline.ch/basler-pop-preis-malummi-gewinnt-letzte-ausgabe-829366496489",
+"source": "Basler Zeitung",
+"when": "16:07",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/6P4FKYXE4HD89UjPJOY2xv.jpg",
+"excerpt": ""
+},
+{
+"id": "2fd22ac80a3fcee4",
+"title": "Streit um Gesundheitskosten – Ärzte-Präsidentin: «Bundesrat hat seine Kompetenz überschritten»",
+"url": "https://www.srf.ch/news/schweiz/streit-um-gesundheitskosten-aerzte-praesidentin-bundesrat-hat-seine-kompetenz-ueberschritten",
+"source": "SRF News",
+"when": "15:18",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/5d984f.webp",
+"excerpt": "FMH-Präsidentin Yvonne Gilli kritisiert die Sparvorgaben aus Bern. Sie zeigt sich aber bereit, zu verhandeln."
+},
+{
+"id": "37b9db8b91a6d1de",
+"title": "Neuanfang nach der Haft: «Niemand hielt dies für möglich»: Wie eine Begnadigung das Leben des Baslers A. M. veränderte",
+"url": "https://www.bazonline.ch/begnadigung-basel-neues-leben-nach-fussfessel-und-haft-540166799272",
+"source": "Basler Zeitung",
+"when": "11:50",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/DiSWOGfa447BWfouXDlxOD.jpg",
+"excerpt": ""
+},
+{
 "id": "e01f85211e878a37",
 "title": "Kolumne von Philipp Probst: Schafft in Basel das Auto doch gleich ganz ab!",
 "url": "https://www.bazonline.ch/aeschenplatz-warum-basel-das-auto-verbieten-sollte-790642897883",
@@ -6179,108 +6235,53 @@
 "excerpt": "Wenn es in der lokalen Politik ums Auto geht, ist die Aufregung immer gross. Doch die Empörung über neue Schikanen ist schnell Schnee von gestern."
 },
 {
-"id": "cb2fc528da55099b",
-"title": "SBB testen Strom-Blackout – Provozierter Stromausfall: Züge nach drei Minuten wieder am Netz",
-"url": "https://www.srf.ch/news/schweiz/sbb-testen-strom-blackout-provozierter-stromausfall-zuege-nach-drei-minuten-wieder-am-netz",
-"source": "SRF News",
-"when": "Fri 22:35",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/5917cc.webp",
-"excerpt": "Was passiert bei einem Blackout im Schweizer Bahnstromnetz? Das haben die SBB mit einem neuen System getestet."
-},
-{
-"id": "2f269f3450a36aa6",
-"title": "Vorschau auf die Novembersession des Grossen Rates",
-"url": "https://www.bs.ch/medienmitteilungen/grosser-rat/2026-vorschau-auf-die-novembersession-des-grossen-rates",
-"source": "Kanton Basel-Stadt",
-"when": "07:15",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
-},
-{
-"id": "6c4b9176e07197d2",
-"title": "Clubs profitieren von den Förderangeboten",
-"url": "https://www.bs.ch/medienmitteilungen/pd/2026-clubs-profitieren-von-den-foerderangeboten",
-"source": "Kanton Basel-Stadt",
-"when": "07:15",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
-},
-{
-"id": "7a34fab0a7fa9c23",
-"title": "Saint Louis Buvette bleibt",
-"url": "https://www.bs.ch/medienmitteilungen/bvd/2026-saint-louis-buvette-bleibt",
-"source": "Kanton Basel-Stadt",
-"when": "07:15",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/3d8cb5e6953931f24220d5cd9b1a5832963bdb6e/buvette-saint-louis.jpg?h=b1d77062&itok=r_1mQDTx",
-"excerpt": ""
-},
-{
-"id": "06618d1d637c347d",
-"title": "INTERVIEW - Nvidia und Anthropic machen die Börse nervös – ein 3600-Milliarden-Fonds-Chef gibt Entwarnung: «Die Umsätze sind sehr real»",
-"url": "https://www.nzz.ch/wirtschaft/nvidia-und-anthropic-machen-die-boerse-nervoes-ein-3600-milliarden-fonds-chef-gibt-entwarnung-die-umsaetze-sind-sehr-real-ld.10063100",
+"id": "010d5f3b9ebdcec5",
+"title": "LIVE-TICKER - Die USA nach den Midterms: Demokrat gewinnt Gouverneurswahl in Alaska – erstmals wieder seit 1998",
+"url": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111",
 "source": "NZZ",
-"when": "07:02",
+"when": "17:24",
 "also": [],
 "lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/11/13/bab3d073-6a9b-4c98-8471-6449475436cc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1316,1316,x2286,y124",
-"excerpt": "Die Nvidia-Krise hat viele Anleger aufgeschreckt. Mike Gitlin, CEO des Fondsriesen Capital Group, hält Vergleiche mit der Finanzkrise 2008 für unbegründet."
+"image": "https://img-msp-prod.nzz.ch/2026/11/04/239c2ba7-8971-4010-85f0-328c182fc61c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3444,3444,x975,y0",
+"excerpt": "Die neuesten Meldungen aus der amerikanischen Innenpolitik im Ticker."
 },
 {
-"id": "49eb8ce42b130d63",
-"title": "Konsum nicht empfohlen – Warnung: Listerien in Mini-Pouletfilets bei Aldi",
-"url": "https://www.srf.ch/news/schweiz/konsum-nicht-empfohlen-warnung-listerien-in-mini-pouletfilets-bei-aldi",
-"source": "SRF News",
-"when": "Fri 19:40",
+"id": "01c1a69ff3452cbe",
+"title": "Tote Käfer in den Akten und ein Faultier im Gerichtssaal",
+"url": "https://bajour.ch/a/prozess-saubannerzug-mehrheit-der-basel-18-erhaelt-geldstrafen",
+"source": "Bajour",
+"when": "Fri 17:59",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/9e0ab8.webp",
-"excerpt": "In Filetstücken der Sorten Mini-Classic, Mini-Curry und Mini-Paprika bei Aldi sind Listerien nachgewiesen worden."
-},
-{
-"id": "7515fbd65944e997",
-"title": "Swissness-Label – Wer mit dem Schweizerkreuz wirbt, soll in der Schweiz produzieren",
-"url": "https://www.srf.ch/news/schweiz/swissness-label-wer-mit-dem-schweizerkreuz-wirbt-soll-in-der-schweiz-produzieren",
-"source": "SRF News",
-"when": "Fri 19:17",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/ecf192.webp",
-"excerpt": "Künftig soll das Schweizerkreuz nur auf Waren prangen, die im Inland hergestellt wurden."
-},
-{
-"id": "1af537bfdd7a0186",
-"title": "Das Bruderholzspital: Rundum medizinisch versorgt",
-"url": "https://onlinereports.ch/a/das-bruderholzspital-rundum-medizinisch-versorgt-ratgeber-ksbl",
-"source": "OnlineReports",
-"when": "06:00",
-"also": [],
-"lang": "de",
-"image": "https://media-onlinereports.wepublish.cloud/01a1b076-f135-767d-aad4-360bd745d5ea?quality=80&sig=AP41ZhCixgh_vFg-gUSWmlcQDxf1fRVueodG_ntO74Ceix1WN4N0OZiNjUcNB2BiH_xCqb5ggIQmMUZJpCyQAg",
+"image": "https://media-bajour.wepublish.cloud/01a1d5d4-43eb-768a-9a25-57cd6ee97ca2?quality=80&sig=aeM6wlQPQOAwBrxz5ncfuCkMIUqlUMm0FtCV3BBxQMD2Ea5gfxsHW4ZOzoOD9ImnDi_ySWIt1OH8ufbN4I_YCw",
 "excerpt": ""
 },
 {
-"id": "d1afe79d46c7d6be",
-"title": "Aggressionen im Spitalalltag: Deutliche Zunahme von Gewalt in Basler Spitälern – das sind die Zahlen",
-"url": "https://www.bazonline.ch/universitaetsspital-basel-3478-gewaltvorfaelle-in-zwei-jahren-366774121780",
-"source": "Basler Zeitung",
-"when": "Fri 18:06",
+"id": "c3d41ae4d5a40884",
+"title": "Eine Sperrung zu Unzeiten",
+"url": "https://bajour.ch/a/buergerliche-wehren-sich-gegen-sperrung-von-bankverein",
+"source": "Bajour",
+"when": "Fri 16:30",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/16ErjsEOqXc8VjPMVoJ9qW.jpg",
-"excerpt": "Am USB und um dem UKBB stieg die Zahl der Gewaltvorfälle markant an. Neben Drohungen und verbaler Gewalt erlebt das Personal auch körperliche Übergriffe."
+"image": "https://media-bajour.wepublish.cloud/01a1d57b-3f7e-72fe-b6a0-891afb09e332?quality=80&sig=GwNuhGImwCSb7xtc743tNUAy8eVoqnOQIexn753KWW-LkOyrkysF-JQOeL5YYUOgNcfDC2xNR5mJDpDRp-i-Ag",
+"excerpt": ""
+},
+{
+"id": "874c1b1646c01727",
+"title": "Basel testet neue Bioabfuhr ab 2027",
+"url": "https://bajour.ch/a/basel-testet-neue-bioabfuhr-ab-2027",
+"source": "Bajour",
+"when": "Fri 14:29",
+"also": [],
+"lang": "de",
+"image": null,
+"excerpt": "Ab Januar 2027 können Haushalte im Kleinbasel Küchenabfälle über Grüngutcontainer entsorgen. Gleichzeitig wird das Netz der Bioklappen in der Stadt ausgebaut."
 }
 ]
 }
 ],
-"lead": "e01f85211e878a37"
+"lead": "ca50175991156ace"
 },
 {
 "id": "sport",
@@ -6293,68 +6294,77 @@
 "title": "Cycling",
 "items": [
 {
-"id": "49138de52a7709eb",
-"title": "'I was getting less and less enjoyment from modern cycling' – Julian Alaphilippe opens up for first time about retirement and knowing when to stop",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-was-getting-less-and-less-enjoyment-from-modern-cycling-julian-alaphilippe-opens-up-for-first-time-about-retirement-and-knowing-when-to-stop/",
+"id": "1bd7ca8b488f11c5",
+"title": "Superprestige Merksplas: Niels Vandeputte outsprints Joran Wyseure to take first win of season",
+"url": "https://www.cyclingnews.com/pro-cycling/racing/superprestige-merksplas-niels-vandeputte-outsprints-joran-wyseure-to-take-first-win-of-season/",
 "source": "Cyclingnews",
-"when": "Fri 13:36",
-"also": [
-"Escape Collective"
-],
+"when": "16:36",
+"also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/Bpq5toTfzdwjuP5XCCtR75-1920-80.jpg",
-"excerpt": "French rider said he had 'had enough of the limelight' and is content with his decision to stop racing"
+"image": "https://cdn.mos.cms.futurecdn.net/8jhbj487EUMtuKvgZBHbmP-1920-80.jpg",
+"excerpt": "Felipe Orts is third as Michael Vanthourenhout crashes out at Aardbeiencross"
 },
 {
-"id": "fd701e2741e7fa2e",
-"title": "'I'm happy I'm still alive and able to continue to try to live my dream of a WorldTour career' – Ex-Ineos talent Theodor Storm signs for new team after nightmare three years",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-happy-im-still-alive-and-able-to-continue-to-try-to-live-my-dream-of-a-worldtour-career-ex-ineos-talent-theodor-storm-signs-for-new-team-after-nightmare-three-years/",
+"id": "cd89c48ca8b828c9",
+"title": "Superprestige Merksplas: Lucinda Brand returns to take brilliant win after a race long fight.",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/superprestige-merksplas-lucinda-brand-returns-to-take-brilliant-win-after-a-race-long-fight/",
 "source": "Cyclingnews",
-"when": "Fri 19:01",
+"when": "14:44",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/aRBxLCdEAPAMi7fgw2TfQD-1920-80.jpg",
-"excerpt": "Danish rider missed 2024 with a rare immune-system disease and 2026 with a broken back, but he's not done with the sport"
+"image": "https://cdn.mos.cms.futurecdn.net/CeHSFrWBeHr8wHcQC6unJE-1920-80.jpg",
+"excerpt": "Inge van der Heijden was second Sara Casasola third."
 },
 {
-"id": "222bff28afce31aa",
-"title": "Exquisite titanium, AI-enabled concept bikes, 32-inch gravel tech and even a new rim brake bike: All the tech that caught our eye at Rouleur Live 2026",
-"url": "https://www.cyclingnews.com/bikes/pro-bikes/exquisite-titanium-ai-enabled-concept-bikes-32-inch-gravel-tech-and-even-a-new-rim-brake-bike-all-the-tech-that-caught-our-eye-at-rouleur-live-2026/",
+"id": "e7df31d661eb9498",
+"title": "'I prefer having two lively riders' - Pinarello-Q36.5 sports director plays down potential clash between Tom Pidcock and Giulio Ciccone",
+"url": "https://www.cyclingnews.com/pro-cycling/racing/i-prefer-having-two-lively-riders-pinarello-q36-5-sports-director-plays-down-potential-clash-between-tom-pidcock-and-giulio-ciccone/",
 "source": "Cyclingnews",
-"when": "Fri 16:03",
+"when": "12:55",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/Jw2H3dbzmL5yNriHuu8RRJ-1920-80.jpg",
-"excerpt": "Over 80 photos from the final bike tech gathering of the year"
+"image": "https://cdn.mos.cms.futurecdn.net/Ly7nAGY3c7Lgney5EJnEXQ-1920-80.jpg",
+"excerpt": "The two are likely to race together at some events in 2027"
 },
 {
-"id": "752fc0a5ed067660",
-"title": "Cycling broke my pelvis but it hasn't yet broken my trust",
-"url": "https://escapecollective.com/cycling-broke-my-pelvis-but-it-hasnt-yet-broken-my-trust/",
-"source": "Escape Collective",
-"when": "Fri 20:55",
+"id": "8c0e124fcb3ff54c",
+"title": "Bikes Brands Are Making It Harder to Swap Parts. We’re All Losing Because of It.",
+"url": "https://velo.outsideonline.com/gravel/gravel-gear/harder-swap-parts/",
+"source": "Velo",
+"when": "17:00",
 "also": [],
 "lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/c2.jpg",
-"excerpt": "The worst crash of my life taught me a lot about my relationship with the bike."
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/component-cover.jpg?width=1200",
+"excerpt": ""
 },
 {
-"id": "11d431d07b5d4652",
-"title": "Behind the Curtain at CeramicSpeed",
-"url": "https://escapecollective.com/behind-the-curtain-at-ceramicspeed/",
+"id": "2097efe10435ad07",
+"title": "Vandeputte takes first victory of the season in Merksplas thriller",
+"url": "https://escapecollective.com/vandeputte-takes-first-victory-of-the-season-in-merksplas-thriller/",
 "source": "Escape Collective",
-"when": "Fri 19:22",
+"when": "16:21",
 "also": [],
 "lang": "en",
-"image": "https://escapecollective.com/content/images/2026/10/CS-October-35.jpg",
-"excerpt": "The Danish premium bearing maker has kept growing, but still resides where the brand first got started over two decades ago."
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
 },
 {
-"id": "72b85e972726127d",
-"title": "Life Time increases Grand Prix purse to US$800,000",
-"url": "https://escapecollective.com/life-time-increases-grand-prix-purse-to-us-800-000/",
+"id": "473244505d2fdb21",
+"title": "Brand puts injury scare behind her with confident Merksplas victory",
+"url": "https://escapecollective.com/brand-puts-injury-scare-behind-her-with-confident-merksplas-victory/",
 "source": "Escape Collective",
-"when": "Fri 17:19",
+"when": "14:47",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
+},
+{
+"id": "540416779a891b31",
+"title": "XDS reportedly toying with terminating Astana partnership",
+"url": "https://escapecollective.com/xds-reportedly-toying-with-terminating-astana-partnership/",
+"source": "Escape Collective",
+"when": "13:56",
 "also": [],
 "lang": "en",
 "image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
@@ -6366,6 +6376,17 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "702dc722130ecb42",
+"title": "How to Watch and Stream Sunday's Patriots Game Against the Lions | NFL Week 10",
+"url": "https://www.patriots.com/news/how-to-watch-and-stream-sunday-s-patriots-game-against-the-lions-nfl-week-10",
+"source": "Patriots.com",
+"when": "10:32",
+"also": [],
+"lang": "en",
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/fqoudckdkciuccwprgvk.png",
+"excerpt": "Complete broadcast information for this week's game between the New England Patriots and the Detroit Lions on Sunday, November 15, 2026 at 9:30 AM ET."
+},
 {
 "id": "34d207824b7d7190",
 "title": "#4 Huskies Use Second Half Surge To Top Ohio State",
@@ -6398,17 +6419,6 @@
 "lang": "sv",
 "image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4ac189/globalassets/svff/nyhetsblock-start/dejantillhemsida1.jpg",
 "excerpt": ""
-},
-{
-"id": "ab3ba614a8e1fa32",
-"title": "Week 10 Injury Report: Patriots at Lions",
-"url": "https://www.patriots.com/news/week-10-injury-report-patriots-at-lions",
-"source": "Patriots.com",
-"when": "Fri 17:49",
-"also": [],
-"lang": "en",
-"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ktpjsebpur3fu7wpiw9z.png",
-"excerpt": "The New England Patriots and the Detroit Lions announce the following player injuries and practice participation ahead of their Week 10 game."
 },
 {
 "id": "15290fd1a6716010",
@@ -6444,31 +6454,20 @@
 "title": "Sumo",
 "items": [
 {
-"id": "6b8707c1ba9b736c",
-"title": "Kyushu 2026: Day Six",
-"url": "https://tachiai.org/2026/11/13/kyushu-2026-day-six/",
+"id": "d2cd3b74f9a3617e",
+"title": "Kyushu 2026: Day Seven",
+"url": "https://tachiai.org/2026/11/14/kyushu-2026-day-seven/",
 "source": "Tachiai",
-"when": "Fri 10:25",
+"when": "10:21",
 "also": [],
 "lang": "en",
-"image": "https://i0.wp.com/tachiai.org/wp-content/uploads/2022/11/Kyushu-Tsuriyane.png?fit=800%2C431&ssl=1",
+"image": "https://i0.wp.com/tachiai.org/wp-content/uploads/2021/10/Kyushu-Castle.png?fit=800%2C431&ssl=1",
 "excerpt": ""
-},
-{
-"id": "a1bd801fd798fdec",
-"title": "Onosato looks sharp as Kyushu Basho contenders emerge",
-"url": "https://www.japantimes.co.jp/sports/2026/11/11/sumo/kyushu-basho-week-1/",
-"source": "Japan Times",
-"when": "Wed 07:49",
-"also": [],
-"lang": "en",
-"image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/11/573455.jpg",
-"excerpt": "Three days is too early to draw firm conclusions, but Onosato, Fujiryoga Tamawashi and others have impressed."
 }
 ]
 }
 ],
-"lead": "49138de52a7709eb"
+"lead": "1bd7ca8b488f11c5"
 },
 {
 "id": "chess",
@@ -6480,6 +6479,17 @@
 "id": "chess",
 "title": null,
 "items": [
+{
+"id": "32524d497e651b67",
+"title": "Total Chess: Group stage - Live!",
+"url": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+"source": "ChessBase",
+"when": "15:45",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133161_l200",
+"excerpt": ""
+},
 {
 "id": "6764c581d2a1d454",
 "title": "Martirosyan defeats Carlsen on Day 3 in Budapest",
@@ -6514,17 +6524,6 @@
 "excerpt": ""
 },
 {
-"id": "28863f50e46500db",
-"title": "Teenage Phenom Wins Freestyle Friday",
-"url": "https://www.chess.com/news/view/dau-wins-freestyle-friday-november-13-2026",
-"source": "Chess.com",
-"when": "Fri 22:10",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2265041.aa6d86bf.5000x5000o.21b12d657e17.png",
-"excerpt": ""
-},
-{
 "id": "c5676e72458b3ae1",
 "title": "Caruana and Niemann score double wins on Day 2 in Budapest",
 "url": "https://www.fide.com/caruana-and-niemann-score-double-wins-on-day-2-in-budapest/",
@@ -6536,14 +6535,14 @@
 "excerpt": ""
 },
 {
-"id": "32524d497e651b67",
-"title": "Total Chess: Group stage - Live!",
-"url": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-"source": "ChessBase",
-"when": "Fri 15:45",
+"id": "28863f50e46500db",
+"title": "Teenage Phenom Wins Freestyle Friday",
+"url": "https://www.chess.com/news/view/dau-wins-freestyle-friday-november-13-2026",
+"source": "Chess.com",
+"when": "Fri 22:10",
 "also": [],
 "lang": "en",
-"image": "https://en.chessbase.com/thumb/133161_l200",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2265041.aa6d86bf.5000x5000o.21b12d657e17.png",
 "excerpt": ""
 },
 {
@@ -6558,20 +6557,20 @@
 "excerpt": ""
 },
 {
-"id": "f9df4e2959f3068f",
-"title": "Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot",
-"url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
+"id": "c071515a36005ce9",
+"title": "Caruana, Niemann Sweep Praggnanandhaa, Vaishali; Assaubayeva Upsets Arjun",
+"url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-3",
 "source": "Chess.com",
-"when": "Fri 22:20",
+"when": "Thu 21:54",
 "also": [],
 "lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2264887.0a2bbcab.5000x5000o.25b48baab194.png",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2264609.6c293846.5000x5000o.6389bab8f370.png",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "6764c581d2a1d454"
+"lead": "32524d497e651b67"
 },
 {
 "id": "ai",
@@ -6617,17 +6616,6 @@
 "excerpt": "Companies are racing to build AI agents and applications. Every one of these use..."
 },
 {
-"id": "88bc835bdfbf019b",
-"title": "Snowflake a Leader in Gartner® Data Lakehouse Magic Quadrant™",
-"url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/gartner-magic-quadrant-data-lakehouse-platforms",
-"source": "Snowflake blog",
-"when": "Fri 21:58",
-"also": [],
-"lang": "en",
-"image": null,
-"excerpt": ""
-},
-{
 "id": "f27898c3ba8e7680",
 "title": "Separating signal from noise: The always-on finance intelligence layer",
 "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer",
@@ -6637,6 +6625,17 @@
 "lang": "en",
 "image": null,
 "excerpt": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how."
+},
+{
+"id": "88bc835bdfbf019b",
+"title": "Snowflake a Leader in Gartner® Data Lakehouse Magic Quadrant™",
+"url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/gartner-magic-quadrant-data-lakehouse-platforms",
+"source": "Snowflake blog",
+"when": "Fri 21:58",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
 },
 {
 "id": "557c093c2a78023a",
@@ -6661,14 +6660,14 @@
 "excerpt": ""
 },
 {
-"id": "5c9c705a54fff78d",
-"title": "datasette-cluster-map 0.19",
-"url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+"id": "2f432bde8ce6fcaa",
+"title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+"url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
 "source": "Simon Willison",
-"when": "00:02",
+"when": "Tue 08:28",
 "also": [],
 "lang": "en",
-"image": "https://static.simonwillison.net/static/2026/power-plants-pge.webp",
+"image": "https://static.simonwillison.net/static/2026/artificial-analysis-haiku-class.webp",
 "excerpt": ""
 }
 ]
@@ -6687,14 +6686,14 @@
 "title": null,
 "items": [
 {
-"id": "095c63b4bc95ce4b",
-"title": "AZ keeps pressure on Keytruda with Imfinzi expansion in chemo-ineligible bladder cancer",
-"url": "https://www.fiercepharma.com/pharma/az-keeps-pressure-keytruda-imfinzi-expansion-chemo-ineligible-bladder-cancer",
-"source": "Fierce Pharma",
-"when": "07:15",
+"id": "b7fdcb137f24e971",
+"title": "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more",
+"url": "https://endpoints.news/george-church-quits-ai-startup-ira-mellmans-immunotherapy-fight-and-more/",
+"source": "Endpoints News",
+"when": "12:00",
 "also": [],
 "lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/AZ%20Qingdao.jpg?VersionId=KXkXy2nkypan011c5ao1Gpq1pTvjwWBi",
+"image": "https://endpoints.news/wp-content/uploads/2021/02/epn_weekly_twitter.jpg",
 "excerpt": ""
 },
 {
@@ -6742,14 +6741,14 @@
 "excerpt": ""
 },
 {
-"id": "90503a9f4ac8885f",
-"title": "Updated: Bristol Myers shakes up R&D leadership ahead of patent cliff",
-"url": "https://endpoints.news/bristol-myers-to-merge-rd-under-massacesi-research-head-to-exit/",
-"source": "Endpoints News",
-"when": "Thu 13:29",
+"id": "095c63b4bc95ce4b",
+"title": "AZ keeps pressure on Keytruda with Imfinzi expansion in chemo-ineligible bladder cancer",
+"url": "https://www.fiercepharma.com/pharma/az-keeps-pressure-keytruda-imfinzi-expansion-chemo-ineligible-bladder-cancer",
+"source": "Fierce Pharma",
+"when": "07:15",
 "also": [],
 "lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2026/11/plenge-massacesi-fi.jpg",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/AZ%20Qingdao.jpg?VersionId=KXkXy2nkypan011c5ao1Gpq1pTvjwWBi",
 "excerpt": ""
 },
 {
@@ -6777,7 +6776,7 @@
 ]
 }
 ],
-"lead": "095c63b4bc95ce4b"
+"lead": "b7fdcb137f24e971"
 }
 ],
 "weather": {
@@ -6792,11 +6791,11 @@
 "lo": -2,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 14,
+"wind": 15,
 "uv": 2,
 "sunrise": "07:32",
 "sunset": "16:54",
-"bar_l": 5,
+"bar_l": 0,
 "bar_w": 53
 },
 "slots": [
@@ -6816,9 +6815,9 @@
 },
 {
 "name": "Evening",
-"temp": 5,
-"icon": "☀️",
-"label": "Clear",
+"temp": 4,
+"icon": "🌤️",
+"label": "Mostly clear",
 "rain_pct": 0
 }
 ],
@@ -6833,11 +6832,11 @@
 "lo": -2,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 14,
+"wind": 15,
 "uv": 2,
 "sunrise": "07:32",
 "sunset": "16:54",
-"bar_l": 5,
+"bar_l": 0,
 "bar_w": 53
 },
 {
@@ -6847,44 +6846,44 @@
 "label": "Light showers",
 "icon": "🌦️",
 "hi": 13,
-"lo": 4,
-"rain_mm": 3.2,
-"rain_pct": 80,
-"wind": 18,
+"lo": 5,
+"rain_mm": 2.9,
+"rain_pct": 90,
+"wind": 9,
 "uv": 2,
 "sunrise": "07:34",
 "sunset": "16:53",
 "bar_l": 37,
-"bar_w": 47
+"bar_w": 42
 },
 {
 "date": "2026-11-16",
 "dow": "Mon",
 "dm": "16.11.",
-"label": "Light rain",
+"label": "Light showers",
 "icon": "🌦️",
-"hi": 13,
+"hi": 12,
 "lo": 8,
-"rain_mm": 3.1,
-"rain_pct": 93,
-"wind": 22,
-"uv": 1,
+"rain_mm": 0.8,
+"rain_pct": 65,
+"wind": 17,
+"uv": 2,
 "sunrise": "07:35",
 "sunset": "16:52",
-"bar_l": 58,
-"bar_w": 26
+"bar_l": 53,
+"bar_w": 21
 },
 {
 "date": "2026-11-17",
 "dow": "Tue",
 "dm": "17.11.",
-"label": "Light rain",
+"label": "Light showers",
 "icon": "🌦️",
-"hi": 16,
-"lo": 8,
-"rain_mm": 7.9,
+"hi": 17,
+"lo": 9,
+"rain_mm": 12.8,
 "rain_pct": 98,
-"wind": 30,
+"wind": 34,
 "uv": 1,
 "sunrise": "07:37",
 "sunset": "16:51",
@@ -6895,17 +6894,17 @@
 "date": "2026-11-18",
 "dow": "Wed",
 "dm": "18.11.",
-"label": "Light showers",
+"label": "Light rain",
 "icon": "🌦️",
-"hi": 15,
-"lo": 12,
-"rain_mm": 2.4,
-"rain_pct": 73,
-"wind": 31,
+"hi": 14,
+"lo": 11,
+"rain_mm": 5.2,
+"rain_pct": 77,
+"wind": 25,
 "uv": 2,
 "sunrise": "07:38",
 "sunset": "16:50",
-"bar_l": 79,
+"bar_l": 68,
 "bar_w": 16
 },
 {
@@ -6914,88 +6913,88 @@
 "dm": "19.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 16,
-"lo": 11,
-"rain_mm": 1.3,
+"hi": 13,
+"lo": 10,
+"rain_mm": 4.7,
 "rain_pct": 73,
-"wind": 26,
+"wind": 23,
 "uv": 1,
 "sunrise": "07:39",
 "sunset": "16:49",
-"bar_l": 74,
-"bar_w": 26
+"bar_l": 63,
+"bar_w": 16
 },
 {
 "date": "2026-11-20",
 "dow": "Fri",
 "dm": "20.11.",
-"label": "Light rain",
+"label": "Light showers",
 "icon": "🌦️",
-"hi": 11,
-"lo": -1,
-"rain_mm": 2.9,
+"hi": 13,
+"lo": 10,
+"rain_mm": 1.3,
 "rain_pct": 64,
-"wind": 21,
+"wind": 24,
 "uv": 1,
 "sunrise": "07:41",
 "sunset": "16:48",
-"bar_l": 11,
-"bar_w": 63
+"bar_l": 63,
+"bar_w": 16
 },
 {
 "date": "2026-11-21",
 "dow": "Sat",
 "dm": "21.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 8,
-"lo": -3,
-"rain_mm": 0,
+"label": "Light showers",
+"icon": "🌦️",
+"hi": 10,
+"lo": 4,
+"rain_mm": 2.0,
 "rain_pct": 41,
-"wind": 5,
-"uv": 2,
+"wind": 20,
+"uv": 1,
 "sunrise": "07:42",
 "sunset": "16:47",
-"bar_l": 0,
-"bar_w": 58
+"bar_l": 32,
+"bar_w": 32
 },
 {
 "date": "2026-11-22",
 "dow": "Sun",
 "dm": "22.11.",
-"label": "Drizzle",
+"label": "Light drizzle",
 "icon": "🌦️",
-"hi": 9,
-"lo": 1,
-"rain_mm": 6.4,
+"hi": 10,
+"lo": 4,
+"rain_mm": 1.2,
 "rain_pct": 33,
-"wind": 19,
+"wind": 10,
 "uv": 1,
 "sunrise": "07:44",
 "sunset": "16:46",
-"bar_l": 21,
-"bar_w": 42
+"bar_l": 32,
+"bar_w": 32
 },
 {
 "date": "2026-11-23",
 "dow": "Mon",
 "dm": "23.11.",
-"label": "Light drizzle",
-"icon": "🌦️",
+"label": "Overcast",
+"icon": "☁️",
 "hi": 9,
-"lo": 3,
-"rain_mm": 3.8,
+"lo": 2,
+"rain_mm": 0,
 "rain_pct": 39,
-"wind": 12,
-"uv": 0,
+"wind": 6,
+"uv": 1,
 "sunrise": "07:45",
 "sunset": "16:45",
-"bar_l": 32,
-"bar_w": 32
+"bar_l": 21,
+"bar_w": 37
 }
 ],
-"lo": -3,
-"hi": 16
+"lo": -2,
+"hi": 17
 }
 }
 }
