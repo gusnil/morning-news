@@ -6007,10 +6007,10 @@
 },
 "2026-11-14": {
 "date": "2026-11-14",
-"built_at": "2026-11-14T16:44:00.529729+00:00",
-"built_local": "17:44",
+"built_at": "2026-11-14T20:54:31.327132+00:00",
+"built_local": "21:54",
 "edition": "Evening",
-"feeds_ok": 54,
+"feeds_ok": 55,
 "feeds_total": 55,
 "sections": [
 {
@@ -6169,26 +6169,37 @@
 "title": null,
 "items": [
 {
-"id": "ca50175991156ace",
-"title": "Kundgebung – Männer demonstrieren in Bern gegen Gewalt an Frauen",
-"url": "https://www.srf.ch/news/schweiz/kundgebung-maenner-demonstrieren-in-bern-gegen-gewalt-an-frauen",
+"id": "adbcd0356fe7f67d",
+"title": "Pionierprojekt – Alte Matratzen, neue Chancen – Aargauer Projekt macht Schule",
+"url": "https://www.srf.ch/news/schweiz/pionierprojekt-alte-matratzen-neue-chancen-aargauer-projekt-macht-schule",
 "source": "SRF News",
-"when": "17:34",
+"when": "21:15",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/51183b.webp",
-"excerpt": "Die Organisatoren forderten Männer auf, Betroffenen Mitgefühl zu zeigen und sichtbar Stellung zu beziehen."
+"image": "https://www.srf.ch/static/cms/images//320ws/2161cf.webp",
+"excerpt": "Pro Jahr werden in der Schweiz rund eine Million Matratzen entsorgt. Wie viel Potenzial steckt im Matratzen-Recycling?"
 },
 {
-"id": "a4e3dc32e007eb45",
-"title": "Modeschau im Bergdorf – Guarda und Moncler: Ein Luxus-Event stört die Idylle",
-"url": "https://www.srf.ch/news/dialog/modeschau-im-bergdorf-guarda-und-moncler-ein-luxus-event-stoert-die-idylle",
+"id": "02d7aaf79d1df070",
+"title": "Europapolitik – Abstimmung zum EU-Vertragspaket kommt wohl frühestens 2028",
+"url": "https://www.srf.ch/news/schweiz/europapolitik-abstimmung-zum-eu-vertragspaket-kommt-wohl-fruehestens-2028",
 "source": "SRF News",
-"when": "17:09",
+"when": "19:15",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/1a55841.webp",
-"excerpt": "Moncler plant eine Modeschau in Guarda. Für die einen überwiegt der Nutzen, andere fürchten um den Erhalt der Tradition."
+"image": "https://www.srf.ch/static/cms/images//320ws/4cbe4c.webp",
+"excerpt": "Der Ständerat hat keine Differenzbereinigung mit dem Nationalrat eingeplant – mit Folgen für den Abstimmungsfahrplan."
+},
+{
+"id": "4d4992792c40b650",
+"title": "Kantonsbudget 2027 – Tausende Menschen demonstrieren in Genf gegen Sparmassnahmen",
+"url": "https://www.srf.ch/news/schweiz/kantonsbudget-2027-tausende-menschen-demonstrieren-in-genf-gegen-sparmassnahmen",
+"source": "SRF News",
+"when": "17:57",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/52560c.webp",
+"excerpt": "Hintergrund ist der Entwurf für das Kantonsbudget. Dieser sieht Sparmassnahmen von über 240 Millionen Franken vor."
 },
 {
 "id": "54e358bce3820774",
@@ -6202,17 +6213,6 @@
 "excerpt": ""
 },
 {
-"id": "2fd22ac80a3fcee4",
-"title": "Streit um Gesundheitskosten – Ärzte-Präsidentin: «Bundesrat hat seine Kompetenz überschritten»",
-"url": "https://www.srf.ch/news/schweiz/streit-um-gesundheitskosten-aerzte-praesidentin-bundesrat-hat-seine-kompetenz-ueberschritten",
-"source": "SRF News",
-"when": "15:18",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/5d984f.webp",
-"excerpt": "FMH-Präsidentin Yvonne Gilli kritisiert die Sparvorgaben aus Bern. Sie zeigt sich aber bereit, zu verhandeln."
-},
-{
 "id": "37b9db8b91a6d1de",
 "title": "Neuanfang nach der Haft: «Niemand hielt dies für möglich»: Wie eine Begnadigung das Leben des Baslers A. M. veränderte",
 "url": "https://www.bazonline.ch/begnadigung-basel-neues-leben-nach-fussfessel-und-haft-540166799272",
@@ -6221,6 +6221,28 @@
 "also": [],
 "lang": "de",
 "image": "https://cdn.unitycms.io/images/DiSWOGfa447BWfouXDlxOD.jpg",
+"excerpt": ""
+},
+{
+"id": "ccdf0baee931a773",
+"title": "Der Herbst spielt Diebinnen und Dieben in die Hände",
+"url": "https://www.bs.ch/medienmitteilungen/jsd/2026-der-herbst-spielt-diebinnen-und-dieben-die-haende",
+"source": "Kanton Basel-Stadt",
+"when": "21:54",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
+},
+{
+"id": "01221d9ae86c8c4b",
+"title": "Im Visier von ausländischen Agenten: Wenn der chinesische Panda-Zug plötzlich aussieht wie die Kiss-Züge von Stadler",
+"url": "https://www.nzz.ch/wirtschaft/im-visier-von-auslaendischen-agenten-wenn-der-chinesische-panda-zug-ploetzlich-aussieht-wie-die-kiss-zuege-von-stadler-ld.10063027",
+"source": "NZZ",
+"when": "21:45",
+"also": [],
+"lang": "de",
+"image": "https://img-msp-prod.nzz.ch/2026/11/13/014bed2f-133e-402c-8dc8-a7cba1ae0203.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4024,4024,x2024,y0",
 "excerpt": ""
 },
 {
@@ -6233,17 +6255,6 @@
 "lang": "de",
 "image": "https://cdn.unitycms.io/images/6P974KXAaqS8PNG5rbMLU6.jpg",
 "excerpt": "Wenn es in der lokalen Politik ums Auto geht, ist die Aufregung immer gross. Doch die Empörung über neue Schikanen ist schnell Schnee von gestern."
-},
-{
-"id": "010d5f3b9ebdcec5",
-"title": "LIVE-TICKER - Die USA nach den Midterms: Demokrat gewinnt Gouverneurswahl in Alaska – erstmals wieder seit 1998",
-"url": "https://www.nzz.ch/international/us-innenpolitik-die-neuesten-meldungen-im-ticker-ld.10056111",
-"source": "NZZ",
-"when": "17:24",
-"also": [],
-"lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/11/04/239c2ba7-8971-4010-85f0-328c182fc61c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3444,3444,x975,y0",
-"excerpt": "Die neuesten Meldungen aus der amerikanischen Innenpolitik im Ticker."
 },
 {
 "id": "01c1a69ff3452cbe",
@@ -6266,22 +6277,11 @@
 "lang": "de",
 "image": "https://media-bajour.wepublish.cloud/01a1d57b-3f7e-72fe-b6a0-891afb09e332?quality=80&sig=GwNuhGImwCSb7xtc743tNUAy8eVoqnOQIexn753KWW-LkOyrkysF-JQOeL5YYUOgNcfDC2xNR5mJDpDRp-i-Ag",
 "excerpt": ""
-},
-{
-"id": "874c1b1646c01727",
-"title": "Basel testet neue Bioabfuhr ab 2027",
-"url": "https://bajour.ch/a/basel-testet-neue-bioabfuhr-ab-2027",
-"source": "Bajour",
-"when": "Fri 14:29",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": "Ab Januar 2027 können Haushalte im Kleinbasel Küchenabfälle über Grüngutcontainer entsorgen. Gleichzeitig wird das Netz der Bioklappen in der Stadt ausgebaut."
 }
 ]
 }
 ],
-"lead": "ca50175991156ace"
+"lead": "adbcd0356fe7f67d"
 },
 {
 "id": "sport",
@@ -6294,6 +6294,28 @@
 "title": "Cycling",
 "items": [
 {
+"id": "769d4abbecb7f75f",
+"title": "Michael Vanthourenhout back on rollers after crashing out of Superprestige Merksplas",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/michael-vanthourenhout-back-on-rollers-after-crashing-out-of-superprestige-merksplas/",
+"source": "Cyclingnews",
+"when": "19:01",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/t7xg42b5VuszqX3hV5Dct7-1920-80.jpg",
+"excerpt": "Belgian dropped to sixth overall and ‘can now forget the classification’ - video"
+},
+{
+"id": "17f5ab84b2c397d3",
+"title": "‘I’m excited to be part of that story’ - Florian Sénéchal joins Unibet Rose Rockets",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/im-excited-to-be-part-of-that-story-florian-senechal-joins-unibet-rose-rockets/",
+"source": "Cyclingnews",
+"when": "18:06",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/wEboKeK9wy7YfKqmZCPoDU-1920-80.jpg",
+"excerpt": "Friend Philippe Gilbert encouraged the move to the French-registered team"
+},
+{
 "id": "1bd7ca8b488f11c5",
 "title": "Superprestige Merksplas: Niels Vandeputte outsprints Joran Wyseure to take first win of season",
 "url": "https://www.cyclingnews.com/pro-cycling/racing/superprestige-merksplas-niels-vandeputte-outsprints-joran-wyseure-to-take-first-win-of-season/",
@@ -6305,26 +6327,37 @@
 "excerpt": "Felipe Orts is third as Michael Vanthourenhout crashes out at Aardbeiencross"
 },
 {
-"id": "cd89c48ca8b828c9",
-"title": "Superprestige Merksplas: Lucinda Brand returns to take brilliant win after a race long fight.",
-"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/superprestige-merksplas-lucinda-brand-returns-to-take-brilliant-win-after-a-race-long-fight/",
-"source": "Cyclingnews",
-"when": "14:44",
+"id": "590d6d39cb14c7e3",
+"title": "Driver Accused of Killing Cyclist Could Face 98 Year Prison Sentence",
+"url": "https://velo.outsideonline.com/road/driver-accused-faces-98-year-prison-sentence/",
+"source": "Velo",
+"when": "21:41",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/CeHSFrWBeHr8wHcQC6unJE-1920-80.jpg",
-"excerpt": "Inge van der Heijden was second Sara Casasola third."
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Screenshot-2026-11-08-at-14.44.16.jpg?width=1200",
+"excerpt": ""
 },
 {
-"id": "e7df31d661eb9498",
-"title": "'I prefer having two lively riders' - Pinarello-Q36.5 sports director plays down potential clash between Tom Pidcock and Giulio Ciccone",
-"url": "https://www.cyclingnews.com/pro-cycling/racing/i-prefer-having-two-lively-riders-pinarello-q36-5-sports-director-plays-down-potential-clash-between-tom-pidcock-and-giulio-ciccone/",
-"source": "Cyclingnews",
-"when": "12:55",
+"id": "3112b3c4a5483bfd",
+"title": "My secret race against Thomas Frischknecht at Gravel Burn",
+"url": "https://escapecollective.com/my-secret-race-against-thomas-frischknecht-at-gravel-burn/",
+"source": "Escape Collective",
+"when": "21:23",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/Ly7nAGY3c7Lgney5EJnEXQ-1920-80.jpg",
-"excerpt": "The two are likely to race together at some events in 2027"
+"image": "https://escapecollective.com/content/images/2026/11/NGB26_Stage5_SamClark_1992.jpg",
+"excerpt": "Seven stages of the 2026 Gravel Burn, one Swiss legend, and a race he never knew he was part of."
+},
+{
+"id": "ca77da863fc1f540",
+"title": "A Future Grand Tour Winner? Brandon McNulty Gets Another Vote of Confidence",
+"url": "https://velo.outsideonline.com/road/road-racing/grand-tour-brandon-mcnulty/",
+"source": "Velo",
+"when": "18:17",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/GettyImages-2300812600.jpg?width=1200",
+"excerpt": ""
 },
 {
 "id": "8c0e124fcb3ff54c",
@@ -6336,39 +6369,6 @@
 "lang": "en",
 "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/component-cover.jpg?width=1200",
 "excerpt": ""
-},
-{
-"id": "2097efe10435ad07",
-"title": "Vandeputte takes first victory of the season in Merksplas thriller",
-"url": "https://escapecollective.com/vandeputte-takes-first-victory-of-the-season-in-merksplas-thriller/",
-"source": "Escape Collective",
-"when": "16:21",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
-"excerpt": ""
-},
-{
-"id": "473244505d2fdb21",
-"title": "Brand puts injury scare behind her with confident Merksplas victory",
-"url": "https://escapecollective.com/brand-puts-injury-scare-behind-her-with-confident-merksplas-victory/",
-"source": "Escape Collective",
-"when": "14:47",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
-"excerpt": ""
-},
-{
-"id": "540416779a891b31",
-"title": "XDS reportedly toying with terminating Astana partnership",
-"url": "https://escapecollective.com/xds-reportedly-toying-with-terminating-astana-partnership/",
-"source": "Escape Collective",
-"when": "13:56",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
-"excerpt": ""
 }
 ]
 },
@@ -6376,6 +6376,17 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "2fc5c9c238b4c69d",
+"title": "Startelvan i Nations League",
+"url": "https://www.svenskfotboll.se/nyheter/landslag/2026/11/herrlandslaget-startelva/",
+"source": "SvFF",
+"when": "21:54",
+"also": [],
+"lang": "sv",
+"image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4ac266/globalassets/svff/bilderblock/2611/viktor_johansson.jpg",
+"excerpt": ""
+},
 {
 "id": "702dc722130ecb42",
 "title": "How to Watch and Stream Sunday's Patriots Game Against the Lions | NFL Week 10",
@@ -6407,17 +6418,6 @@
 "also": [],
 "lang": "en",
 "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/styqfj86qlj7pls6vrrl.jpg",
-"excerpt": ""
-},
-{
-"id": "d8291262ad566da6",
-"title": "Dejan Kulusevski: ”Det känns som jag är hemma”",
-"url": "https://www.svenskfotboll.se/nyheter/landslag/2026/11/herrlandslaget-dejan/",
-"source": "SvFF",
-"when": "Fri 19:03",
-"also": [],
-"lang": "sv",
-"image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4ac189/globalassets/svff/nyhetsblock-start/dejantillhemsida1.jpg",
 "excerpt": ""
 },
 {
@@ -6467,7 +6467,7 @@
 ]
 }
 ],
-"lead": "1bd7ca8b488f11c5"
+"lead": "769d4abbecb7f75f"
 },
 {
 "id": "chess",
@@ -6479,6 +6479,17 @@
 "id": "chess",
 "title": null,
 "items": [
+{
+"id": "5cb7470327cd2a86",
+"title": "Like to play Magnus in London?",
+"url": "https://en.chessbase.com/post/like-to-play-magnus-in-london",
+"source": "ChessBase",
+"when": "22:15",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133146_l200",
+"excerpt": ""
+},
 {
 "id": "32524d497e651b67",
 "title": "Total Chess: Group stage - Live!",
@@ -6546,31 +6557,20 @@
 "excerpt": ""
 },
 {
-"id": "2740c0d665f1e390",
-"title": "Total Chess: Double wins for Caruana and Niemann, first 2700+ scalp for Assaubayeva",
-"url": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-2",
-"source": "ChessBase",
-"when": "Fri 09:15",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133253_l200",
-"excerpt": ""
-},
-{
-"id": "c071515a36005ce9",
-"title": "Caruana, Niemann Sweep Praggnanandhaa, Vaishali; Assaubayeva Upsets Arjun",
-"url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-3",
+"id": "f9df4e2959f3068f",
+"title": "Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot",
+"url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
 "source": "Chess.com",
-"when": "Thu 21:54",
+"when": "Fri 22:20",
 "also": [],
 "lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2264609.6c293846.5000x5000o.6389bab8f370.png",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2264887.0a2bbcab.5000x5000o.25b48baab194.png",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "32524d497e651b67"
+"lead": "5cb7470327cd2a86"
 },
 {
 "id": "ai",
@@ -6627,22 +6627,22 @@
 "excerpt": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s how."
 },
 {
-"id": "88bc835bdfbf019b",
-"title": "Snowflake a Leader in Gartner® Data Lakehouse Magic Quadrant™",
-"url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/gartner-magic-quadrant-data-lakehouse-platforms",
-"source": "Snowflake blog",
-"when": "Fri 21:58",
+"id": "557c093c2a78023a",
+"title": "Gemini Decisions API",
+"url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+"source": "Simon Willison",
+"when": "Wed 23:03",
 "also": [],
 "lang": "en",
 "image": null,
 "excerpt": ""
 },
 {
-"id": "557c093c2a78023a",
-"title": "Gemini Decisions API",
-"url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-"source": "Simon Willison",
-"when": "Wed 23:03",
+"id": "88bc835bdfbf019b",
+"title": "Snowflake a Leader in Gartner® Data Lakehouse Magic Quadrant™",
+"url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/gartner-magic-quadrant-data-lakehouse-platforms",
+"source": "Snowflake blog",
+"when": "Fri 21:58",
 "also": [],
 "lang": "en",
 "image": null,
@@ -6686,17 +6686,6 @@
 "title": null,
 "items": [
 {
-"id": "b7fdcb137f24e971",
-"title": "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more",
-"url": "https://endpoints.news/george-church-quits-ai-startup-ira-mellmans-immunotherapy-fight-and-more/",
-"source": "Endpoints News",
-"when": "12:00",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2021/02/epn_weekly_twitter.jpg",
-"excerpt": ""
-},
-{
 "id": "400ee6b8fa188561",
 "title": "Argenx is spending billions to push beyond Vyvgart",
 "url": "https://endpoints.news/argenx-is-spending-billions-to-push-beyond-vyvgart/",
@@ -6730,6 +6719,17 @@
 "excerpt": ""
 },
 {
+"id": "b7fdcb137f24e971",
+"title": "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more",
+"url": "https://endpoints.news/george-church-quits-ai-startup-ira-mellmans-immunotherapy-fight-and-more/",
+"source": "Endpoints News",
+"when": "12:00",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2021/02/epn_weekly_twitter.jpg",
+"excerpt": ""
+},
+{
 "id": "ff7c97e0333485ec",
 "title": "Milestone cuts 20% of staff as Cardamyst sales hit $1M in Q3",
 "url": "https://endpoints.news/milestone-cuts-20-of-staff-as-cardamyst-sales-hit-1m-in-q3/",
@@ -6741,17 +6741,6 @@
 "excerpt": ""
 },
 {
-"id": "095c63b4bc95ce4b",
-"title": "AZ keeps pressure on Keytruda with Imfinzi expansion in chemo-ineligible bladder cancer",
-"url": "https://www.fiercepharma.com/pharma/az-keeps-pressure-keytruda-imfinzi-expansion-chemo-ineligible-bladder-cancer",
-"source": "Fierce Pharma",
-"when": "07:15",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/AZ%20Qingdao.jpg?VersionId=KXkXy2nkypan011c5ao1Gpq1pTvjwWBi",
-"excerpt": ""
-},
-{
 "id": "7e642855e528c455",
 "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2026",
 "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2026",
@@ -6760,6 +6749,17 @@
 "also": [],
 "lang": "en",
 "image": "https://www.ema.europa.eu/sites/default/files/styles/ema_smp_opengraph/public/2026-06/2026_CHMP_WEB_AD486628907_0.png.webp?itok=Qucz1sa3",
+"excerpt": ""
+},
+{
+"id": "095c63b4bc95ce4b",
+"title": "AZ keeps pressure on Keytruda with Imfinzi expansion in chemo-ineligible bladder cancer",
+"url": "https://www.fiercepharma.com/pharma/az-keeps-pressure-keytruda-imfinzi-expansion-chemo-ineligible-bladder-cancer",
+"source": "Fierce Pharma",
+"when": "07:15",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/AZ%20Qingdao.jpg?VersionId=KXkXy2nkypan011c5ao1Gpq1pTvjwWBi",
 "excerpt": ""
 },
 {
@@ -6776,7 +6776,7 @@
 ]
 }
 ],
-"lead": "b7fdcb137f24e971"
+"lead": "400ee6b8fa188561"
 }
 ],
 "weather": {
@@ -6843,18 +6843,18 @@
 "date": "2026-11-15",
 "dow": "Sun",
 "dm": "15.11.",
-"label": "Light showers",
+"label": "Light rain",
 "icon": "🌦️",
-"hi": 13,
+"hi": 14,
 "lo": 5,
-"rain_mm": 2.9,
+"rain_mm": 2.5,
 "rain_pct": 90,
-"wind": 9,
+"wind": 12,
 "uv": 2,
 "sunrise": "07:34",
 "sunset": "16:53",
 "bar_l": 37,
-"bar_w": 42
+"bar_w": 47
 },
 {
 "date": "2026-11-16",
@@ -6864,10 +6864,10 @@
 "icon": "🌦️",
 "hi": 12,
 "lo": 8,
-"rain_mm": 0.8,
+"rain_mm": 2.5,
 "rain_pct": 65,
-"wind": 17,
-"uv": 2,
+"wind": 20,
+"uv": 1,
 "sunrise": "07:35",
 "sunset": "16:52",
 "bar_l": 53,
@@ -6884,7 +6884,7 @@
 "rain_mm": 12.8,
 "rain_pct": 98,
 "wind": 34,
-"uv": 1,
+"uv": 0,
 "sunrise": "07:37",
 "sunset": "16:51",
 "bar_l": 58,
@@ -6901,7 +6901,7 @@
 "rain_mm": 5.2,
 "rain_pct": 77,
 "wind": 25,
-"uv": 2,
+"uv": 1,
 "sunrise": "07:38",
 "sunset": "16:50",
 "bar_l": 68,
@@ -6916,7 +6916,7 @@
 "hi": 13,
 "lo": 10,
 "rain_mm": 4.7,
-"rain_pct": 73,
+"rain_pct": 70,
 "wind": 23,
 "uv": 1,
 "sunrise": "07:39",
@@ -6933,7 +6933,7 @@
 "hi": 13,
 "lo": 10,
 "rain_mm": 1.3,
-"rain_pct": 64,
+"rain_pct": 75,
 "wind": 24,
 "uv": 1,
 "sunrise": "07:41",
@@ -6948,48 +6948,48 @@
 "label": "Light showers",
 "icon": "🌦️",
 "hi": 10,
-"lo": 4,
+"lo": 3,
 "rain_mm": 2.0,
-"rain_pct": 41,
+"rain_pct": 71,
 "wind": 20,
-"uv": 1,
+"uv": 2,
 "sunrise": "07:42",
 "sunset": "16:47",
-"bar_l": 32,
-"bar_w": 32
+"bar_l": 26,
+"bar_w": 37
 },
 {
 "date": "2026-11-22",
 "dow": "Sun",
 "dm": "22.11.",
-"label": "Light drizzle",
-"icon": "🌦️",
-"hi": 10,
-"lo": 4,
-"rain_mm": 1.2,
+"label": "Heavy drizzle",
+"icon": "🌧️",
+"hi": 11,
+"lo": 2,
+"rain_mm": 11.2,
 "rain_pct": 33,
-"wind": 10,
+"wind": 9,
 "uv": 1,
 "sunrise": "07:44",
 "sunset": "16:46",
-"bar_l": 32,
-"bar_w": 32
+"bar_l": 21,
+"bar_w": 47
 },
 {
 "date": "2026-11-23",
 "dow": "Mon",
 "dm": "23.11.",
-"label": "Overcast",
-"icon": "☁️",
-"hi": 9,
-"lo": 2,
-"rain_mm": 0,
+"label": "Drizzle",
+"icon": "🌦️",
+"hi": 11,
+"lo": 4,
+"rain_mm": 2.0,
 "rain_pct": 39,
-"wind": 6,
+"wind": 5,
 "uv": 1,
 "sunrise": "07:45",
 "sunset": "16:45",
-"bar_l": 21,
+"bar_l": 32,
 "bar_w": 37
 }
 ],
