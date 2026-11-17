@@ -6000,8 +6000,8 @@
 },
 "2026-11-17": {
 "date": "2026-11-17",
-"built_at": "2026-11-17T00:28:33.226320+00:00",
-"built_local": "01:28",
+"built_at": "2026-11-17T07:50:54.391064+00:00",
+"built_local": "08:50",
 "edition": "Morning",
 "feeds_ok": 51,
 "feeds_total": 55,
@@ -6047,18 +6047,16 @@
 "excerpt": ""
 },
 {
-"id": "6983fe36be786f27",
-"title": "Prague: Thousands of Czechs rally against government media funding plan",
-"url": "https://www.france24.com/en/video/20261116-prague-thousands-of-czechs-rally-against-government-media-funding-plan",
+"id": "6340730d31f6f07f",
+"title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+"url": "https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
 "source": "France 24",
-"when": "Mon 16:49",
+"when": "Mon 23:07",
 "also": [
-"The Hindu",
-"SCMP",
-"BBC World"
+"The Hindu"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/5149e6e0-e1d7-11f1-9ee0-29048b396e03/w:1024/p:16x9/Prague.jpg",
+"image": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg",
 "excerpt": ""
 },
 {
@@ -6075,6 +6073,19 @@
 "lang": "en",
 "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb113f006a-1794838847.jpg?resize=1920%2C1440",
 "excerpt": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria."
+},
+{
+"id": "f658f54d232431b6",
+"title": "EU countries announce migrant deportation centre in Rwanda",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "02:12",
+"also": [
+"BBC World"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794877935.jpg?resize=1200%2C675",
+"excerpt": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre."
 },
 {
 "id": "b401317cc2b38cb1",
@@ -6103,21 +6114,6 @@
 "excerpt": ""
 },
 {
-"id": "c58ff213057fe55f",
-"title": "Estonia to close Russian border crossings after attempted arson attack",
-"url": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
-"source": "The Hindu",
-"when": "Mon 06:52",
-"also": [
-"Al Jazeera",
-"DW",
-"BBC World"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/845oc4/article71706851.ece/alternates/LANDSCAPE_1200/2026-09-17T100414Z_1594700211_RC2NVLALYFWQ_RTRMADP_3_USA-TRUMP-NATO-FUTURE.JPG",
-"excerpt": ""
-},
-{
 "id": "399c61b06024c289",
 "title": "Congo struggles to tame ebola outbreak six months into response",
 "url": "http://www.africanews.com/2026/11/16/congo-struggles-to-tame-ebola-outbreak-six-months-into-response/",
@@ -6131,17 +6127,18 @@
 "excerpt": ""
 },
 {
-"id": "69cf934c24d0375f",
-"title": "Ukraine hits Russia's Crimea bridge in 1,300-drone barrage",
-"url": "https://www.thehindu.com/news/international/ukraine-hits-russias-crimea-bridge-in-1300-drone-barrage/article71707251.ece",
+"id": "c58ff213057fe55f",
+"title": "Estonia to close Russian border crossings after attempted arson attack",
+"url": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
 "source": "The Hindu",
-"when": "Mon 10:12",
+"when": "Mon 06:52",
 "also": [
-"SCMP"
+"Al Jazeera",
+"BBC World"
 ],
 "lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/4rcxt0/article71707279.ece/alternates/LANDSCAPE_1200/AFP__20261116__D7KG3ZQ__v1__HighRes__FilesCrimeaUkraineRussiaConflictBridge.jpg",
-"excerpt": "The strike on the bridge appeared to inflict only minor damage, though drew an angry response from Russian-installed officials"
+"image": "https://th-i.thgim.com/public/incoming/845oc4/article71706851.ece/alternates/LANDSCAPE_1200/2026-09-17T100414Z_1594700211_RC2NVLALYFWQ_RTRMADP_3_USA-TRUMP-NATO-FUTURE.JPG",
+"excerpt": ""
 },
 {
 "id": "a089887461e4a20d",
@@ -6170,119 +6167,119 @@
 "title": null,
 "items": [
 {
-"id": "6b575f4ae745ccd7",
-"title": "Hilfe für mehr Selbständigkeit – Flughafen Zürich testet Roboter-Rollstühle",
-"url": "https://www.srf.ch/news/schweiz/hilfe-fuer-mehr-selbstaendigkeit-flughafen-zuerich-testet-roboter-rollstuehle",
+"id": "210dee446f3d457b",
+"title": "Nach Amoktat von Aarau – IV soll gefährliche Personen der Waffenbehörde melden dürfen",
+"url": "https://www.srf.ch/news/schweiz/nach-amoktat-von-aarau-iv-soll-gefaehrliche-personen-der-waffenbehoerde-melden-duerfen",
 "source": "SRF News",
-"when": "Mon 19:30",
+"when": "08:39",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/90336c.webp",
-"excerpt": "Vier selbstfahrende Rollstühle sollen Reisenden mit eingeschränkter Mobilität den Weg zum Gate erleichtern."
+"image": "https://www.srf.ch/static/cms/images//320ws/ef2de4.webp",
+"excerpt": "Der Täter von Aarau war psychisch krank und besass legal Waffen. Nun will der Bundesrat ein Melderecht für die IV."
 },
 {
-"id": "3d40cedd004ac933",
-"title": "Hunde-Schweizermeisterschaften – Auf Spurensuche im Wald: Sanitätshund Umay zeigte sein Können",
-"url": "https://www.srf.ch/news/schweiz/hunde-schweizermeisterschaften-auf-spurensuche-im-wald-sanitaetshund-umay-zeigte-sein-koennen",
-"source": "SRF News",
-"when": "Mon 17:29",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/cf6d5c.webp",
-"excerpt": "An den Schweizermeisterschaften aller Rassen in Brugg haben sich rund 100 Hund-Mensch-Teams gemessen."
-},
-{
-"id": "78d17b7988ef1a03",
-"title": "Ab Mitternacht: Sturmwarnung für die Region Basel: Diese Orte sollten Sie meiden",
-"url": "https://www.bazonline.ch/sturmwarnung-basel-windspitzen-bis-100-km-h-erwartet-122711440301",
+"id": "825ef84919b80712",
+"title": "Nach Unfall an Neuweilerstrasse: Veloverband fordert Tempo 30: «Grösste Herausforderung, hier sturzfrei durchzukommen»",
+"url": "https://www.bazonline.ch/neuweilerstrasse-basel-pro-velo-fordert-tempo-30-334325038422",
 "source": "Basler Zeitung",
-"when": "Mon 17:02",
+"when": "06:14",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/BQAiHANtadO8vA-m7clkbH.jpg",
-"excerpt": "Ab Mitternacht bis am Mittwochmorgen gilt für die Region Basel eine Sturmwarnung."
-},
-{
-"id": "b0d3fbdf44d50c3e",
-"title": "Kriminelle Hackerangriffe – Cyber-Chef des Bundes warnt vor aggressiveren Cyberangriffen",
-"url": "https://www.srf.ch/news/schweiz/kriminelle-hackerangriffe-cyber-chef-des-bundes-warnt-vor-aggressiveren-cyberangriffen",
-"source": "SRF News",
-"when": "Mon 16:40",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/df0037.webp",
-"excerpt": "Florian Schütz, Direktor des Bundesamts für Cybersicherheit, warnt vor zunehmend aggressiven Cyberangriffen."
-},
-{
-"id": "ef49dc5710a2aefb",
-"title": "85 Einsätze in einer Nacht: Gewalt zwischen Casablanca und Basler Ultras eskaliert",
-"url": "https://www.bazonline.ch/basler-ultras-schlaegerei-bombendrohung-in-basel-821586383672",
-"source": "Basler Zeitung",
-"when": "Mon 15:01",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/2XtzM-i8K2CAgIzBEXV60y.png",
+"image": "https://cdn.unitycms.io/images/7mCo31It428Bv_tRyS4qie.jpg",
 "excerpt": ""
 },
 {
-"id": "15f60509e4a870cd",
-"title": "Grosses Reunion-Konzert: Basler Punk-Veteranen ehren ihre verstorbenen Freunde – und feiern das Leben",
-"url": "https://www.bazonline.ch/basler-punk-reunion-konzert-ehrt-verstorbene-bandmitglieder-993054192606",
+"id": "cd62162a6c52224d",
+"title": "Thomi Jourdan vor KSBL-Showdown: Liestal und Bruderholz beibehalten? «Wenn die Vorlage scheitert, wäre das fatal»",
+"url": "https://www.bazonline.ch/thomi-jourdan-uebers-ksbl-es-gibt-keinen-plan-b-189614078191",
 "source": "Basler Zeitung",
-"when": "Mon 14:26",
+"when": "06:13",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/5__zB9tuKdOAFhmv2EFp8L.jpg",
+"image": "https://cdn.unitycms.io/images/9CWmn8bAq1h9pvMX1VolTR.png",
 "excerpt": ""
 },
 {
-"id": "2e129591a3f76baa",
-"title": "85 Einsätze und mehrere Schlägereien",
-"url": "https://bajour.ch/a/85-einsaetze-und-mehrere-schlaegereien-unruhige-nacht-in-basel",
-"source": "Bajour",
-"when": "Mon 13:49",
+"id": "ce87047e9520278a",
+"title": "Gewalt gegen Spitalpersonal – Neue Zahlen: Gewalt in Basler Spitälern nimmt deutlich zu",
+"url": "https://www.srf.ch/news/schweiz/gewalt-gegen-spitalpersonal-neue-zahlen-gewalt-in-basler-spitaelern-nimmt-deutlich-zu",
+"source": "SRF News",
+"when": "06:06",
 "also": [],
 "lang": "de",
-"image": null,
-"excerpt": "Die Basler Blaulichtorganisationen hatten in der Nacht auf Sonntag alle Hände voll zu tun."
+"image": "https://www.srf.ch/static/cms/images//320ws/eee2067.webp",
+"excerpt": "Die Gewalt geht nicht nur von Patientinnen und Patienten aus, sondern häufig auch von Angehörigen sowie Besuchenden."
 },
 {
-"id": "e2bcd27670a82e14",
-"title": "Musikbüro-Kürzungen werden im Baselbiet zum Politikum",
-"url": "https://bajour.ch/a/popmusik-foerderung-fragen-zu-musikbuero-basel-im-landrat-baselland",
-"source": "Bajour",
-"when": "Mon 13:31",
+"id": "2c57693e38c3538b",
+"title": "Bundesnachrichtendienst – Schweizer Geheimdienst unter Druck?",
+"url": "https://www.srf.ch/news/schweiz/bundesnachrichtendienst-schweizer-geheimdienst-unter-druck",
+"source": "SRF News",
+"when": "05:49",
 "also": [],
 "lang": "de",
-"image": "https://media-bajour.wepublish.cloud/01a1baf4-f359-71aa-bfe2-377441ef5654?quality=80&sig=9D3QM6J4pXe_cA8paAxxCkerPAFvqgFhDH4v33iJ1WeX_rmrnoJITvXpJzpYRV9hKktdeRIwkf7pt_THhSMIAQ",
-"excerpt": "SP-Landrat Roman Brunner will in einer Interpellation wissen, was die Strategie der Kantonsregierung für neue Förderstrukturen ist."
+"image": "https://www.srf.ch/static/cms/images//320ws/5425ba.webp",
+"excerpt": "Der NDB ist auf internationale Partner angewiesen. Doch diese könnten sich abwenden, warnt der Sicherheitsexperte."
 },
 {
-"id": "b17df5ff3da92923",
-"title": "Medgate übernimmt Nachtdienst",
-"url": "https://bajour.ch/a/medgate-uebernimmt-nachtdienst-im-gesundheitszentrum-laufen",
+"id": "b23658e96b451621",
+"title": "Wie Erkältungen vorbeugen",
+"url": "https://bajour.ch/a/wie-erkaeltungen-vorbeugen",
 "source": "Bajour",
-"when": "Mon 11:56",
+"when": "02:40",
 "also": [],
 "lang": "de",
-"image": null,
-"excerpt": "Damit ein Dauerbetrieb im Gesundheitszentrum Laufen möglich ist, setzt das KSBL nachts neu auf telemedizinische Unterstützung."
+"image": "https://media-bajour.wepublish.cloud/b0253943-c75f-44f9-acc3-14b628e80bc4?quality=80&sig=wII5tPjGes9VILORTekW2c_ctgVn2HPUbSEVlgK2GSjziCQCaq1Zn6xl7DeLBB9zYAIys8hcoZI4ytjg3385BQ",
+"excerpt": ""
 },
 {
-"id": "7c4cdd2b20f69e20",
-"title": "Deutschland gewinnt gegen die Niederlande mit 5:0 – und zieht als Gruppenerster in der Nations League weiter",
-"url": "https://www.nzz.ch/sport/deutschland-gewinnt-gegen-die-niederlande-mit-50-und-zieht-als-gruppenerster-in-der-nations-league-weiter-ld.10065682",
-"source": "NZZ",
-"when": "Mon 23:13",
+"id": "4ff938478bc8d8f8",
+"title": "Die KI namens Wilson",
+"url": "https://bajour.ch/a/einstellungs-sache-ueber-ki-einsatz-bei-bewerbungsgespraechen",
+"source": "Bajour",
+"when": "02:00",
 "also": [],
 "lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/11/16/e06109dd-57a7-4abc-a535-d884020b8d6b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3332,3332,x834,y0",
+"image": "https://media-bajour.wepublish.cloud/01a18c6f-07a2-7655-b509-f83aade5c1b2?quality=80&sig=UykXibSDSKEA-K2M5G2LM01eu7miZMqvcY4wjr7FWLm5dqHf6N1TWA0-9Pwrmr6vuJd2YJ3bUIcmyMRqU--yBA",
+"excerpt": ""
+},
+{
+"id": "e1c5acce62b65469",
+"title": "Restaurantbesuche mit besserem Klima-Gewissen",
+"url": "https://bajour.ch/a/menu-check-basel-gastro-kann-mit-tool-von-2050-klimabilanz-ausrechnen",
+"source": "Bajour",
+"when": "02:00",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a1cb3d-ab43-74dd-a9db-24ad45121013?quality=80&sig=bbI4MGrKQn_uz36EKDiqn1gxaTIMb7oIzEvphXYItRx8WbPccH6uuz6mf3q4x1tw0C8WrSnKtvjn662a4vE-Cw",
+"excerpt": ""
+},
+{
+"id": "575529b4d31360fb",
+"title": "Velofahrer nach Sturz verstorben",
+"url": "https://www.bs.ch/medienmitteilungen/jsd/2026-velofahrer-nach-sturz-verstorben",
+"source": "Kanton Basel-Stadt",
+"when": "08:50",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
+},
+{
+"id": "a1045f75ec6a1057",
+"title": "Festnahmen nach Einbruchversuch",
+"url": "https://www.bs.ch/medienmitteilungen/2026-festnahmen-nach-einbruchversuch-0",
+"source": "Kanton Basel-Stadt",
+"when": "08:50",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "6b575f4ae745ccd7"
+"lead": "210dee446f3d457b"
 },
 {
 "id": "sport",
@@ -6294,6 +6291,17 @@
 "id": "cycling",
 "title": "Cycling",
 "items": [
+{
+"id": "af59a08d57868125",
+"title": "Taking a Break from the Bike? Here’s How Painfully Fast You Lose Your FTP",
+"url": "https://velo.outsideonline.com/road/road-training/how-fast-cyclists-detrain-lose-ftp/",
+"source": "Velo",
+"when": "08:25",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Z8B_3852-e1794901599258.jpg?width=1200",
+"excerpt": ""
+},
 {
 "id": "316f9b095637e327",
 "title": "'For the moment, I'm not able to win the Tour' – Paul Seixas hints at potential 2027 season debut race with immediate return to Tour de France not guaranteed",
@@ -6361,17 +6369,6 @@
 "lang": "en",
 "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/DSC_7772-Edit.jpg?width=1200",
 "excerpt": ""
-},
-{
-"id": "8d3950be648a5860",
-"title": "You Don’t Need Separate Bikepacking, Gravel, and Race Bikes. You Just Need the Shafer.",
-"url": "https://velo.outsideonline.com/gravel/you-dont-need-separate-bikepacking-gravel-and-race-bikes-you-just-need-the-shafer/",
-"source": "Velo",
-"when": "Mon 22:31",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Ari-Bikes_featured_h.jpg?width=1200",
-"excerpt": ""
 }
 ]
 },
@@ -6379,6 +6376,17 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "cfb086f8d4f55cab",
+"title": "Here’s every ranked prospect that needs to be protected ahead of Tuesday’s 40-man deadline",
+"url": "https://www.mlb.com/redsox/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
+"source": "MLB.com",
+"when": "03:42",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/n0q9izvzsdfo224eqhm0.jpg",
+"excerpt": ""
+},
 {
 "id": "61aedd29801a278b",
 "title": "Highlights | Sverige – Bosnien-Hercegovina 3-2",
@@ -6410,17 +6418,6 @@
 "also": [],
 "lang": "en",
 "image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/16/111326_BL_OSU_2763.jpg",
-"excerpt": ""
-},
-{
-"id": "0116b47283922288",
-"title": "Lester lands on HOF ballot with interesting choice for voters",
-"url": "https://www.mlb.com/redsox/news/jon-lester-case-for-baseball-hall-of-fame",
-"source": "MLB.com",
-"when": "Mon 18:06",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/ydng9tjprkzwkgdhwyp5.jpg",
 "excerpt": ""
 },
 {
@@ -6470,18 +6467,29 @@
 ]
 }
 ],
-"lead": "316f9b095637e327"
+"lead": "af59a08d57868125"
 },
 {
 "id": "chess",
 "title": "Chess",
-"count": 7,
+"count": 8,
 "thin": false,
 "groups": [
 {
 "id": "chess",
 "title": null,
 "items": [
+{
+"id": "d3a33275dbed8d68",
+"title": "Firouzja, Caruana, Giri and Vachier-Lagrave win groups in Budapest",
+"url": "https://www.fide.com/firouzja-caruana-giri-and-vachier-lagrave-win-groups-in-budapest/",
+"source": "FIDE",
+"when": "Sun 23:37",
+"also": [],
+"lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/TC-2026-D06-Firouzja.jpg",
+"excerpt": ""
+},
 {
 "id": "427e138aec5eb7d2",
 "title": "Here Comes The SCC: Who's Playing, Who Will Win In Round 1",
@@ -6494,14 +6502,14 @@
 "excerpt": ""
 },
 {
-"id": "d3a33275dbed8d68",
-"title": "Firouzja, Caruana, Giri and Vachier-Lagrave win groups in Budapest",
-"url": "https://www.fide.com/firouzja-caruana-giri-and-vachier-lagrave-win-groups-in-budapest/",
-"source": "FIDE",
-"when": "Sun 23:37",
+"id": "0f4154234a7d3d94",
+"title": "Total Chess Pilot 2026: Halfway Through, Carlsen Crashes to Historic Low",
+"url": "https://lichess.org/@/Lichess/blog/total-chess-pilot-2026-halfway-through-carlsen-crashes-to-historic-low/qmTzD0cn",
+"source": "Lichess",
+"when": "01:27",
 "also": [],
 "lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/TC-2026-D06-Firouzja.jpg",
+"image": "https://image.lichess.org/display?fmt=webp&h=550&op=thumbnail&path=lJLdGg41zpI1.webp&w=880&sig=bff8b6c16a5a30c35fb5f9b68be83694cefe7965",
 "excerpt": ""
 },
 {
@@ -6562,7 +6570,7 @@
 ]
 }
 ],
-"lead": "427e138aec5eb7d2"
+"lead": "d3a33275dbed8d68"
 },
 {
 "id": "ai",
@@ -6652,15 +6660,15 @@
 "excerpt": "Insurers in Asia–Pacific can realize value from agentic AI by redesigning insurance operations around what AI and agents now make possible."
 },
 {
-"id": "04583b2025d23dca",
-"title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
-"url": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
-"source": "Import AI",
-"when": "Mon 15:01",
+"id": "c806090cf2fc08cc",
+"title": "Quoting Go Proverbs",
+"url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+"source": "Simon Willison",
+"when": "07:16",
 "also": [],
 "lang": "en",
-"image": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/11/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-a9vils.png?resize=150%2C150&ssl=1",
-"excerpt": ""
+"image": null,
+"excerpt": "A little copying is better than a little dependency. — Go Proverbs , via Tags: go , programming"
 }
 ]
 }
@@ -6781,36 +6789,36 @@
 "icon": "🌦️",
 "hi": 17,
 "lo": 11,
-"rain_mm": 7.4,
+"rain_mm": 6.4,
 "rain_pct": 100,
-"wind": 33,
+"wind": 35,
 "uv": 1,
 "sunrise": "07:37",
 "sunset": "16:51",
-"bar_l": 60,
-"bar_w": 40
+"bar_l": 67,
+"bar_w": 33
 },
 "slots": [
 {
 "name": "Morning",
-"temp": 14,
+"temp": 13,
 "icon": "🌦️",
 "label": "Light rain",
-"rain_pct": 98
+"rain_pct": 100
 },
 {
 "name": "Afternoon",
-"temp": 15,
+"temp": 16,
 "icon": "☁️",
 "label": "Overcast",
-"rain_pct": 48
+"rain_pct": 45
 },
 {
 "name": "Evening",
-"temp": 14,
-"icon": "⛅",
-"label": "Partly cloudy",
-"rain_pct": 10
+"temp": 13,
+"icon": "☁️",
+"label": "Overcast",
+"rain_pct": 3
 }
 ],
 "days": [
@@ -6822,14 +6830,14 @@
 "icon": "🌦️",
 "hi": 17,
 "lo": 11,
-"rain_mm": 7.4,
+"rain_mm": 6.4,
 "rain_pct": 100,
-"wind": 33,
+"wind": 35,
 "uv": 1,
 "sunrise": "07:37",
 "sunset": "16:51",
-"bar_l": 60,
-"bar_w": 40
+"bar_l": 67,
+"bar_w": 33
 },
 {
 "date": "2026-11-18",
@@ -6839,14 +6847,14 @@
 "icon": "🌦️",
 "hi": 13,
 "lo": 10,
-"rain_mm": 1.1,
-"rain_pct": 68,
-"wind": 31,
+"rain_mm": 3.3,
+"rain_pct": 78,
+"wind": 25,
 "uv": 2,
 "sunrise": "07:38",
 "sunset": "16:50",
-"bar_l": 53,
-"bar_w": 20
+"bar_l": 61,
+"bar_w": 17
 },
 {
 "date": "2026-11-19",
@@ -6854,16 +6862,16 @@
 "dm": "19.11.",
 "label": "Light showers",
 "icon": "🌦️",
-"hi": 13,
-"lo": 7,
-"rain_mm": 2.9,
-"rain_pct": 80,
-"wind": 27,
+"hi": 12,
+"lo": 9,
+"rain_mm": 9.6,
+"rain_pct": 95,
+"wind": 30,
 "uv": 2,
 "sunrise": "07:39",
 "sunset": "16:49",
-"bar_l": 33,
-"bar_w": 40
+"bar_l": 56,
+"bar_w": 17
 },
 {
 "date": "2026-11-20",
@@ -6872,32 +6880,32 @@
 "label": "Light showers",
 "icon": "🌦️",
 "hi": 12,
-"lo": 9,
-"rain_mm": 4.0,
-"rain_pct": 86,
-"wind": 18,
+"lo": 7,
+"rain_mm": 5.2,
+"rain_pct": 87,
+"wind": 19,
 "uv": 1,
 "sunrise": "07:41",
 "sunset": "16:48",
-"bar_l": 47,
-"bar_w": 20
+"bar_l": 44,
+"bar_w": 28
 },
 {
 "date": "2026-11-21",
 "dow": "Sat",
 "dm": "21.11.",
-"label": "Light showers",
-"icon": "🌦️",
-"hi": 10,
-"lo": 3,
-"rain_mm": 2.1,
-"rain_pct": 85,
-"wind": 18,
-"uv": 0,
+"label": "Fog",
+"icon": "🌫️",
+"hi": 9,
+"lo": 0,
+"rain_mm": 0,
+"rain_pct": 59,
+"wind": 13,
+"uv": 1,
 "sunrise": "07:42",
 "sunset": "16:47",
-"bar_l": 7,
-"bar_w": 47
+"bar_l": 6,
+"bar_w": 50
 },
 {
 "date": "2026-11-22",
@@ -6905,16 +6913,16 @@
 "dm": "22.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 8,
-"lo": 3,
-"rain_mm": 10.0,
+"hi": 7,
+"lo": -1,
+"rain_mm": 3.0,
 "rain_pct": 82,
-"wind": 7,
-"uv": 1,
+"wind": 6,
+"uv": 0,
 "sunrise": "07:44",
 "sunset": "16:46",
-"bar_l": 7,
-"bar_w": 33
+"bar_l": 0,
+"bar_w": 44
 },
 {
 "date": "2026-11-23",
@@ -6922,16 +6930,16 @@
 "dm": "23.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 11,
-"lo": 3,
-"rain_mm": 2.9,
-"rain_pct": 83,
-"wind": 18,
+"hi": 10,
+"lo": 1,
+"rain_mm": 1.5,
+"rain_pct": 85,
+"wind": 8,
 "uv": 0,
 "sunrise": "07:45",
 "sunset": "16:45",
-"bar_l": 7,
-"bar_w": 53
+"bar_l": 11,
+"bar_w": 50
 },
 {
 "date": "2026-11-24",
@@ -6940,15 +6948,15 @@
 "label": "Drizzle",
 "icon": "🌦️",
 "hi": 10,
-"lo": 4,
-"rain_mm": 3.7,
+"lo": 0,
+"rain_mm": 3.6,
 "rain_pct": 40,
 "wind": 10,
-"uv": 2,
+"uv": 1,
 "sunrise": "07:47",
 "sunset": "16:45",
-"bar_l": 13,
-"bar_w": 40
+"bar_l": 6,
+"bar_w": 56
 },
 {
 "date": "2026-11-25",
@@ -6961,11 +6969,11 @@
 "rain_mm": 16.2,
 "rain_pct": 45,
 "wind": 6,
-"uv": 1,
+"uv": 2,
 "sunrise": "07:48",
 "sunset": "16:44",
-"bar_l": 13,
-"bar_w": 33
+"bar_l": 28,
+"bar_w": 28
 },
 {
 "date": "2026-11-26",
@@ -6978,14 +6986,14 @@
 "rain_mm": 0.4,
 "rain_pct": 46,
 "wind": 12,
-"uv": 2,
+"uv": 1,
 "sunrise": "07:49",
 "sunset": "16:43",
-"bar_l": 0,
-"bar_w": 20
+"bar_l": 17,
+"bar_w": 17
 }
 ],
-"lo": 2,
+"lo": -1,
 "hi": 17
 }
 }
