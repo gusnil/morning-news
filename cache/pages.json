@@ -5767,8 +5767,8 @@
 },
 "2026-11-18": {
 "date": "2026-11-18",
-"built_at": "2026-11-17T23:38:20.750029+00:00",
-"built_local": "00:38",
+"built_at": "2026-11-18T07:22:27.119904+00:00",
+"built_local": "08:22",
 "edition": "Morning",
 "feeds_ok": 55,
 "feeds_total": 55,
@@ -5798,16 +5798,30 @@
 "excerpt": ""
 },
 {
-"id": "992058ea7b783a7b",
-"title": "US, Mexico and Bolivia lose measles-free status as deaths mount",
-"url": "https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount",
+"id": "453b7344cd29735c",
+"title": "Xi, Putin meet ahead of Trump's arrival in China for historic trilateral summit",
+"url": "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
 "source": "France 24",
-"when": "Tue 22:30",
+"when": "03:23",
 "also": [
-"DW"
+"The Hindu"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/74a1392a-3f8b-11f1-af77-005056bf30b7/w:1024/p:16x9/AP26096555305099.jpg",
+"image": "https://s.france24.com/media/display/fce06848-e2ff-11f1-aa91-1ba7ddfab527/w:1024/p:16x9/097279e047c5a028371b570beb9f5b24972dd3ef.jpg",
+"excerpt": ""
+},
+{
+"id": "aa3397b082bfbf14",
+"title": "APEC summit: What Trump, Xi and Putin want",
+"url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf",
+"source": "DW",
+"when": "06:39",
+"also": [
+"Africanews",
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://static.dw.com/image/78531577_6.jpg",
 "excerpt": ""
 },
 {
@@ -5815,7 +5829,7 @@
 "title": "Russian military transport plane crashes in Siberia, killing 19: Defence Ministry",
 "url": "https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece",
 "source": "The Hindu",
-"when": "Tue 23:39",
+"when": "00:39",
 "also": [
 "Al Jazeera",
 "BBC World"
@@ -5823,22 +5837,6 @@
 "lang": "en",
 "image": "https://th-i.thgim.com/public/incoming/maecpj/article71713628.ece/alternates/LANDSCAPE_1200/2026-11-17T183007Z_1896887606_RC2UPOAT81QH_RTRMADP_3_RUSSIA-PLANE.JPG",
 "excerpt": "The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow"
-},
-{
-"id": "16234d426091db10",
-"title": "Robert Pattinson: British actor will be the next James Bond",
-"url": "https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond",
-"source": "France 24",
-"when": "Mon 17:39",
-"also": [
-"Al Jazeera",
-"DW",
-"El País English",
-"SCMP"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/1fa3829e-e1dd-11f1-a575-5f54d898a954/w:1024/p:16x9/EN-Pattison-tikTok-00-00-02-16-Still011.jpg",
-"excerpt": ""
 },
 {
 "id": "879b88a5aeaacab3",
@@ -5933,6 +5931,88 @@
 "title": null,
 "items": [
 {
+"id": "2c6957f7899da81c",
+"title": "Kanton Basel-Landschaft: Entwarnung bezüglich Ausfall der Notrufnummern 112, 117, 118",
+"url": "https://www.bazonline.ch/polizei-basel-landschaft-stoerung-bei-notrufnummern-954734380920",
+"source": "Basler Zeitung",
+"when": "01:41",
+"also": [
+"20 Minuten Basel"
+],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/410SJHyi4lZ99kitbrJmpV.jpg",
+"excerpt": "Aufgrund technischer Probleme kam es nachts zu Störungen bei den Notrufnummern der Polizei Basel-Landschaft."
+},
+{
+"id": "7e73febc79a2567a",
+"title": "Gefahr Cyberattacke – Gemeinden im Kampf gegen Hackerangriffe gefordert",
+"url": "https://www.srf.ch/news/schweiz/gefahr-cyberattacke-gemeinden-im-kampf-gegen-hackerangriffe-gefordert",
+"source": "SRF News",
+"when": "06:30",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/94c919.webp",
+"excerpt": "Cyberattacken treffen alle: Im Aargau rüsten Gemeinden nun auf, in Bern unterstützt der Kanton."
+},
+{
+"id": "f871ef378b729601",
+"title": "Diskussionen ums Limit: Tempo 30 an Neuweilerstrasse bereits geplant – allerdings nur bei Nacht",
+"url": "https://www.bazonline.ch/neuweilerstrasse-kanton-plant-temporeduktion-503438949283",
+"source": "Basler Zeitung",
+"when": "06:20",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/0GLNsIeP41S8P40QeCfAOx.jpg",
+"excerpt": "Der Kanton Basel-Stadt reduziert an der Neuweilerstrasse des Lärmes wegen bald das Tempo. Sicherheitsmassnahmen würden zudem laufend geprüft."
+},
+{
+"id": "6ae6de1e8d50b463",
+"title": "2. SRG-Umfrage auf einen Blick – Dem Bund drohen mindestens zwei Niederlagen",
+"url": "https://www.srf.ch/news/schweiz/2-srg-umfrage-auf-einen-blick-dem-bund-drohen-mindestens-zwei-niederlagen",
+"source": "SRF News",
+"when": "06:00",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/913685.webp",
+"excerpt": "Wäre anfangs November abgestimmt worden, wäre die MWST-Erhöhung für die AHV und die Mitte-Initiative abgelehnt worden."
+},
+{
+"id": "4cf97fbb9cddae9e",
+"title": "Basler Ökonom im Interview: «Arbeit wird ins Ausland aus­ge­lagert. Oder die Menschen werden weg­rationalisiert»",
+"url": "https://www.bazonline.ch/baselland-laut-oekonom-schwaecht-staat-kmu-mit-hohen-loehnen-830612176314",
+"source": "Basler Zeitung",
+"when": "05:58",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/3BP4jvMb4L_Bet8NqVNzit.jpg",
+"excerpt": ""
+},
+{
+"id": "2a6b8e39d0e044ee",
+"title": "Zweite SRG-Umfrage – Deutlicher Nein-Trend bei der Initiative gegen die Heiratsstrafe",
+"url": "https://www.srf.ch/news/zweite-srg-umfrage-deutlicher-nein-trend-bei-der-initiative-gegen-die-heiratsstrafe",
+"source": "SRF News",
+"when": "05:56",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/90cdbc2.webp",
+"excerpt": "Die Mehrheitsverhältnisse haben sich umgekehrt. 54 Prozent würden die Vorlage ablehnen, nur 40 Prozent würden Ja sagen."
+},
+{
+"id": "28d275718ab57b50",
+"title": "Staatsanwaltschaft beantragt Massnahme",
+"url": "https://bajour.ch/a/oekolampadmatte-staatsanwaltschaft-beantragt-massnahme",
+"source": "Bajour",
+"when": "Tue 11:26",
+"also": [
+"Kanton Basel-Stadt",
+"OnlineReports"
+],
+"lang": "de",
+"image": null,
+"excerpt": "Die Basler Blaulichtorganisationen hatten in der Nacht auf Sonntag alle Hände voll zu tun."
+},
+{
 "id": "9990ec973117a420",
 "title": "Wo der Vogel Gryff gepflegt, repariert und angepasst wird",
 "url": "https://bajour.ch/a/wo-der-vogel-gryff-gepflegt-repariert-und-angepasst-wird",
@@ -5955,97 +6035,20 @@
 "excerpt": ""
 },
 {
-"id": "eae984f176302c62",
-"title": "🎄 Nachhaltige Adventskalender",
-"url": "https://bajour.ch/a/nachhaltige-adventskalender",
-"source": "Bajour",
-"when": "00:27",
-"also": [],
-"lang": "de",
-"image": "https://media-bajour.wepublish.cloud/01a1ebd5-532e-7775-b501-c06444c1b006?quality=80&sig=8rySJj50wqWSTrZvQkVQpR3DLtkr5uznNy_HIyWSDoxrNrNDulaF7C_5fsTczTS_JVesVUBjVHv3_TC1jzZvAQ",
-"excerpt": ""
-},
-{
-"id": "54d3c3f825d9cebe",
-"title": "Vom Heimkind zum Buchautor – «Ich bin kein Opfer»",
-"url": "https://www.srf.ch/news/schweiz/vom-heimkind-zum-buchautor-ich-bin-kein-opfer",
-"source": "SRF News",
-"when": "Tue 21:42",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/a9af73.webp",
-"excerpt": "Fegble hat in seinen ersten 23 Jahren so viel erlebt wie andere im ganzen Leben. In seinem Buch schreibt er darüber."
-},
-{
-"id": "573030a3942bfd69",
-"title": "Finanzierung 13. AHV – AHV-Graben in den Bergen",
-"url": "https://www.srf.ch/news/finanzierung-13-ahv-ahv-graben-in-den-bergen",
-"source": "SRF News",
-"when": "Tue 20:20",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/acb091.webp",
-"excerpt": "Schmitten GR sagte klar Ja zur 13. AHV-Rente – Isenthal UR Nein. Wie steht man dort zur Finanzierung per Mehrwertsteuer?"
-},
-{
-"id": "5eea0fa86874b9b2",
-"title": "Haushaltsbudget-Erhebung – Wohnkosten in der Schweiz sind 2024 stark angestiegen",
-"url": "https://www.srf.ch/news/schweiz/haushaltsbudget-erhebung-wohnkosten-in-der-schweiz-sind-2024-stark-angestiegen",
-"source": "SRF News",
-"when": "Tue 19:33",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/7c6990.webp",
-"excerpt": "Steigende Wohn- und Fixkosten belasten die Budgets in der Schweiz – das verfügbare Einkommen stagniert."
-},
-{
-"id": "47da9f34dc9c1d28",
-"title": "Polizeikontrolle in Basel: Richter kritisiert Polizei: «Hier hat man aus einer Mücke einen Elefanten gemacht»",
-"url": "https://www.bazonline.ch/anzeige-durch-basler-polizei-gericht-spricht-migranten-frei-643596319074",
-"source": "Basler Zeitung",
-"when": "Tue 18:17",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/Ewk-g2LxaCdAihr3d7-bSW.jpg",
-"excerpt": ""
-},
-{
-"id": "49956d815f8652e5",
-"title": "Baustelle an Missionsstrasse: «Das wird mich stark treffen»: Goldschmiedin graut es vor Trottoiraufbruch",
-"url": "https://www.bazonline.ch/missionsstrasse-basel-laeden-leiden-trotz-tram-rueckkehr-206523687946",
-"source": "Basler Zeitung",
-"when": "Tue 18:01",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/Aiud9Gr6KejAdxVaHX_wqi.jpg",
-"excerpt": ""
-},
-{
-"id": "0552da45b7c9b5c3",
-"title": "Basler Regierung befindet: «Erhebliche Herausforderungen» – Jugendliche sollen nicht später zur Schule",
-"url": "https://www.bazonline.ch/spaeterer-schulbeginn-basel-regierung-lehnt-laurin-hoppler-motion-ab-338604511673",
-"source": "Basler Zeitung",
-"when": "Tue 17:00",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/11JUbmA8Kmh9pgYAw8S8Pl.jpg",
-"excerpt": "Die Basler Regierung ist gegen einen späteren Schulbeginn für Jugendliche. Sie spricht sich gegen eine Umsetzung der Motion von Laurin Hoppler (Grüne/JGB) aus."
-},
-{
-"id": "8d18631d2b0f5e86",
-"title": "Kurzmitteilungen aus der Regierungsrats-Sitzung (Bulletin)",
-"url": "https://www.bs.ch/medienmitteilungen/2026-kurzmitteilungen-aus-der-regierungsrats-sitzung-bulletin-30",
+"id": "2a36652a7b1e294f",
+"title": "Der Regierungsrat erhöht die Prämienverbilligungen fürs kommende Jahr 2027",
+"url": "https://www.bs.ch/medienmitteilungen/2026-der-regierungsrat-erhoeht-die-praemienverbilligungen-fuers-kommende-jahr-2027",
 "source": "Kanton Basel-Stadt",
-"when": "00:38",
+"when": "08:22",
 "also": [],
 "lang": "de",
 "image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": "Der Regierungsrat hat …"
+"excerpt": "Der Regierungsrat des Kantons Basel-Stadt hat die Anpassungen der kantonalen Prämienbeiträge für das Jahr 2027 beschlossen."
 }
 ]
 }
 ],
-"lead": "9990ec973117a420"
+"lead": "2c6957f7899da81c"
 },
 {
 "id": "sport",
@@ -6091,6 +6094,17 @@
 "excerpt": "Slovenian set to start ramping up his time on the bike ahead of UAE Team Emirates-XRG training camp in December"
 },
 {
+"id": "814248712b4e4cc7",
+"title": "Who Owns GRVL? The Story Behind the SBT Trademark Fight",
+"url": "https://velo.outsideonline.com/gravel/sbt-grvl-trademark-dispute/",
+"source": "Velo",
+"when": "04:15",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2021/08/SBTGRVL_selects-014501.jpg?width=1200",
+"excerpt": ""
+},
+{
 "id": "e0eed08625bc6e06",
 "title": "'You want business; I want sport': Why the XC World Series needs a better balance",
 "url": "https://escapecollective.com/you-want-business-i-want-sport-why-the-xc-world-series-needs-a-better-balance/",
@@ -6122,17 +6136,6 @@
 "lang": "en",
 "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Rouleur-Live-Tech-Gallery-2026-31-scaled-e1794943249595.jpg?width=1200",
 "excerpt": ""
-},
-{
-"id": "7a5ba620014edd9b",
-"title": "What does Lucinda Brand do with all those ducks?",
-"url": "https://escapecollective.com/what-does-lucinda-brand-do-with-all-those-ducks/",
-"source": "Escape Collective",
-"when": "Tue 18:13",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/lucinda-ducks.jpg",
-"excerpt": "'Everyone wants one.'"
 }
 ]
 },
@@ -6140,6 +6143,17 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "9768dff5f4d11a5a",
+"title": "1B Anderson, new addition Huggins make 2026 All-Arizona Fall League Team",
+"url": "https://www.mlb.com/redsox/news/all-arizona-fall-league-team-2026",
+"source": "MLB.com",
+"when": "04:00",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/qhwahfkwn4iizude6lrv.jpg",
+"excerpt": ""
+},
 {
 "id": "237b9dc67a361d16",
 "title": "Oavgjort i Nations League-avslutningen",
@@ -6149,17 +6163,6 @@
 "also": [],
 "lang": "sv",
 "image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4ac861/globalassets/svff/bilderblock/2611/hugo_larsson_1_1.jpg",
-"excerpt": ""
-},
-{
-"id": "cfb086f8d4f55cab",
-"title": "Here’s every ranked prospect that needed to be protected ahead of today's 40-man deadline",
-"url": "https://www.mlb.com/redsox/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-"source": "MLB.com",
-"when": "00:26",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/n0q9izvzsdfo224eqhm0.jpg",
 "excerpt": ""
 },
 {
@@ -6413,14 +6416,14 @@
 "excerpt": ""
 },
 {
-"id": "02b24bdc46a7334f",
-"title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-"url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-"source": "Simon Willison",
-"when": "Tue 23:38",
+"id": "e295c80ee3b0f341",
+"title": "Building AI that can work across the enterprise",
+"url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+"source": "MIT Technology Review",
+"when": "Mon 14:00",
 "also": [],
 "lang": "en",
-"image": "https://static.simonwillison.net/static/2026/astra-6-2-max.webp",
+"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
 "excerpt": ""
 }
 ]
@@ -6461,19 +6464,6 @@
 "excerpt": ""
 },
 {
-"id": "19906cf23365d918",
-"title": "FDA’s complete response letter for Summit’s ivonescimab cites China-heavy data beyond survival miss",
-"url": "https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
-"source": "Fierce Biotech",
-"when": "00:38",
-"also": [
-"Fierce Pharma"
-],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/FDAWHITEOAK.jpg?VersionId=LjiYOu1IpRi1Lr5AFyfPg4UfAZRO.azo",
-"excerpt": ""
-},
-{
 "id": "dcf6b358622d3480",
 "title": "Lilly signs $5.9B deal with Stipple to unlock oncology targets",
 "url": "https://www.fiercebiotech.com/biotech/eli-lilly-dots-59b-deal-stipple-unlock-oncology-targets",
@@ -6494,6 +6484,19 @@
 "lang": "en",
 "image": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
 "excerpt": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer."
+},
+{
+"id": "19906cf23365d918",
+"title": "FDA’s complete response letter for Summit’s ivonescimab cites China-heavy data beyond survival miss",
+"url": "https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
+"source": "Fierce Biotech",
+"when": "00:38",
+"also": [
+"Fierce Pharma"
+],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/FDAWHITEOAK.jpg?VersionId=LjiYOu1IpRi1Lr5AFyfPg4UfAZRO.azo",
+"excerpt": ""
 },
 {
 "id": "3b98cb06cb412188",
@@ -6520,15 +6523,15 @@
 "excerpt": ""
 },
 {
-"id": "2527d32d6e662263",
-"title": "Cosentyx bags FDA nod for 11th indication as Novartis looks to buffer 2029 patent cliff",
-"url": "https://www.fiercepharma.com/pharma/cosentyx-bags-fda-nod-11th-indication-novartis-looks-2029-patent-cliff",
-"source": "Fierce Pharma",
-"when": "Tue 20:23",
+"id": "847254c96bdac5b6",
+"title": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
+"url": "http://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide",
+"source": "FDA",
+"when": "Tue 21:32",
 "also": [],
 "lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/fiercepharma/1593184958/Olivier%20Le%20Moal%20GettyImages-931409422.jpg/Olivier%20Le%20Moal%20GettyImages-931409422.jpg?VersionId=BC2T9sQkA2Bzl0M4avgJj48iMtXQX3R_",
-"excerpt": "Cosentyx's latest FDA approval marks the aging biologic's 11th indication and the first of the anti-IL-17 class to be approved for polymyalgia rheumatica."
+"image": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+"excerpt": ""
 }
 ]
 }
@@ -6542,18 +6545,18 @@
 "date": "2026-11-18",
 "dow": "Today",
 "dm": "18.11.",
-"label": "Light showers",
-"icon": "🌦️",
+"label": "Showers",
+"icon": "🌧️",
 "hi": 14,
-"lo": 11,
-"rain_mm": 6.4,
+"lo": 10,
+"rain_mm": 8.0,
 "rain_pct": 83,
-"wind": 27,
+"wind": 29,
 "uv": 2,
 "sunrise": "07:38",
 "sunset": "16:50",
-"bar_l": 79,
-"bar_w": 21
+"bar_l": 71,
+"bar_w": 29
 },
 "slots": [
 {
@@ -6561,21 +6564,21 @@
 "temp": 11,
 "icon": "🌦️",
 "label": "Light showers",
-"rain_pct": 8
+"rain_pct": 5
 },
 {
 "name": "Afternoon",
-"temp": 13,
+"temp": 12,
 "icon": "🌦️",
 "label": "Light showers",
-"rain_pct": 25
+"rain_pct": 30
 },
 {
 "name": "Evening",
-"temp": 11,
+"temp": 12,
 "icon": "⛅",
 "label": "Partly cloudy",
-"rain_pct": 13
+"rain_pct": 10
 }
 ],
 "days": [
@@ -6583,18 +6586,18 @@
 "date": "2026-11-18",
 "dow": "Today",
 "dm": "18.11.",
-"label": "Light showers",
-"icon": "🌦️",
+"label": "Showers",
+"icon": "🌧️",
 "hi": 14,
-"lo": 11,
-"rain_mm": 6.4,
+"lo": 10,
+"rain_mm": 8.0,
 "rain_pct": 83,
-"wind": 27,
+"wind": 29,
 "uv": 2,
 "sunrise": "07:38",
 "sunset": "16:50",
-"bar_l": 79,
-"bar_w": 21
+"bar_l": 71,
+"bar_w": 29
 },
 {
 "date": "2026-11-19",
@@ -6602,16 +6605,16 @@
 "dm": "19.11.",
 "label": "Light showers",
 "icon": "🌦️",
-"hi": 13,
+"hi": 12,
 "lo": 10,
-"rain_mm": 9.4,
-"rain_pct": 90,
-"wind": 25,
+"rain_mm": 9.5,
+"rain_pct": 95,
+"wind": 26,
 "uv": 2,
 "sunrise": "07:39",
 "sunset": "16:49",
 "bar_l": 71,
-"bar_w": 21
+"bar_w": 14
 },
 {
 "date": "2026-11-20",
@@ -6619,16 +6622,16 @@
 "dm": "20.11.",
 "label": "Light showers",
 "icon": "🌦️",
-"hi": 11,
+"hi": 12,
 "lo": 9,
-"rain_mm": 4.5,
-"rain_pct": 98,
-"wind": 18,
+"rain_mm": 5.0,
+"rain_pct": 100,
+"wind": 23,
 "uv": 1,
 "sunrise": "07:41",
 "sunset": "16:48",
 "bar_l": 64,
-"bar_w": 14
+"bar_w": 21
 },
 {
 "date": "2026-11-21",
@@ -6636,33 +6639,33 @@
 "dm": "21.11.",
 "label": "Light showers",
 "icon": "🌦️",
-"hi": 10,
+"hi": 11,
 "lo": 5,
-"rain_mm": 4.6,
-"rain_pct": 80,
-"wind": 16,
+"rain_mm": 5.1,
+"rain_pct": 95,
+"wind": 17,
 "uv": 2,
 "sunrise": "07:42",
 "sunset": "16:47",
 "bar_l": 36,
-"bar_w": 36
+"bar_w": 43
 },
 {
 "date": "2026-11-22",
 "dow": "Sun",
 "dm": "22.11.",
-"label": "Light showers",
-"icon": "🌦️",
-"hi": 10,
+"label": "Rain",
+"icon": "🌧️",
+"hi": 12,
 "lo": 5,
-"rain_mm": 13.2,
+"rain_mm": 20.2,
 "rain_pct": 90,
-"wind": 19,
+"wind": 25,
 "uv": 1,
 "sunrise": "07:44",
 "sunset": "16:46",
 "bar_l": 36,
-"bar_w": 36
+"bar_w": 50
 },
 {
 "date": "2026-11-23",
@@ -6670,33 +6673,33 @@
 "dm": "23.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 10,
-"lo": 4,
-"rain_mm": 1.3,
-"rain_pct": 91,
-"wind": 10,
-"uv": 0,
+"hi": 5,
+"lo": 0,
+"rain_mm": 2.5,
+"rain_pct": 98,
+"wind": 11,
+"uv": 2,
 "sunrise": "07:45",
 "sunset": "16:45",
-"bar_l": 29,
-"bar_w": 43
+"bar_l": 0,
+"bar_w": 36
 },
 {
 "date": "2026-11-24",
 "dow": "Tue",
 "dm": "24.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 7,
+"label": "Overcast",
+"icon": "☁️",
+"hi": 4,
 "lo": 0,
 "rain_mm": 0,
-"rain_pct": 31,
-"wind": 7,
-"uv": 1,
+"rain_pct": 37,
+"wind": 9,
+"uv": 2,
 "sunrise": "07:47",
 "sunset": "16:45",
 "bar_l": 0,
-"bar_w": 50
+"bar_w": 29
 },
 {
 "date": "2026-11-25",
@@ -6705,15 +6708,15 @@
 "label": "Light rain",
 "icon": "🌦️",
 "hi": 8,
-"lo": 4,
-"rain_mm": 3.0,
-"rain_pct": 47,
-"wind": 7,
+"lo": 3,
+"rain_mm": 4.3,
+"rain_pct": 50,
+"wind": 9,
 "uv": 0,
 "sunrise": "07:48",
 "sunset": "16:44",
-"bar_l": 29,
-"bar_w": 29
+"bar_l": 21,
+"bar_w": 36
 },
 {
 "date": "2026-11-26",
