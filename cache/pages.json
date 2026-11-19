@@ -5759,10 +5759,10 @@
 },
 "2026-11-19": {
 "date": "2026-11-19",
-"built_at": "2026-11-18T23:06:03.155401+00:00",
-"built_local": "00:06",
+"built_at": "2026-11-19T07:20:01.192038+00:00",
+"built_local": "08:20",
 "edition": "Morning",
-"feeds_ok": 54,
+"feeds_ok": 55,
 "feeds_total": 55,
 "sections": [
 {
@@ -5776,6 +5776,25 @@
 "title": null,
 "items": [
 {
+"id": "d415da370b069008",
+"title": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting",
+"url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
+"source": "France 24",
+"when": "02:47",
+"also": [
+"The Hindu",
+"Al Jazeera",
+"Africanews",
+"DW",
+"BBC World",
+"El País English",
+"SCMP"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/9734827a-e3c9-11f1-8ccd-ff16da94d1fe/w:1024/p:16x9/2026-11-19T030408Z-2074341856-RC2RQOAJQ487-RTRMADP-3-APEC-SUMMIT.jpg",
+"excerpt": ""
+},
+{
 "id": "6acec446d6101f81",
 "title": "US Democrats nominate Jeffries to be first Black House speaker",
 "url": "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker",
@@ -5785,8 +5804,7 @@
 "The Hindu",
 "DW",
 "Al Jazeera",
-"BBC World",
-"SCMP"
+"BBC World"
 ],
 "lang": "en",
 "image": "https://s.france24.com/media/display/a8e4f9b8-e389-11f1-908f-1ba7ddfab527/w:1024/p:16x9/EN-20261118-204203-204553-CS.jpg",
@@ -5807,17 +5825,70 @@
 "excerpt": ""
 },
 {
-"id": "b0c30c69c1792154",
-"title": "U.S., Venezuela sign deal to re-establish military ties: Hegseth",
-"url": "https://www.thehindu.com/news/international/us-venezuela-sign-deal-to-re-establish-military-ties-hegseth/article71717506.ece",
+"id": "55d77251d25414ba",
+"title": "Musk says he feels 'pretty foolish' for failed U.S. election spending",
+"url": "https://www.thehindu.com/news/international/musk-says-he-feels-pretty-foolish-for-failed-us-election-spending/article71718696.ece",
 "source": "The Hindu",
-"when": "Wed 21:33",
+"when": "06:18",
 "also": [
-"SCMP"
+"Al Jazeera",
+"BBC World"
 ],
 "lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/3u4ar5/article71717508.ece/alternates/LANDSCAPE_1200/2026-11-18T191216Z_1009111022_RC2IQOA7IH3N_RTRMADP_3_VENEZUELA-USA.JPG",
+"image": "https://th-i.thgim.com/public/incoming/b0tvjl/article71718741.ece/alternates/LANDSCAPE_1200/2026-11-19T011113Z_1960342103_RC2OQOAM6TK4_RTRMADP_3_USA-TECH-TOMORROWX.JPG",
 "excerpt": ""
+},
+{
+"id": "d3fbc72607d60a7e",
+"title": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
+"url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "07:08",
+"also": [
+"DW"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26322012517816-1795060878.jpg?resize=1920%2C1440",
+"excerpt": "Critics hail GTA 6 as a 'masterpiece', 'spectacular', and an 'astonishing American epic'."
+},
+{
+"id": "5780c3c0378c6d0e",
+"title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+"url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "06:13",
+"also": [
+"DW"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T032241Z_525030841_RC23QOASLZPW_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT-1795006680.jpg?resize=1920%2C1440",
+"excerpt": "World court to issue key verdict in its first genocide ruling in more than a decade."
+},
+{
+"id": "1ddb23d5fe70725f",
+"title": "Hegseth unveils new US-Venezuela military deal",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "02:48",
+"also": [
+"DW"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795052903.jpg?resize=1920%2C1080&quality=80",
+"excerpt": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro."
+},
+{
+"id": "49d02a78b47a6735",
+"title": "Muslims to outnumber Christians by 2035 worldwide: Pew research",
+"url": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece",
+"source": "The Hindu",
+"when": "02:27",
+"also": [
+"DW"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/14yc0v/article71718508.ece/alternates/LANDSCAPE_1200/iStock-153262551.jpg",
+"excerpt": "The absolute number of Hindus in India and worldwide will rise from 1.2 billion in 2020 to 1.4 billion by 2070"
 },
 {
 "id": "03f7f63d7a2bb6ff",
@@ -5833,88 +5904,20 @@
 "excerpt": "A Cairo court on Wednesday suspended the trial of Egyptian journalist Lina Attalah, after a defence request for the judge's recusal."
 },
 {
-"id": "1c017cc0c1874710",
-"title": "Voyager 1 reaches one light-day from Earth after 49 years in space",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Wed 20:30",
-"also": [
-"The Hindu"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795030140.jpg?resize=1919%2C1080&quality=80",
-"excerpt": "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch."
-},
-{
-"id": "885615cb2f157e41",
-"title": "Pakistani man convicted of plotting to kill Trump is sentenced to over 27 years in prison",
-"url": "https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece",
-"source": "The Hindu",
-"when": "Wed 09:19",
-"also": [
-"DW",
-"BBC World",
-"SCMP"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/zdozq6/article71714339.ece/alternates/LANDSCAPE_1200/Political_Assassinations_Plot_14319.jpg",
-"excerpt": ""
-},
-{
-"id": "a11ae3a0ca182b46",
-"title": "Russian military transport plane crashes in Siberia, killing 19: Defence Ministry",
-"url": "https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece",
-"source": "The Hindu",
-"when": "Wed 08:33",
-"also": [
-"Al Jazeera",
-"BBC World"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/maecpj/article71713628.ece/alternates/LANDSCAPE_1200/2026-11-17T183007Z_1896887606_RC2UPOAT81QH_RTRMADP_3_RUSSIA-PLANE.JPG",
-"excerpt": "The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow"
-},
-{
-"id": "8e0d652210ff82a2",
-"title": "Guinea jails more than 220 people in deadly crackdown on illegal gold mining",
-"url": "http://www.africanews.com/2026/11/17/guinea-jails-more-than-220-people-in-deadly-crackdown-on-illegal-gold-mining/",
-"source": "Africanews",
-"when": "Wed 10:23",
-"also": [
-"DW"
-],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/99/60/24/640x360_cmsv2_094867ed-f4d2-5e2c-9c79-2234b1292ba3-9996024.jpg?1794914885",
-"excerpt": ""
-},
-{
-"id": "70063e3b8140ceb6",
-"title": "Haitians demonstrate in support of El Salvador's Bukele and anti-gang troops",
-"url": "http://www.africanews.com/2026/11/18/haitians-demonstrate-in-support-of-el-salvadors-bukele-and-anti-gang-troops/",
-"source": "Africanews",
-"when": "Wed 09:16",
-"also": [
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/99/72/39/640x360_cmsv2_14893e40-236c-56e2-9fd7-e9f7abaa9fac-9997239.jpg?1794982994",
-"excerpt": ""
-},
-{
-"id": "03dfc9c49ff70513",
-"title": "US defense secretary announces agreement with Venezuela against threats from ‘foreign actors’",
-"url": "https://english.elpais.com/international/2026-11-18/us-defense-secretary-announces-agreement-with-venezuela-against-threats-from-foreign-actors.html",
-"source": "El País English",
-"when": "Wed 20:10",
+"id": "6a747448002e8875",
+"title": "White Workers Earn Around 70% More Than Black Workers in Brazil, Study Finds",
+"url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/11/white-workers-earn-around-70-more-than-black-workers-in-brazil-study-finds.shtml",
+"source": "Folha",
+"when": "03:25",
 "also": [],
 "lang": "en",
-"image": "https://images.english.elpais.com/resizer/v2/22JPPY6Y4FHRDNGWA6QBNIJPOU.jpg?auth=2e736c4616aeba5ce6e457bf6aec8ea4cd258776a6d29ccb51c739f63b951b58",
-"excerpt": "Acting President Delcy Rodríguez welcomed Pete Hegseth, who led the military operation 10 months ago that captured Nicolás Maduro"
+"image": "https://f.i.uol.com.br/fotografia/2025/06/06/174918379468426d322a56d_1749183794_3x2_rt.jpg",
+"excerpt": ""
 }
 ]
 }
 ],
-"lead": "6acec446d6101f81"
+"lead": "d415da370b069008"
 },
 {
 "id": "basel",
@@ -5927,119 +5930,119 @@
 "title": null,
 "items": [
 {
-"id": "0abe82cb9302e8ef",
-"title": "Bilaterale Verträge mit der EU – Eine «positive Story»: Charmeoffensive aus Brüssel",
-"url": "https://www.srf.ch/news/schweiz/bilaterale-vertraege-mit-der-eu-eine-positive-story-charmeoffensive-aus-bruessel",
-"source": "SRF News",
-"when": "Wed 20:16",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/784fdc.webp",
-"excerpt": "Während im Bundeshaus gepokert wird, rührt Brüssel die Werbetrommel: Die Schweiz und die EU seien logische Partner."
-},
-{
-"id": "70e749fe124cab6c",
-"title": "Cyberangriff auf Baselland: Kritische Infrastruktur im Visier: «Da kommt eine grosse Welle auf uns zu»",
-"url": "https://www.bazonline.ch/cyberangriff-baselland-experten-vermuten-russland-979069731042",
+"id": "6d2a7ff50884ef9b",
+"title": "Sissacher Ständerätin: Maya Graf tritt zurück – diese Politikerin soll ihre Nachfolgerin werden",
+"url": "https://www.bazonline.ch/ruecktritt-baselland-maya-graf-gruene-tritt-2027-aus-staenderat-337865601694",
 "source": "Basler Zeitung",
-"when": "Wed 20:15",
+"when": "07:27",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/ABCBlc4bKUnAGzcX6z017B.jpg",
+"image": "https://cdn.unitycms.io/images/D9GPz8KY4JoAN_CKlTUVxw.webp",
 "excerpt": ""
 },
 {
-"id": "4eaab87418294751",
-"title": "Tabakprävention – Bundesrat will Präventionsabgabe auf E-Zigaretten und Snus",
-"url": "https://www.srf.ch/news/schweiz/tabakpraevention-bundesrat-will-praeventionsabgabe-auf-e-zigaretten-und-snus",
+"id": "597a085774f7c110",
+"title": "Kinderbetreuung in der Schweiz – Weshalb in Städten und auf dem Land vermehrt Kitas schliessen",
+"url": "https://www.srf.ch/news/schweiz/kinderbetreuung-in-der-schweiz-weshalb-in-staedten-und-auf-dem-land-vermehrt-kitas-schliessen",
 "source": "SRF News",
-"when": "Wed 19:04",
+"when": "06:58",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/7ebfb3.webp",
-"excerpt": "Zigaretten werden zunehmend durch Alternativen ersetzt – auch auf diese soll künftig eine Abgabe erhoben werden."
+"image": "https://www.srf.ch/static/cms/images//320ws/e2dc11.webp",
+"excerpt": "Der Kindertagesstätten-Boom scheint vorbei. Derzeit schliessen diverse Kitas, aus unterschiedlichen Gründen."
 },
 {
-"id": "9c01949cffd27d68",
-"title": "Staatsbesuch aus Golfstaat – Die Schweiz und Katar: Eine Partnerschaft, die Fragen aufwirft",
-"url": "https://www.srf.ch/news/schweiz/staatsbesuch-aus-golfstaat-die-schweiz-und-katar-eine-partnerschaft-die-fragen-aufwirft",
+"id": "8710ffbbd111f718",
+"title": "EU-Vertragspaket – Soll das Volk zuerst über das Ständemehr bei EU-Paket abstimmen?",
+"url": "https://www.srf.ch/news/schweiz/eu-vertragspaket-soll-das-volk-zuerst-ueber-das-staendemehr-bei-eu-paket-abstimmen",
 "source": "SRF News",
-"when": "Wed 18:55",
+"when": "06:42",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/c7113a.webp",
-"excerpt": "Der Emir von Katar ist zum Staatsbesuch in der Schweiz. Die Länder wollen in der Friedensvermittlung enger kooperieren."
+"image": "https://www.srf.ch/static/cms/images//320ws/949dbe.webp",
+"excerpt": "Ein neuer Vorschlag zum EU-Vertragspaket fordert, dass das Volk zuerst über die Frage des Ständemehrs abstimmt."
 },
 {
-"id": "51f7ef3b5a6fa2cd",
-"title": "Tramnetz in der Region Basel: Verlängerung des 8er-Trams steht auf der Kippe – und zwar an beiden Enden",
-"url": "https://www.bazonline.ch/weil-am-rhein-verlaengerung-des-8er-trams-vorerst-gestoppt-961804254870",
+"id": "594031a5d947c10f",
+"title": "Recherche zur Ski-WM – Crans-Montana 2027: Der Staat zahlt, der Skiverband entscheidet",
+"url": "https://www.srf.ch/news/schweiz/recherche-zur-ski-wm-crans-montana-2027-der-staat-zahlt-der-skiverband-entscheidet",
+"source": "SRF News",
+"when": "06:18",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/9e3009.webp",
+"excerpt": "Nach 40 Jahren findet in Crans-Montana erneut die Ski-WM statt. Doch die Bevölkerung wurde nicht über alles informiert."
+},
+{
+"id": "c9f463d50dfe3ee7",
+"title": "Demonstration am Freitag: Alles Wissenswerte zum Basler Jugendstreik",
+"url": "https://www.bazonline.ch/jugendstreik-basel-demonstration-am-20-november-ab-14-uhr-636184335752",
 "source": "Basler Zeitung",
-"when": "Wed 18:15",
+"when": "06:08",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/5AV5kxzmq0yBnJlg-cJvKh.jpg",
-"excerpt": "Weil am Rhein hat kein Geld für zusätzliche Haltestellen, und in Allschwil eskaliert die Debatte kurz vor der Abstimmung."
+"image": "https://cdn.unitycms.io/images/8Xb_AW1Dq47B9VE24K4308.webp",
+"excerpt": "Am 20. November zieht die Demo vom De-Wette-Park durch die Basler Innenstadt. Antworten auf die wichtigsten Fragen zu Route, Forderungen und Bewilligung."
 },
 {
-"id": "993ce5298eb1be7a",
-"title": "Bankverein-Kreuzung in Basel: Neues Verkehrsregime bringt Velofahrer am Steinenberg in eine brenzlige Situation",
-"url": "https://www.bazonline.ch/autofreier-bankverein-gefahr-fuer-velos-am-steinenberg-885086671552",
+"id": "f884f731a608bdfe",
+"title": "Wegen Abstellgleisen: Durchkreuzen die SBB die Muttenzer Windradpläne?",
+"url": "https://www.bazonline.ch/sbb-plant-ausbau-in-muttenz-muss-das-windrad-weichen-826919443741",
 "source": "Basler Zeitung",
-"when": "Wed 17:17",
+"when": "06:07",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/BP4I_4f1aM6ArxJqbhF46L.jpg",
-"excerpt": "Welche Regeln gelten? Wo droht Stau? Verteilt die Polizei schon Bussen? Die wichtigsten Fragen und Antworten zur neuen Verkehrsordnung im Stadtzentrum."
-},
-{
-"id": "01e17a76236a0f42",
-"title": "Kurzmitteilungen aus der Regierungsrats-Sitzung (Bulletin)",
-"url": "https://www.bs.ch/medienmitteilungen/2026-kurzmitteilungen-aus-der-regierungsrats-sitzung-bulletin-28",
-"source": "Kanton Basel-Stadt",
-"when": "00:06",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": "Der Regierungsrat hat …"
-},
-{
-"id": "47cd4a45313a7ad1",
-"title": "290 Personenkontrollen und 9 Festnahmen: Grosskontrolle am Bahnhof SBB",
-"url": "https://www.bs.ch/medienmitteilungen/jsd/2026-290-personenkontrollen-und-9-festnahmen-grosskontrolle-am-bahnhof-sbb",
-"source": "Kanton Basel-Stadt",
-"when": "00:06",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/7c936b8255a611ba8aacb17ba3db2cd42e47d869/img-0655.jpg?h=44048f27&itok=l8bEfsdw",
+"image": "https://cdn.unitycms.io/images/FmpUPFR3aNl9wKh7oh2sWf.jpg",
 "excerpt": ""
 },
 {
-"id": "4f0b0f9a3ee4371c",
-"title": "Anklage im Tötungsdelikt Riehenring",
-"url": "https://www.bs.ch/medienmitteilungen/2026-anklage-im-toetungsdelikt-riehenring",
-"source": "Kanton Basel-Stadt",
-"when": "00:06",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
-},
-{
-"id": "7939b5007f164572",
-"title": "Lohn von Grossrät*innen soll offengelegt werden",
-"url": "https://bajour.ch/a/lohn-von-grossraetinnen-soll-offengelegt-werden",
+"id": "76f182e0e3b6b90e",
+"title": "Zustupf für die Jugendkultur",
+"url": "https://bajour.ch/a/zustupf-fuer-die-jugendkultur",
 "source": "Bajour",
-"when": "Wed 13:23",
+"when": "06:00",
 "also": [],
 "lang": "de",
 "image": null,
+"excerpt": "Bisher floss weniger als der gesetzlich verlangte Betrag in die Jugend- und Alternativkultur. Deshalb stockt der Kanton den Fördertopf auf."
+},
+{
+"id": "b22bfeb73bb61ece",
+"title": "Bremse fürs 8er-Tram",
+"url": "https://bajour.ch/a/die-verlaengerunger-der-tramlinie-8-stossen-auf-widerstand",
+"source": "Bajour",
+"when": "06:00",
+"also": [],
+"lang": "de",
+"image": null,
+"excerpt": "Die gewünschten Verlängerunger der Tramlinie 8 stossen an beiden Enden auf Widerstand."
+},
+{
+"id": "7cac27a47e840c3a",
+"title": "KI-Gesichtserkennung: Die Bajour-Leserschaft ist gespalten",
+"url": "https://bajour.ch/a/ki-gesichtserkennung-die-bajour-leserschaft-ist-gespalten",
+"source": "Bajour",
+"when": "02:00",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a1f038-999e-749a-8349-dfcbdcf33719?quality=80&sig=ZE9Z2IQsxL2WIjTr6WTSNVMMHzk4xzhpqK0FqfOliG2Qmq6h_evvle-vsXqiy0Z1TNhsFRjS6IY991AdiN_DBg",
 "excerpt": ""
+},
+{
+"id": "9efe077d0f00e008",
+"title": "LIVE-TICKER - Krieg in der Ukraine: Zugverkehr über Krim-Brücke nach erneutem Angriff eingestellt +++ Drohnenangriffe auf Kursk und Tatarstan",
+"url": "https://www.nzz.ch/international/krieg-in-der-ukraine-zugverkehr-ueber-krim-bruecke-nach-erneutem-angriff-eingestellt-ld.10021245",
+"source": "NZZ",
+"when": "08:08",
+"also": [],
+"lang": "de",
+"image": "https://img-msp-prod.nzz.ch/2026/11/03/3bfa0a7e-a6f1-4ad0-8e99-dc8a82c9bb35.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1333,1333,x334,y0",
+"excerpt": "Seit über vier Jahren führt Russland Krieg gegen die Ukraine. Die wichtigsten Entwicklungen im Überblick."
 }
 ]
 }
 ],
-"lead": "0abe82cb9302e8ef"
+"lead": "6d2a7ff50884ef9b"
 },
 {
 "id": "sport",
@@ -6085,6 +6088,17 @@
 "excerpt": "Malezsewski was struck during The Gravel of Marathon in Greece"
 },
 {
+"id": "5aa4e8cfbc2d33a2",
+"title": "DJI’s Avinox Motor Disrupted e-MTB. Now It’s Coming for Your Commute.",
+"url": "https://velo.outsideonline.com/urban/urban-gear/amflow-ue-series-dji-avinox-commuter-ebike-launch/",
+"source": "Velo",
+"when": "00:21",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Outdoor-Setup-Beauty-Shot_01.jpg?width=1200",
+"excerpt": ""
+},
+{
 "id": "9d834bf1ea87a6c8",
 "title": "TotalEnergies won't sponsor Netcompany-Ineos next year",
 "url": "https://escapecollective.com/totalenergies-wont-sponsor-netcompany-ineos-next-year/",
@@ -6116,17 +6130,6 @@
 "lang": "en",
 "image": "https://escapecollective.com/content/images/2026/11/roglic1.jpeg",
 "excerpt": "The Slovenian veteran will continue racing for at least another year."
-},
-{
-"id": "e13309a7ad898407",
-"title": "Testing the Tech and Heat Training Required to Survive a 95-Degree Tour de France",
-"url": "https://velo.outsideonline.com/road/road-training/i-stepped-into-a-heat-chamber-to-recreate-the-hottest-ever-tour-de-france-heres-what-i-learned-about-racing-in-extreme-conditions/",
-"source": "Velo",
-"when": "Wed 19:34",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Me-in-Cube-2-1-scaled.jpg?width=1200",
-"excerpt": ""
 }
 ]
 },
@@ -6134,6 +6137,17 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "021b5e2e1e977617",
+"title": "Mullins Scores Career-High In Setback At #12 Arizona",
+"url": "https://uconnhuskies.com/news/2026/11/18/mens-basketball-mullins-scores-career-high-in-setback-at-12-arizona",
+"source": "UConn Huskies",
+"when": "05:48",
+"also": [],
+"lang": "en",
+"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/AZ-34.png",
+"excerpt": ""
+},
 {
 "id": "a28757ba55078434",
 "title": "Seedningspotterna i EM-kvalet",
@@ -6154,17 +6168,6 @@
 "also": [],
 "lang": "en",
 "image": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/ex3xdkdl80cea4e3wqnh.jpg",
-"excerpt": ""
-},
-{
-"id": "086565344160ccb9",
-"title": "Demary Jr. and Mullins Named To Wooden Watch List",
-"url": "https://uconnhuskies.com/news/2026/11/18/mens-basketball-demary-jr-and-mullins-named-to-wooden-watch-list",
-"source": "UConn Huskies",
-"when": "Wed 19:01",
-"also": [],
-"lang": "en",
-"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/110626_BL_MICH_4646.jpg",
 "excerpt": ""
 },
 {
@@ -6249,6 +6252,17 @@
 "excerpt": ""
 },
 {
+"id": "daa1c77451961f47",
+"title": "Total Chess: Giri and Firouzja to battle for tournament title",
+"url": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-2",
+"source": "ChessBase",
+"when": "08:10",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133345_l200",
+"excerpt": ""
+},
+{
 "id": "32524d497e651b67",
 "title": "Total Chess: Semifinals - Live!",
 "url": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
@@ -6296,17 +6310,6 @@
 "excerpt": ""
 },
 {
-"id": "dc43ece8cc9b8c03",
-"title": "Martinez, Oro Lead 9z Globant to 3rd Straight Chess Club Showdown Win",
-"url": "https://www.chess.com/news/view/9z-wins-3rd-straight-chess-club-showdown",
-"source": "Chess.com",
-"when": "Wed 21:34",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2269957.c767af7f.5000x5000o.9e71eefbc4f5.png",
-"excerpt": ""
-},
-{
 "id": "770db9f2bdd86752",
 "title": "Total Chess: Firouzja and Giri win opening sets, Carlsen sparks controversy",
 "url": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-1",
@@ -6318,14 +6321,14 @@
 "excerpt": ""
 },
 {
-"id": "b708732c7a18e7f4",
-"title": "Save Up To 25% And Improve Your Vision With Zenni's New Chess-Themed Glasses",
-"url": "https://www.chess.com/news/view/announcing-chesscom-glasses-by-zenni",
+"id": "dc43ece8cc9b8c03",
+"title": "Martinez, Oro Lead 9z Globant to 3rd Straight Chess Club Showdown Win",
+"url": "https://www.chess.com/news/view/9z-wins-3rd-straight-chess-club-showdown",
 "source": "Chess.com",
-"when": "Wed 17:00",
+"when": "Wed 21:34",
 "also": [],
 "lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2263021.25ea2112.5000x5000o.a79d9f5e7c1a.png",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2269957.c767af7f.5000x5000o.9e71eefbc4f5.png",
 "excerpt": ""
 }
 ]
@@ -6355,17 +6358,6 @@
 "excerpt": "Most AI assistants can read a person's email, files, and calendar, but it can't tell..."
 },
 {
-"id": "0a023eb4ab43ee20",
-"title": "Introducing Unity Gateway Insights",
-"url": "https://www.databricks.com/blog/introducing-unity-gateway-insights",
-"source": "Databricks",
-"when": "Wed 23:42",
-"also": [],
-"lang": "en",
-"image": "https://www.databricks.com/sites/default/files/2026-11/2026-11-Blog-Introducing-Unity-Gateway-Insights-1200x628-2x.png",
-"excerpt": "When looking to cut AI costs, teams often start with budgets or open-source models...."
-},
-{
 "id": "3e2d9e4902bb0607",
 "title": "Advancing Catalog Interoperability with Unity Catalog and Google Cloud’s Borderless Lakehouse",
 "url": "https://www.databricks.com/blog/advancing-catalog-interoperability-unity-catalog-and-google-clouds-borderless-lakehouse",
@@ -6375,6 +6367,17 @@
 "lang": "en",
 "image": "https://www.databricks.com/sites/default/files/2026-11/unnamed_2.png",
 "excerpt": "The Lakehouse architecture is becoming more open than ever. What started with open..."
+},
+{
+"id": "da4480d2bd10092b",
+"title": "How packaged clean rooms bring RampID to your lakehouse",
+"url": "https://www.databricks.com/blog/liveramp-rampid-identity-resolution-packaged-clean-rooms",
+"source": "Databricks",
+"when": "Tue 17:30",
+"also": [],
+"lang": "en",
+"image": "https://www.databricks.com/sites/default/files/2026-11/Databricks-LiveRamp.png",
+"excerpt": "Partner identity resolution used to mean sending your PII to the vendorHistorically on Databricks..."
 },
 {
 "id": "d78039fb67f48583",
@@ -6421,14 +6424,14 @@
 "excerpt": ""
 },
 {
-"id": "e295c80ee3b0f341",
-"title": "Building AI that can work across the enterprise",
-"url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-"source": "MIT Technology Review",
-"when": "Mon 14:00",
+"id": "6a9c7a2faa0b5d88",
+"title": "llm-gemini 0.38",
+"url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+"source": "Simon Willison",
+"when": "00:59",
 "also": [],
 "lang": "en",
-"image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
+"image": "https://static.simonwillison.net/static/2026/gemini-4-neon__comparison-graphi.width-2000.webp",
 "excerpt": ""
 }
 ]
@@ -6447,17 +6450,15 @@
 "title": null,
 "items": [
 {
-"id": "5e25f604653ce10a",
-"title": "Pfizer enters in vivo CAR-T space via 3-program, $2.6B deal with China’s Starna",
-"url": "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna",
-"source": "Fierce Biotech",
-"when": "Wed 20:02",
-"also": [
-"BioPharma Dive"
-],
+"id": "61a575b87998d746",
+"title": "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets",
+"url": "https://endpoints.news/abbvvie-and-disco-strike-deal-worth-more-than-2-5b-for-solid-tumor-targets/",
+"source": "Endpoints News",
+"when": "08:00",
+"also": [],
 "lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/Pfizer2_0.jpg?VersionId=F8Bj7C5EZZ5lTX1q3F3eaYd5PwWPk7lp",
-"excerpt": "Pfizer has decided to join the in vivo CAR-T race, penning a $2.6 billion deal for three preclinical candidates from China’s Starna Therapeutics."
+"image": "https://endpoints.news/wp-content/uploads/2026/11/mark-manfredi-disco-og.jpg",
+"excerpt": ""
 },
 {
 "id": "1c1340a667408553",
@@ -6482,6 +6483,19 @@
 "excerpt": ""
 },
 {
+"id": "5e25f604653ce10a",
+"title": "Pfizer enters in vivo CAR-T space via 3-program, $2.6B deal with China’s Starna",
+"url": "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna",
+"source": "Fierce Biotech",
+"when": "Wed 20:02",
+"also": [
+"BioPharma Dive"
+],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/Pfizer2_0.jpg?VersionId=F8Bj7C5EZZ5lTX1q3F3eaYd5PwWPk7lp",
+"excerpt": "Pfizer has decided to join the in vivo CAR-T race, penning a $2.6 billion deal for three preclinical candidates from China’s Starna Therapeutics."
+},
+{
 "id": "b4d5e00b2fd0c110",
 "title": "BMS' ph. 3 Alzheimer's psychosis teaser builds confidence in Cobenfy expansion plan",
 "url": "https://www.fiercepharma.com/pharma/bms-ph-3-alzheimers-agitation-teaser-builds-confidence-cobenfy-expansion-plan",
@@ -6490,17 +6504,6 @@
 "also": [],
 "lang": "en",
 "image": "https://qtxasset.com/quartz/qcloud5/media/image/BMS%20BLDG.jpg?VersionId=OBSEqrn71a7faW_cJeRDvKrkOIEiGrT3",
-"excerpt": ""
-},
-{
-"id": "756f060e2117a1f2",
-"title": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics",
-"url": "https://endpoints.news/pfizer-gets-into-in-vivo-car-t-through-licensing-deal-with-starna-therapeutics/",
-"source": "Endpoints News",
-"when": "Wed 13:23",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2025/10/Rongkuan-Frank-Hu.png",
 "excerpt": ""
 },
 {
@@ -6539,225 +6542,9 @@
 ]
 }
 ],
-"lead": "5e25f604653ce10a"
+"lead": "61a575b87998d746"
 }
 ],
-"weather": {
-"place": "Münchenstein",
-"today": {
-"date": "2026-11-19",
-"dow": "Today",
-"dm": "19.11.",
-"label": "Light showers",
-"icon": "🌦️",
-"hi": 12,
-"lo": 10,
-"rain_mm": 5.5,
-"rain_pct": 100,
-"wind": 23,
-"uv": 2,
-"sunrise": "07:39",
-"sunset": "16:49",
-"bar_l": 83,
-"bar_w": 17
-},
-"slots": [
-{
-"name": "Morning",
-"temp": 11,
-"icon": "🌦️",
-"label": "Light rain",
-"rain_pct": 100
-},
-{
-"name": "Afternoon",
-"temp": 12,
-"icon": "☁️",
-"label": "Overcast",
-"rain_pct": 45
-},
-{
-"name": "Evening",
-"temp": 11,
-"icon": "🌦️",
-"label": "Light rain",
-"rain_pct": 75
-}
-],
-"days": [
-{
-"date": "2026-11-19",
-"dow": "Today",
-"dm": "19.11.",
-"label": "Light showers",
-"icon": "🌦️",
-"hi": 12,
-"lo": 10,
-"rain_mm": 5.5,
-"rain_pct": 100,
-"wind": 23,
-"uv": 2,
-"sunrise": "07:39",
-"sunset": "16:49",
-"bar_l": 83,
-"bar_w": 17
-},
-{
-"date": "2026-11-20",
-"dow": "Fri",
-"dm": "20.11.",
-"label": "Thunderstorm",
-"icon": "⛈️",
-"hi": 12,
-"lo": 9,
-"rain_mm": 4.7,
-"rain_pct": 93,
-"wind": 18,
-"uv": 1,
-"sunrise": "07:41",
-"sunset": "16:48",
-"bar_l": 75,
-"bar_w": 25
-},
-{
-"date": "2026-11-21",
-"dow": "Sat",
-"dm": "21.11.",
-"label": "Light showers",
-"icon": "🌦️",
-"hi": 10,
-"lo": 4,
-"rain_mm": 3.2,
-"rain_pct": 93,
-"wind": 17,
-"uv": 1,
-"sunrise": "07:42",
-"sunset": "16:47",
-"bar_l": 33,
-"bar_w": 50
-},
-{
-"date": "2026-11-22",
-"dow": "Sun",
-"dm": "22.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 10,
-"lo": 3,
-"rain_mm": 14.6,
-"rain_pct": 97,
-"wind": 19,
-"uv": 1,
-"sunrise": "07:44",
-"sunset": "16:46",
-"bar_l": 25,
-"bar_w": 58
-},
-{
-"date": "2026-11-23",
-"dow": "Mon",
-"dm": "23.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 9,
-"lo": 1,
-"rain_mm": 5.5,
-"rain_pct": 93,
-"wind": 17,
-"uv": 0,
-"sunrise": "07:45",
-"sunset": "16:45",
-"bar_l": 8,
-"bar_w": 67
-},
-{
-"date": "2026-11-24",
-"dow": "Tue",
-"dm": "24.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 4,
-"lo": 0,
-"rain_mm": 0,
-"rain_pct": 27,
-"wind": 11,
-"uv": 1,
-"sunrise": "07:47",
-"sunset": "16:45",
-"bar_l": 0,
-"bar_w": 33
-},
-{
-"date": "2026-11-25",
-"dow": "Wed",
-"dm": "25.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 8,
-"lo": 2,
-"rain_mm": 0.9,
-"rain_pct": 61,
-"wind": 7,
-"uv": 1,
-"sunrise": "07:48",
-"sunset": "16:44",
-"bar_l": 17,
-"bar_w": 50
-},
-{
-"date": "2026-11-26",
-"dow": "Thu",
-"dm": "26.11.",
-"label": "Light drizzle",
-"icon": "🌦️",
-"hi": 7,
-"lo": 0,
-"rain_mm": 1.3,
-"rain_pct": 53,
-"wind": 12,
-"uv": 0,
-"sunrise": "07:49",
-"sunset": "16:43",
-"bar_l": 0,
-"bar_w": 58
-},
-{
-"date": "2026-11-27",
-"dow": "Fri",
-"dm": "27.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 7,
-"lo": 0,
-"rain_mm": 0,
-"rain_pct": 43,
-"wind": 6,
-"uv": 1,
-"sunrise": "07:51",
-"sunset": "16:42",
-"bar_l": 0,
-"bar_w": 58
-},
-{
-"date": "2026-11-28",
-"dow": "Sat",
-"dm": "28.11.",
-"label": "Partly cloudy",
-"icon": "⛅",
-"hi": 9,
-"lo": 1,
-"rain_mm": 0,
-"rain_pct": 40,
-"wind": 9,
-"uv": 1,
-"sunrise": "07:52",
-"sunset": "16:42",
-"bar_l": 8,
-"bar_w": 67
-}
-],
-"lo": 0,
-"hi": 12
-}
+"weather": null
 }
 }
