@@ -5553,8 +5553,8 @@
 },
 "2026-11-20": {
 "date": "2026-11-20",
-"built_at": "2026-11-19T23:13:17.136622+00:00",
-"built_local": "00:13",
+"built_at": "2026-11-20T07:08:35.581908+00:00",
+"built_local": "08:08",
 "edition": "Morning",
 "feeds_ok": 55,
 "feeds_total": 55,
@@ -5569,25 +5569,6 @@
 "id": "world",
 "title": null,
 "items": [
-{
-"id": "6b420b09e792b86f",
-"title": "Xi-Trump-Putin trilateral meeting: Trump's recognition of China and Russia as 'peers of the US'",
-"url": "https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us",
-"source": "France 24",
-"when": "Thu 20:33",
-"also": [
-"Al Jazeera",
-"DW",
-"The Hindu",
-"Africanews",
-"SCMP",
-"El País English",
-"BBC World"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/61a7631a-e447-11f1-ad61-e56ab3dc0809/w:1024/p:16x9/EN-20261119-130423-130957-CS.jpg",
-"excerpt": ""
-},
 {
 "id": "e8da0ef69a7ebd05",
 "title": "ICJ rules Myanmar committed genocide against the Rohingya",
@@ -5606,6 +5587,39 @@
 "lang": "en",
 "image": "https://s.france24.com/media/display/1839856c-e421-11f1-9169-6b451f569414/w:1024/p:16x9/EN-20261119-140816-141029-CS.jpg",
 "excerpt": ""
+},
+{
+"id": "1b7c03799a865512",
+"title": "Trump, Xi, Putin summit: What was it all about?",
+"url": "https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about",
+"source": "France 24",
+"when": "Thu 16:12",
+"also": [
+"Al Jazeera",
+"DW",
+"The Hindu",
+"Africanews",
+"SCMP",
+"El País English"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/97e2df72-e429-11f1-807c-13439ca2fe89/w:1024/p:16x9/EN-20261119-151641-151854-CS.jpg",
+"excerpt": ""
+},
+{
+"id": "68bbc84e395496cd",
+"title": "Hippo Fiona dies days after swallowing visitor’s hat",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "03:51",
+"also": [
+"DW",
+"BBC World",
+"SCMP"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-FIONA-1795143033.png?resize=1920%2C1080&quality=80",
+"excerpt": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo."
 },
 {
 "id": "55d77251d25414ba",
@@ -5635,32 +5649,6 @@
 "excerpt": "The lower Seoul High Court will now retry the case based on the Supreme Court's legal interpretation of insurrection."
 },
 {
-"id": "f657f1670378f32c",
-"title": "World-famous hippo Fiona dies in US days after swallowing visitor’s hat",
-"url": "https://www.scmp.com/news/world/united-states-canada/article/3375134/world-famous-hippo-fiona-dies-us-days-after-swallowing-visitors-hat",
-"source": "SCMP",
-"when": "Thu 23:36",
-"also": [
-"BBC World"
-],
-"lang": "en",
-"image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/c9f7294d-d2c6-4be8-9bc3-dbb6454dfd42_392f1278.jpg?itok=bmrq7VKM&v=1795127756",
-"excerpt": ""
-},
-{
-"id": "49d02a78b47a6735",
-"title": "Muslims to outnumber Christians by 2035 worldwide: Pew research",
-"url": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece",
-"source": "The Hindu",
-"when": "Thu 09:24",
-"also": [
-"DW"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/14yc0v/article71718508.ece/alternates/LANDSCAPE_1200/iStock-153262551.jpg",
-"excerpt": "The absolute number of Hindus in India and worldwide will rise from 1.2 billion in 2020 to 1.4 billion by 2070"
-},
-{
 "id": "51f625a30dfb4cd1",
 "title": "Ukraine: Four killed and at least 13 injured in Russian strike on Odesa",
 "url": "http://www.africanews.com/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa/",
@@ -5687,17 +5675,26 @@
 "excerpt": "Critics hail GTA 6 as a 'masterpiece', 'spectacular', and an 'astonishing American epic'."
 },
 {
-"id": "1ddb23d5fe70725f",
-"title": "Hegseth unveils new US-Venezuela military deal",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Thu 02:48",
-"also": [
-"DW"
-],
+"id": "f2f0864884b86e12",
+"title": "U.S. Senate approves bill to speed up permitting reviews, Democrats and environmental groups oppose",
+"url": "https://www.thehindu.com/news/international/us-senate-approves-bill-to-speed-up-permitting-reviews-democrats-and-environmental-groups-oppose/article71723266.ece",
+"source": "The Hindu",
+"when": "07:34",
+"also": [],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795052903.jpg?resize=1920%2C1080&quality=80",
-"excerpt": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro."
+"image": "https://th-i.thgim.com/public/incoming/eohg43/article71723366.ece/alternates/LANDSCAPE_1200/iStock-170619187.jpg",
+"excerpt": "The legislation’s sweeping changes would shorten the timeline to start big energy projects and make sure data centres pay for the energy they use"
+},
+{
+"id": "6d25f685e63dfb5f",
+"title": "Pakistan Climate Minister arrives in Delhi to attend SCO Civilisations Dialogue Forum",
+"url": "https://www.thehindu.com/news/international/pakistan-climate-minister-in-delhi-to-attend-sco-meeting/article71723340.ece",
+"source": "The Hindu",
+"when": "07:32",
+"also": [],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/u6jfsl/article71723374.ece/alternates/LANDSCAPE_1200/HXimSxhbkAACr1J.jpg",
+"excerpt": ""
 },
 {
 "id": "90cd1141c8696f10",
@@ -5713,7 +5710,7 @@
 ]
 }
 ],
-"lead": "6b420b09e792b86f"
+"lead": "e8da0ef69a7ebd05"
 },
 {
 "id": "basel",
@@ -5725,6 +5722,94 @@
 "id": "basel",
 "title": null,
 "items": [
+{
+"id": "ba475fe4c05c3978",
+"title": "Bevölkerungsumfrage – Schweizer Bevölkerung akzeptiert Rechenzentren – mit Bedingungen",
+"url": "https://www.srf.ch/news/schweiz/bevoelkerungsumfrage-schweizer-bevoelkerung-akzeptiert-rechenzentren-mit-bedingungen",
+"source": "SRF News",
+"when": "06:55",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/cb02ec8.webp",
+"excerpt": "Dass in der Schweiz neue Rechenzentren entstehen, ist in weiten Teilen der Bevölkerung akzeptiert, zeigt eine Studie."
+},
+{
+"id": "352d28fa8345d55f",
+"title": "Bestimmen Sie mit! – Welches ist Ihr «Wort des Jahres» 2026?",
+"url": "https://www.srf.ch/radio-srf-1/mundart/bestimmen-sie-mit-welches-ist-ihr-wort-des-jahres-2026",
+"source": "SRF News",
+"when": "06:42",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/553752.webp",
+"excerpt": "Was hat die Schweiz 2026 bewegt? Geben Sie Ihren Vorschlag ab und tragen Sie so zur Wahl des Wortes des Jahres bei."
+},
+{
+"id": "59d56d4f73faa6db",
+"title": "Gratisglühwein und gemütliches Tatort-Viewing: Basel, das läuft am Wochenende",
+"url": "https://www.bazonline.ch/basel-das-laeuft-weihnachtsbeleuchtung-gluehwein-am-marktplatz-915831070607",
+"source": "Basler Zeitung",
+"when": "06:29",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/DMeRf_VM4b69bEihrz7Raw.jpg",
+"excerpt": ""
+},
+{
+"id": "658ebd1abb89825c",
+"title": "Auseinandersetzung am Claraplatz: Jahrelanges Warten auf Anklage: «Ich habe eine wahnsinnige Wut und einen Frust»",
+"url": "https://www.bazonline.ch/basel-christoph-jaeggi-wartet-vier-jahre-auf-anklage-850746933731",
+"source": "Basler Zeitung",
+"when": "06:13",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/5hdzV3ZgqEjBTxpMwbSnwU.jpg",
+"excerpt": ""
+},
+{
+"id": "29404422fe9ab9f4",
+"title": "Prämienerhöhungen – Die Autoversicherungen werden 2027 erneut teurer",
+"url": "https://www.srf.ch/news/dialog/praemienerhoehungen-die-autoversicherungen-werden-2027-erneut-teurer",
+"source": "SRF News",
+"when": "06:00",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/88367b1.webp",
+"excerpt": "Erst die Krankenkasse, jetzt die Autoversicherung: Teure Ersatzteile und komplexe Technik treiben Prämien in die Höhe."
+},
+{
+"id": "8127ceda6f4e31f2",
+"title": "Beat Läuchli",
+"url": "https://bajour.ch/a/beat-laeuchli",
+"source": "Bajour",
+"when": "02:09",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a1f5d9-22d9-73b5-9939-111429c24195?quality=80&sig=qqrGFdtDEXB9kdZb5iw8MtHkK9kyyA1c3gaVhzacj-2Xi2765OWPG9Z8zb4O1-eKh6V9vzEBEI6uam2Aa7iZCQ",
+"excerpt": ""
+},
+{
+"id": "31377f79b64b4271",
+"title": "Weihnachtsmarkt am Dreiländereck – jeden Tag bis zum grossen Fest",
+"url": "https://bajour.ch/a/weihnachtsmarkt-am-dreilaendereck-jeden-tag-bis-zum-grossen-fest",
+"source": "Bajour",
+"when": "00:20",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a1f4f8-3eb7-723d-9229-323d096b3bc0?quality=80&sig=wwn1e7N7bO9dxKj8Y2bLQ89uvHdBhNNVqhGwkthnoo36GhHlppvnANoHdEG4FVMEuUjhk2oNXTBsm12K0ApMAg",
+"excerpt": "Adventszeit und jeden Tag Glühwein und Punsch? Eine Sammlung regionaler Weihnachtsmärkte rund um Basel – mit bekannten Schmuckstücken und Geheimtipps."
+},
+{
+"id": "805c7b59c6b7bc8d",
+"title": "Freispruch für Ex-Kaderfrau ist noch nicht definitiv",
+"url": "https://bajour.ch/a/migrationsamt-bl-freispruch-fuer-ex-kaderfrau-ist-noch-nicht-definitiv",
+"source": "Bajour",
+"when": "00:20",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/941995dd-cf0c-4732-9b25-6f48b09d1b25?quality=80&sig=W77QhJyVBEMZPzP7WwVghRvFNc6iJ4RMQUao5GTkqJewMh7zmnRB-1DXKMRwvS1_1MJx1bBxpcu_BYsaq_uPCw",
+"excerpt": ""
+},
 {
 "id": "618023d40673d474",
 "title": "60 Franken zu viel bezahlt: Häxehüüsli-Wirt will Gästen Geld zurückgeben – und ist über Reaktionen «erschüttert und erfreut» zugleich",
@@ -5739,110 +5824,20 @@
 "excerpt": "Peter Stünzi sucht Gäste, denen aus Versehen eine zu hohe Rechnung präsentiert wurde. Tausende reagieren auf sein Video."
 },
 {
-"id": "38e79f27af028c76",
-"title": "Kantonsspital Baselland – Nach jahrelangem Ringen will der Landrat beide Standorte behalten",
-"url": "https://www.srf.ch/news/schweiz/kantonsspital-baselland-nach-jahrelangem-ringen-will-der-landrat-beide-standorte-behalten",
-"source": "SRF News",
-"when": "Thu 19:02",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/e05c93b.webp",
-"excerpt": "Ein neues Spital statt den beiden alten wäre ein grosser Schritt. Diesen lehnt nach der Regierung auch der Landrat ab."
-},
-{
-"id": "24b4cafc9a623853",
-"title": "Showdown im Landrat: 850 Millionen fürs KSBL? Plötzlich spricht sogar Thomi Jourdan von einer schlechten Lösung",
-"url": "https://www.bazonline.ch/ksbl-landrat-baselland-sagt-ja-zu-850-millionen-franken-110245880042",
-"source": "Basler Zeitung",
-"when": "Thu 18:54",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/8MlNBzxKqgxB3SsqbDbypI.jpg",
-"excerpt": ""
-},
-{
-"id": "161c108ba868e6a6",
-"title": "Neuheiten und Wachstum: Stosszeiten-Radar und Hotdogs von der Sterneköchin: Alles zur Basler Weihnacht 2026",
-"url": "https://www.bazonline.ch/basler-weihnacht-2026-start-am-20-november-mit-ystimme-973057252654",
-"source": "Basler Zeitung",
-"when": "Thu 18:51",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/4Gv5ZYU94gnBT4r4TWAxDw.jpg",
-"excerpt": "Basel macht sich bereit für den Jahresendspurt: Das 100-Millionen-Geschäft zwischen Glühwein und Weihnachtszauber in der Übersicht."
-},
-{
-"id": "44957278c97b67c7",
-"title": "Rekordsommer 2026 – Schweizer Seen leiden immer noch unter den Folgen der Dürre",
-"url": "https://www.srf.ch/news/schweiz/rekordsommer-2026-schweizer-seen-leiden-immer-noch-unter-den-folgen-der-duerre",
-"source": "SRF News",
-"when": "Thu 18:42",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/697fcc7.webp",
-"excerpt": "Herbstregen bringt erste Linderung. Doch an vielen Schweizer Gewässern ist das Wasserdefizit noch riesig."
-},
-{
-"id": "490307824111042d",
-"title": "Armut in der Schweiz – «Ich bin alleinerziehend und armutsgefährdet – wie viele andere»",
-"url": "https://www.srf.ch/news/schweiz/armut-in-der-schweiz-ich-bin-alleinerziehend-und-armutsgefaehrdet-wie-viele-andere",
-"source": "SRF News",
-"when": "Thu 17:52",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/91c9b6e.webp",
-"excerpt": "Die 26-jährige Mutter Nadja Chahdi ist eine von 1.45 Millionen Menschen in der Schweiz, die armutsgefährdet sind."
-},
-{
-"id": "852e0e593ef481b1",
-"title": "Maya Graf hört auf",
-"url": "https://bajour.ch/a/maya-graf-hoert-als-staenderaetin-auf",
-"source": "Bajour",
-"when": "Thu 09:14",
-"also": [
-"OnlineReports"
-],
-"lang": "de",
-"image": null,
-"excerpt": "Die Baselbieter Ständerätin tritt bei den Gesamterneuerungswahlen nicht mehr an."
-},
-{
-"id": "20b2c8ef15683281",
-"title": "Brandfall",
-"url": "https://www.bs.ch/medienmitteilungen/2026-brandfall-23",
+"id": "209400bd362fbbdb",
+"title": "Die Kreuzung Bankverein wird fussgänger- und velofreundlicher",
+"url": "https://www.bs.ch/medienmitteilungen/bvd/2026-die-kreuzung-bankverein-wird-fussgaenger-und-velofreundlicher",
 "source": "Kanton Basel-Stadt",
-"when": "00:13",
+"when": "08:08",
 "also": [],
 "lang": "de",
 "image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
-},
-{
-"id": "ddbe6e71ccefea66",
-"title": "MELDUNGEN WIRTSCHAFT - Lufthansa will 1000 Stellen an Drehkreuzen streichen +++ BASF gibt Übernahmepläne für Evonik auf",
-"url": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
-"source": "NZZ",
-"when": "Thu 22:50",
-"also": [],
-"lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
-"excerpt": "Die neuesten Meldungen aus der Wirtschaft."
-},
-{
-"id": "ee4cf6f6fcae72ec",
-"title": "Der Druck fällt ab, es fliessen Tränen",
-"url": "https://onlinereports.ch/a/debatte-um-spitalstrategie-ksbl-der-druck-faellt-ab-es-fliessen-traenen",
-"source": "OnlineReports",
-"when": "Thu 21:48",
-"also": [],
-"lang": "de",
-"image": "https://media-onlinereports.wepublish.cloud/01a1f57f-4459-735c-9b8d-681b616f57f9?quality=80&sig=0sjec2W812Pn63qnS23iZL7Q6WphPtkelz-jXITfK_FIGAI3kc2X15V7GOb5yuDoZiX-MDnmggEyhWxXgFFJCg",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "618023d40673d474"
+"lead": "ba475fe4c05c3978"
 },
 {
 "id": "sport",
@@ -5888,6 +5883,28 @@
 "excerpt": "The team will ride Newmen wheels as part of their new look"
 },
 {
+"id": "8dcfd9b750c88216",
+"title": "State Has a $1,500 Gravel Bike With Real Progressive Geometry and Big Tire Clearance",
+"url": "https://velo.outsideonline.com/gravel/gravel-gear/state-6061-all-road-v2/",
+"source": "Velo",
+"when": "02:30",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/State-6061-All-Road-Cover.jpg?width=1200",
+"excerpt": ""
+},
+{
+"id": "1fb6cab323c1ec63",
+"title": "A few of my favorite things 2026: Joe Lindsey",
+"url": "https://escapecollective.com/a-few-of-my-favorite-things-2026-joe-lindsey/",
+"source": "Escape Collective",
+"when": "00:57",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/11/Favourite-Things-Collage-Joe-2026.png",
+"excerpt": "A year of exploration, a year of groundedness."
+},
+{
 "id": "5958f14225c83313",
 "title": "‘It Would Be Great to Win All Three’: Chloé Dygert Dreams of Gold Medal Sweep at the LA 2028 Olympics",
 "url": "https://velo.outsideonline.com/olympics/it-would-be-great-to-win-all-three-chloe-dygert-dreams-of-gold-medal-sweep-at-the-la-2028-olympics/",
@@ -5908,28 +5925,6 @@
 "lang": "en",
 "image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
 "excerpt": ""
-},
-{
-"id": "33ad46c3b3b9c5b0",
-"title": "The global circuit board shortage has reached the bike industry",
-"url": "https://escapecollective.com/the-global-circuit-board-shortage-has-reached-the-bike-industry/",
-"source": "Escape Collective",
-"when": "Thu 18:55",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/IMG_3385.JPG",
-"excerpt": ""
-},
-{
-"id": "54c1ed8a32119514",
-"title": "Winspace C6 joins a crowded endurance road market",
-"url": "https://escapecollective.com/winspace-c6-joins-a-crowded-endurance-road-market/",
-"source": "Escape Collective",
-"when": "Thu 17:14",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/Winspace-C6-complete-bike.jpg",
-"excerpt": ""
 }
 ]
 },
@@ -5937,6 +5932,17 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "a3018e09d047ab67",
+"title": "Blågula trotjänare avtackade",
+"url": "https://www.svenskfotboll.se/nyheter/landslag/2026/11/herrlandslaget-avtackning2/",
+"source": "SvFF",
+"when": "08:08",
+"also": [],
+"lang": "sv",
+"image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4acca3/globalassets/svff/bilderblock/2611/bildavtackninghemsida.jpg",
+"excerpt": ""
+},
 {
 "id": "c6e072a05bf27c76",
 "title": "Why Abreu is one of MLB’s most underrated players",
@@ -5979,17 +5985,6 @@
 "also": [],
 "lang": "en",
 "image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/18/AZ-34.png",
-"excerpt": ""
-},
-{
-"id": "a28757ba55078434",
-"title": "Seedningspotterna i EM-kvalet",
-"url": "https://www.svenskfotboll.se/nyheter/landslag/2026/11/herr-potter-em-kvallottning/",
-"source": "SvFF",
-"when": "Thu 00:06",
-"also": [],
-"lang": "sv",
-"image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4acca1/globalassets/svff/bilderblock/2611/000em-kvallottning_seedning.jpg",
 "excerpt": ""
 }
 ]
@@ -6041,19 +6036,21 @@
 "title": null,
 "items": [
 {
-"id": "fb8ddb6b390a2dc6",
-"title": "Giri takes the lead in Total Chess Final",
-"url": "https://www.fide.com/giri-takes-the-lead-in-total-chess-final/",
-"source": "FIDE",
-"when": "Thu 22:47",
-"also": [],
+"id": "4158cdead3a1c756",
+"title": "Total Chess: Giri takes early lead over Firouzja, Carlsen forfeits rapid games",
+"url": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-3",
+"source": "ChessBase",
+"when": "08:10",
+"also": [
+"FIDE"
+],
 "lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/TC-2026-D09.jpg",
+"image": "https://en.chessbase.com/thumb/133356_l200",
 "excerpt": ""
 },
 {
 "id": "046f4e3ca870c30f",
-"title": "The Difficult Road to Defending His Title: Gukesh Dommaraju",
+"title": "The difficult road to defending his title: Gukesh Dommaraju",
 "url": "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju",
 "source": "ChessBase",
 "when": "Thu 21:00",
@@ -6074,17 +6071,6 @@
 "excerpt": ""
 },
 {
-"id": "16368c061216f68e",
-"title": "Giri Leads Firouzja In Final After Heroic Defense, Carlsen Stays Above 2800",
-"url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-9",
-"source": "Chess.com",
-"when": "Thu 22:14",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2270589.00dbc2ef.5000x5000o.9303790a9973.png",
-"excerpt": ""
-},
-{
 "id": "198967a18f5c99dd",
 "title": "Chess by the Numbers: Explore a Decade of FIDE Data, powered by Salesforce Agentforce",
 "url": "https://www.fide.com/chess-by-the-numbers-explore-a-decade-of-fide-data-powered-by-salesforce-agentforce/",
@@ -6096,6 +6082,28 @@
 "excerpt": ""
 },
 {
+"id": "16368c061216f68e",
+"title": "Giri Leads Firouzja In Final After Heroic Defense, Carlsen Stays Above 2800",
+"url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-9",
+"source": "Chess.com",
+"when": "Thu 22:14",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2270589.00dbc2ef.5000x5000o.9303790a9973.png",
+"excerpt": ""
+},
+{
+"id": "c5e3bda40ea81ead",
+"title": "Anish Giri and Alireza Firouzja reach Total Chess Final",
+"url": "https://www.fide.com/anish-giri-and-alireza-firouzja-reach-total-chess-final/",
+"source": "FIDE",
+"when": "Wed 23:22",
+"also": [],
+"lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/TC-2026-D08-MVL-Giri.jpg",
+"excerpt": ""
+},
+{
 "id": "32524d497e651b67",
 "title": "Total Chess: Finals - Live!",
 "url": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
@@ -6104,17 +6112,6 @@
 "also": [],
 "lang": "en",
 "image": "https://en.chessbase.com/thumb/133161_l200",
-"excerpt": ""
-},
-{
-"id": "daa1c77451961f47",
-"title": "Total Chess: Giri and Firouzja to battle for tournament title",
-"url": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-2",
-"source": "ChessBase",
-"when": "Thu 08:10",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133345_l200",
 "excerpt": ""
 },
 {
@@ -6131,7 +6128,7 @@
 ]
 }
 ],
-"lead": "fb8ddb6b390a2dc6"
+"lead": "4158cdead3a1c756"
 },
 {
 "id": "ai",
@@ -6199,11 +6196,11 @@
 "excerpt": ""
 },
 {
-"id": "b0a9b2c61a0f333d",
-"title": "PostgreSQL 19 Released",
-"url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+"id": "220ad3269cafea1b",
+"title": "Token fraud is here and it’s BAD (YouTube)",
+"url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
 "source": "Simon Willison",
-"when": "Thu 21:43",
+"when": "03:49",
 "also": [],
 "lang": "en",
 "image": null,
@@ -6221,15 +6218,15 @@
 "excerpt": ""
 },
 {
-"id": "5797ab70466ec6b7",
-"title": "Building trustworthy AI by fencing it in, not predicting it",
-"url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-"source": "MIT Technology Review",
-"when": "Mon 17:04",
+"id": "3b66d4106d9bffcb",
+"title": "Advancing US economic mobility in the age of AI",
+"url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai",
+"source": "McKinsey",
+"when": "01:00",
 "also": [],
 "lang": "en",
-"image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?w=840",
-"excerpt": ""
+"image": null,
+"excerpt": "AI could widen economic gaps in the United States—or help close them. Whether it becomes a force for opportunity depends on the choices leaders make now."
 }
 ]
 }
@@ -6267,6 +6264,17 @@
 "lang": "en",
 "image": "https://endpoints.news/wp-content/uploads/2020/11/Regeneron-social-shutterstock-scaled.jpg",
 "excerpt": ""
+},
+{
+"id": "473f15df70dfd162",
+"title": "Crown Biosciences stays put as $204M Adicon deal falls through",
+"url": "https://www.fiercebiotech.com/cro/crown-stays-put-204m-adicon-deal-collapses",
+"source": "Fierce Biotech",
+"when": "08:08",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1345341804_0.jpg?VersionId=aM5njrIglDeB2P._QqriafzrxFDYB_GS",
+"excerpt": "Crown Biosciences looks destined to go unworn for a while longer after its planned $204 million acquisition by China's Adicon fell through."
 },
 {
 "id": "788620b0e4e42a3d",
@@ -6322,17 +6330,6 @@
 "lang": "en",
 "image": "https://qtxasset.com/quartz/qcloud5/media/image/Teva2.jpg?VersionId=ViP5hUQEb454QLS16B99.f74b05egfkp",
 "excerpt": "Teva’s R&D chief Eric Hughes, M.D., Ph.D., has resigned one week after the company showcased its push to grow its innovative medicines business."
-},
-{
-"id": "5c6ac9331942b0b9",
-"title": "Regeneron breaks into neurology with FDA nod in crowded myasthenia gravis",
-"url": "https://www.fiercepharma.com/pharma/regeneron-breaks-through-neurology-barrier-fda-nod-crowded-myasthenia-gravis",
-"source": "Fierce Pharma",
-"when": "Thu 20:09",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/REGENERONSIGN.jpg?VersionId=F5qxPDo3pYlANg_Smj5oORLAfDQtzBw2",
-"excerpt": ""
 }
 ]
 }
@@ -6348,16 +6345,16 @@
 "dm": "20.11.",
 "label": "Light showers",
 "icon": "🌦️",
-"hi": 11,
-"lo": 9,
-"rain_mm": 3.2,
-"rain_pct": 95,
-"wind": 20,
+"hi": 12,
+"lo": 8,
+"rain_mm": 3.0,
+"rain_pct": 98,
+"wind": 23,
 "uv": 1,
 "sunrise": "07:41",
 "sunset": "16:48",
-"bar_l": 86,
-"bar_w": 14
+"bar_l": 73,
+"bar_w": 27
 },
 "slots": [
 {
@@ -6365,21 +6362,21 @@
 "temp": 9,
 "icon": "☁️",
 "label": "Overcast",
-"rain_pct": 95
+"rain_pct": 88
 },
 {
 "name": "Afternoon",
-"temp": 10,
-"icon": "🌦️",
-"label": "Light rain",
-"rain_pct": 75
+"temp": 11,
+"icon": "☁️",
+"label": "Overcast",
+"rain_pct": 53
 },
 {
 "name": "Evening",
 "temp": 10,
-"icon": "☁️",
-"label": "Overcast",
-"rain_pct": 43
+"icon": "🌦️",
+"label": "Light rain",
+"rain_pct": 63
 }
 ],
 "days": [
@@ -6389,16 +6386,16 @@
 "dm": "20.11.",
 "label": "Light showers",
 "icon": "🌦️",
-"hi": 11,
-"lo": 9,
-"rain_mm": 3.2,
-"rain_pct": 95,
-"wind": 20,
+"hi": 12,
+"lo": 8,
+"rain_mm": 3.0,
+"rain_pct": 98,
+"wind": 23,
 "uv": 1,
 "sunrise": "07:41",
 "sunset": "16:48",
-"bar_l": 86,
-"bar_w": 14
+"bar_l": 73,
+"bar_w": 27
 },
 {
 "date": "2026-11-21",
@@ -6407,32 +6404,32 @@
 "label": "Light showers",
 "icon": "🌦️",
 "hi": 10,
-"lo": 3,
-"rain_mm": 1.9,
-"rain_pct": 78,
-"wind": 16,
+"lo": 5,
+"rain_mm": 13.2,
+"rain_pct": 90,
+"wind": 17,
 "uv": 1,
 "sunrise": "07:42",
 "sunset": "16:47",
-"bar_l": 43,
-"bar_w": 50
+"bar_l": 53,
+"bar_w": 33
 },
 {
 "date": "2026-11-22",
 "dow": "Sun",
 "dm": "22.11.",
-"label": "Rain",
-"icon": "🌧️",
-"hi": 7,
-"lo": 3,
-"rain_mm": 24.5,
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 9,
+"lo": 4,
+"rain_mm": 15.8,
 "rain_pct": 100,
 "wind": 8,
-"uv": 0,
+"uv": 1,
 "sunrise": "07:44",
 "sunset": "16:46",
-"bar_l": 43,
-"bar_w": 29
+"bar_l": 47,
+"bar_w": 33
 },
 {
 "date": "2026-11-23",
@@ -6440,84 +6437,84 @@
 "dm": "23.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 4,
-"lo": 0,
-"rain_mm": 3.3,
-"rain_pct": 93,
+"hi": 8,
+"lo": 4,
+"rain_mm": 11.1,
+"rain_pct": 95,
 "wind": 8,
 "uv": 1,
 "sunrise": "07:45",
 "sunset": "16:45",
-"bar_l": 21,
-"bar_w": 29
+"bar_l": 47,
+"bar_w": 27
 },
 {
 "date": "2026-11-24",
 "dow": "Tue",
 "dm": "24.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 4,
-"lo": -1,
-"rain_mm": 0,
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 7,
+"lo": 4,
+"rain_mm": 1.9,
 "rain_pct": 22,
-"wind": 8,
+"wind": 6,
 "uv": 2,
 "sunrise": "07:47",
 "sunset": "16:45",
-"bar_l": 14,
-"bar_w": 36
+"bar_l": 47,
+"bar_w": 20
 },
 {
 "date": "2026-11-25",
 "dow": "Wed",
 "dm": "25.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 5,
-"lo": 3,
-"rain_mm": 5.4,
+"label": "Snow grains",
+"icon": "🌨️",
+"hi": 4,
+"lo": 0,
+"rain_mm": 4.2,
 "rain_pct": 75,
-"wind": 8,
+"wind": 5,
 "uv": 1,
 "sunrise": "07:48",
 "sunset": "16:44",
-"bar_l": 43,
-"bar_w": 14
+"bar_l": 20,
+"bar_w": 27
 },
 {
 "date": "2026-11-26",
 "dow": "Thu",
 "dm": "26.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 3,
-"lo": 1,
-"rain_mm": 9.3,
-"rain_pct": 74,
+"label": "Snow grains",
+"icon": "🌨️",
+"hi": 1,
+"lo": -1,
+"rain_mm": 1.5,
+"rain_pct": 75,
 "wind": 4,
 "uv": 0,
 "sunrise": "07:49",
 "sunset": "16:43",
-"bar_l": 29,
-"bar_w": 14
+"bar_l": 13,
+"bar_w": 13
 },
 {
 "date": "2026-11-27",
 "dow": "Fri",
 "dm": "27.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 3,
+"label": "Snow grains",
+"icon": "🌨️",
+"hi": 4,
 "lo": -3,
-"rain_mm": 0.3,
-"rain_pct": 41,
-"wind": 8,
+"rain_mm": 0.6,
+"rain_pct": 50,
+"wind": 9,
 "uv": 1,
 "sunrise": "07:51",
 "sunset": "16:42",
 "bar_l": 0,
-"bar_w": 43
+"bar_w": 47
 },
 {
 "date": "2026-11-28",
@@ -6525,16 +6522,16 @@
 "dm": "28.11.",
 "label": "Snow showers",
 "icon": "🌨️",
-"hi": 5,
+"hi": 8,
 "lo": -3,
 "rain_mm": 7.2,
-"rain_pct": 30,
-"wind": 16,
-"uv": 2,
+"rain_pct": 24,
+"wind": 13,
+"uv": 1,
 "sunrise": "07:52",
 "sunset": "16:42",
 "bar_l": 0,
-"bar_w": 57
+"bar_w": 73
 },
 {
 "date": "2026-11-29",
@@ -6542,20 +6539,20 @@
 "dm": "29.11.",
 "label": "Snow showers",
 "icon": "🌨️",
-"hi": 5,
+"hi": 7,
 "lo": 2,
 "rain_mm": 12.6,
-"rain_pct": 30,
-"wind": 13,
-"uv": 1,
+"rain_pct": 23,
+"wind": 12,
+"uv": 0,
 "sunrise": "07:53",
 "sunset": "16:41",
-"bar_l": 36,
-"bar_w": 21
+"bar_l": 33,
+"bar_w": 33
 }
 ],
 "lo": -3,
-"hi": 11
+"hi": 12
 }
 }
 }
