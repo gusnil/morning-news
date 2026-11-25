@@ -1,1011 +1,4 @@
 {
-"2026-11-18": {
-"date": "2026-11-18",
-"built_at": "2026-11-18T19:02:53.149637+00:00",
-"built_local": "20:02",
-"edition": "Evening",
-"feeds_ok": 55,
-"feeds_total": 55,
-"sections": [
-{
-"id": "world",
-"title": "World",
-"count": 10,
-"thin": false,
-"groups": [
-{
-"id": "world",
-"title": null,
-"items": [
-{
-"id": "6c46c66aaf716f27",
-"title": "US Democrats nominate Hakeem Jeffries to be first Black speaker of the House",
-"url": "https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house",
-"source": "France 24",
-"when": "16:44",
-"also": [
-"The Hindu",
-"DW",
-"Al Jazeera",
-"BBC World",
-"SCMP"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/e98be6bc-e365-11f1-99b1-1ba7ddfab527/w:1024/p:16x9/AP26322520989523.jpg",
-"excerpt": ""
-},
-{
-"id": "453b7344cd29735c",
-"title": "Xi, Putin meet ahead of Trump's arrival in China for historic trilateral summit",
-"url": "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
-"source": "France 24",
-"when": "03:23",
-"also": [
-"Al Jazeera",
-"Africanews",
-"DW",
-"The Hindu",
-"BBC World",
-"El País English"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/fce06848-e2ff-11f1-aa91-1ba7ddfab527/w:1024/p:16x9/097279e047c5a028371b570beb9f5b24972dd3ef.jpg",
-"excerpt": ""
-},
-{
-"id": "885615cb2f157e41",
-"title": "Pakistani man convicted of plotting to kill Trump is sentenced to over 27 years in prison",
-"url": "https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece",
-"source": "The Hindu",
-"when": "09:19",
-"also": [
-"DW",
-"BBC World",
-"SCMP"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/zdozq6/article71714339.ece/alternates/LANDSCAPE_1200/Political_Assassinations_Plot_14319.jpg",
-"excerpt": ""
-},
-{
-"id": "a11ae3a0ca182b46",
-"title": "Russian military transport plane crashes in Siberia, killing 19: Defence Ministry",
-"url": "https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece",
-"source": "The Hindu",
-"when": "08:33",
-"also": [
-"Al Jazeera",
-"BBC World"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/maecpj/article71713628.ece/alternates/LANDSCAPE_1200/2026-11-17T183007Z_1896887606_RC2UPOAT81QH_RTRMADP_3_RUSSIA-PLANE.JPG",
-"excerpt": "The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow"
-},
-{
-"id": "8e0d652210ff82a2",
-"title": "Guinea jails more than 220 people in deadly crackdown on illegal gold mining",
-"url": "http://www.africanews.com/2026/11/17/guinea-jails-more-than-220-people-in-deadly-crackdown-on-illegal-gold-mining/",
-"source": "Africanews",
-"when": "10:23",
-"also": [
-"DW"
-],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/99/60/24/640x360_cmsv2_094867ed-f4d2-5e2c-9c79-2234b1292ba3-9996024.jpg?1794914885",
-"excerpt": ""
-},
-{
-"id": "70063e3b8140ceb6",
-"title": "Haitians demonstrate in support of El Salvador's Bukele and anti-gang troops",
-"url": "http://www.africanews.com/2026/11/18/haitians-demonstrate-in-support-of-el-salvadors-bukele-and-anti-gang-troops/",
-"source": "Africanews",
-"when": "09:16",
-"also": [
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/09/99/72/39/640x360_cmsv2_14893e40-236c-56e2-9fd7-e9f7abaa9fac-9997239.jpg?1794982994",
-"excerpt": ""
-},
-{
-"id": "61745d9bcfb9c3bf",
-"title": "U.K. hands NATO-assigned American soldier accused of Russia spying to U.S.",
-"url": "https://www.thehindu.com/news/international/american-soldier-accused-of-russia-spying/article71713619.ece",
-"source": "The Hindu",
-"when": "08:30",
-"also": [
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/sxmw0p/article71713621.ece/alternates/LANDSCAPE_1200/AFP__20261111__D7787CJ__v1__HighRes__BritainUsRussiaMilitaryDefenceArrest.jpg",
-"excerpt": "A U.S. Army official has named the detained soldier as 41-year-old Lieutenant Colonel Brandon Tyner"
-},
-{
-"id": "81768f24e2026cc3",
-"title": "China, Canada expand tariff relief after Carney-Xi meeting",
-"url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Tue 21:11",
-"also": [
-"SCMP"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc982d1952-1794938925.jpg?resize=1920%2C1440",
-"excerpt": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium."
-},
-{
-"id": "81351e4f72cac489",
-"title": "Mozambique opposition leader goes on trial on terrorism charges",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Tue 19:48",
-"also": [
-"Africanews"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794941285.jpg?resize=1920%2C1080&quality=80",
-"excerpt": "Mozambique’s opposition leader Venancio Mondlane has gone on trial facing terrorism and civil disobedience charges"
-},
-{
-"id": "c2de28fdb578663c",
-"title": "In charts | Tracking the resurgence of measles in the United States",
-"url": "https://english.elpais.com/usa/2026-11-18/in-charts-tracking-the-resurgence-of-measles-in-the-united-states.html",
-"source": "El País English",
-"when": "16:33",
-"also": [],
-"lang": "en",
-"image": "https://imagenes.elpais.com/resizer/v2/ZTPXIGTJJ5JLVNOHRGI4HXL4G4.jpg?auth=acab9fa546cfefe516bffb83204d97e0c182a72eda8751fb2fab9dcf50c7d780&width=1200",
-"excerpt": "The country has lost its measles-free status. Data show falling vaccination rates and the scale of the crisis"
-}
-]
-}
-],
-"lead": "6c46c66aaf716f27"
-},
-{
-"id": "basel",
-"title": "Basel",
-"count": 10,
-"thin": false,
-"groups": [
-{
-"id": "basel",
-"title": null,
-"items": [
-{
-"id": "4eaab87418294751",
-"title": "Tabakprävention – Bundesrat will Präventionsabgabe auf E-Zigaretten und Snus",
-"url": "https://www.srf.ch/news/schweiz/tabakpraevention-bundesrat-will-praeventionsabgabe-auf-e-zigaretten-und-snus",
-"source": "SRF News",
-"when": "19:04",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/7ebfb3.webp",
-"excerpt": "Zigaretten werden zunehmend durch Alternativen ersetzt – auch auf diese soll künftig eine Abgabe erhoben werden."
-},
-{
-"id": "9c01949cffd27d68",
-"title": "Staatsbesuch aus Golfstaat – Die Schweiz und Katar: Eine Partnerschaft, die Fragen aufwirft",
-"url": "https://www.srf.ch/news/schweiz/staatsbesuch-aus-golfstaat-die-schweiz-und-katar-eine-partnerschaft-die-fragen-aufwirft",
-"source": "SRF News",
-"when": "18:55",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/c7113a.webp",
-"excerpt": "Der Emir von Katar ist zum Staatsbesuch in der Schweiz. Die Länder wollen in der Friedensvermittlung enger kooperieren."
-},
-{
-"id": "51f7ef3b5a6fa2cd",
-"title": "Tramnetz in der Region Basel: Verlängerung des 8er-Trams steht auf der Kippe – und zwar an beiden Enden",
-"url": "https://www.bazonline.ch/weil-am-rhein-verlaengerung-des-8er-trams-vorerst-gestoppt-961804254870",
-"source": "Basler Zeitung",
-"when": "18:15",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/5AV5kxzmq0yBnJlg-cJvKh.jpg",
-"excerpt": "Weil am Rhein hat kein Geld für zusätzliche Haltestellen, und in Allschwil eskaliert die Debatte kurz vor der Abstimmung."
-},
-{
-"id": "7d52745690f91bae",
-"title": "Budget 2027 – Ständeratskommission stellt sich hinter Voranschlag des Bundes",
-"url": "https://www.srf.ch/news/schweiz/budget-2027-staenderatskommission-stellt-sich-hinter-voranschlag-des-bundes",
-"source": "SRF News",
-"when": "18:01",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/be5abd.webp",
-"excerpt": "Entgegen der Nationalratskommission unterstützt die zuständige Ständeratskommission das Bundesbudget."
-},
-{
-"id": "993ce5298eb1be7a",
-"title": "Bankverein-Kreuzung in Basel: Neues Verkehrsregime bringt Velofahrer am Steinenberg in eine brenzlige Situation",
-"url": "https://www.bazonline.ch/autofreier-bankverein-gefahr-fuer-velos-am-steinenberg-885086671552",
-"source": "Basler Zeitung",
-"when": "17:17",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/BP4I_4f1aM6ArxJqbhF46L.jpg",
-"excerpt": "Welche Regeln gelten? Wo droht Stau? Verteilt die Polizei schon Bussen? Die wichtigsten Fragen und Antworten zur neuen Verkehrsordnung im Stadtzentrum."
-},
-{
-"id": "335c03c4660d09fd",
-"title": "Parking, Kinder- und Erwachsenentickets: Zum fünften Mal in Folge – Europapark wird teurer",
-"url": "https://www.bazonline.ch/europa-park-erhoeht-ticketpreise-2027-zum-fuenften-mal-641996007349",
-"source": "Basler Zeitung",
-"when": "16:15",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/CdPoZTEz4bX9gcEOsOd3w-.jpg",
-"excerpt": "Der Freizeitpark nimmt erneut eine Preisanpassung vor. Betroffen ist auch die Wasserwelt Rulantica. Ab wann die neuen Ticketpreise gelten."
-},
-{
-"id": "7939b5007f164572",
-"title": "Lohn von Grossrät*innen soll offengelegt werden",
-"url": "https://bajour.ch/a/lohn-von-grossraetinnen-soll-offengelegt-werden",
-"source": "Bajour",
-"when": "13:23",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": ""
-},
-{
-"id": "8cf5c67360a221fa",
-"title": "13. AHV-Rente für guten Zweck spenden",
-"url": "https://bajour.ch/a/13-ahv-rente-fuer-guten-zweck-spenden",
-"source": "Bajour",
-"when": "10:37",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": ""
-},
-{
-"id": "b3bcb4b094af2136",
-"title": "Cyberangriffe auf Baselbieter Kantonsverwaltung",
-"url": "https://bajour.ch/a/cyberangriffe-auf-baselbieter-kantonsverwaltung",
-"source": "Bajour",
-"when": "10:35",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": ""
-},
-{
-"id": "11a66bb2526deda8",
-"title": "«Fisch, Familie, Freiheit»: Die Demokratin Mary Peltola gewinnt die Senatswahl in Alaska",
-"url": "https://www.nzz.ch/international/senatswahl-in-alaska-mary-peltola-triumphiert-mit-fisch-familie-freiheit-ld.10067763",
-"source": "NZZ",
-"when": "19:29",
-"also": [],
-"lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/11/18/3c70588f-0b0d-43cb-8f11-f298b60e1518.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5576,5576,x1395,y0",
-"excerpt": ""
-}
-]
-}
-],
-"lead": "4eaab87418294751"
-},
-{
-"id": "sport",
-"title": "Sport",
-"count": 14,
-"thin": false,
-"groups": [
-{
-"id": "cycling",
-"title": "Cycling",
-"items": [
-{
-"id": "d809f8ae45c44a51",
-"title": "Primož Roglič will continue racing into 2027 as new team for 'final chapter' is finally revealed",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/primoz-roglic-will-continue-racing-into-2027-as-new-team-for-final-chapter-is-finally-revealed/",
-"source": "Cyclingnews",
-"when": "19:20",
-"also": [],
-"lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/Bg63Ms7V43coHxqEyo4pj4-1920-80.jpg",
-"excerpt": "Multiple-time Grand Tour winner and current European TT champion to lead NSN Cycling on one-year contract"
-},
-{
-"id": "66572ce4d4c117f2",
-"title": "Broken frame no problem for Lukas Malezsewski, who wins UCI Gravel race after being hit by a driver",
-"url": "https://www.cyclingnews.com/pro-cycling/racing/broken-frame-no-problem-for-lukas-malezsewski-who-wins-uci-gravel-race-after-being-hit-by-a-car/",
-"source": "Cyclingnews",
-"when": "18:57",
-"also": [],
-"lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/TyGs76zQAq9af9SE8z85s7-1920-80.jpg",
-"excerpt": "Malezsewski was struck during The Gravel of Marathon in Greece"
-},
-{
-"id": "98195bbbcbcf28ad",
-"title": "'Tour de France Femmes goal for 2029' – There’s a new US team on the scene, and they have big ambitions",
-"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-goal-for-2029-theres-a-new-us-team-on-the-scene-and-they-have-big-ambitions/",
-"source": "Cyclingnews",
-"when": "18:46",
-"also": [],
-"lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/RHkpbqB94RCu9CHyyKinF9-1920-80.jpg",
-"excerpt": "Andrea Cyr and Aline Seitz to lead Austin-based Orange Seal p/b Autowurks for inaugural season in 2027 at Continental level"
-},
-{
-"id": "e13309a7ad898407",
-"title": "I Stepped Into a Heat Chamber to Recreate the Hottest Ever Tour de France. Here’s What I Learned About Racing in Extreme Conditions.",
-"url": "https://velo.outsideonline.com/road/road-training/i-stepped-into-a-heat-chamber-to-recreate-the-hottest-ever-tour-de-france-heres-what-i-learned-about-racing-in-extreme-conditions/",
-"source": "Velo",
-"when": "19:34",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Me-in-Cube-2-1-scaled.jpg?width=1200",
-"excerpt": ""
-},
-{
-"id": "006ce39c60ad9529",
-"title": "Let’s have an uncomfortable talk about pelvic floor dysfunction",
-"url": "https://escapecollective.com/cycling-and-pelvic-floor-dysfunction/",
-"source": "Escape Collective",
-"when": "17:48",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/CORVOS_00035376-154.jpg",
-"excerpt": "From genital numbness to urinary incontinence and sexual dysfunction, pelvic health is an overlooked aspect of cyclist welfare."
-},
-{
-"id": "125d5bcf4f1793b0",
-"title": "De Buyst spends night in ICU after Ghent Six Day crash",
-"url": "https://escapecollective.com/de-buyst-taken-to-icu-with-broken-collarbone-and-internal-bleeding-after-ghent-six-day-crash/",
-"source": "Escape Collective",
-"when": "17:07",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
-"excerpt": ""
-},
-{
-"id": "d3e18bd7ad30b8f4",
-"title": "Seixas, Pidcock, Kuss: Who Stays and Who Goes in 2027?",
-"url": "https://velo.outsideonline.com/road/road-racing/cycling-transfers-2027-seixas-pidcock-kuss/",
-"source": "Velo",
-"when": "15:38",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/GettyImages-2279675203.jpg?width=1200",
-"excerpt": ""
-}
-]
-},
-{
-"id": "teams",
-"title": "Teams",
-"items": [
-{
-"id": "86acf2e6719fc64a",
-"title": "Gustavssons trupp till det avgörande playoffet",
-"url": "https://www.svenskfotboll.se/nyheter/landslag/2026/11/trupp-dam-nov/",
-"source": "SvFF",
-"when": "20:02",
-"also": [],
-"lang": "sv",
-"image": "https://www.svenskfotboll.se/cdn-cgi/image/f=auto/4ac757/contentassets/4d32960ea82c47b9a0fc48abfd7dc6d5/hanna-l.jpg",
-"excerpt": ""
-},
-{
-"id": "086565344160ccb9",
-"title": "Demary Jr. and Mullins Named To Wooden Watch List",
-"url": "https://uconnhuskies.com/news/2026/11/18/mens-basketball-demary-jr-and-mullins-named-to-wooden-watch-list",
-"source": "UConn Huskies",
-"when": "19:01",
-"also": [],
-"lang": "en",
-"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/17/110626_BL_MICH_4646.jpg",
-"excerpt": ""
-},
-{
-"id": "8bda9a6697998d2b",
-"title": "PODD: Drömvärvningar inför nästa år: ”Hade varit klockren”",
-"url": "https://www.sydsvenskan.se/sport/dromvarvningar-infor-nasta-ar-hade-varit-klockren/",
-"source": "Sydsvenskan",
-"when": "15:58",
-"also": [],
-"lang": "sv",
-"image": "https://static.bonniernews.se/ba/6d585143-877d-4569-8553-2f3f84605297.png?crop=3840%2C2160%2Cx0%2Cy0&width=1200&format=pjpg&auto=avif",
-"excerpt": "MFF-podden blickar framåt."
-},
-{
-"id": "9768dff5f4d11a5a",
-"title": "1B Anderson, new addition Huggins make 2026 All-Arizona Fall League Team",
-"url": "https://www.mlb.com/redsox/news/all-arizona-fall-league-team-2026",
-"source": "MLB.com",
-"when": "04:00",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/qhwahfkwn4iizude6lrv.jpg",
-"excerpt": ""
-},
-{
-"id": "75e3b4503e855727",
-"title": "Winthrop High School's Jon Cadigan Named the New England Patriots Coach of the Week",
-"url": "https://www.patriots.com/news/winthrop-high-school-s-jon-cadigan-named-the-new-england-patriots-coach-of-the-week",
-"source": "Patriots.com",
-"when": "Tue 21:10",
-"also": [],
-"lang": "en",
-"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/pqfcfi5jikawlkw1kusy.jpg",
-"excerpt": "The Winthrop Vikings edged their way to a 7-6 victory against the Bellingham Blackhawks behind the leadership of Head Coach Jon Cadigan."
-}
-]
-},
-{
-"id": "cfb",
-"title": "College football",
-"items": []
-},
-{
-"id": "sumo",
-"title": "Sumo",
-"items": [
-{
-"id": "a47663fbabf93a89",
-"title": "Kyushu 2026: Day Eleven",
-"url": "https://tachiai.org/2026/11/18/kyushu-2026-day-eleven/",
-"source": "Tachiai",
-"when": "10:13",
-"also": [],
-"lang": "en",
-"image": "https://i0.wp.com/tachiai.org/wp-content/uploads/2021/10/Kyushu-Kyujo.png?fit=800%2C428&ssl=1",
-"excerpt": ""
-},
-{
-"id": "d53dfae59fd6cbfc",
-"title": "Rising star Atamifuji has been the story of the Kyushu Basho",
-"url": "https://www.japantimes.co.jp/sports/2026/11/18/sumo/basho-reports/kyushu-2026-atamifuji/",
-"source": "Japan Times",
-"when": "09:00",
-"also": [],
-"lang": "en",
-"image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574749.jpg",
-"excerpt": "The sekiwake is off to his best start in years and is in prime position to claim his first Emperor's Cup, and possibly even earn a promotion."
-}
-]
-}
-],
-"lead": "d809f8ae45c44a51"
-},
-{
-"id": "chess",
-"title": "Chess",
-"count": 8,
-"thin": false,
-"groups": [
-{
-"id": "chess",
-"title": null,
-"items": [
-{
-"id": "32524d497e651b67",
-"title": "Total Chess: Semifinals - Live!",
-"url": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-"source": "ChessBase",
-"when": "15:45",
-"also": [
-"FIDE",
-"Chess.com"
-],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133161_l200",
-"excerpt": ""
-},
-{
-"id": "a02f243bac02da11",
-"title": "FIDE Council approves FIDE Athletes Commission composition for the 2026–2028 term",
-"url": "https://www.fide.com/fide-council-approves-fide-athletes-commission-composition-for-the-2026-2028-term/",
-"source": "FIDE",
-"when": "Tue 22:52",
-"also": [],
-"lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/FIDE-Athletes-Commission.jpg",
-"excerpt": ""
-},
-{
-"id": "3a4ecbbc75aa6b68",
-"title": "FIDE World Rapid & Blitz Championships 2026: Registration now open",
-"url": "https://www.fide.com/registration-for-the-fide-world-rapid-blitz-championships-2026-now-open/",
-"source": "FIDE",
-"when": "Tue 17:21",
-"also": [],
-"lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/WRB-2026-Registration-FRONT.png",
-"excerpt": ""
-},
-{
-"id": "770db9f2bdd86752",
-"title": "Total Chess: Firouzja and Giri win opening sets, Carlsen sparks controversy",
-"url": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-1",
-"source": "ChessBase",
-"when": "08:50",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133324_l200",
-"excerpt": ""
-},
-{
-"id": "b708732c7a18e7f4",
-"title": "Save Up To 25% And Improve Your Vision With Zenni's New Chess-Themed Glasses",
-"url": "https://www.chess.com/news/view/announcing-chesscom-glasses-by-zenni",
-"source": "Chess.com",
-"when": "17:00",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2263021.25ea2112.5000x5000o.a79d9f5e7c1a.png",
-"excerpt": ""
-},
-{
-"id": "4af2f6d016966365",
-"title": "Pranav Venkatesh Signs With Revenant XSpark As Indian Esports Teams Add Chess Stars",
-"url": "https://www.chess.com/news/view/pranav-venkatesh-signs-revenant-xspark",
-"source": "Chess.com",
-"when": "14:21",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2268675.b4174c1a.5000x5000o.5884b9170fc1.png",
-"excerpt": ""
-},
-{
-"id": "072f81761f71a4f4",
-"title": "Tabatabaei Win Streak Earns Second Titled Tuesday",
-"url": "https://www.chess.com/news/view/tabatabaei-wins-titled-tuesday-november-17-2026",
-"source": "Chess.com",
-"when": "Tue 22:30",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2268869.a17d68cc.5000x5000o.d74b46ae8505.png",
-"excerpt": ""
-},
-{
-"id": "0f4154234a7d3d94",
-"title": "Total Chess Pilot 2026: Halfway Through, Carlsen Crashes to Historic Low",
-"url": "https://lichess.org/@/Lichess/blog/total-chess-pilot-2026-halfway-through-carlsen-crashes-to-historic-low/qmTzD0cn",
-"source": "Lichess",
-"when": "Tue 01:27",
-"also": [],
-"lang": "en",
-"image": "https://image.lichess.org/display?fmt=webp&h=550&op=thumbnail&path=lJLdGg41zpI1.webp&w=880&sig=bff8b6c16a5a30c35fb5f9b68be83694cefe7965",
-"excerpt": ""
-}
-]
-}
-],
-"lead": "32524d497e651b67"
-},
-{
-"id": "ai",
-"title": "AI",
-"count": 8,
-"thin": false,
-"groups": [
-{
-"id": "ai",
-"title": null,
-"items": [
-{
-"id": "12b29781e9e08467",
-"title": "What's new for Genie in Microsoft: Copilot Cowork and Chat, Microsoft Teams, and Excel.",
-"url": "https://www.databricks.com/blog/whats-new-genie-microsoft-copilot-cowork-and-chat-microsoft-teams-and-excel",
-"source": "Databricks",
-"when": "17:00",
-"also": [],
-"lang": "en",
-"image": "https://www.databricks.com/sites/default/files/blog_images/what-s-new-for-genie-in-microsoft-blog-img-og.png",
-"excerpt": "Most AI assistants can read a person's email, files, and calendar, but it can't tell..."
-},
-{
-"id": "3e2d9e4902bb0607",
-"title": "Advancing Catalog Interoperability with Unity Catalog and Google Cloud’s Borderless Lakehouse",
-"url": "https://www.databricks.com/blog/advancing-catalog-interoperability-unity-catalog-and-google-clouds-borderless-lakehouse",
-"source": "Databricks",
-"when": "Tue 17:30",
-"also": [],
-"lang": "en",
-"image": "https://www.databricks.com/sites/default/files/2026-11/unnamed_2.png",
-"excerpt": "The Lakehouse architecture is becoming more open than ever. What started with open..."
-},
-{
-"id": "da4480d2bd10092b",
-"title": "How packaged clean rooms bring RampID to your lakehouse",
-"url": "https://www.databricks.com/blog/liveramp-rampid-identity-resolution-packaged-clean-rooms",
-"source": "Databricks",
-"when": "Tue 17:30",
-"also": [],
-"lang": "en",
-"image": "https://www.databricks.com/sites/default/files/2026-11/Databricks-LiveRamp.png",
-"excerpt": "Partner identity resolution used to mean sending your PII to the vendorHistorically on Databricks..."
-},
-{
-"id": "d78039fb67f48583",
-"title": "Quoting Daniel Stenberg",
-"url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-"source": "Simon Willison",
-"when": "16:58",
-"also": [],
-"lang": "en",
-"image": null,
-"excerpt": ""
-},
-{
-"id": "343db255ec5d17b6",
-"title": "Power BI November 2026 Feature Summary",
-"url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-November-2026-Feature-Summary/ba-p/5414287",
-"source": "Power BI blog",
-"when": "18:21",
-"also": [],
-"lang": "en",
-"image": null,
-"excerpt": ""
-},
-{
-"id": "6622906a83738e34",
-"title": "External sandboxes for coding agents",
-"url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-"source": "Simon Willison",
-"when": "Tue 23:52",
-"also": [],
-"lang": "en",
-"image": "https://static.simonwillison.net/static/2026/sandbox-proxy.png",
-"excerpt": ""
-},
-{
-"id": "2f5dc14571b43968",
-"title": "The PSF end-of-year fundraiser",
-"url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-"source": "Simon Willison",
-"when": "15:44",
-"also": [],
-"lang": "en",
-"image": null,
-"excerpt": ""
-},
-{
-"id": "13d7cb28aad93332",
-"title": "The AI Hype Index: AI is everywhere",
-"url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-"source": "MIT Technology Review",
-"when": "15:42",
-"also": [],
-"lang": "en",
-"image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600",
-"excerpt": ""
-}
-]
-}
-],
-"lead": "12b29781e9e08467"
-},
-{
-"id": "rd",
-"title": "R&D",
-"count": 8,
-"thin": false,
-"groups": [
-{
-"id": "rd",
-"title": null,
-"items": [
-{
-"id": "5e25f604653ce10a",
-"title": "Pfizer enters in vivo CAR-T space via 3-program, $2.6B deal with China’s Starna",
-"url": "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna",
-"source": "Fierce Biotech",
-"when": "20:02",
-"also": [
-"BioPharma Dive"
-],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/Pfizer2_0.jpg?VersionId=F8Bj7C5EZZ5lTX1q3F3eaYd5PwWPk7lp",
-"excerpt": "Pfizer has decided to join the in vivo CAR-T race, penning a $2.6 billion deal for three preclinical candidates from China’s Starna Therapeutics."
-},
-{
-"id": "756f060e2117a1f2",
-"title": "Pfizer gets into in vivo CAR-T through licensing deal with Starna Therapeutics",
-"url": "https://endpoints.news/pfizer-gets-into-in-vivo-car-t-through-licensing-deal-with-starna-therapeutics/",
-"source": "Endpoints News",
-"when": "13:23",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2025/10/Rongkuan-Frank-Hu.png",
-"excerpt": ""
-},
-{
-"id": "1c1340a667408553",
-"title": "Beren wins FDA approval for long-studied rare disease drug",
-"url": "https://endpoints.news/beren-wins-fda-approval-for-long-studied-rare-disease-drug/",
-"source": "Endpoints News",
-"when": "Tue 21:25",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2025/12/FDA-HQ-AP-social1.jpg",
-"excerpt": ""
-},
-{
-"id": "54a8a8d9acbafb3f",
-"title": "GSK’s Nuvalent buyout delivers again as FDA clears Nelkarmi for lung cancer",
-"url": "https://endpoints.news/gsks-nuvalent-buyout-delivers-again-as-fda-clears-nelkarmi-for-lung-cancer/",
-"source": "Endpoints News",
-"when": "Tue 20:50",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2025/12/GSK-shutterstock-social4.jpg",
-"excerpt": ""
-},
-{
-"id": "7319dfbbe1a445ad",
-"title": "Vertex signs $220M deal with Genomics to re-up long-running discovery pact",
-"url": "https://www.fiercebiotech.com/biotech/vertex-signs-genomics-220m-4-more-years-long-time-discovery-pact",
-"source": "Fierce Biotech",
-"when": "20:02",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/Vertex.jpg?VersionId=C3iE41.HtTMAUL_4JJRIoNGVX0_vTGsd",
-"excerpt": ""
-},
-{
-"id": "93cbd9df34578d85",
-"title": "Cognito phase 3 flops in light-and-sound Alzheimer's trial, but sees ‘signal’ for HOPE",
-"url": "https://www.fiercebiotech.com/medtech/cognito-phase-3-flops-light-and-sound-alzheimers-trial-sees-signal-hope",
-"source": "Fierce Biotech",
-"when": "20:02",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1310938209.jpg?VersionId=jlB724V8e_.S74ugG4LH.VRm.LUO9vu8",
-"excerpt": ""
-},
-{
-"id": "4690a754b90eea97",
-"title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
-"url": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
-"source": "BioPharma Dive",
-"when": "15:21",
-"also": [],
-"lang": "en",
-"image": "https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp",
-"excerpt": ""
-},
-{
-"id": "0184702196d18209",
-"title": "FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer",
-"url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer",
-"source": "FDA",
-"when": "Tue 20:15",
-"also": [],
-"lang": "en",
-"image": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-"excerpt": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer."
-}
-]
-}
-],
-"lead": "5e25f604653ce10a"
-}
-],
-"weather": {
-"place": "Münchenstein",
-"today": {
-"date": "2026-11-18",
-"dow": "Today",
-"dm": "18.11.",
-"label": "Showers",
-"icon": "🌧️",
-"hi": 14,
-"lo": 10,
-"rain_mm": 10.9,
-"rain_pct": 85,
-"wind": 29,
-"uv": 2,
-"sunrise": "07:38",
-"sunset": "16:50",
-"bar_l": 71,
-"bar_w": 29
-},
-"slots": [
-{
-"name": "Morning",
-"temp": 11,
-"icon": "🌦️",
-"label": "Light showers",
-"rain_pct": 5
-},
-{
-"name": "Afternoon",
-"temp": 12,
-"icon": "🌦️",
-"label": "Light rain",
-"rain_pct": 53
-},
-{
-"name": "Evening",
-"temp": 11,
-"icon": "🌦️",
-"label": "Light showers",
-"rain_pct": 23
-}
-],
-"days": [
-{
-"date": "2026-11-18",
-"dow": "Today",
-"dm": "18.11.",
-"label": "Showers",
-"icon": "🌧️",
-"hi": 14,
-"lo": 10,
-"rain_mm": 10.9,
-"rain_pct": 85,
-"wind": 29,
-"uv": 2,
-"sunrise": "07:38",
-"sunset": "16:50",
-"bar_l": 71,
-"bar_w": 29
-},
-{
-"date": "2026-11-19",
-"dow": "Thu",
-"dm": "19.11.",
-"label": "Light showers",
-"icon": "🌦️",
-"hi": 12,
-"lo": 10,
-"rain_mm": 6.5,
-"rain_pct": 98,
-"wind": 29,
-"uv": 2,
-"sunrise": "07:39",
-"sunset": "16:49",
-"bar_l": 71,
-"bar_w": 14
-},
-{
-"date": "2026-11-20",
-"dow": "Fri",
-"dm": "20.11.",
-"label": "Light showers",
-"icon": "🌦️",
-"hi": 12,
-"lo": 9,
-"rain_mm": 5.3,
-"rain_pct": 95,
-"wind": 15,
-"uv": 1,
-"sunrise": "07:41",
-"sunset": "16:48",
-"bar_l": 64,
-"bar_w": 21
-},
-{
-"date": "2026-11-21",
-"dow": "Sat",
-"dm": "21.11.",
-"label": "Light showers",
-"icon": "🌦️",
-"hi": 11,
-"lo": 5,
-"rain_mm": 3.1,
-"rain_pct": 87,
-"wind": 16,
-"uv": 1,
-"sunrise": "07:42",
-"sunset": "16:47",
-"bar_l": 36,
-"bar_w": 43
-},
-{
-"date": "2026-11-22",
-"dow": "Sun",
-"dm": "22.11.",
-"label": "Rain",
-"icon": "🌧️",
-"hi": 11,
-"lo": 4,
-"rain_mm": 19.9,
-"rain_pct": 96,
-"wind": 20,
-"uv": 1,
-"sunrise": "07:44",
-"sunset": "16:46",
-"bar_l": 29,
-"bar_w": 50
-},
-{
-"date": "2026-11-23",
-"dow": "Mon",
-"dm": "23.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 8,
-"lo": 1,
-"rain_mm": 8.4,
-"rain_pct": 95,
-"wind": 11,
-"uv": 0,
-"sunrise": "07:45",
-"sunset": "16:45",
-"bar_l": 7,
-"bar_w": 50
-},
-{
-"date": "2026-11-24",
-"dow": "Tue",
-"dm": "24.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 4,
-"lo": 0,
-"rain_mm": 0,
-"rain_pct": 27,
-"wind": 11,
-"uv": 1,
-"sunrise": "07:47",
-"sunset": "16:45",
-"bar_l": 0,
-"bar_w": 29
-},
-{
-"date": "2026-11-25",
-"dow": "Wed",
-"dm": "25.11.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 8,
-"lo": 2,
-"rain_mm": 0.9,
-"rain_pct": 61,
-"wind": 7,
-"uv": 1,
-"sunrise": "07:48",
-"sunset": "16:44",
-"bar_l": 14,
-"bar_w": 43
-},
-{
-"date": "2026-11-26",
-"dow": "Thu",
-"dm": "26.11.",
-"label": "Light drizzle",
-"icon": "🌦️",
-"hi": 7,
-"lo": 0,
-"rain_mm": 1.3,
-"rain_pct": 53,
-"wind": 12,
-"uv": 0,
-"sunrise": "07:49",
-"sunset": "16:43",
-"bar_l": 0,
-"bar_w": 50
-},
-{
-"date": "2026-11-27",
-"dow": "Fri",
-"dm": "27.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 7,
-"lo": 0,
-"rain_mm": 0,
-"rain_pct": 43,
-"wind": 6,
-"uv": 1,
-"sunrise": "07:51",
-"sunset": "16:42",
-"bar_l": 0,
-"bar_w": 50
-}
-],
-"lo": 0,
-"hi": 14
-}
-},
 "2026-11-19": {
 "date": "2026-11-19",
 "built_at": "2026-11-19T19:09:32.314777+00:00",
@@ -6575,6 +5568,1011 @@
 "sunset": "16:39",
 "bar_l": 0,
 "bar_w": 100
+}
+],
+"lo": -2,
+"hi": 6
+}
+},
+"2026-11-25": {
+"date": "2026-11-25",
+"built_at": "2026-11-25T01:03:35.468805+00:00",
+"built_local": "02:03",
+"edition": "Morning",
+"feeds_ok": 55,
+"feeds_total": 55,
+"sections": [
+{
+"id": "world",
+"title": "World",
+"count": 10,
+"thin": false,
+"groups": [
+{
+"id": "world",
+"title": null,
+"items": [
+{
+"id": "ebeefcb2fef89d82",
+"title": "Jensen Huang reinstated as Nvidia CEO",
+"url": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
+"source": "France 24",
+"when": "Mon 23:10",
+"also": [
+"Africanews",
+"The Hindu",
+"Al Jazeera",
+"DW",
+"BBC World",
+"SCMP",
+"El País English"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/a7c7662a-e75c-11f1-8aa9-1bac47ab2f5d/w:1024/p:16x9/2026-11-14T002154Z-1599363360-RC27ZNA5MQUU-RTRMADP-3-NVIDIA-CEO-RELATIONSHIPS.jpg",
+"excerpt": ""
+},
+{
+"id": "561f57a3d00042f9",
+"title": "Senegal reinstated as AFCON 2025 winners",
+"url": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
+"source": "France 24",
+"when": "Tue 22:14",
+"also": [
+"Africanews"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/d8a120d4-e84b-11f1-8842-29d00e23de9a/w:1024/p:16x9/capture-3a2ff429.jpg",
+"excerpt": ""
+},
+{
+"id": "e4361ff02d51ce9b",
+"title": "Car bomb destroys buildings in central Colombian city",
+"url": "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
+"source": "France 24",
+"when": "Tue 20:27",
+"also": [
+"The Hindu"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/4b5f90de-e83c-11f1-b3ea-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-201336-201510-CS.jpg",
+"excerpt": ""
+},
+{
+"id": "5b7f9e7f95bca2cf",
+"title": "Hasina to return to Bangladesh on December 16, says Awami League",
+"url": "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece",
+"source": "The Hindu",
+"when": "Tue 17:43",
+"also": [
+"Al Jazeera",
+"DW",
+"BBC World"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/2jgiqm/article71737188.ece/alternates/LANDSCAPE_1200/2025-11-17T010307Z_1744613124_RC2946ASJNXS_RTRMADP_3_BANGLADESH-POLITICS-HASINA.JPG",
+"excerpt": ""
+},
+{
+"id": "89b4ffddeaf18ff3",
+"title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+"url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "00:29",
+"also": [
+"BBC World"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05fc7f7b842-1795554431.jpg?resize=1920%2C1440",
+"excerpt": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia."
+},
+{
+"id": "70f6eb8b050724ff",
+"title": "Cameroon separatist leader pleads not guilty at Norway war crimes trial",
+"url": "http://www.africanews.com/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-at-norway-war-crimes-trial/",
+"source": "Africanews",
+"when": "Tue 22:26",
+"also": [
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/10/00/65/46/640x360_cmsv2_f66694cd-2be3-57d7-b046-48b709e07c0a-10006546.jpg?1795535220",
+"excerpt": "Cameroon separatist leader Lucas Cho Ayaba pleaded not guilty to being an accessory to war crimes and terrorism in a Norwegian court on Tuesday."
+},
+{
+"id": "26feecad9a867a43",
+"title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+"url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "Tue 19:47",
+"also": [
+"SCMP"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20260106__89E89GD__v1__HighRes__BangladeshMyanmarConflictLandmine-1768285414.jpg?resize=1920%2C1440",
+"excerpt": "Landmine monitor found 84 percent of deaths caused by landmines were in Southeast Asia."
+},
+{
+"id": "74017a47282f2d21",
+"title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+"url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+"source": "The Hindu",
+"when": "Tue 09:53",
+"also": [
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/4u6khj/article71731706.ece/alternates/LANDSCAPE_1200/2026-11-22T101523Z_325050495_RC2YSOAHDI23_RTRMADP_3_CLIMATE-COP31.JPG",
+"excerpt": ""
+},
+{
+"id": "ab3949d41c6d935b",
+"title": "US: Melania Trump welcomes the 2026 White House Christmas tree",
+"url": "http://www.africanews.com/2026/11/24/us-melania-trump-welcomes-the-2026-white-house-christmas-tree/",
+"source": "Africanews",
+"when": "Tue 09:36",
+"also": [
+"BBC World"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/10/00/57/41/640x360_cmsv2_eca73334-1df2-574e-8808-f5da98f0d70d-10005741.jpg?1795508727",
+"excerpt": ""
+},
+{
+"id": "343b63b3b589123c",
+"title": "Once a Haven of Safety, Costa Rica Sees Rising Violence and Turns to Bukele-Style Mega-Prison",
+"url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/11/once-a-haven-of-safety-costa-rica-sees-rising-violence-and-turns-to-bukele-style-mega-prison.shtml",
+"source": "Folha",
+"when": "00:01",
+"also": [],
+"lang": "en",
+"image": "https://f.i.uol.com.br/fotografia/2026/11/17/17949473286afcb900381a8_1794947328_3x2_xl.jpg",
+"excerpt": ""
+}
+]
+}
+],
+"lead": "ebeefcb2fef89d82"
+},
+{
+"id": "basel",
+"title": "Basel",
+"count": 10,
+"thin": false,
+"groups": [
+{
+"id": "basel",
+"title": null,
+"items": [
+{
+"id": "0f24ceb4b8365731",
+"title": "Wenn das Risiko noch nicht hoch genug ist",
+"url": "https://bajour.ch/a/bedrohungsmanagement-basel-wenn-das-risiko-noch-nicht-hoch-genug-ist",
+"source": "Bajour",
+"when": "02:00",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a20da1-bc5b-72fd-91a7-e37d949267ca?quality=80&sig=BYMuMvVozjt3ZoUbs6fKzhHV3jsvpcrWmGgEejJgc8ZdQUhzqHWDrfk6WS6XOxOrJmkPJJIKDWeB82t3_Fy9DQ",
+"excerpt": ""
+},
+{
+"id": "326967db7ccdba4d",
+"title": "Dietikon ZH – Auto schleudert über Spielplatz und verletzt Fussgängerin",
+"url": "https://www.srf.ch/news/schweiz/dietikon-zh-auto-schleudert-ueber-spielplatz-und-verletzt-fussgaengerin",
+"source": "SRF News",
+"when": "Tue 21:00",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/2248bfa.webp",
+"excerpt": "Nach dem Unfall montierten die Fahrzeuginsassen die Kontrollschilder ab und flüchteten zu Fuss."
+},
+{
+"id": "b7b1b60d019d8f82",
+"title": "Entspannung auf Rohölmärkten – Benzinpreise in der Schweiz sinken weiter",
+"url": "https://www.srf.ch/news/schweiz/entspannung-auf-rohoelmaerkten-benzinpreise-in-der-schweiz-sinken-weiter",
+"source": "SRF News",
+"when": "Tue 20:47",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/a242b6.webp",
+"excerpt": "Ein Liter Bleifrei 95 kostete am Dienstag im landesweiten Durchschnitt 1.83 Franken. Auch Diesel kostete weniger."
+},
+{
+"id": "e0665c4a4668c8bb",
+"title": "Basler Jugendstreik: Steinschleuder-Angriff auf Polizei – 16-Jähriger identifiziert",
+"url": "https://www.bazonline.ch/basel-16-jaehriger-nach-steinschleuder-angriff-identifiziert-148295600254",
+"source": "Basler Zeitung",
+"when": "Mon 14:40",
+"also": [
+"Kanton Basel-Stadt",
+"OnlineReports",
+"20 Minuten Basel",
+"Blick Basel"
+],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/6VDQ8IBDKjBAX-8XK1u4vo.jpg",
+"excerpt": ""
+},
+{
+"id": "f6d51e90c083cc02",
+"title": "Unfall in Sissacher Parkhaus: Verteidiger: «Sie hatte keine Chance, das Kind nicht zu überfahren»",
+"url": "https://www.bazonline.ch/sissach-prozess-nach-parkhaus-unfall-mit-dreijaehrigem-kind-959512504512",
+"source": "Basler Zeitung",
+"when": "Tue 19:11",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/0-HtHtl9alf9xVZGhg3C91.jpg",
+"excerpt": "Im Sissacher Migros-Parkhaus rennt ein Kleinkind hinter dem Rücken seines Vaters auf die Fahrbahn und wird überrollt. War die Lenkerin zu schnell unterwegs?"
+},
+{
+"id": "db19ee2ea36ed98d",
+"title": "Missbrauchsvorwürfe – Baselbieter Landeskirche rüffelt Bischof wegen Vertuschung",
+"url": "https://www.srf.ch/news/schweiz/missbrauchsvorwuerfe-baselbieter-landeskirche-rueffelt-bischof-wegen-vertuschung",
+"source": "SRF News",
+"when": "Tue 19:01",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/52fbeb.webp",
+"excerpt": "Die Kantonalkirche hat Vorwürfe gegen den Pfarrer von Röschenz untersucht. Am Ende kritisiert sie Bischof und Gemeinde."
+},
+{
+"id": "a7154c5e3f6a36fe",
+"title": "Zwischen «Kunstfigur und dem Menschen»: Dokumentarfilm über Leben von BaZ-Kolumnist und Stadtoriginal -minu geplant",
+"url": "https://www.bazonline.ch/dokumentarfilm-ueber-minu-basel-foerdert-mit-163000-franken-813283681519",
+"source": "Basler Zeitung",
+"when": "Tue 17:40",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/CVQDOoB7qr-82OnNEax0nx.jpg",
+"excerpt": "Der Kanton spricht Gelder für einen Dokumentarfilm über das Stadtoriginal. Damit wird überhaupt erst bekannt, dass ein solcher geplant ist."
+},
+{
+"id": "c06d0eb89b9963ff",
+"title": "«Ein Wasserwerfer kann eine wichtige Ergänzung sein»",
+"url": "https://bajour.ch/a/nach-jugenddemo-felix-wehrli-svp-fordert-wasserwerfer-fuer-basel",
+"source": "Bajour",
+"when": "Tue 17:33",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a20e5b-a612-77c0-aac2-37d1ea413894?quality=80&sig=Tt8FRi0g8ZMX4-U0JlNTQKEtV026oxDEtCepdZnB67XxLWImEW-7Ajs4bIcQOL_oqiK82VCBodLLxQmV0yLlDg",
+"excerpt": ""
+},
+{
+"id": "058cdc41c6b7c566",
+"title": "Kurzmitteilungen aus der Regierungsrats-Sitzung (Bulletin)",
+"url": "https://www.bs.ch/medienmitteilungen/2026-kurzmitteilungen-aus-der-regierungsrats-sitzung-bulletin-31",
+"source": "Kanton Basel-Stadt",
+"when": "02:03",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": "Der Regierungsrat hat …"
+},
+{
+"id": "fea282a94b0fdff1",
+"title": "Sexualdelikt bei der Oekolampadmatte: Staatsanwaltschaft beantragt Massnahme",
+"url": "https://www.bs.ch/medienmitteilungen/2026-sexualdelikt-bei-der-oekolampadmatte-staatsanwaltschaft-beantragt-massnahme",
+"source": "Kanton Basel-Stadt",
+"when": "02:03",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
+}
+]
+}
+],
+"lead": "0f24ceb4b8365731"
+},
+{
+"id": "sport",
+"title": "Sport",
+"count": 12,
+"thin": false,
+"groups": [
+{
+"id": "cycling",
+"title": "Cycling",
+"items": [
+{
+"id": "4ab08fd35a873a0d",
+"title": "Tadej Pogačar's return to Tour Down Under and Cadel Evans Great Ocean Road Race will have to wait",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacars-return-to-tour-down-under-and-cadel-evans-great-ocean-road-race-will-have-to-wait/",
+"source": "Cyclingnews",
+"when": "Tue 21:16",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/nVkDfUicrWAZotjSBrMEyV-1920-80.jpg",
+"excerpt": "UAE Team Emirates decide to keep star rider closer to home to monitor recovery from Vuelta a España crash"
+},
+{
+"id": "56e43f1c650913b1",
+"title": "'For the vast majority of the peloton, doping simply doesn’t exist' - Doping almost eradicated from pro peloton says Tadej Pogačar",
+"url": "https://www.cyclingnews.com/pro-cycling/doping/for-the-vast-majority-of-the-peloton-doping-simply-doesnt-exist-doping-almost-eradicated-from-pro-peloton-says-tadej-pogacar/",
+"source": "Cyclingnews",
+"when": "Tue 13:19",
+"also": [
+"Escape Collective"
+],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/yuQ9F4JZY8Wz6Fqd4USm4f-1920-80.jpg",
+"excerpt": "The five time Tour de France winner responded to a question about overnight anti-doping tests"
+},
+{
+"id": "2b8f35436099f75e",
+"title": "Connor Swift leads seven contract extensions as Netcompany-Ineos boost their 2027 roster",
+"url": "https://www.cyclingnews.com/pro-cycling/transfers/connor-swift-leads-seven-contract-extensions-as-netcompany-ineos-boost-their-2027-roster/",
+"source": "Cyclingnews",
+"when": "Tue 18:04",
+"also": [],
+"lang": "en",
+"image": "https://cdn.mos.cms.futurecdn.net/kAvLSbfGpqfpSyPkJyarjJ-1920-80.jpg",
+"excerpt": "The team have space for one more rider to fill their roster"
+},
+{
+"id": "dfa9c053b17dc62b",
+"title": "No two off-seasons are the same",
+"url": "https://escapecollective.com/no-two-off-seasons-are-the-same/",
+"source": "Escape Collective",
+"when": "Tue 22:58",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/11/Italy_GruberImages_Napoli_to_Siena_79.jpg",
+"excerpt": "When an off-season begins can depend on results, fatigue, injury, or contracts. But how it's spent is down to the rider."
+},
+{
+"id": "bb4b6283ce9f957d",
+"title": "Decathlon officially announces the arrival of longtime Picnic staffer Matt Winston",
+"url": "https://escapecollective.com/decathlon-officially-announces-the-arrival-of-longtime-picnic-staffer-matt-winston/",
+"source": "Escape Collective",
+"when": "Tue 22:00",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
+},
+{
+"id": "095fdc585e60e444",
+"title": "Haro Files for Bankruptcy After the BMX Brand’s Short Foray Into Drop Bars",
+"url": "https://velo.outsideonline.com/road/road-gear/haro-bikes-chapter-11-bankruptcy/",
+"source": "Velo",
+"when": "Tue 21:24",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/2x-Opinion-Cover-2-2.jpg?width=1200",
+"excerpt": ""
+},
+{
+"id": "1ea704ccf6b88d7f",
+"title": "Scott Sports Details Popemobile-Inspired E-Bike Built for Pope Leo XIV",
+"url": "https://velo.outsideonline.com/ebike/ebike-gear/scott-popemobile-ebike-pope-leo-xiv-uci/",
+"source": "Velo",
+"when": "Tue 20:47",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/SUB-POPE-SCOTT-BIKE-PHOTO-BY-SCOTT-SPORTS-03-6d8919.jpg?width=1200",
+"excerpt": ""
+}
+]
+},
+{
+"id": "teams",
+"title": "Teams",
+"items": [
+{
+"id": "cb4614c2124449ac",
+"title": "Billerica Memorial High School's Shawn Theriault Named the New England Patriots Coach of the Week",
+"url": "https://www.patriots.com/news/billerica-memorial-high-school-s-shawn-theriault-named-the-new-england-patriots-coach-of-the-week",
+"source": "Patriots.com",
+"when": "Tue 21:38",
+"also": [],
+"lang": "en",
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/hyu4ocfjakazmorozmlt.jpg",
+"excerpt": "The Billerica Memorial Indians rolled their way to a 32-20 victory against the Bridgewater-Raynham Trojans behind the leadership of Head Coach Shawn Theriault."
+},
+{
+"id": "f74f2c030fee93c1",
+"title": "Red Sox lend helping hand by delivering Thanksgiving dinner essentials",
+"url": "https://www.mlb.com/redsox/news/red-sox-hand-out-thanksgiving-dinner-essentials",
+"source": "MLB.com",
+"when": "Tue 15:05",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/cstduycgijdatrgjrqp0.jpg",
+"excerpt": ""
+},
+{
+"id": "65976dd524fdea3f",
+"title": "MFF-spelare på landslagsuppdrag",
+"url": "https://www.mff.se/nyheter/mff-spelare-pa-landslagsuppdrag-2026-11-24/",
+"source": "Malmö FF",
+"when": "Tue 11:21",
+"also": [],
+"lang": "sv",
+"image": "https://cdn.mff.se/2026/11/BB261024AB113.jpg",
+"excerpt": "The post MFF-spelare på landslagsuppdrag appeared first on Malmö FF ."
+},
+{
+"id": "737f083d86914a6f",
+"title": "#10 Huskies Face #16 Duke In Las Vegas Blockbuster",
+"url": "https://uconnhuskies.com/news/2026/11/23/mens-basketball-10-huskies-face-16-duke-in-las-vegas-blockbuster",
+"source": "UConn Huskies",
+"when": "Mon 19:57",
+"also": [],
+"lang": "en",
+"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/23/20260329_MBBvsDuke_NCAAT_1341.jpg",
+"excerpt": ""
+},
+{
+"id": "58ae3f1265d51167",
+"title": "Basler Talfahrt geht weiter – Ratloser Omlin schlägt Alarm: «So kannst du nicht spielen!»",
+"url": "https://www.srf.ch/sport/fussball/super-league/basler-talfahrt-geht-weiter-ratloser-omlin-schlaegt-alarm-so-kannst-du-nicht-spielen",
+"source": "SRF Sport",
+"when": "Mon 08:53",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/e21db3.webp",
+"excerpt": "Beim FC Basel brennt einen Monat vor Weihnachten bereits der Baum. Nach dem 0:2 gegen Luzern herrscht Ratlosigkeit."
+}
+]
+},
+{
+"id": "cfb",
+"title": "College football",
+"items": []
+},
+{
+"id": "sumo",
+"title": "Sumo",
+"items": []
+}
+],
+"lead": "4ab08fd35a873a0d"
+},
+{
+"id": "chess",
+"title": "Chess",
+"count": 8,
+"thin": false,
+"groups": [
+{
+"id": "chess",
+"title": null,
+"items": [
+{
+"id": "f12988de2712f352",
+"title": "World Championship Game 1: A draw in the Berlin, not without tension",
+"url": "https://en.chessbase.com/post/world-championship-2026-1",
+"source": "ChessBase",
+"when": "Tue 22:35",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133435_l200",
+"excerpt": ""
+},
+{
+"id": "5baeea1b620d90c8",
+"title": "Salesforce FIDE World Championship Match: A draw in the opening game",
+"url": "https://www.fide.com/salesforce-fide-world-championship-match-a-draw-in-the-opening-game/",
+"source": "FIDE",
+"when": "Tue 21:02",
+"also": [],
+"lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/WCM-2026-D01-Hall.jpg",
+"excerpt": ""
+},
+{
+"id": "c1e7e5349726151d",
+"title": "Gukesh Survives Pressure To Hold Sindarov To Draw In World Championship Game 1",
+"url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
+"source": "Chess.com",
+"when": "Tue 22:20",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2277585.ba25471b.5000x5000o.2ad36d3d177d.png",
+"excerpt": ""
+},
+{
+"id": "3b5839bed2e2e482",
+"title": "Nakamura Widens Lead In Esports World Cup Qualification Standings",
+"url": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-november-24-2026",
+"source": "Chess.com",
+"when": "Tue 21:16",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2277605.2bfadf44.5000x5000o.9265a9c23ff5.png",
+"excerpt": ""
+},
+{
+"id": "49bf4f4da15b7b53",
+"title": "Kateryna Lagno wins inaugural WR Women's Chess Tour",
+"url": "https://en.chessbase.com/post/wr-women-tour-2026-stuttgart",
+"source": "ChessBase",
+"when": "Tue 13:35",
+"also": [
+"Chess.com"
+],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133428_l200",
+"excerpt": ""
+},
+{
+"id": "9e2b9d8d8c7a5b82",
+"title": "World Junior Championship U20 Championship 2026 at midpoint: India tops the standings in both sections",
+"url": "https://www.fide.com/world-junior-championship-u20-championship-2026-at-midpoint-india-tops-the-standings-in-both-sections/",
+"source": "FIDE",
+"when": "Tue 18:49",
+"also": [],
+"lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/WJC-2026-Midpoint.jpg",
+"excerpt": ""
+},
+{
+"id": "1f5e1ccf0a76a959",
+"title": "World Championship matches: Highlights from 140 years of history",
+"url": "https://en.chessbase.com/post/wch-matches-highlights-140-years",
+"source": "ChessBase",
+"when": "Mon 21:40",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133414_l200",
+"excerpt": ""
+},
+{
+"id": "2e46e976102b56a9",
+"title": "World Chess Championship off to a promising start - 1",
+"url": "https://theweekinchess.com/twic-news-feed/world-chess-championship-off-to-a-promising-start",
+"source": "The Week in Chess",
+"when": "01:36",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
+}
+]
+}
+],
+"lead": "f12988de2712f352"
+},
+{
+"id": "ai",
+"title": "AI",
+"count": 8,
+"thin": false,
+"groups": [
+{
+"id": "ai",
+"title": null,
+"items": [
+{
+"id": "8739fc586f8a3a6e",
+"title": "Data Modeling Best Practices for an Agentic CDP, Part 1: The Data Foundation",
+"url": "https://www.databricks.com/blog/agentic-cdp-data-modeling-data-foundation",
+"source": "Databricks",
+"when": "Tue 20:36",
+"also": [],
+"lang": "en",
+"image": "https://www.databricks.com/sites/default/files/2026-11/Blog-Data-Modeling-Best-Practices-for-an-Agentic-CDP-Part-1-The-Data-Foundation.png",
+"excerpt": "A customer saved a jacket to their wishlist on your site 9 days ago. This morning..."
+},
+{
+"id": "3fee8afed2e33e35",
+"title": "Sharing catalog metadata across data platforms, engines, and agents",
+"url": "https://www.databricks.com/blog/sharing-catalog-metadata-across-data-platforms-engines-and-agents",
+"source": "Databricks",
+"when": "Tue 02:30",
+"also": [],
+"lang": "en",
+"image": "https://www.databricks.com/sites/default/files/2026-11/blog-og-Sharing-catalog-metadata-across-data-platforms-engines-and-agents.png",
+"excerpt": "We’re excited to announce support for catalog labels – a new capability in the Apache..."
+},
+{
+"id": "dafd53d0081d83f8",
+"title": "Three LLM inflection points in twelve months",
+"url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+"source": "Simon Willison",
+"when": "00:02",
+"also": [],
+"lang": "en",
+"image": "https://static.simonwillison.net/static/2026/fable-class.webp",
+"excerpt": ""
+},
+{
+"id": "ee33919349de592a",
+"title": "Raising the stakes for enterprise networks with AI modernization",
+"url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+"source": "MIT Technology Review",
+"when": "Tue 16:15",
+"also": [],
+"lang": "en",
+"image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Tata-report-cover.jpg?w=840",
+"excerpt": ""
+},
+{
+"id": "fbaa0772ab0676ba",
+"title": "datasette-charts 0.2a0",
+"url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+"source": "Simon Willison",
+"when": "Tue 05:24",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
+},
+{
+"id": "6aecced4442d6e1f",
+"title": "datasette-agent 0.7a1",
+"url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+"source": "Simon Willison",
+"when": "Tue 04:45",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
+},
+{
+"id": "6723e053658240f5",
+"title": "Paginated reports in Power BI support outbound access protection (Preview)",
+"url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045",
+"source": "Power BI blog",
+"when": "Tue 19:00",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
+},
+{
+"id": "951636e97a2fb138",
+"title": "Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)",
+"url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053",
+"source": "Power BI blog",
+"when": "Tue 18:00",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
+}
+]
+}
+],
+"lead": "8739fc586f8a3a6e"
+},
+{
+"id": "rd",
+"title": "R&D",
+"count": 9,
+"thin": false,
+"groups": [
+{
+"id": "rd",
+"title": null,
+"items": [
+{
+"id": "0615ff6363b4e04d",
+"title": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
+"url": "https://www.fiercebiotech.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers",
+"source": "Fierce Biotech",
+"when": "02:03",
+"also": [
+"Fierce Pharma"
+],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/Sanofi_2.jpg?VersionId=rE23zCddbZSaOvHueK7G6Jz1OPLLu5oW",
+"excerpt": ""
+},
+{
+"id": "39597d371d0f4f69",
+"title": "Cogent prepares for first commercial launch with GI tumor treatment",
+"url": "https://endpoints.news/cogent-prepares-for-first-commercial-launch-with-gi-tumor-treatment/",
+"source": "Endpoints News",
+"when": "Tue 22:54",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2023/06/Andrew-Robbins-Cogent-Biosciences-CEO.jpg",
+"excerpt": ""
+},
+{
+"id": "ee08657991b07285",
+"title": "Drug labels must flag accelerated approval to patients, FDA says",
+"url": "https://endpoints.news/drug-labels-must-flag-accelerated-approval-to-patients-fda-says/",
+"source": "Endpoints News",
+"when": "Tue 19:58",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2022/08/FDA-social-shutterstock3.jpg",
+"excerpt": ""
+},
+{
+"id": "13d09a3cce3078ab",
+"title": "Pharming eyes deals, awaits leniolisib readout as it looks for new CEO",
+"url": "https://endpoints.news/pharming-eyes-deals-awaits-leniolisib-readout-as-it-looks-for-new-ceo/",
+"source": "Endpoints News",
+"when": "Tue 17:20",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/11/leverne-marsh-kenneth-lynard-pharming-og.jpg",
+"excerpt": ""
+},
+{
+"id": "56f18ea8d42cc96e",
+"title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
+"url": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
+"source": "BioPharma Dive",
+"when": "Tue 16:36",
+"also": [
+"Fierce Pharma"
+],
+"lang": "en",
+"image": "https://imgproxy.divecdn.com/_Jl91qpyunJWe-csdceqrcSO_PmI-VBjWQO1KOBqP58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTM3MjY1MDU5LmpwZw==.webp",
+"excerpt": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product."
+},
+{
+"id": "0f9a35d786fc68c5",
+"title": "Invivyd aims for Q1’27 submission after Pemgarda successor shows potential in phase 3",
+"url": "https://www.fiercebiotech.com/biotech/invivyd-aims-q127-approval-submission-after-pemgarda-successor-shows-potential-phase-3",
+"source": "Fierce Biotech",
+"when": "Mon 23:13",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1677819202.jpg?VersionId=PutaEsDxvqkrkzIu3gq5e4ZDT7dlYO3Z",
+"excerpt": ""
+},
+{
+"id": "ca7264123d85ae83",
+"title": "Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns",
+"url": "https://www.fiercebiotech.com/biotech/capricor-weathers-second-dmd-cell-therapy-snub-fda-alleges-serious-data-integrity-concerns",
+"source": "Fierce Biotech",
+"when": "Mon 23:13",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1074411040.jpg?VersionId=7NS4TwEEeaeML.KRm8.26SEPGJ02Rcsk",
+"excerpt": ""
+},
+{
+"id": "1acef2db113f7c7a",
+"title": "TJC buys majority stake in healthcare events firm HMP to unleash M&A",
+"url": "https://www.fiercepharma.com/marketing/tjc-buys-majority-stake-healthcare-events-firm-hmp-unleash-ma",
+"source": "Fierce Pharma",
+"when": "02:03",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/M%26A24.jpg?VersionId=C.FsKt7NUy1obRC7ODrMf.NqCjMX0jfl",
+"excerpt": "Private equity firm TJC is buying a majority interest in the healthcare events, education and engagement company HMP Global."
+}
+]
+},
+{
+"id": "rd-pinned",
+"title": "Astellas releases",
+"items": [
+{
+"id": "e1255503ba07bb80",
+"title": "Astellas Enters Agreement with Bristol Myers Squibb to Acquire Commercialization Rights in Japan for Onureg® Approved as Maintenance Therapy for Acute Myeloid Leukemia",
+"url": "https://newsroom.astellas.com/2026-11-24-astellas-enters-agreement-with-bristol-myers-squibb-to-acquire-commercialization-rights-in-japan-for-onureg-approved-as-maintenance-therapy-for-acute-myeloid-leukemia",
+"source": "Astellas",
+"when": "Tue 07:30",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
+}
+]
+}
+],
+"lead": "0615ff6363b4e04d"
+}
+],
+"weather": {
+"place": "Münchenstein",
+"today": {
+"date": "2026-11-25",
+"dow": "Today",
+"dm": "25.11.",
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 5,
+"lo": 1,
+"rain_mm": 1.2,
+"rain_pct": 78,
+"wind": 8,
+"uv": 2,
+"sunrise": "07:48",
+"sunset": "16:44",
+"bar_l": 38,
+"bar_w": 50
+},
+"slots": [
+{
+"name": "Morning",
+"temp": 4,
+"icon": "☁️",
+"label": "Overcast",
+"rain_pct": 23
+},
+{
+"name": "Afternoon",
+"temp": 4,
+"icon": "🌫️",
+"label": "Fog",
+"rain_pct": 0
+},
+{
+"name": "Evening",
+"temp": 3,
+"icon": "🌦️",
+"label": "Light rain",
+"rain_pct": 10
+}
+],
+"days": [
+{
+"date": "2026-11-25",
+"dow": "Today",
+"dm": "25.11.",
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 5,
+"lo": 1,
+"rain_mm": 1.2,
+"rain_pct": 78,
+"wind": 8,
+"uv": 2,
+"sunrise": "07:48",
+"sunset": "16:44",
+"bar_l": 38,
+"bar_w": 50
+},
+{
+"date": "2026-11-26",
+"dow": "Thu",
+"dm": "26.11.",
+"label": "Fog",
+"icon": "🌫️",
+"hi": 1,
+"lo": -1,
+"rain_mm": 0,
+"rain_pct": 15,
+"wind": 6,
+"uv": 1,
+"sunrise": "07:49",
+"sunset": "16:43",
+"bar_l": 12,
+"bar_w": 25
+},
+{
+"date": "2026-11-27",
+"dow": "Fri",
+"dm": "27.11.",
+"label": "Fog",
+"icon": "🌫️",
+"hi": 1,
+"lo": -1,
+"rain_mm": 0,
+"rain_pct": 0,
+"wind": 5,
+"uv": 2,
+"sunrise": "07:51",
+"sunset": "16:42",
+"bar_l": 12,
+"bar_w": 25
+},
+{
+"date": "2026-11-28",
+"dow": "Sat",
+"dm": "28.11.",
+"label": "Fog",
+"icon": "🌫️",
+"hi": 3,
+"lo": 0,
+"rain_mm": 0,
+"rain_pct": 0,
+"wind": 10,
+"uv": 2,
+"sunrise": "07:52",
+"sunset": "16:42",
+"bar_l": 25,
+"bar_w": 38
+},
+{
+"date": "2026-11-29",
+"dow": "Sun",
+"dm": "29.11.",
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 4,
+"lo": -1,
+"rain_mm": 0.5,
+"rain_pct": 20,
+"wind": 5,
+"uv": 2,
+"sunrise": "07:53",
+"sunset": "16:41",
+"bar_l": 12,
+"bar_w": 62
+},
+{
+"date": "2026-11-30",
+"dow": "Mon",
+"dm": "30.11.",
+"label": "Fog",
+"icon": "🌫️",
+"hi": 0,
+"lo": -2,
+"rain_mm": 0,
+"rain_pct": 20,
+"wind": 2,
+"uv": 0,
+"sunrise": "07:55",
+"sunset": "16:41",
+"bar_l": 0,
+"bar_w": 25
+},
+{
+"date": "2026-12-01",
+"dow": "Tue",
+"dm": "01.12.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 2,
+"lo": -2,
+"rain_mm": 0,
+"rain_pct": 5,
+"wind": 6,
+"uv": 1,
+"sunrise": "07:56",
+"sunset": "16:40",
+"bar_l": 0,
+"bar_w": 50
+},
+{
+"date": "2026-12-02",
+"dow": "Wed",
+"dm": "02.12.",
+"label": "Partly cloudy",
+"icon": "⛅",
+"hi": 6,
+"lo": -2,
+"rain_mm": 0,
+"rain_pct": 12,
+"wind": 4,
+"uv": 2,
+"sunrise": "07:57",
+"sunset": "16:40",
+"bar_l": 0,
+"bar_w": 100
+},
+{
+"date": "2026-12-03",
+"dow": "Thu",
+"dm": "03.12.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 6,
+"lo": -2,
+"rain_mm": 0,
+"rain_pct": 20,
+"wind": 5,
+"uv": 2,
+"sunrise": "07:58",
+"sunset": "16:39",
+"bar_l": 0,
+"bar_w": 100
+},
+{
+"date": "2026-12-04",
+"dow": "Fri",
+"dm": "04.12.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 3,
+"lo": -1,
+"rain_mm": 0,
+"rain_pct": 13,
+"wind": 5,
+"uv": 1,
+"sunrise": "07:59",
+"sunset": "16:39",
+"bar_l": 12,
+"bar_w": 50
 }
 ],
 "lo": -2,
