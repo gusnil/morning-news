@@ -5576,10 +5576,10 @@
 },
 "2026-11-25": {
 "date": "2026-11-25",
-"built_at": "2026-11-25T08:26:31.567685+00:00",
-"built_local": "09:26",
-"edition": "Morning",
-"feeds_ok": 55,
+"built_at": "2026-11-25T20:10:47.122025+00:00",
+"built_local": "21:10",
+"edition": "Evening",
+"feeds_ok": 54,
 "feeds_total": 55,
 "sections": [
 {
@@ -5593,30 +5593,85 @@
 "title": null,
 "items": [
 {
-"id": "60f07db36108d6f7",
-"title": "New York jury convicts Huawei of stealing trade secrets",
-"url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
+"id": "9080bb90fcdec1da",
+"title": "US Army detonates lead explosives in Iowa despite contamination fears",
+"url": "https://www.france24.com/en/americas/20261125-us-army-detonates-lead-explosives-iowa-despite-community-backlash",
 "source": "France 24",
-"when": "00:31",
+"when": "17:08",
+"also": [
+"Al Jazeera",
+"DW",
+"SCMP"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/d87f18b0-e8e4-11f1-9b78-1991d4929b54/w:1024/p:16x9/063-2306835116.jpg",
+"excerpt": ""
+},
+{
+"id": "87d88e38a071ea63",
+"title": "Colombia: Security forces rescue hostages in supermarket siege",
+"url": "https://www.france24.com/en/video/20261125-colombia-security-forces-rescue-hostages-in-supermarket-siege",
+"source": "France 24",
+"when": "17:08",
+"also": [
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/8c72547a-e8dd-11f1-8c16-95e072ff0a91/w:1024/p:16x9/Colombia-thumbnail.jpg",
+"excerpt": ""
+},
+{
+"id": "11bb01968a5464a9",
+"title": "Exiled Catalan separatist Puigdemont to return to Spain after election",
+"url": "https://www.france24.com/en/video/20261125-exiled-catalan-separatist-puigdemont-to-return-to-spain-after-election",
+"source": "France 24",
+"when": "15:49",
 "also": [
 "DW"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/f80d975e-e85a-11f1-a844-1991d4929b54/w:1024/p:16x9/7864970837c55973feb3edee9f03ff64d29f452b.jpg",
+"image": "https://s.france24.com/media/display/60b7a5e6-e8de-11f1-a8c0-95e072ff0a91/w:1024/p:16x9/EN-20261125-152351-152917-CS.jpg",
 "excerpt": ""
 },
 {
-"id": "561f57a3d00042f9",
-"title": "Senegal reinstated as AFCON 2025 winners",
-"url": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
-"source": "France 24",
-"when": "Tue 22:14",
+"id": "ae06df569bc9edfe",
+"title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
+"url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "16:35",
 "also": [
-"Africanews"
+"BBC World"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/d8a120d4-e84b-11f1-8842-29d00e23de9a/w:1024/p:16x9/capture-3a2ff429.jpg",
-"excerpt": ""
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06efb2-1795616690.jpg?resize=1920%2C1440",
+"excerpt": "The ruling hands the president ​a political reprieve by removing a finding that had exposed him to possible impeachment."
+},
+{
+"id": "a861c6648aff8e5f",
+"title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
+"url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "07:58",
+"also": [
+"The Hindu",
+"SCMP"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06799f-1795586463.jpg?resize=1920%2C1440",
+"excerpt": "The protests have cost Bangladesh hundreds of millions, but workers are yet to accept the offer."
+},
+{
+"id": "4d739b34ea88991c",
+"title": "Zimbabwe court issues arrest warrant for Robert Mugabe’s son",
+"url": "http://www.africanews.com/2026/11/25/zimbabwe-court-issues-arrest-warrant-for-robert-mugabes-son/",
+"source": "Africanews",
+"when": "12:09",
+"also": [
+"BBC World"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/10/00/74/27/640x360_cmsv2_9c5201f9-d378-560c-9921-f89b529cffef-10007427.jpg?1795597122",
+"excerpt": "Bellarmine Chatunga Mugabe, who was arrested earlier this month, had failed to appear for a routine hearing on Tuesday."
 },
 {
 "id": "48de6062ead5e8e0",
@@ -5633,35 +5688,6 @@
 "excerpt": ""
 },
 {
-"id": "ebeefcb2fef89d82",
-"title": "Jensen Huang reinstated as Nvidia CEO",
-"url": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
-"source": "France 24",
-"when": "Mon 23:10",
-"also": [
-"Africanews",
-"The Hindu",
-"Al Jazeera",
-"BBC World"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/a7c7662a-e75c-11f1-8aa9-1bac47ab2f5d/w:1024/p:16x9/2026-11-14T002154Z-1599363360-RC27ZNA5MQUU-RTRMADP-3-NVIDIA-CEO-RELATIONSHIPS.jpg",
-"excerpt": ""
-},
-{
-"id": "a861c6648aff8e5f",
-"title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
-"url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "07:58",
-"also": [
-"The Hindu"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06799f-1795586463.jpg?resize=1920%2C1440",
-"excerpt": "The protests have cost Bangladesh hundreds of millions, but workers are yet to accept the offer."
-},
-{
 "id": "decdb0fd1a10ab09",
 "title": "Trump awards Rudy Giuliani the Medal of Freedom",
 "url": "https://www.thehindu.com/news/international/trump-awards-rudy-giuliani-the-medal-of-freedom/article71741081.ece",
@@ -5675,61 +5701,33 @@
 "excerpt": ""
 },
 {
-"id": "5b7f9e7f95bca2cf",
-"title": "Hasina to return to Bangladesh on December 16, says Awami League",
-"url": "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece",
+"id": "d23095e772575e36",
+"title": "Nvidia's Jensen Huang says he is in therapy as comeback rally fades",
+"url": "https://www.thehindu.com/news/international/nvidias-jensen-huang-says-he-is-in-therapy-as-comeback-rally-fades/article71740890.ece",
 "source": "The Hindu",
-"when": "Tue 17:43",
+"when": "02:37",
 "also": [
-"Al Jazeera",
-"DW",
-"BBC World"
+"SCMP"
 ],
 "lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/2jgiqm/article71737188.ece/alternates/LANDSCAPE_1200/2025-11-17T010307Z_1744613124_RC2946ASJNXS_RTRMADP_3_BANGLADESH-POLITICS-HASINA.JPG",
+"image": "https://th-i.thgim.com/public/incoming/5byumo/article71740904.ece/alternates/LANDSCAPE_1200/2026-11-24T221933Z_687132274_RC279IA88NC8_RTRMADP_3_NVIDIA-CEO-CONGRESS.JPG",
 "excerpt": ""
 },
 {
-"id": "ef6e92b86dcb5341",
-"title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
-"url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "02:30",
-"also": [
-"The Hindu"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1920%2C1440",
-"excerpt": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman."
-},
-{
-"id": "70f6eb8b050724ff",
-"title": "Cameroon separatist leader pleads not guilty at Norway war crimes trial",
-"url": "http://www.africanews.com/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-at-norway-war-crimes-trial/",
-"source": "Africanews",
-"when": "Tue 22:26",
-"also": [
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/10/00/65/46/640x360_cmsv2_f66694cd-2be3-57d7-b046-48b709e07c0a-10006546.jpg?1795535220",
-"excerpt": "Cameroon separatist leader Lucas Cho Ayaba pleaded not guilty to being an accessory to war crimes and terrorism in a Norwegian court on Tuesday."
-},
-{
-"id": "343b63b3b589123c",
-"title": "Once a Haven of Safety, Costa Rica Sees Rising Violence and Turns to Bukele-Style Mega-Prison",
-"url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/11/once-a-haven-of-safety-costa-rica-sees-rising-violence-and-turns-to-bukele-style-mega-prison.shtml",
+"id": "edca09c3449805f0",
+"title": "Fish Die in Rivers Connected to Xingu in Northern Brazil; Mining Company Had Waste Spill in Region",
+"url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/11/fish-die-in-rivers-connected-to-xingu-in-northern-brazil-mining-company-had-waste-spill-in-region.shtml",
 "source": "Folha",
-"when": "00:01",
+"when": "21:01",
 "also": [],
 "lang": "en",
-"image": "https://f.i.uol.com.br/fotografia/2026/11/17/17949473286afcb900381a8_1794947328_3x2_xl.jpg",
+"image": "https://f.i.uol.com.br/fotografia/2026/11/25/17956245346b070e564f6b0_1795624534_3x2_lg.jpg",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "60f07db36108d6f7"
+"lead": "9080bb90fcdec1da"
 },
 {
 "id": "basel",
@@ -5742,119 +5740,119 @@
 "title": null,
 "items": [
 {
-"id": "bfafd86aaec4fca5",
-"title": "Tigermücken-Bekämpfung – Neuer Insektizid-Automat erspart Gemeinden viel Arbeit",
-"url": "https://www.srf.ch/news/schweiz/tigermuecken-bekaempfung-neuer-insektizid-automat-erspart-gemeinden-viel-arbeit",
+"id": "30c07ae1243fc618",
+"title": "Gerichtskommission – Francesco Parrino (SP) soll Bundesgerichtspräsident werden",
+"url": "https://www.srf.ch/news/schweiz/gerichtskommission-francesco-parrino-sp-soll-bundesgerichtspraesident-werden",
 "source": "SRF News",
-"when": "07:10",
+"when": "19:54",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/80921a.webp",
-"excerpt": "Tigermücken vermehren sich gerne in Dolen. Da setzt eine Erfindung aus Basel an, die Gemeinden viel Arbeit erspart."
+"image": "https://www.srf.ch/static/cms/images//320ws/a0bc2f.webp",
+"excerpt": "Die Gerichtskommission hat einen Wahlvorschlag gemacht. Für das Vizepräsidium empfiehlt sie Stephan Hartmann (Grüne)."
 },
 {
-"id": "a3dfb0364cb6cf6b",
-"title": "Basler Fährbetrieb: Haben bald alle Rheinfähren einen Motor?",
-"url": "https://www.bazonline.ch/niedrigwasser-haben-bald-alle-basler-faehren-einen-motor-651321357155",
-"source": "Basler Zeitung",
-"when": "06:49",
+"id": "00254a008aba7383",
+"title": "Gegenvorschlag zu Initiative – Wie weit will der Bundesrat bei der Konzernverantwortung gehen?",
+"url": "https://www.srf.ch/news/wirtschaft/gegenvorschlag-zu-initiative-wie-weit-will-der-bundesrat-bei-der-konzernverantwortung-gehen",
+"source": "SRF News",
+"when": "19:53",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/0tSua4U9KTk9riU3oza9GS.jpg",
+"image": "https://www.srf.ch/static/cms/images//320ws/738056.webp",
+"excerpt": "Die Landesregierung orientiert sich eng an der EU und kommt bei der Haftung und Aufsicht teils den Unternehmen entgegen."
+},
+{
+"id": "cdbdebf02a756ce7",
+"title": "Neubau Kantonsspital Aarau – Einzelzimmer auch für Allgemeinversicherte im neuen Kantonsspital",
+"url": "https://www.srf.ch/news/schweiz/neubau-kantonsspital-aarau-einzelzimmer-auch-fuer-allgemeinversicherte-im-neuen-kantonsspital",
+"source": "SRF News",
+"when": "19:34",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/69b1341.webp",
+"excerpt": "Immer mehr Spitäler setzen auf Einzelzimmer für Allgemeinversicherte. Weshalb? Und was ist mit den Privatpatienten?"
+},
+{
+"id": "61081aa90a5734d7",
+"title": "Achtung, fertig, Kerzenwachs!",
+"url": "https://bajour.ch/a/achtung-fertig-kerzenziehen",
+"source": "Bajour",
+"when": "17:36",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a21342-7b40-75f8-b486-4c48a95b590a?quality=80&sig=Wxqmqjl8Ek5N0zzURnYu86XJ8cI9DN7zwPrFK3BPiGjiA7BULBhjIRQ5RIvYSO5eBVFg09L0JCUbzWYYbaAvBA",
+"excerpt": "Docht in Wachs tunken, im Wasser abkühlen, abtrocknen und immer wieder von vorne! Hier kannst du in der Region Kerzenziehen:"
+},
+{
+"id": "f25625272462cf19",
+"title": "Musikschaffende appellieren an den Grossen Rat",
+"url": "https://bajour.ch/a/basler-musikschaffende-appellieren-an-den-grossen-rat",
+"source": "Bajour",
+"when": "17:34",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a2124d-7ccb-77a4-8715-cde16e0edb76?quality=80&sig=b6TYRl948NJ8VQA7ZVFDNiVxwNkZxlcmUcNJe6PhUhhEhKOMfcuVzHJc9KA8Z3dhF1E36tcBF7ly5yfKGKY2Bw",
 "excerpt": ""
 },
 {
-"id": "66e019699f494254",
-"title": "Bürgerwachen im Baselbiet: Die Sissacher patrouillieren, obwohl das Geld fürs Benzin oft kaum reicht",
-"url": "https://www.bazonline.ch/buergerpatrouille-sissach-freiwillige-jagen-einbrecher-645721765840",
+"id": "8d7d5b187e51d1e8",
+"title": "Mann nach Einbruchversuch am Wasgenring festgenommen",
+"url": "https://bajour.ch/a/mann-nach-einbruchversuch-am-wasgenring-festgenommen",
+"source": "Bajour",
+"when": "17:05",
+"also": [],
+"lang": "de",
+"image": null,
+"excerpt": "Ein 43-jähriger Mann hat in der Nacht auf Mittwoch versucht, in einen Quartierladen am Wasgenring in Basel einzubrechen."
+},
+{
+"id": "c9f8a78fc6833897",
+"title": "Einbruchsversuch am Wasgenring: Mann versucht in Basler Laden einzubrechen – doch jemand sieht zu",
+"url": "https://www.bazonline.ch/basel-mann-bricht-in-quartierladen-am-wasgenring-ein-213976388030",
 "source": "Basler Zeitung",
-"when": "06:46",
+"when": "17:04",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/CY03Y_0qqwOAx33lok2JKC.jpg",
-"excerpt": "Sie haben noch nie einen Einbrecher ertappt. Dennoch sind die Freiwilligen jeden Abend stundenlang unterwegs. Was treibt sie an?"
-},
-{
-"id": "fbe116ceacf3d3bb",
-"title": "Vertretung in der Regierung – Viele Romands, kaum Zentralschweizer im Bundesrat",
-"url": "https://www.srf.ch/news/schweiz/vertretung-in-der-regierung-viele-romands-kaum-zentralschweizer-im-bundesrat",
-"source": "SRF News",
-"when": "06:44",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/5e9493.webp",
-"excerpt": "Mit Guy Parmelin verliert die Romandie einen Sitz im Bundesrat. Bisher hatte sie dort mehr Gewicht, als ihr zustand."
-},
-{
-"id": "71291e25d467e16f",
-"title": "Schweizer Büro in Nordkorea – Nordkorea weist Schweizer Diplomaten aus und schliesst Vertretung",
-"url": "https://www.srf.ch/news/international/schweizer-buero-in-nordkorea-nordkorea-weist-schweizer-diplomaten-aus-und-schliesst-vertretung",
-"source": "SRF News",
-"when": "06:30",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/4221f7.webp",
-"excerpt": "Nur knapp einen Monat nach der Wiedereröffnung schliesst Nordkorea das Schweizer Diplomatenbüro wieder."
-},
-{
-"id": "5d4ab36d832a9591",
-"title": "Befristete Arbeitsverträge während Mutterschaftsurlaub verlängert",
-"url": "https://bajour.ch/a/befristete-arbeitsvertraege-verlaengert",
-"source": "Bajour",
-"when": "04:41",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": "Für Assistenzärztinnen soll die Verlängerung bereits während der Schwangerschaft gelten."
-},
-{
-"id": "e37c7d6482d86bad",
-"title": "Standortpaket verzeichnet mehr Gesuche",
-"url": "https://bajour.ch/a/standortpaket-verzeichnet-mehr-gesuche",
-"source": "Bajour",
-"when": "04:40",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": "Besonders stark stieg die Nachfrage in den Bereichen Gesellschaft und Umwelt"
-},
-{
-"id": "9a37ef2a65e464dc",
-"title": "Einkauf in Deutschland wird einfacher",
-"url": "https://bajour.ch/a/deutsche-ausfuhr-app-kommt",
-"source": "Bajour",
-"when": "04:39",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": "Sie erkennt den Grenzübertritt automatisch, das Anhalten zum Abstempeln der Ausfuhrscheine entfällt."
-},
-{
-"id": "44e496a3a670289c",
-"title": "Der Winterdienst steht bereit",
-"url": "https://www.bs.ch/medienmitteilungen/bvd/2026-der-winterdienst-steht-bereit",
-"source": "Kanton Basel-Stadt",
-"when": "09:26",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/841dd2b2557b3f94b84640265f0b4c14d6012131/schneepflug-mit-salzstreuer-auf-der-mittleren-rheinbruecke-c.jpg?h=f2ab316f&itok=95CvyZWu",
+"image": "https://cdn.unitycms.io/images/92UOUrlGas780TXCsSgOmr.jpg",
 "excerpt": ""
 },
 {
-"id": "8d18631d2b0f5e86",
-"title": "Kurzmitteilungen aus der Regierungsrats-Sitzung (Bulletin)",
-"url": "https://www.bs.ch/medienmitteilungen/2026-kurzmitteilungen-aus-der-regierungsrats-sitzung-bulletin-30",
+"id": "62666323a0de6cf3",
+"title": "Arbeitslosigkeit in Basel: Mehr Akademiker ohne Job – und bald auf Sozialhilfe angewiesen?",
+"url": "https://www.bazonline.ch/basel-mehr-arbeitslose-akademiker-sozialhilfe-unter-druck-799625927274",
+"source": "Basler Zeitung",
+"when": "17:03",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/7uNuIQP5K2M8DDRMOO-ojY.jpg",
+"excerpt": "Spezialisierte Teams des Regionalen Arbeitsvermittlungszentrums (RAV) sollen einzelne Berufsgruppen bei der Jobsuche unterstützen."
+},
+{
+"id": "eef236a6167ab87a",
+"title": "Abschied nach 18 Jahren: Katrin Eckert übergibt das Literaturhaus Basel in neue Hände",
+"url": "https://www.bazonline.ch/literaturhaus-basel-katrin-eckert-verabschiedet-sich-314306101943",
+"source": "Basler Zeitung",
+"when": "16:32",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/A4aLG5fPazb9ij2hbbkeym.jpg",
+"excerpt": "Die grosse Abschiedsfeier im ausverkauften Hans-Huber-Saal stand unter dem Motto «Warum Literatur glücklich macht»."
+},
+{
+"id": "208758cc55c42bd2",
+"title": "Festnahme nach Einbruchversuch",
+"url": "https://www.bs.ch/medienmitteilungen/2026-festnahme-nach-einbruchversuch-0",
 "source": "Kanton Basel-Stadt",
-"when": "09:26",
+"when": "21:10",
 "also": [],
 "lang": "de",
 "image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": "Der Regierungsrat hat …"
+"excerpt": ""
 }
 ]
 }
 ],
-"lead": "bfafd86aaec4fca5"
+"lead": "30c07ae1243fc618"
 },
 {
 "id": "sport",
@@ -5867,82 +5865,91 @@
 "title": "Cycling",
 "items": [
 {
-"id": "56e43f1c650913b1",
-"title": "'For the vast majority of the peloton, doping simply doesn’t exist' - Doping almost eradicated from pro peloton says Tadej Pogačar",
-"url": "https://www.cyclingnews.com/pro-cycling/doping/for-the-vast-majority-of-the-peloton-doping-simply-doesnt-exist-doping-almost-eradicated-from-pro-peloton-says-tadej-pogacar/",
+"id": "271dd36610780c03",
+"title": "'The more I was thinking, the more I didn't know what to do' – Primož Roglič on looking retirement in the eye, his 'really fast' move to NSN, and why he could even race beyond 2027",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/the-more-i-was-thinking-the-more-i-didnt-know-what-to-do-primoz-roglic-on-looking-retirement-in-the-eye-his-really-fast-move-to-nsn-and-why-he-could-even-race-beyond-2027/",
 "source": "Cyclingnews",
-"when": "Tue 13:19",
-"also": [
-"Escape Collective"
-],
+"when": "17:31",
+"also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/yuQ9F4JZY8Wz6Fqd4USm4f-1920-80.jpg",
-"excerpt": "The five time Tour de France winner responded to a question about overnight anti-doping tests"
+"image": "https://cdn.mos.cms.futurecdn.net/JL3MJgdFiVKc8bwvW7bktV-1920-80.jpg",
+"excerpt": "Slovenian gives an interview from NSN Cycling's pre-season training camp, reflecting on an uncertain off-season and what the future holds"
 },
 {
-"id": "4ab08fd35a873a0d",
-"title": "Tadej Pogačar's return to Tour Down Under and Cadel Evans Great Ocean Road Race will have to wait",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacars-return-to-tour-down-under-and-cadel-evans-great-ocean-road-race-will-have-to-wait/",
+"id": "eb5de01ac5b56ebb",
+"title": "The UCI's registration rules strike again, delaying Shirin van Anrooij's debut with Canyon-SRAM",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/the-ucis-registration-rules-strike-again-delaying-shirin-van-anrooijs-debut-with-canyon-sram/",
 "source": "Cyclingnews",
-"when": "Tue 21:16",
+"when": "16:38",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/nVkDfUicrWAZotjSBrMEyV-1920-80.jpg",
-"excerpt": "UAE Team Emirates decide to keep star rider closer to home to monitor recovery from Vuelta a España crash"
+"image": "https://cdn.mos.cms.futurecdn.net/UTgr9MT97T9aEJKsDg7gGg-1920-80.jpg",
+"excerpt": "Dutch rider forced to register as independent for first five weeks of 'cross campaign"
 },
 {
-"id": "581da2d31d20dcae",
-"title": "‘We Were in Over Our Heads, but We Rode as a Team’: Bobby Julich on Modern Adventure’s Debut Year",
-"url": "https://velo.outsideonline.com/road/road-racing/modern-adventure-pro-cycling-bobby-julich/",
-"source": "Velo",
-"when": "07:49",
-"also": [],
-"lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/GettyImages-2279267647.jpg?width=1200",
-"excerpt": ""
-},
-{
-"id": "fcf6f37938420522",
-"title": "Mass appeal: Meet the Pope's new bike",
-"url": "https://escapecollective.com/mass-appeal-meet-the-popes-new-bike/",
-"source": "Escape Collective",
-"when": "06:47",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/Pope-bike-feature.jpg",
-"excerpt": "A bike dreams of a quiet life, and gets a papal crest instead."
-},
-{
-"id": "2b8f35436099f75e",
-"title": "Connor Swift leads seven contract extensions as Netcompany-Ineos boost their 2027 roster",
-"url": "https://www.cyclingnews.com/pro-cycling/transfers/connor-swift-leads-seven-contract-extensions-as-netcompany-ineos-boost-their-2027-roster/",
+"id": "246389fb795eb65c",
+"title": "'It's really the hope that kills you' – A season of resets for Rory Townsend",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-really-the-hope-that-kills-you-a-season-of-resets-for-rory-townsend/",
 "source": "Cyclingnews",
-"when": "Tue 18:04",
+"when": "15:32",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/kAvLSbfGpqfpSyPkJyarjJ-1920-80.jpg",
-"excerpt": "The team have space for one more rider to fill their roster"
+"image": "https://cdn.mos.cms.futurecdn.net/JfCC6D4bHoTH4FDpkgLt33-1920-80.jpg",
+"excerpt": "Injury hangs over Irish rider's first year with Unibet Rose Rockets but 'I found other ways to make myself useful'"
 },
 {
-"id": "dfa9c053b17dc62b",
-"title": "No two off-seasons are the same",
-"url": "https://escapecollective.com/no-two-off-seasons-are-the-same/",
+"id": "c47394e4cc692b86",
+"title": "REZ GRVL will keep its name after resolving dispute with SBT GRVL",
+"url": "https://escapecollective.com/rez-grvl-will-keep-its-name-after-resolving-dispute-with-sbt-grvl/",
 "source": "Escape Collective",
-"when": "Tue 22:58",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/Italy_GruberImages_Napoli_to_Siena_79.jpg",
-"excerpt": "When an off-season begins can depend on results, fatigue, injury, or contracts. But how it's spent is down to the rider."
-},
-{
-"id": "bb4b6283ce9f957d",
-"title": "Decathlon officially announces the arrival of longtime Picnic staffer Matt Winston",
-"url": "https://escapecollective.com/decathlon-officially-announces-the-arrival-of-longtime-picnic-staffer-matt-winston/",
-"source": "Escape Collective",
-"when": "Tue 22:00",
+"when": "21:01",
 "also": [],
 "lang": "en",
 "image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
+},
+{
+"id": "989252b6580156d9",
+"title": "Nike and Visma-Lease a Bike announce an 'expanded partnership' for 2027",
+"url": "https://escapecollective.com/nike-and-visma-lease-a-bike-announce-an-expanded-partnership-for-2027/",
+"source": "Escape Collective",
+"when": "20:34",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/11/vismattt.jpeg",
+"excerpt": ""
+},
+{
+"id": "0650797822db85da",
+"title": "Magnier expects to race the Giro and Vuelta with Merlier leading Soudal in the Tour",
+"url": "https://escapecollective.com/magnier-expects-to-race-the-giro-and-vuelta-with-merlier-leading-soudal-in-the-tour/",
+"source": "Escape Collective",
+"when": "20:04",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
+},
+{
+"id": "ed61c46a2fd41288",
+"title": "SBT GRVL and Rez Gravel Reach Agreement—Here Is What It Actually Means",
+"url": "https://velo.outsideonline.com/gravel/gravel-gear/sbt-grvl-rez-gravel-agreement-trademark/",
+"source": "Velo",
+"when": "19:07",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/SBT-GRVL-detail-3-header.jpg?width=1200",
+"excerpt": ""
+},
+{
+"id": "4c4018f806d6a2b7",
+"title": "Nike is Coming Back to Pro Cycling",
+"url": "https://velo.outsideonline.com/news/nike-is-coming-back-to-pro-cycling/",
+"source": "Velo",
+"when": "14:43",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Too-late-8.jpg?width=1200",
 "excerpt": ""
 }
 ]
@@ -5952,15 +5959,15 @@
 "title": "Teams",
 "items": [
 {
-"id": "cb4614c2124449ac",
-"title": "Billerica Memorial High School's Shawn Theriault Named the New England Patriots Coach of the Week",
-"url": "https://www.patriots.com/news/billerica-memorial-high-school-s-shawn-theriault-named-the-new-england-patriots-coach-of-the-week",
+"id": "7d91f1082e0fb813",
+"title": "Patriots Gameplan: how will the offense adjust for QB Tommy DeVito in Sunday's Week 12 matchup vs. the Chargers?",
+"url": "https://www.patriots.com/news/patriots-gameplan-how-will-the-offense-adjust-for-qb-tommy-devito-in-sunday-s-week-12-matchup-vs-the-chargers",
 "source": "Patriots.com",
-"when": "Tue 21:38",
+"when": "12:00",
 "also": [],
 "lang": "en",
-"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/hyu4ocfjakazmorozmlt.jpg",
-"excerpt": "The Billerica Memorial Indians rolled their way to a 32-20 victory against the Bridgewater-Raynham Trojans behind the leadership of Head Coach Shawn Theriault."
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/bnlzq5dn9yzqna2xmnyn.png",
+"excerpt": "The Patriots will play their first full game without star QB Drake Maye on Thanksgiving weekend in Los Angeles."
 },
 {
 "id": "f74f2c030fee93c1",
@@ -5983,17 +5990,6 @@
 "lang": "sv",
 "image": "https://cdn.mff.se/2026/11/BB261024AB113.jpg",
 "excerpt": "The post MFF-spelare på landslagsuppdrag appeared first on Malmö FF ."
-},
-{
-"id": "737f083d86914a6f",
-"title": "#10 Huskies Face #16 Duke In Las Vegas Blockbuster",
-"url": "https://uconnhuskies.com/news/2026/11/23/mens-basketball-10-huskies-face-16-duke-in-las-vegas-blockbuster",
-"source": "UConn Huskies",
-"when": "Mon 19:57",
-"also": [],
-"lang": "en",
-"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/23/20260329_MBBvsDuke_NCAAT_1341.jpg",
-"excerpt": ""
 }
 ]
 },
@@ -6020,7 +6016,7 @@
 ]
 }
 ],
-"lead": "56e43f1c650913b1"
+"lead": "271dd36610780c03"
 },
 {
 "id": "chess",
@@ -6032,6 +6028,63 @@
 "id": "chess",
 "title": null,
 "items": [
+{
+"id": "ef9784ab02d0429e",
+"title": "Salesforce FIDE World Championship Match: Gukesh and Sindarov size each other up",
+"url": "https://www.fide.com/salesforce-fide-world-championship-match-gukesh-and-sindarov-size-each-other-up/",
+"source": "FIDE",
+"when": "19:39",
+"also": [],
+"lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/WCM-2026-D02-Gukesh-Sindarov.jpg",
+"excerpt": ""
+},
+{
+"id": "21589cb4ea912294",
+"title": "World Championship: Gukesh v. Sindarov - Game two ends drawn after 20 moves",
+"url": "https://en.chessbase.com/post/world-championship-2026-live",
+"source": "ChessBase",
+"when": "15:45",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133429_l200",
+"excerpt": ""
+},
+{
+"id": "8e48a3118cce2c92",
+"title": "2026 FIDE General Assembly: Minutes",
+"url": "https://www.fide.com/2025-fide-online-general-assembly-minutes-copy/",
+"source": "FIDE",
+"when": "18:03",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
+},
+{
+"id": "ef806563a547f470",
+"title": "Gukesh's London System doesn't surprise Sindarov - 2",
+"url": "https://theweekinchess.com/twic-news-feed/gukeshs-london-system-doesnt-surprise-sindarov",
+"source": "The Week in Chess",
+"when": "20:12",
+"also": [
+"Chess.com"
+],
+"lang": "en",
+"image": null,
+"excerpt": ""
+},
+{
+"id": "cc969be7cff11af8",
+"title": "Daniel King analyses: How Gukesh saved the draw",
+"url": "https://en.chessbase.com/post/world-championship-2026-analysis",
+"source": "ChessBase",
+"when": "Tue 23:46",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133436_l200",
+"excerpt": ""
+},
 {
 "id": "f12988de2712f352",
 "title": "World Championship Game 1: A draw in the Berlin, not without tension",
@@ -6055,77 +6108,20 @@
 "excerpt": ""
 },
 {
-"id": "49bf4f4da15b7b53",
-"title": "Kateryna Lagno wins inaugural WR Women's Chess Tour",
-"url": "https://en.chessbase.com/post/wr-women-tour-2026-stuttgart",
-"source": "ChessBase",
-"when": "Tue 13:35",
-"also": [
-"Chess.com"
-],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133428_l200",
-"excerpt": ""
-},
-{
-"id": "c1e7e5349726151d",
-"title": "Gukesh Survives Pressure To Hold Sindarov To Draw In World Championship Game 1",
-"url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
-"source": "Chess.com",
-"when": "Tue 22:20",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2277585.ba25471b.5000x5000o.2ad36d3d177d.png",
-"excerpt": ""
-},
-{
-"id": "3b5839bed2e2e482",
-"title": "Nakamura Widens Lead In Esports World Cup Qualification Standings",
-"url": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-november-24-2026",
-"source": "Chess.com",
-"when": "Tue 21:16",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2277605.2bfadf44.5000x5000o.9265a9c23ff5.png",
-"excerpt": ""
-},
-{
-"id": "1f5e1ccf0a76a959",
-"title": "World Championship matches: Highlights from 140 years of history",
-"url": "https://en.chessbase.com/post/wch-matches-highlights-140-years",
-"source": "ChessBase",
-"when": "Mon 21:40",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133414_l200",
-"excerpt": ""
-},
-{
-"id": "9e2b9d8d8c7a5b82",
-"title": "World Junior Championship U20 Championship 2026 at midpoint: India tops the standings in both sections",
-"url": "https://www.fide.com/world-junior-championship-u20-championship-2026-at-midpoint-india-tops-the-standings-in-both-sections/",
-"source": "FIDE",
-"when": "Tue 18:49",
-"also": [],
-"lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/WJC-2026-Midpoint.jpg",
-"excerpt": ""
-},
-{
-"id": "e4b1bb121b23e3e1",
-"title": "WCC 2026 Round 1: A Tense Berlin Draw Sets the Pace",
-"url": "https://lichess.org/@/Lichess/blog/wcc-2026-round-1-a-tense-berlin-draw-sets-the-pace/4vQ20VuS",
+"id": "aeb46177908eb8b5",
+"title": "WCC 2026 Round 2: A Speedy London Draw",
+"url": "https://lichess.org/@/Lichess/blog/wcc-2026-round-2-a-speedy-london-draw/tIcbLj1J",
 "source": "Lichess",
-"when": "02:57",
+"when": "20:21",
 "also": [],
 "lang": "en",
-"image": "https://image.lichess.org/display?fmt=webp&h=550&op=thumbnail&path=IWZdW7f7wxnr.webp&w=880&sig=0eb0df61bcb55b1b65c833a82635769ed7c9bf71",
+"image": "https://image.lichess.org/display?fmt=webp&h=550&op=thumbnail&path=OaTCX1o6QdbO.webp&w=880&sig=c63a92425ebd251bdce77b51c6d29468cc9f9bc5",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "f12988de2712f352"
+"lead": "ef9784ab02d0429e"
 },
 {
 "id": "ai",
@@ -6233,13 +6229,68 @@
 {
 "id": "rd",
 "title": "R&D",
-"count": 9,
+"count": 8,
 "thin": false,
 "groups": [
 {
 "id": "rd",
 "title": null,
 "items": [
+{
+"id": "f56c5c20218acc93",
+"title": "Bayer goes to Hansoh for ADC deal worth $150M up front",
+"url": "https://endpoints.news/bayer-goes-to-hansoh-for-adc-deal-worth-150m-up-front/",
+"source": "Endpoints News",
+"when": "16:55",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/02/Bayer-shutterstock-social2.jpg",
+"excerpt": ""
+},
+{
+"id": "2826faabbe1b1977",
+"title": "The 38-year history behind Insmed, now Sanofi's strongest wager since 2004",
+"url": "https://endpoints.news/the-38-year-history-behind-insmed-now-sanofis-strongest-wager-since-2004/",
+"source": "Endpoints News",
+"when": "13:02",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2026/11/william-lewis-og.jpg",
+"excerpt": ""
+},
+{
+"id": "08cb735439252b9a",
+"title": "Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC",
+"url": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
+"source": "Fierce Biotech",
+"when": "21:10",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/IMG_0623.jpg?VersionId=.Dm6yxmWOoWMl0qs2U2WEvggF4lxdero",
+"excerpt": "Bayer has become the latest drug giant to turn to Hansoh Pharma for its antibody-drug conjugate expertise."
+},
+{
+"id": "4ac45443155ffc6d",
+"title": "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head",
+"url": "https://www.biopharmadive.com/news/arcus-quemliclustat-belite-amgen-opdivo-biosimilar/875512/",
+"source": "BioPharma Dive",
+"when": "17:24",
+"also": [],
+"lang": "en",
+"image": "https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp",
+"excerpt": ""
+},
+{
+"id": "2ec387b983f047a0",
+"title": "GSK's autoimmune success; AbbVie drug gets expanded label for vitiligo",
+"url": "https://endpoints.news/gsks-autoimmune-success-abbvie-drug-gets-expanded-label-for-vitiligo/",
+"source": "Endpoints News",
+"when": "16:22",
+"also": [],
+"lang": "en",
+"image": "https://endpoints.news/wp-content/uploads/2025/03/News-Briefing-Social-and-Tile.jpg",
+"excerpt": ""
+},
 {
 "id": "0615ff6363b4e04d",
 "title": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
@@ -6254,105 +6305,31 @@
 "excerpt": ""
 },
 {
-"id": "39597d371d0f4f69",
-"title": "Cogent prepares for first commercial launch with GI tumor treatment",
-"url": "https://endpoints.news/cogent-prepares-for-first-commercial-launch-with-gi-tumor-treatment/",
-"source": "Endpoints News",
-"when": "Tue 22:54",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2023/06/Andrew-Robbins-Cogent-Biosciences-CEO.jpg",
-"excerpt": ""
-},
-{
-"id": "ee08657991b07285",
-"title": "Drug labels must flag accelerated approval to patients, FDA says",
-"url": "https://endpoints.news/drug-labels-must-flag-accelerated-approval-to-patients-fda-says/",
-"source": "Endpoints News",
-"when": "Tue 19:58",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2022/08/FDA-social-shutterstock3.jpg",
-"excerpt": ""
-},
-{
-"id": "13d09a3cce3078ab",
-"title": "Pharming eyes deals, awaits leniolisib readout as it looks for new CEO",
-"url": "https://endpoints.news/pharming-eyes-deals-awaits-leniolisib-readout-as-it-looks-for-new-ceo/",
-"source": "Endpoints News",
-"when": "Tue 17:20",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2026/11/leverne-marsh-kenneth-lynard-pharming-og.jpg",
-"excerpt": ""
-},
-{
-"id": "56f18ea8d42cc96e",
-"title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
-"url": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
-"source": "BioPharma Dive",
-"when": "Tue 16:36",
-"also": [
-"Fierce Pharma"
-],
-"lang": "en",
-"image": "https://imgproxy.divecdn.com/_Jl91qpyunJWe-csdceqrcSO_PmI-VBjWQO1KOBqP58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTM3MjY1MDU5LmpwZw==.webp",
-"excerpt": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product."
-},
-{
-"id": "2cd2d3ed0713245b",
-"title": "ARM CEO reflects on ‘wild 12 months’ pushing back on FDA’s shifting gene therapy stance",
-"url": "https://www.fiercebiotech.com/biotech/arm-ceo-reflects-wild-12-months-navigating-fdas-shifting-gene-therapy-stance",
+"id": "ffbb2227bac37c20",
+"title": "Schrödinger signs €22M biologics collab with sequencing automation outfit Enpicom",
+"url": "https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m",
 "source": "Fierce Biotech",
-"when": "09:26",
+"when": "21:10",
 "also": [],
 "lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/arm_tim_hunt.jpg?VersionId=cfT6_sZ65WcOPGx2ZE0NWZbLJ11ClJIc",
-"excerpt": ""
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1219914412.jpg?VersionId=Mq6l6eQuwaf4JEispmTVhr0G0u9M_2uF",
+"excerpt": "Computational discovery biotech Schrödinger has finalized a collaboration with sequencing automation company Enpicom in an all-cash deal worth €22 million."
 },
 {
-"id": "0f9a35d786fc68c5",
-"title": "Invivyd aims for Q1’27 submission after Pemgarda successor shows potential in phase 3",
-"url": "https://www.fiercebiotech.com/biotech/invivyd-aims-q127-approval-submission-after-pemgarda-successor-shows-potential-phase-3",
-"source": "Fierce Biotech",
-"when": "Mon 23:13",
+"id": "67e7f16438ff5cd7",
+"title": "Bristol Myers' Sotyktu posts a hit and a miss in pair of ph. 3 lupus trials",
+"url": "https://www.fiercepharma.com/pharma/bristol-myers-sotyktu-posts-hit-and-miss-pair-ph-3-lupus-trials",
+"source": "Fierce Pharma",
+"when": "21:10",
 "also": [],
 "lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1677819202.jpg?VersionId=PutaEsDxvqkrkzIu3gq5e4ZDT7dlYO3Z",
-"excerpt": ""
-},
-{
-"id": "38c4fbf2b79a2e36",
-"title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
-"url": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
-"source": "BioPharma Dive",
-"when": "Tue 14:50",
-"also": [],
-"lang": "en",
-"image": "https://imgproxy.divecdn.com/FBR1IQNmU9Hqatva496Zg2G8JMHsqV0UGsf4LMARqYo/g:nowe:189:144/c:1776:1003/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80OTY5MDc4MzcxMl8yYTc1ZmQ5M2MyX28uanBn.webp",
-"excerpt": ""
-}
-]
-},
-{
-"id": "rd-pinned",
-"title": "Astellas releases",
-"items": [
-{
-"id": "e1255503ba07bb80",
-"title": "Astellas Enters Agreement with Bristol Myers Squibb to Acquire Commercialization Rights in Japan for Onureg® Approved as Maintenance Therapy for Acute Myeloid Leukemia",
-"url": "https://newsroom.astellas.com/2026-11-24-astellas-enters-agreement-with-bristol-myers-squibb-to-acquire-commercialization-rights-in-japan-for-onureg-approved-as-maintenance-therapy-for-acute-myeloid-leukemia",
-"source": "Astellas",
-"when": "Tue 07:30",
-"also": [],
-"lang": "en",
-"image": null,
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/BMS_2.jpg?VersionId=7q4dfemRprtrPDi7MUw08W03OJ3zyaoi",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "0615ff6363b4e04d"
+"lead": "f56c5c20218acc93"
 }
 ],
 "weather": {
@@ -6363,16 +6340,16 @@
 "dm": "25.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 5,
+"hi": 4,
 "lo": 1,
-"rain_mm": 0.7,
-"rain_pct": 85,
+"rain_mm": 2.4,
+"rain_pct": 95,
 "wind": 8,
 "uv": 2,
 "sunrise": "07:48",
 "sunset": "16:44",
-"bar_l": 36,
-"bar_w": 36
+"bar_l": 43,
+"bar_w": 43
 },
 "slots": [
 {
@@ -6380,21 +6357,21 @@
 "temp": 4,
 "icon": "☁️",
 "label": "Overcast",
-"rain_pct": 65
+"rain_pct": 50
 },
 {
 "name": "Afternoon",
-"temp": 5,
+"temp": 3,
 "icon": "☁️",
 "label": "Overcast",
-"rain_pct": 10
+"rain_pct": 15
 },
 {
 "name": "Evening",
 "temp": 3,
 "icon": "🌦️",
 "label": "Light rain",
-"rain_pct": 23
+"rain_pct": 83
 }
 ],
 "days": [
@@ -6404,16 +6381,16 @@
 "dm": "25.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 5,
+"hi": 4,
 "lo": 1,
-"rain_mm": 0.7,
-"rain_pct": 85,
+"rain_mm": 2.4,
+"rain_pct": 95,
 "wind": 8,
 "uv": 2,
 "sunrise": "07:48",
 "sunset": "16:44",
-"bar_l": 36,
-"bar_w": 36
+"bar_l": 43,
+"bar_w": 43
 },
 {
 "date": "2026-11-26",
@@ -6421,33 +6398,33 @@
 "dm": "26.11.",
 "label": "Light snow",
 "icon": "🌨️",
-"hi": 1,
-"lo": -1,
+"hi": 2,
+"lo": 0,
 "rain_mm": 0,
-"rain_pct": 18,
-"wind": 7,
-"uv": 0,
+"rain_pct": 43,
+"wind": 5,
+"uv": 1,
 "sunrise": "07:49",
 "sunset": "16:43",
-"bar_l": 18,
-"bar_w": 18
+"bar_l": 29,
+"bar_w": 29
 },
 {
 "date": "2026-11-27",
 "dow": "Fri",
 "dm": "27.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 1,
-"lo": -1,
+"label": "Snow grains",
+"icon": "🌨️",
+"hi": 2,
+"lo": 0,
 "rain_mm": 0,
-"rain_pct": 0,
+"rain_pct": 3,
 "wind": 5,
 "uv": 2,
 "sunrise": "07:51",
 "sunset": "16:42",
-"bar_l": 18,
-"bar_w": 18
+"bar_l": 29,
+"bar_w": 29
 },
 {
 "date": "2026-11-28",
@@ -6459,46 +6436,46 @@
 "lo": -1,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 9,
+"wind": 11,
 "uv": 2,
 "sunrise": "07:52",
 "sunset": "16:42",
-"bar_l": 18,
-"bar_w": 27
+"bar_l": 14,
+"bar_w": 43
 },
 {
 "date": "2026-11-29",
 "dow": "Sun",
 "dm": "29.11.",
-"label": "Overcast",
-"icon": "☁️",
+"label": "Light rain",
+"icon": "🌦️",
 "hi": 4,
-"lo": -1,
-"rain_mm": 0,
-"rain_pct": 17,
+"lo": 0,
+"rain_mm": 1.3,
+"rain_pct": 40,
 "wind": 6,
 "uv": 2,
 "sunrise": "07:53",
 "sunset": "16:41",
-"bar_l": 18,
-"bar_w": 45
+"bar_l": 29,
+"bar_w": 57
 },
 {
 "date": "2026-11-30",
 "dow": "Mon",
 "dm": "30.11.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 2,
-"lo": -2,
-"rain_mm": 0,
-"rain_pct": 20,
-"wind": 3,
-"uv": 1,
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 3,
+"lo": 2,
+"rain_mm": 4.1,
+"rain_pct": 50,
+"wind": 4,
+"uv": 2,
 "sunrise": "07:55",
 "sunset": "16:41",
-"bar_l": 9,
-"bar_w": 36
+"bar_l": 57,
+"bar_w": 14
 },
 {
 "date": "2026-12-01",
@@ -6506,16 +6483,16 @@
 "dm": "01.12.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 1,
-"lo": -2,
+"hi": 3,
+"lo": 1,
 "rain_mm": 0,
-"rain_pct": 1,
-"wind": 4,
-"uv": 1,
+"rain_pct": 4,
+"wind": 5,
+"uv": 2,
 "sunrise": "07:56",
 "sunset": "16:40",
-"bar_l": 9,
-"bar_w": 27
+"bar_l": 43,
+"bar_w": 29
 },
 {
 "date": "2026-12-02",
@@ -6523,16 +6500,16 @@
 "dm": "02.12.",
 "label": "Overcast",
 "icon": "☁️",
-"hi": 8,
-"lo": -3,
+"hi": 5,
+"lo": 0,
 "rain_mm": 0,
 "rain_pct": 12,
-"wind": 5,
-"uv": 1,
+"wind": 6,
+"uv": 2,
 "sunrise": "07:57",
 "sunset": "16:40",
-"bar_l": 0,
-"bar_w": 100
+"bar_l": 29,
+"bar_w": 71
 },
 {
 "date": "2026-12-03",
@@ -6540,16 +6517,16 @@
 "dm": "03.12.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 8,
-"lo": 0,
+"hi": 3,
+"lo": -1,
 "rain_mm": 0,
-"rain_pct": 20,
-"wind": 4,
-"uv": 1,
+"rain_pct": 11,
+"wind": 6,
+"uv": 2,
 "sunrise": "07:58",
 "sunset": "16:39",
-"bar_l": 27,
-"bar_w": 73
+"bar_l": 14,
+"bar_w": 57
 },
 {
 "date": "2026-12-04",
@@ -6557,20 +6534,20 @@
 "dm": "04.12.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 5,
+"hi": 2,
 "lo": -2,
 "rain_mm": 0,
-"rain_pct": 13,
-"wind": 4,
-"uv": 0,
+"rain_pct": 8,
+"wind": 5,
+"uv": 1,
 "sunrise": "07:59",
 "sunset": "16:39",
-"bar_l": 9,
-"bar_w": 64
+"bar_l": 0,
+"bar_w": 57
 }
 ],
-"lo": -3,
-"hi": 8
+"lo": -2,
+"hi": 5
 }
 }
 }
