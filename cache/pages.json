@@ -5761,10 +5761,10 @@
 },
 "2026-11-26": {
 "date": "2026-11-26",
-"built_at": "2026-11-26T08:10:38.556507+00:00",
-"built_local": "09:10",
-"edition": "Morning",
-"feeds_ok": 55,
+"built_at": "2026-11-26T19:49:27.999248+00:00",
+"built_local": "20:49",
+"edition": "Evening",
+"feeds_ok": 54,
 "feeds_total": 55,
 "sections": [
 {
@@ -5778,6 +5778,19 @@
 "title": null,
 "items": [
 {
+"id": "af2a251ebd5ea541",
+"title": "Moscow drone incursions: Poland to create no-fly zone at Ukraine border",
+"url": "https://www.france24.com/en/video/20261126-moscow-drone-incursions-poland-to-create-no-fly-zone-at-ukraine-border",
+"source": "France 24",
+"when": "15:19",
+"also": [
+"DW"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/3d19986a-e9a1-11f1-b83e-1991d4929b54/w:1024/p:16x9/EN-20261126-100718-100911-CS.jpg",
+"excerpt": ""
+},
+{
 "id": "c6d0048914734af1",
 "title": "Duran Duran guitarist Andy Taylor dies aged 65",
 "url": "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65",
@@ -5786,6 +5799,7 @@
 "also": [
 "DW",
 "The Hindu",
+"BBC World",
 "SCMP"
 ],
 "lang": "en",
@@ -5793,11 +5807,24 @@
 "excerpt": ""
 },
 {
+"id": "a7aa5579f45bd632",
+"title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
+"url": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "18:18",
+"also": [
+"SCMP"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0859c77259-1795709383.jpg?resize=1920%2C1440",
+"excerpt": "Paris court of appeal dismisses allegations relating to a second incident involving actress Charlotte Arnould."
+},
+{
 "id": "a23bfb58a15eb3a4",
 "title": "Cyril Ramaphosa wins court bid to overturn impeachment report",
 "url": "https://www.thehindu.com/news/international/cyril-ramaphosa-wins-court-bid-to-overturn-impeachment-report/article71745568.ece",
 "source": "The Hindu",
-"when": "08:12",
+"when": "08:44",
 "also": [
 "Africanews",
 "Al Jazeera",
@@ -5808,57 +5835,43 @@
 "excerpt": ""
 },
 {
-"id": "4e8efe2147f283c1",
-"title": "FedEx plane overshoots runway at Miami airport on Thanksgiving eve",
-"url": "https://www.dw.com/en/fedex-plane-overshoots-runway-at-miami-airport-on-thanksgiving-eve/a-80056541?maca=en-rss-en-all-1573-rdf",
-"source": "DW",
-"when": "09:01",
-"also": [
-"BBC World",
-"SCMP"
-],
-"lang": "en",
-"image": "https://static.dw.com/image/80056499_6.jpg",
-"excerpt": ""
-},
-{
-"id": "bfe30eb1ae5304d2",
-"title": "At least 31 killed in Cairo fire after fuel truck overturns on busy highway",
-"url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
-"source": "France 24",
-"when": "02:25",
-"also": [
-"DW"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/ac48570e-e937-11f1-b861-1991d4929b54/w:1024/p:16x9/AP26329710858344.jpg",
-"excerpt": ""
-},
-{
-"id": "e4f6df71d1688964",
-"title": "Six killed, including children, in plane crash off Mississippi coast",
-"url": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+"id": "ab272ea709ba70a4",
+"title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+"url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
 "source": "Al Jazeera",
-"when": "05:48",
+"when": "17:32",
 "also": [
 "BBC World"
 ],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b078c9edba4c-1795656862.jpg?resize=1920%2C1440",
-"excerpt": "US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families."
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=1920%2C1440",
+"excerpt": "Iran has strongly denied any involvement in the fatal incident."
 },
 {
-"id": "c6960fdf50b7d7ef",
-"title": "Bad weather postpones Macy’s 100th Thanksgiving Day Parade for first time ever",
-"url": "https://www.thehindu.com/news/international/bad-weather-postpones-macys-100th-thanksgiving-day-parade-for-first-time-ever/article71745030.ece",
-"source": "The Hindu",
-"when": "02:34",
+"id": "c31621ffb3eb68fb",
+"title": "Diesel tanker capsizes near Ibiza, killing crew member",
+"url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "16:56",
 "also": [
 "BBC World"
 ],
 "lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/ff20ak/article71745036.ece/alternates/LANDSCAPE_1200/2026-11-26T012212Z_1923368480_RC25VOAWSF79_RTRMADP_3_USA-STORM-MACY-S-PARADE.JPG",
-"excerpt": "The postponement came as New York City is set to get slammed by a storm bringing intense winds and rain to the region"
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795708592.jpg?resize=1920%2C1080&quality=80",
+"excerpt": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza."
+},
+{
+"id": "c10da4721d3c164e",
+"title": "Elon Musk says every child in U.S. will get two SpaceX shares",
+"url": "https://www.thehindu.com/news/international/elon-musk-says-every-child-in-us-will-get-two-spacex-shares/article71745692.ece",
+"source": "The Hindu",
+"when": "09:27",
+"also": [
+"El País English"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/461lse/article71745716.ece/alternates/LANDSCAPE_1200/2026-11-24T060512Z_1931926631_RC224W9ZBY39_RTRMADP_3_SPACEX-M-A-TESLA.JPG",
+"excerpt": ""
 },
 {
 "id": "43cb281195c1ff3e",
@@ -5875,47 +5888,31 @@
 "excerpt": ""
 },
 {
-"id": "a861c6648aff8e5f",
-"title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
-"url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Wed 07:58",
-"also": [
-"The Hindu",
-"SCMP"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06799f-1795586463.jpg?resize=1920%2C1440",
-"excerpt": "The protests have cost Bangladesh hundreds of millions, but workers are yet to accept the offer."
-},
-{
-"id": "4d739b34ea88991c",
-"title": "Zimbabwe court issues arrest warrant for Robert Mugabe’s son",
-"url": "http://www.africanews.com/2026/11/25/zimbabwe-court-issues-arrest-warrant-for-robert-mugabes-son/",
+"id": "cc689160fe277670",
+"title": "Ebola: UN says outbreak driving spike in gender-based violence in Congo",
+"url": "http://www.africanews.com/2026/11/26/ebola-un-says-outbreak-driving-spike-in-gender-based-violence-in-congo/",
 "source": "Africanews",
-"when": "Wed 12:09",
-"also": [
-"BBC World"
-],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/10/00/74/27/640x360_cmsv2_9c5201f9-d378-560c-9921-f89b529cffef-10007427.jpg?1795597122",
-"excerpt": "Bellarmine Chatunga Mugabe, who was arrested earlier this month, had failed to appear for a routine hearing on Tuesday."
-},
-{
-"id": "edca09c3449805f0",
-"title": "Fish Die in Rivers Connected to Xingu in Northern Brazil; Mining Company Had Waste Spill in Region",
-"url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/11/fish-die-in-rivers-connected-to-xingu-in-northern-brazil-mining-company-had-waste-spill-in-region.shtml",
-"source": "Folha",
-"when": "Wed 21:01",
+"when": "18:52",
 "also": [],
 "lang": "en",
-"image": "https://f.i.uol.com.br/fotografia/2026/11/25/17956245346b070e564f6b0_1795624534_3x2_lg.jpg",
+"image": "https://images.euronews.com/articles/stories/10/00/99/93/640x360_cmsv2_18bb3cc9-8712-5f81-9e72-b0e5439c9420-10009993.jpg?1795707375",
+"excerpt": ""
+},
+{
+"id": "fc8238aa61d238af",
+"title": "Spanish maker of foldable bike helmets ‘overjoyed’ at show of support from New York Mayor Zohran Mamdani",
+"url": "https://english.elpais.com/spain/2026-11-26/spanish-maker-of-foldable-bike-helmets-overjoyed-at-show-of-support-from-new-york-mayor-zohran-mamdani.html",
+"source": "El País English",
+"when": "19:05",
+"also": [],
+"lang": "en",
+"image": "https://images.english.elpais.com/resizer/v2/UELHGH3LVJHQ3OSVELYHRF7S2A.jpg?auth=6cb5d789c717027af7e00b6d684bf901d5f2b9add7759b6f941bda61676788a6",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "c6d0048914734af1"
+"lead": "af2a251ebd5ea541"
 },
 {
 "id": "basel",
@@ -5928,119 +5925,119 @@
 "title": null,
 "items": [
 {
-"id": "c65f7ab03f4804d3",
-"title": "Interview mit Insektenforscher: «Die Ausrottung der Tigermücke ist nicht mehr möglich»",
-"url": "https://www.bazonline.ch/tigermuecke-in-basel-wie-brutstaetten-bekaempft-werden-927047980391",
-"source": "Basler Zeitung",
-"when": "07:18",
+"id": "c2fff3f7e48668ff",
+"title": "Mutmasslicher Kriegsverbrecher – Welche Lehren zieht die Schweiz aus dem Fall Kabuga?",
+"url": "https://www.srf.ch/news/schweiz/mutmasslicher-kriegsverbrecher-welche-lehren-zieht-die-schweiz-aus-dem-fall-kabuga",
+"source": "SRF News",
+"when": "20:23",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/9e9FqNIiq3B8EM-8UqcfzG.jpg",
+"image": "https://www.srf.ch/static/cms/images//320ws/6b0275.webp",
+"excerpt": "Der Bund hat den Aufenthalt eines mutmasslichen Völkermörders in der Schweiz 1994 untersuchen lassen. Eine Einschätzung."
+},
+{
+"id": "a0ddd90e670dfed2",
+"title": "Kurzer Aufenthalt, hohe Preise – Stadt Zürich zählt immer mehr Business-Wohnungen",
+"url": "https://www.srf.ch/news/schweiz/kurzer-aufenthalt-hohe-preise-stadt-zuerich-zaehlt-immer-mehr-business-wohnungen",
+"source": "SRF News",
+"when": "20:17",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/e07422.webp",
+"excerpt": "Der Anteil der Kurzzeitunterkünfte in der Stadt Zürich hat sich in den letzten fünf Jahren mehr als verdoppelt."
+},
+{
+"id": "dbca74cbffc74c1d",
+"title": "«Unterwanderungs-Vorwürfe» – Junge SVP Schweiz schliesst zehn Luzerner aus",
+"url": "https://www.srf.ch/news/schweiz/unterwanderungs-vorwuerfe-junge-svp-schweiz-schliesst-zehn-luzerner-aus",
+"source": "SRF News",
+"when": "19:06",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/a7fcad.webp",
+"excerpt": "Für die Parteileitung sei erwiesen, dass die «Junge Tat» eine entsprechende Aktion orchestriert habe."
+},
+{
+"id": "9f3c30ee33a12f22",
+"title": "Unfall bei Bubendorf: Lieferwagen landet zwischen Velobrücke und Leitplanke",
+"url": "https://www.bazonline.ch/bubendorf-kollision-zwischen-auto-und-lieferwagen-665565398347",
+"source": "Basler Zeitung",
+"when": "16:51",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/0HHq_KDU4LI9dtQ2p9O7eI.jpg",
+"excerpt": "Bei einer Kollision am Donnerstagmorgen erlitten zwei Personen leichte Verletzungen. Die Baselbieter Polizei sucht Zeugen."
+},
+{
+"id": "0185655cb174577e",
+"title": "Raphaël Tschudi, das Chamäleon: Der Basler Schauspieler, der zwischen Rollen und Städten pendelt",
+"url": "https://www.bazonline.ch/raphael-tschudi-der-basler-schauspieler-aus-neuenburg-412940784750",
+"source": "Basler Zeitung",
+"when": "16:02",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/B0VEnD1eqAV9pyGx2o9Luo.jpg",
+"excerpt": "Der Sohn von Gilles Tschudi ist zusammen mit seinem Vater in der Komödie «Heimspiel» im Fauteuil zu sehen. Im Kopf ist er aber schon einen Schritt weiter."
+},
+{
+"id": "4c4015a2923f8a33",
+"title": "Neues Restaurant in Basel: «Jedes neue Einfamilienhaus ist einfacher zu planen als ein Restaurant»",
+"url": "https://www.bazonline.ch/amano-per-voi-basler-bauen-nespresso-shop-zu-restaurant-um-515254584885",
+"source": "Basler Zeitung",
+"when": "16:01",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/6MC2mCxB4Cj9-plA-5bOVI.jpg",
 "excerpt": ""
 },
 {
-"id": "6fa46c8bf38bc936",
-"title": "Linksschleicher in Basel: Er kam mit Kartonautos zum Prozess – und der Richter mutierte zum Fahrlehrer",
-"url": "https://www.bazonline.ch/rechtsfahrgebot-linksschleicher-scheitert-in-basel-375554363799",
-"source": "Basler Zeitung",
-"when": "07:18",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/DU374oooaLJ8ba-zYFnz-s.jpg",
-"excerpt": "Ein Zürcher wurde auf der Autobahn gestoppt, weil er auf der linken Spur viel zu langsam fuhr. Danach legte er sich mit der Basler Justiz an."
-},
-{
-"id": "1901c9cee7409bea",
-"title": "Fünf bestätigte Fälle – Erstmals Cyberangriffe mit KI-Agenten in der Schweiz",
-"url": "https://www.srf.ch/news/schweiz/fuenf-bestaetigte-faelle-erstmals-cyberangriffe-mit-ki-agenten-in-der-schweiz",
-"source": "SRF News",
-"when": "06:15",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/5e61e4.webp",
-"excerpt": "Die Schweiz meldet die ersten bestätigten Hacks mit KI‑Agenten. Eine Angriffswelle stehe bevor, warnt ein Experte."
-},
-{
-"id": "7b764475ed56ef49",
-"title": "Mangel an Pfarrpersonen – Zürcher Reformierte wollen künftig Laien predigen lassen",
-"url": "https://www.srf.ch/news/schweiz/mangel-an-pfarrpersonen-zuercher-reformierte-wollen-kuenftig-laien-predigen-lassen",
-"source": "SRF News",
-"when": "06:11",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/cef21b.webp",
-"excerpt": "Quereinsteiger sollen in Zürich Pfarrer werden können. Der Entscheid des Kirchenparlaments könnte Signalwirkung haben."
-},
-{
-"id": "c0b87139f4216f17",
-"title": "Bundesratswahl – Vom Star-Moment zur Akzeptanz der Nicht-Wahl in den Bundesrat",
-"url": "https://www.srf.ch/news/schweiz/bundesratswahl-vom-star-moment-zur-akzeptanz-der-nicht-wahl-in-den-bundesrat",
-"source": "SRF News",
-"when": "06:07",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/381600.webp",
-"excerpt": "Zwei «Fast-Bundesräte» erzählen von der Zeit der Kandidatur und dem Umgang mit der Niederlage."
-},
-{
-"id": "c7d30eedf3f45739",
-"title": "Jeanny Messerli und Katja Weber",
-"url": "https://bajour.ch/a/jeanny-messerli-und-katja-weber",
+"id": "a4f32e73b9216575",
+"title": "Ein neues, farbenfrohes Dorf verlängert die Basler Weihnachtszeit",
+"url": "https://bajour.ch/a/ein-neues-farbenfrohes-dorf-verlaengert-die-basler-weihnachtszeit",
 "source": "Bajour",
-"when": "03:00",
+"when": "15:11",
 "also": [],
 "lang": "de",
-"image": "https://media-bajour.wepublish.cloud/01a21570-cd59-77a4-aa8a-c939494c8ac1?quality=80&sig=afixrsTwNP6HvIJO0-pFhGSxAp66k_sTdeuuzio3jjVGaHZ47ujc3UCjn5-6DmwVV9081gvSw_y2LopsRt5QCg",
+"image": "https://media-bajour.wepublish.cloud/01a21814-e8f9-7759-b815-a1ea9dd18da9?quality=80&sig=8I9ncDRm6cJ97heSw3iShSxmC9MJM8IJdLJVjEdCTCRWuNcMmvKYZ8_0OZtLBx3lxC0QGvJM-TKawagBW9BxCg",
 "excerpt": ""
 },
 {
-"id": "47048dceb1b9a601",
-"title": "Basel hat Firma für Winterdienst gefunden",
-"url": "https://bajour.ch/a/basel-hat-firma-fuer-winterdienst-gefunden",
+"id": "ed09fd56d11ce7aa",
+"title": "Trottoirüberfahrt an der Schäferstrasse wird umgebaut",
+"url": "https://bajour.ch/a/trottoirueberfahrt-an-der-schaeferstrasse-wird-fuer-elektrobusse-umgebaut",
 "source": "Bajour",
-"when": "02:36",
+"when": "14:07",
 "also": [],
 "lang": "de",
 "image": null,
-"excerpt": "60 externe Mitarbeitende das Tiefbauamt werden den Kanton bei dieser Aufgabe unterstützen."
+"excerpt": "Wegen grösserer Elektrobusse auf den Linien 35 und 45 wird die Trottoirüberfahrt an der Kreuzung Schäferstrasse/Kohlistieg angepasst."
 },
 {
-"id": "51c4186e39ced735",
-"title": "Sachschaden nach unbewilligtem Demonstrationszug",
-"url": "https://bajour.ch/a/sachschaden-nach-unbewilligtem-demonstrationszug",
+"id": "1c25a8f4884cc0e4",
+"title": "Regierung beantragt mehr Geld für Hafenplanung",
+"url": "https://bajour.ch/a/basler-regierung-beantragt-mehr-geld-fuer-hafenplanung",
 "source": "Bajour",
-"when": "02:35",
+"when": "10:36",
 "also": [],
 "lang": "de",
 "image": null,
-"excerpt": "Fünf Personen wurden wegen des Verdachts auf Sachbeschädigung festgenommen."
+"excerpt": "Trotz deutlich höherer Kostenprognosen will der Regierungsrat die Hafen- und Stadtentwicklung in Klybeck-Kleinhüningen weiterverfolgen."
 },
 {
-"id": "e7b581bbb2e242bc",
-"title": "Hunderte gedenken Femizid-Opfern: Demo zieht durch Basler Innenstadt – zuerst zündeten sie Gedenkkerzen, dann Petarden",
-"url": "https://www.bazonline.ch/basel-femizid-demonstration-hunderte-demonstrieren-gegen-gewalt-548580200101",
-"source": "Basler Zeitung",
-"when": "Wed 23:41",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/5XkwpOx-alPByQDFv2baih.jpg",
-"excerpt": ""
-},
-{
-"id": "47cd4a45313a7ad1",
-"title": "290 Personenkontrollen und 9 Festnahmen: Grosskontrolle am Bahnhof SBB",
-"url": "https://www.bs.ch/medienmitteilungen/jsd/2026-290-personenkontrollen-und-9-festnahmen-grosskontrolle-am-bahnhof-sbb",
+"id": "6412c1b22e575570",
+"title": "Regierung will Hafen- und Stadtentwicklung Klybeck-Kleinhüningen weiterverfolgen",
+"url": "https://www.bs.ch/medienmitteilungen/2026-regierung-will-hafen-und-stadtentwicklung-klybeck-kleinhueningen-weiterverfolgen",
 "source": "Kanton Basel-Stadt",
-"when": "09:10",
+"when": "20:49",
 "also": [],
 "lang": "de",
-"image": "https://media.bs.ch/og_image/7c936b8255a611ba8aacb17ba3db2cd42e47d869/img-0655.jpg?h=44048f27&itok=l8bEfsdw",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "c65f7ab03f4804d3"
+"lead": "c2fff3f7e48668ff"
 },
 {
 "id": "sport",
@@ -6053,80 +6050,83 @@
 "title": "Cycling",
 "items": [
 {
-"id": "271dd36610780c03",
-"title": "'The more I was thinking, the more I didn't know what to do' – Primož Roglič on looking retirement in the eye, his 'really fast' move to NSN, and why he could even race beyond 2027",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/the-more-i-was-thinking-the-more-i-didnt-know-what-to-do-primoz-roglic-on-looking-retirement-in-the-eye-his-really-fast-move-to-nsn-and-why-he-could-even-race-beyond-2027/",
+"id": "2d807bf1ba2a6ae2",
+"title": "Visma steps down as title sponsor of Visma-Lease a Bike team",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/visma-steps-down-as-title-sponsor-of-visma-lease-a-bike-team/",
 "source": "Cyclingnews",
-"when": "Wed 17:31",
-"also": [],
+"when": "14:24",
+"also": [
+"Escape Collective",
+"Cycling Weekly"
+],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/JL3MJgdFiVKc8bwvW7bktV-1920-80.jpg",
-"excerpt": "Slovenian gives an interview from NSN Cycling's pre-season training camp, reflecting on an uncertain off-season and what the future holds"
+"image": "https://cdn.mos.cms.futurecdn.net/XqTogiuHVyCbXh6aFovKsE-1920-80.jpg",
+"excerpt": "Software company to continue as 'Founding Partner'"
 },
 {
-"id": "eb5de01ac5b56ebb",
-"title": "The UCI's registration rules strike again, delaying Shirin van Anrooij's debut with Canyon-SRAM",
-"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/the-ucis-registration-rules-strike-again-delaying-shirin-van-anrooijs-debut-with-canyon-sram/",
+"id": "0a4910c3f86c74cb",
+"title": "Your chance to ask Michael Matthews anything about professional cycling, his career and more – AskCN",
+"url": "https://www.cyclingnews.com/cycling-culture/your-chance-to-ask-michael-matthews-anything-about-professional-cycling-his-career-and-more-askcn/",
 "source": "Cyclingnews",
-"when": "Wed 16:38",
+"when": "19:53",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/UTgr9MT97T9aEJKsDg7gGg-1920-80.jpg",
-"excerpt": "Dutch rider forced to register as independent for first five weeks of 'cross campaign"
+"image": "https://cdn.mos.cms.futurecdn.net/HSex9Y2pf3qmy4JpooQDon-1920-80.png",
+"excerpt": "We invite our subscribers and readers to submit their questions for an exclusive Q&A with one of Australia's greatest riders"
 },
 {
-"id": "246389fb795eb65c",
-"title": "'It's really the hope that kills you' – A season of resets for Rory Townsend",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/its-really-the-hope-that-kills-you-a-season-of-resets-for-rory-townsend/",
+"id": "f93278c6a89e0225",
+"title": "Winning isn’t everything: Inside cycling’s high-stakes race for UCI points",
+"url": "https://www.cyclingnews.com/pro-cycling/racing/winning-isnt-everything-inside-cyclings-high-stakes-race-for-uci-points/",
 "source": "Cyclingnews",
-"when": "Wed 15:32",
+"when": "19:12",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/JfCC6D4bHoTH4FDpkgLt33-1920-80.jpg",
-"excerpt": "Injury hangs over Irish rider's first year with Unibet Rose Rockets but 'I found other ways to make myself useful'"
-},
-{
-"id": "249a2ff394fd36b8",
-"title": "Where are they now? Graham Watson, and the stories behind the pictures",
-"url": "https://escapecollective.com/where-are-they-now-graham-watson-and-the-stories-behind-the-pictures/",
-"source": "Escape Collective",
-"when": "02:55",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/Graham-1-1.jpg",
-"excerpt": "The legendary cycling photographer has been retired for 10 years, but he's been anything but idle."
-},
-{
-"id": "9f1797564a9051b6",
-"title": "Don't freeze by the side of the road any longer – my favourite pocket-sized electric bike pump, the Cycplus AS2 Pro, is at a record-low 25% off",
-"url": "https://www.cyclingweekly.com/deals/dont-freeze-by-the-side-of-the-road-any-longer-my-favourite-pocket-sized-electric-bike-pump-the-cycplus-as2-pro-is-at-a-record-low-25-percent-off",
-"source": "Cycling Weekly",
-"when": "09:00",
-"also": [],
-"lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/5NEsFL8aayYFguqxfS4uui-1920-80.jpg",
+"image": "https://cdn.mos.cms.futurecdn.net/CdkmnN3Eu9VfimhDK6HtUh-1920-80.png",
 "excerpt": ""
 },
 {
-"id": "570ebf82d3a2eceb",
-"title": "Big money, big plans, zero votes: The rise and fall of One Cycling",
-"url": "https://escapecollective.com/big-money-big-plans-zero-votes-the-rise-and-fall-of-one-cycling/",
+"id": "5c99864d0e3787c9",
+"title": "Visma-Lease a Bike won't be Visma-Lease a Bike next year",
+"url": "https://escapecollective.com/visma-lease-a-bike-wont-be-visma-lease-a-bike-next-year/",
 "source": "Escape Collective",
-"when": "Wed 22:16",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/CORVOS_00036589-091.jpg",
-"excerpt": ""
-},
-{
-"id": "c47394e4cc692b86",
-"title": "REZ GRVL will keep its name after resolving dispute with SBT GRVL",
-"url": "https://escapecollective.com/rez-grvl-will-keep-its-name-after-resolving-dispute-with-sbt-grvl/",
-"source": "Escape Collective",
-"when": "Wed 21:01",
+"when": "19:40",
 "also": [],
 "lang": "en",
 "image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
+},
+{
+"id": "10b6599738a08134",
+"title": "Pogačar first signed with UAE for €60,000",
+"url": "https://escapecollective.com/pogacar-first-signed-with-uae-for-eur60-000/",
+"source": "Escape Collective",
+"when": "19:37",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
+"excerpt": ""
+},
+{
+"id": "c15b614373246e51",
+"title": "You Can Now Buy a 28-Gram, CNC-Machined Titanium Dynamo Taillight—If You’re One of 30 Buyers",
+"url": "https://velo.outsideonline.com/road/road-gear/allygn-titanium-edelmu-dynamo-taillight/",
+"source": "Velo",
+"when": "16:46",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/DSCF0274-F052e1.jpg?width=1200",
+"excerpt": ""
+},
+{
+"id": "e0bc7e976dce2b7b",
+"title": "Visma-Lease a Bike Just Lost a Title Sponsor – Here’s Why It Matters",
+"url": "https://velo.outsideonline.com/road/road-racing/visma-lease-a-bike-just-lost-a-title-sponsor/",
+"source": "Velo",
+"when": "15:53",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/GettyImages-2284064606-scaled.jpg?width=1200",
 "excerpt": ""
 }
 ]
@@ -6136,15 +6136,15 @@
 "title": "Teams",
 "items": [
 {
-"id": "f451bd094ad61d07",
-"title": "Förre MFF-anfallaren tränar med allsvensk klubb",
-"url": "https://www.sydsvenskan.se/sport/sydsvenskan-sport-direkt-de-senaste-nyheterna/?ifr-dir-postId=2f63673c-224c-465e-b0a1-05578b3432a8",
+"id": "5a826535e7f89bd0",
+"title": "Efter tunga året – MFF pausar samarbetet med Olympic",
+"url": "https://www.sydsvenskan.se/sport/bekraftar-mff-pausar-samarbete-med-olympic/",
 "source": "Sydsvenskan",
-"when": "08:41",
+"when": "10:30",
 "also": [],
 "lang": "sv",
-"image": null,
-"excerpt": "Klubblös sedan i våras."
+"image": "https://static.bonniernews.se/ba/0c135e95-833c-4452-957d-63b760922074.jpeg?crop=3200%2C1800%2Cx0%2Cy0&width=1200&format=pjpg&auto=avif",
+"excerpt": "MFF-tränaren får lämna • ”Det är vägen framåt.”"
 },
 {
 "id": "d8d4a1c786946731",
@@ -6204,7 +6204,7 @@
 ]
 }
 ],
-"lead": "271dd36610780c03"
+"lead": "2d807bf1ba2a6ae2"
 },
 {
 "id": "chess",
@@ -6216,6 +6216,28 @@
 "id": "chess",
 "title": null,
 "items": [
+{
+"id": "21589cb4ea912294",
+"title": "World Championship: Game 3 ends in 60-move draw",
+"url": "https://en.chessbase.com/post/world-championship-2026-live",
+"source": "ChessBase",
+"when": "15:45",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133429_l200",
+"excerpt": ""
+},
+{
+"id": "55a5f90146acd1fa",
+"title": "When chess starts to sing",
+"url": "https://en.chessbase.com/post/when-chess-starts-to-sing",
+"source": "ChessBase",
+"when": "11:00",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133444_l200",
+"excerpt": ""
+},
 {
 "id": "e9156095dce334b0",
 "title": "World-сlass commentary meets cutting-edge technology at the Salesforce FIDE World Championship Match 2026",
@@ -6239,17 +6261,6 @@
 "excerpt": ""
 },
 {
-"id": "decd54a3d170f3b2",
-"title": "World Championship Game 2: A London in Geneva",
-"url": "https://en.chessbase.com/post/world-championship-2026-2",
-"source": "ChessBase",
-"when": "Wed 23:35",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133451_l200",
-"excerpt": ""
-},
-{
 "id": "ef9784ab02d0429e",
 "title": "Salesforce FIDE World Championship Match: Gukesh and Sindarov size each other up",
 "url": "https://www.fide.com/salesforce-fide-world-championship-match-gukesh-and-sindarov-size-each-other-up/",
@@ -6258,17 +6269,6 @@
 "also": [],
 "lang": "en",
 "image": "https://www.fide.com/wp-content/uploads/WCM-2026-D02-Gukesh-Sindarov.jpg",
-"excerpt": ""
-},
-{
-"id": "21589cb4ea912294",
-"title": "World Championship: Gukesh v. Sindarov - Game two ends drawn after 20 moves",
-"url": "https://en.chessbase.com/post/world-championship-2026-live",
-"source": "ChessBase",
-"when": "Wed 15:45",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133429_l200",
 "excerpt": ""
 },
 {
@@ -6283,6 +6283,17 @@
 "excerpt": ""
 },
 {
+"id": "54425566a4691a18",
+"title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
+"url": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3",
+"source": "Chess.com",
+"when": "08:10",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2279079.7a0a2bee.5000x5000o.c0d6d63cd148.png",
+"excerpt": ""
+},
+{
 "id": "ef806563a547f470",
 "title": "Gukesh's London System doesn't surprise Sindarov - 2",
 "url": "https://theweekinchess.com/twic-news-feed/gukeshs-london-system-doesnt-surprise-sindarov",
@@ -6294,22 +6305,11 @@
 "lang": "en",
 "image": null,
 "excerpt": ""
-},
-{
-"id": "5837c86dc107d61d",
-"title": "Abdusattorov, Woodward Start With Wins In London Chess Classic",
-"url": "https://www.chess.com/news/view/2026-london-chess-classic-round-1",
-"source": "Chess.com",
-"when": "Wed 23:38",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2278813.ef946a89.5000x5000o.4b7757b27660.png",
-"excerpt": ""
 }
 ]
 }
 ],
-"lead": "e9156095dce334b0"
+"lead": "21589cb4ea912294"
 },
 {
 "id": "ai",
@@ -6331,6 +6331,17 @@
 "lang": "en",
 "image": "https://www.databricks.com/sites/default/files/2026-11/Blog-Data-Modeling-Best-Practices-for-an-Agentic-CDP-Part-1-The-Data-Foundation.png",
 "excerpt": "A customer saved a jacket to their wishlist on your site 9 days ago. This morning..."
+},
+{
+"id": "26cc350f68332e96",
+"title": "Rethinking read replicas for the lakebase architecture",
+"url": "https://www.databricks.com/blog/rethinking-read-replicas-lakebase-architecture",
+"source": "Databricks",
+"when": "14:45",
+"also": [],
+"lang": "en",
+"image": "https://www.databricks.com/sites/default/files/2026-11/read-replicas-lakebase.png",
+"excerpt": "The idea behind read replicas makes sense: when your app gets busy, you add a couple..."
 },
 {
 "id": "3fee8afed2e33e35",
@@ -6355,11 +6366,11 @@
 "excerpt": ""
 },
 {
-"id": "fe5c4eda6412c1ea",
-"title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
-"url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+"id": "4c37a5938bf14571",
+"title": "Quoting Jack Despain Zhou",
+"url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
 "source": "Simon Willison",
-"when": "07:08",
+"when": "16:09",
 "also": [],
 "lang": "en",
 "image": null,
@@ -6397,17 +6408,6 @@
 "lang": "en",
 "image": null,
 "excerpt": "An agentic factory is a centralized model to accelerate the development of effective agentic systems."
-},
-{
-"id": "2a81a021046e86c5",
-"title": "What 5,400 Malicious npm Packages Reveal about Software Supply Chain Risk in 2026",
-"url": "https://www.databricks.com/blog/what-5400-malicious-npm-packages-reveal-about-software-supply-chain-risk-2026",
-"source": "Databricks",
-"when": "Mon 21:47",
-"also": [],
-"lang": "en",
-"image": "https://www.databricks.com/sites/default/files/2026-11/cover-notext.png",
-"excerpt": "Executive summaryThis report is the first of a series of blogs analyzing the supply chain threat landscape..."
 }
 ]
 }
@@ -6458,6 +6458,19 @@
 "excerpt": "Bayer has become the latest drug giant to turn to Hansoh Pharma for its antibody-drug conjugate expertise."
 },
 {
+"id": "0615ff6363b4e04d",
+"title": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
+"url": "https://www.fiercebiotech.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers",
+"source": "Fierce Biotech",
+"when": "Wed 02:03",
+"also": [
+"Fierce Pharma"
+],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/Sanofi_2.jpg?VersionId=rE23zCddbZSaOvHueK7G6Jz1OPLLu5oW",
+"excerpt": ""
+},
+{
 "id": "4ac45443155ffc6d",
 "title": "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head",
 "url": "https://www.biopharmadive.com/news/arcus-quemliclustat-belite-amgen-opdivo-biosimilar/875512/",
@@ -6477,19 +6490,6 @@
 "also": [],
 "lang": "en",
 "image": "https://endpoints.news/wp-content/uploads/2025/03/News-Briefing-Social-and-Tile.jpg",
-"excerpt": ""
-},
-{
-"id": "0615ff6363b4e04d",
-"title": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
-"url": "https://www.fiercebiotech.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers",
-"source": "Fierce Biotech",
-"when": "Wed 02:03",
-"also": [
-"Fierce Pharma"
-],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/Sanofi_2.jpg?VersionId=rE23zCddbZSaOvHueK7G6Jz1OPLLu5oW",
 "excerpt": ""
 },
 {
@@ -6526,18 +6526,18 @@
 "date": "2026-11-26",
 "dow": "Today",
 "dm": "26.11.",
-"label": "Snow grains",
+"label": "Light snow",
 "icon": "🌨️",
-"hi": 2,
+"hi": 1,
 "lo": 0,
-"rain_mm": 0.3,
-"rain_pct": 73,
+"rain_mm": 0.2,
+"rain_pct": 85,
 "wind": 6,
 "uv": 1,
 "sunrise": "07:49",
 "sunset": "16:43",
-"bar_l": 30,
-"bar_w": 20
+"bar_l": 38,
+"bar_w": 12
 },
 "slots": [
 {
@@ -6545,18 +6545,18 @@
 "temp": 0,
 "icon": "🌨️",
 "label": "Light snow",
-"rain_pct": 73
+"rain_pct": 85
 },
 {
 "name": "Afternoon",
-"temp": 1,
+"temp": 0,
 "icon": "☁️",
 "label": "Overcast",
-"rain_pct": 5
+"rain_pct": 0
 },
 {
 "name": "Evening",
-"temp": 2,
+"temp": 0,
 "icon": "🌦️",
 "label": "Light drizzle",
 "rain_pct": 0
@@ -6567,52 +6567,52 @@
 "date": "2026-11-26",
 "dow": "Today",
 "dm": "26.11.",
-"label": "Snow grains",
+"label": "Light snow",
 "icon": "🌨️",
-"hi": 2,
+"hi": 1,
 "lo": 0,
-"rain_mm": 0.3,
-"rain_pct": 73,
+"rain_mm": 0.2,
+"rain_pct": 85,
 "wind": 6,
 "uv": 1,
 "sunrise": "07:49",
 "sunset": "16:43",
-"bar_l": 30,
-"bar_w": 20
+"bar_l": 38,
+"bar_w": 12
 },
 {
 "date": "2026-11-27",
 "dow": "Fri",
 "dm": "27.11.",
-"label": "Light drizzle",
-"icon": "🌦️",
+"label": "Snow grains",
+"icon": "🌨️",
 "hi": 2,
 "lo": 0,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 6,
-"uv": 1,
+"wind": 8,
+"uv": 2,
 "sunrise": "07:51",
 "sunset": "16:42",
-"bar_l": 30,
-"bar_w": 20
+"bar_l": 38,
+"bar_w": 25
 },
 {
 "date": "2026-11-28",
 "dow": "Sat",
 "dm": "28.11.",
-"label": "Partly cloudy",
-"icon": "⛅",
-"hi": 3,
+"label": "Overcast",
+"icon": "☁️",
+"hi": 4,
 "lo": -1,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 11,
+"wind": 12,
 "uv": 2,
 "sunrise": "07:52",
 "sunset": "16:42",
-"bar_l": 20,
-"bar_w": 40
+"bar_l": 25,
+"bar_w": 62
 },
 {
 "date": "2026-11-29",
@@ -6620,15 +6620,15 @@
 "dm": "29.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 5,
+"hi": 4,
 "lo": 0,
-"rain_mm": 2.5,
-"rain_pct": 77,
-"wind": 5,
+"rain_mm": 0.8,
+"rain_pct": 63,
+"wind": 6,
 "uv": 2,
 "sunrise": "07:53",
 "sunset": "16:41",
-"bar_l": 30,
+"bar_l": 38,
 "bar_w": 50
 },
 {
@@ -6637,16 +6637,16 @@
 "dm": "30.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 7,
-"lo": 4,
-"rain_mm": 12.2,
-"rain_pct": 89,
+"hi": 4,
+"lo": 2,
+"rain_mm": 4.7,
+"rain_pct": 70,
 "wind": 3,
 "uv": 1,
 "sunrise": "07:55",
 "sunset": "16:41",
-"bar_l": 70,
-"bar_w": 30
+"bar_l": 62,
+"bar_w": 25
 },
 {
 "date": "2026-12-01",
@@ -6654,50 +6654,50 @@
 "dm": "01.12.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 5,
-"lo": 2,
+"hi": 4,
+"lo": 1,
 "rain_mm": 0,
-"rain_pct": 1,
-"wind": 5,
+"rain_pct": 0,
+"wind": 6,
 "uv": 2,
 "sunrise": "07:56",
 "sunset": "16:40",
 "bar_l": 50,
-"bar_w": 30
+"bar_w": 38
 },
 {
 "date": "2026-12-02",
 "dow": "Wed",
 "dm": "02.12.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 7,
-"lo": 2,
-"rain_mm": 0.6,
-"rain_pct": 17,
-"wind": 7,
+"label": "Fog",
+"icon": "🌫️",
+"hi": 3,
+"lo": 1,
+"rain_mm": 0,
+"rain_pct": 11,
+"wind": 8,
 "uv": 2,
 "sunrise": "07:57",
 "sunset": "16:40",
 "bar_l": 50,
-"bar_w": 50
+"bar_w": 25
 },
 {
 "date": "2026-12-03",
 "dow": "Thu",
 "dm": "03.12.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 6,
-"lo": 3,
-"rain_mm": 2.1,
-"rain_pct": 25,
-"wind": 11,
-"uv": 2,
+"label": "Fog",
+"icon": "🌫️",
+"hi": 5,
+"lo": 0,
+"rain_mm": 0,
+"rain_pct": 33,
+"wind": 8,
+"uv": 0,
 "sunrise": "07:58",
 "sunset": "16:39",
-"bar_l": 60,
-"bar_w": 30
+"bar_l": 38,
+"bar_w": 62
 },
 {
 "date": "2026-12-04",
@@ -6708,13 +6708,13 @@
 "hi": 5,
 "lo": -1,
 "rain_mm": 0,
-"rain_pct": 11,
+"rain_pct": 16,
 "wind": 5,
-"uv": 2,
+"uv": 1,
 "sunrise": "07:59",
 "sunset": "16:39",
-"bar_l": 20,
-"bar_w": 60
+"bar_l": 25,
+"bar_w": 75
 },
 {
 "date": "2026-12-05",
@@ -6725,17 +6725,17 @@
 "hi": 4,
 "lo": -3,
 "rain_mm": 0,
-"rain_pct": 3,
+"rain_pct": 12,
 "wind": 7,
-"uv": 2,
+"uv": 1,
 "sunrise": "08:00",
 "sunset": "16:39",
 "bar_l": 0,
-"bar_w": 70
+"bar_w": 88
 }
 ],
 "lo": -3,
-"hi": 7
+"hi": 5
 }
 }
 }
