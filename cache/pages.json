@@ -5958,10 +5958,10 @@
 },
 "2026-11-27": {
 "date": "2026-11-27",
-"built_at": "2026-11-27T08:21:52.729264+00:00",
-"built_local": "09:21",
-"edition": "Morning",
-"feeds_ok": 55,
+"built_at": "2026-11-27T19:39:07.717899+00:00",
+"built_local": "20:39",
+"edition": "Evening",
+"feeds_ok": 51,
 "feeds_total": 55,
 "sections": [
 {
@@ -5974,6 +5974,36 @@
 "id": "world",
 "title": null,
 "items": [
+{
+"id": "cfaeabade4b85364",
+"title": "Uganda to withdraw troops from DR Congo town after army chief's threat sparks row",
+"url": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+"source": "France 24",
+"when": "18:56",
+"also": [
+"Africanews",
+"BBC World"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/c2217142-ea80-11f1-be7e-77d069279b82/w:1024/p:16x9/AFP-20241220-36QY39P-v1-HighRes-DrcongoRwandaColnflictDisplaced.jpg",
+"excerpt": ""
+},
+{
+"id": "3a7f622bbc190452",
+"title": "Iran denies involvement in Kuwait strike that killed two Italians",
+"url": "http://www.africanews.com/2026/11/27/iran-denies-involvement-in-kuwait-strike-that-killed-two-italians/",
+"source": "Africanews",
+"when": "14:21",
+"also": [
+"The Hindu",
+"Al Jazeera",
+"SCMP",
+"BBC World"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/10/01/09/86/640x360_cmsv2_22bc83e0-9277-5cfa-8ddd-49c599078c25-10010986.jpg?1795771726",
+"excerpt": "Iran’s foreign minister has denied his country was responsible for the deaths of two Italians nationals killed in a strike on Kuwait."
+},
 {
 "id": "b35b10701c1f058c",
 "title": "Trump urges Putin to end 'military aggression' in Europe",
@@ -5990,34 +6020,42 @@
 "excerpt": ""
 },
 {
-"id": "5a541ee96da9c0bf",
-"title": "Two Italians killed in drone attack in Kuwait",
-"url": "https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece",
+"id": "504722fe69a8cba6",
+"title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+"url": "https://www.thehindu.com/news/international/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/article71750783.ece",
 "source": "The Hindu",
-"when": "00:39",
+"when": "16:45",
 "also": [
-"Al Jazeera",
-"SCMP",
-"BBC World"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/col18g/article71748862.ece/alternates/LANDSCAPE_1200/2026-04-04T150829Z_926261471_RC2EIKA1Z4FH_RTRMADP_3_IRAN-CRISIS-BAHRAIN.JPG",
-"excerpt": ""
-},
-{
-"id": "c6d0048914734af1",
-"title": "Duran Duran guitarist Andy Taylor dies aged 65",
-"url": "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65",
-"source": "France 24",
-"when": "Thu 00:37",
-"also": [
-"DW",
-"The Hindu",
-"BBC World",
 "SCMP"
 ],
 "lang": "en",
-"image": "https://s.france24.com/media/display/968794c0-e928-11f1-a2c5-c131ae9bfe9c/w:1024/p:16x9/063-53536468KV127-Fashion-Rocks.jpg",
+"image": "https://th-i.thgim.com/public/incoming/ahyovp/article71750819.ece/alternates/LANDSCAPE_1200/2026-11-27T110007Z_1971608881_RC27VS91XAH3_RTRMADP_3_USA-PENTAGON-AIR-FORCE-CLOUD.JPG",
+"excerpt": "The intrusion at Cloud One was discovered within the past month or so ⁠during work to upgrade the system, two people familiar with the matter said"
+},
+{
+"id": "cc319b56ddef3174",
+"title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+"url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "16:15",
+"also": [
+"BBC World"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2020/10/2019-06-17T232122Z_1159317181_RC17A021DBA0_RTRMADP_3_CANADA-QUEBEC-RELIGION-1.jpg?resize=1920%2C1440",
+"excerpt": "Quebec’s ban on teachers and police wearing religious symbols such as hijabs and turbans on the job remains in place."
+},
+{
+"id": "83fd5ce2f3809182",
+"title": "Italy says not informed about Ukraine drone strike on Russian ships in Libya",
+"url": "http://www.africanews.com/2026/11/27/italy-not-informed-about-ukraine-drone-strike-on-russian-ships-in-libya/",
+"source": "Africanews",
+"when": "09:37",
+"also": [
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/10/01/04/29/640x360_cmsv2_d1e736b0-413d-5ac3-8642-d7a356e5605d-10010429.jpg?1795758703",
 "excerpt": ""
 },
 {
@@ -6034,32 +6072,6 @@
 "excerpt": "New York’s famed Macy’s parade was postponed for the first time in its 100-year history"
 },
 {
-"id": "83fd5ce2f3809182",
-"title": "Italy not informed about Ukraine drone strike on Russian ships in Libya",
-"url": "http://www.africanews.com/2026/11/27/italy-not-informed-about-ukraine-drone-strike-on-russian-ships-in-libya/",
-"source": "Africanews",
-"when": "08:16",
-"also": [
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://images.euronews.com/articles/stories/10/01/04/29/640x360_cmsv2_d1e736b0-413d-5ac3-8642-d7a356e5605d-10010429.jpg?1795758703",
-"excerpt": ""
-},
-{
-"id": "f468780a196b05b0",
-"title": "Egypt: 31 people killed in Cairo after fuel truck overturns",
-"url": "https://www.france24.com/en/video/20261126-egypt-31-people-killed-in-cairo-after-fuel-truck-overturns",
-"source": "France 24",
-"when": "Thu 12:28",
-"also": [
-"DW"
-],
-"lang": "en",
-"image": "https://s.france24.com/media/display/caddf70c-e98a-11f1-ad2a-77d069279b82/w:1024/p:16x9/EGYPT-Thumbnail.jpg",
-"excerpt": ""
-},
-{
 "id": "5481683e1ff87f52",
 "title": "Musk pledges two SpaceX shares for every US child",
 "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
@@ -6074,46 +6086,33 @@
 "excerpt": "US children would receive one share from SpaceX and one from him personally, Musk said."
 },
 {
-"id": "a7aa5579f45bd632",
-"title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
-"url": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
+"id": "b7a5667aa1e8d784",
+"title": "Guinea-Bissau military leaders delay presidential election until 2028",
+"url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
 "source": "Al Jazeera",
-"when": "Thu 18:18",
-"also": [
-"SCMP"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0859c77259-1795709383.jpg?resize=1920%2C1440",
-"excerpt": "Paris court of appeal dismisses allegations relating to a second incident involving actress Charlotte Arnould."
-},
-{
-"id": "c31621ffb3eb68fb",
-"title": "Diesel tanker capsizes near Ibiza, killing crew member",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Thu 16:56",
+"when": "Thu 19:07",
 "also": [
 "BBC World"
 ],
 "lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795708592.jpg?resize=1920%2C1080&quality=80",
-"excerpt": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza."
+"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b086d135f5d-1795714323.jpg?resize=1920%2C1440",
+"excerpt": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028."
 },
 {
-"id": "0aaae2495fe44a8b",
-"title": "El Niño-Driven Drought in Brazil's Roraima Isolates Communities and Forces Water Rationing",
-"url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/11/el-nino-driven-drought-in-brazils-roraima-isolates-communities-and-forces-water-rationing.shtml",
-"source": "Folha",
-"when": "02:53",
+"id": "7aa7ee2b55017fb5",
+"title": "Pedro Sánchez confident he can secure another term for Spain’s progressive government",
+"url": "https://english.elpais.com/spain/2026-11-27/pedro-sanchez-confident-he-can-secure-another-term-for-spains-progressive-government.html",
+"source": "El País English",
+"when": "19:50",
 "also": [],
 "lang": "en",
-"image": "https://f.i.uol.com.br/fotografia/2026/11/25/17956314566b072960a818e_1795631456_3x2_rt.jpg",
-"excerpt": ""
+"image": "https://images.english.elpais.com/resizer/v2/LACMVWCYGBB2ZOGWMKVGUYLNBI.jpg?auth=202ba79d5663e69f6b9fd53c4562050cf175541048d7ccb2c024c788b2ad0ccd",
+"excerpt": "The Spanish prime minister says his party could emerge as the largest force in Sunday’s election and secure a parliamentary majority"
 }
 ]
 }
 ],
-"lead": "b35b10701c1f058c"
+"lead": "cfaeabade4b85364"
 },
 {
 "id": "basel",
@@ -6126,119 +6125,123 @@
 "title": null,
 "items": [
 {
-"id": "f85c653509f2a4f1",
-"title": "Autobahn im Kanton Zürich – Unfall mit mehreren Fahrzeugen – A1-Abschnitt länger gesperrt",
-"url": "https://www.srf.ch/news/schweiz/autobahn-im-kanton-zuerich-unfall-mit-mehreren-fahrzeugen-a1-abschnitt-laenger-gesperrt",
+"id": "d8dc709a213f47ac",
+"title": "Langjähriger Tele-Züri-Chef – Markus Gilli im Alter von 71 Jahren gestorben",
+"url": "https://www.srf.ch/news/schweiz/langjaehriger-tele-zueri-chef-markus-gilli-im-alter-von-71-jahren-gestorben",
 "source": "SRF News",
-"when": "09:08",
-"also": [],
+"when": "18:10",
+"also": [
+"NZZ"
+],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/d7fd4c.webp",
-"excerpt": "Auf der Autobahn A1 sind am Morgen zwischen Effretikon und Winterthur-Töss mehrere Fahrzeuge kollidiert."
+"image": "https://www.srf.ch/static/cms/images//320ws/4c92105.webp",
+"excerpt": "Der langjährige TeleZüri-Chefredaktor und TV-Moderator Markus Gilli ist im Alter von 71 Jahren verstorben."
 },
 {
-"id": "ec8d64496c00e1e8",
-"title": "Fall Leila Moon: Staatsanwaltschaft erhebt Anklage gegen Joël Thüring",
-"url": "https://www.bazonline.ch/leila-moon-anklage-gegen-joel-thuering-wegen-verleumdung-304506591452",
+"id": "078fa08e54f9c962",
+"title": "Erneuter Vorfall: Mann versucht Mädchen in Auto zu zerren",
+"url": "https://bajour.ch/a/erneuter-vorfall-mann-versucht-maedchen-in-auto-zu-zerren",
+"source": "Bajour",
+"when": "15:04",
+"also": [
+"Basler Zeitung"
+],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a21d48-843c-753a-aa87-e4554f057d94?quality=80&sig=aVDkQS7eurY_uqjqtR9u6_4ulYioDpHcvaE3dzowikZlvAmTQH6oF1umwjeNBGIY-2ppTL4SPZpvTIOaAsOXAA",
+"excerpt": ""
+},
+{
+"id": "d61895ae4f5a009c",
+"title": "Ticket als «Betriebsunfall» – So reagiert die Politik auf Blochers Äusserungen",
+"url": "https://www.srf.ch/news/schweiz/ticket-als-betriebsunfall-so-reagiert-die-politik-auf-blochers-aeusserungen",
+"source": "SRF News",
+"when": "20:30",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/a0eed4.webp",
+"excerpt": "Nationalrätinnen und Nationalräte sagen, was sie von den Äusserungen des SVP-Parteipatrons Christoph Blocher halten."
+},
+{
+"id": "9eedd31c3ae684d4",
+"title": "Von Berner Behörden entdeckt – Wolf illegal als Haustier gehalten: Die wichtigsten Fragen",
+"url": "https://www.srf.ch/news/schweiz/von-berner-behoerden-entdeckt-wolf-illegal-als-haustier-gehalten-die-wichtigsten-fragen",
+"source": "SRF News",
+"when": "20:01",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/ad0701.webp",
+"excerpt": "Ein als Hund registrierter Wolf wurde im Kanton Bern eingezogen. Was bedeutet das für Haltung, Unterbringung und Tier?"
+},
+{
+"id": "4995a7f0e1cad28f",
+"title": "Verunsicherung in Basel: Fremde sprechen Kinder an – Eltern: «Wir hatten schlaflose Nächte»",
+"url": "https://www.bazonline.ch/basel-fremder-spricht-erneut-kind-an-eltern-besorgt-499237762313",
 "source": "Basler Zeitung",
-"when": "08:37",
+"when": "19:22",
 "also": [],
 "lang": "de",
-"image": "https://cdn.unitycms.io/images/FghVsbYEqttB-E89nfPmAg.jpg",
-"excerpt": "Der Basler SVP-Grossrat soll die Musikerin als Unterstützerin von Hamas-Terroristen bezeichnet haben. Jetzt liegt eine Anklage vor."
-},
-{
-"id": "4631acb124af5bee",
-"title": "Fast-Bundesrat Hansjörg Walter – «Mir fehlte nur eine einzige Stimme – meine eigene»",
-"url": "https://www.srf.ch/news/schweiz/fast-bundesrat-hansjoerg-walter-mir-fehlte-nur-eine-einzige-stimme-meine-eigene",
-"source": "SRF News",
-"when": "07:56",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/0f6961.webp",
-"excerpt": "Bloss eine Stimme fehlte dem damaligen SVP-Nationalrat 2008 zur Wahl in den Bundesrat. Wie erinnert er sich daran?"
-},
-{
-"id": "631317d179233609",
-"title": "Niederschläge in den Alpen – So viel Schnee gab es seit 1987 nicht mehr",
-"url": "https://www.srf.ch/news/dialog/niederschlaege-in-den-alpen-so-viel-schnee-gab-es-seit-1987-nicht-mehr",
-"source": "SRF News",
-"when": "05:59",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/cff835.webp",
-"excerpt": "In vielen Regionen liegt bereits meterhoch Schnee. Die Skigebiete profitieren von einem aussergewöhnlichen Saisonstart."
-},
-{
-"id": "6836664d9efe0344",
-"title": "«Zum Glück ist die Abschlusserklärung gescheitert»",
-"url": "https://bajour.ch/a/junge-baslerin-am-weltklimagipfel-in-antalya",
-"source": "Bajour",
-"when": "02:00",
-"also": [],
-"lang": "de",
-"image": "https://media-bajour.wepublish.cloud/01a21805-6ada-71c9-9708-90af5b14e6ec?quality=80&sig=s0gVGpgMXPHut_VrMAppR2GkZYhPzibEdykBdx5HmmjJadzZHb8XCHuNXo9fJnkDAHdRWBurFdnxUzAE9BUHCw",
+"image": "https://cdn.unitycms.io/images/03JC8R4Z4HN91jJfcQibu2.jpg",
 "excerpt": ""
 },
 {
-"id": "0e68e44ef31c156a",
-"title": "Bagatellgrenze: Fluch oder Segen?",
-"url": "https://bajour.ch/a/bagatellgrenze-fluch-oder-segen",
-"source": "Bajour",
-"when": "02:00",
+"id": "8a6c9ad00439055b",
+"title": "Weihnachtsstimmung und wilde Partys: Basel, das läuft am Wochenende",
+"url": "https://www.bazonline.ch/basel-weihnachtsmarkt-und-andere-tipps-fuers-wochenende-413436521985",
+"source": "Basler Zeitung",
+"when": "17:36",
 "also": [],
 "lang": "de",
-"image": "https://media-bajour.wepublish.cloud/01a21816-1934-70a9-bf9e-3f4bb34d84d5?quality=80&sig=-tQjjZXPZDk7-nNIgXouVr3L7VC3Ujkk58O41qtt8Hm6fSPYQj0vuktjpl08QVdbjGdiW54fN8cWsNMyyloIDA",
+"image": "https://cdn.unitycms.io/images/3xDhAVenqOT9jNyCMOd-Zi.webp",
 "excerpt": ""
 },
 {
-"id": "20b2c8ef15683281",
-"title": "Brandfall",
-"url": "https://www.bs.ch/medienmitteilungen/2026-brandfall-23",
+"id": "059b1553c4806026",
+"title": "E-Voting-Panne in Basel: Ihre Stimme bleibt ungezählt: Auslandschweizerin scheitert vor Bundesgericht",
+"url": "https://www.bazonline.ch/e-voting-basel-bundesgericht-weist-beschwerde-ab-184968467071",
+"source": "Basler Zeitung",
+"when": "17:17",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/7womYHZsKcEAD2xXpbjW_n.webp",
+"excerpt": ""
+},
+{
+"id": "393688162ca8ae9d",
+"title": "Erhöhte Radonwerte in sechs Schulen",
+"url": "https://bajour.ch/a/erhoehte-radonwerte-in-sechs-schulen-in-riehen-und-basel",
+"source": "Bajour",
+"when": "13:38",
+"also": [],
+"lang": "de",
+"image": null,
+"excerpt": "Messungen des Kantonalen Laboratoriums zeigen Überschreitungen des Referenzwerts – akute Gefahr besteht aber nicht."
+},
+{
+"id": "08e2ffcd0d52c8c2",
+"title": "Anklage gegen SVP-Grossrat Joël Thüring",
+"url": "https://bajour.ch/a/anklage-gegen-svp-grossrat-joel-thuering-im-fall-leila-moon",
+"source": "Bajour",
+"when": "10:31",
+"also": [],
+"lang": "de",
+"image": null,
+"excerpt": "Nach einer Anzeige der Basler DJ Leila Moon landet der Fall vor dem Strafgericht."
+},
+{
+"id": "209400bd362fbbdb",
+"title": "Die Kreuzung Bankverein wird fussgänger- und velofreundlicher",
+"url": "https://www.bs.ch/medienmitteilungen/bvd/2026-die-kreuzung-bankverein-wird-fussgaenger-und-velofreundlicher",
 "source": "Kanton Basel-Stadt",
-"when": "09:21",
+"when": "20:39",
 "also": [],
 "lang": "de",
 "image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
 "excerpt": ""
-},
-{
-"id": "3e102d3d6ddde16f",
-"title": "INTERVIEW - Die Kaufsuchtexpertin sagt über den Black Friday: «Das ist eine höllische Zeit für Betroffene»",
-"url": "https://www.nzz.ch/panorama/die-kaufsuchtexpertin-sagt-ueber-den-black-friday-das-ist-eine-hoellische-zeit-fuer-betroffene-ld.10073617",
-"source": "NZZ",
-"when": "09:06",
-"also": [],
-"lang": "de",
-"image": "https://img-msp-prod.nzz.ch/2026/11/26/7d02624a-6551-41bf-9305-0a4cf28ad103.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
-"excerpt": ""
-},
-{
-"id": "7c4e1649ada03ae8",
-"title": "Jeroen Dierssen",
-"url": "https://bajour.ch/a/jeroen-dierssen-basler-des-jahres",
-"source": "Bajour",
-"when": "Thu 21:44",
-"also": [],
-"lang": "de",
-"image": "https://media-bajour.wepublish.cloud/01a21998-c177-741a-85e4-61d5305f3ca9?quality=80&sig=qtzOPnh0JNQO2vZycgu3OXeac-PUrdwlK2sPlJB-YJpmsHxmkyNRRwOzC6HyMJOBIj_V3-83eyDBaZhUy2dwBQ",
-"excerpt": ""
-},
-{
-"id": "9f3c30ee33a12f22",
-"title": "Unfall bei Bubendorf: Lieferwagen landet zwischen Velobrücke und Leitplanke",
-"url": "https://www.bazonline.ch/bubendorf-kollision-zwischen-auto-und-lieferwagen-665565398347",
-"source": "Basler Zeitung",
-"when": "Thu 16:51",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/0HHq_KDU4LI9dtQ2p9O7eI.jpg",
-"excerpt": "Bei einer Kollision am Donnerstagmorgen erlitten zwei Personen leichte Verletzungen. Die Baselbieter Polizei sucht Zeugen."
 }
 ]
 }
 ],
-"lead": "f85c653509f2a4f1"
+"lead": "d8dc709a213f47ac"
 },
 {
 "id": "sport",
@@ -6251,83 +6254,83 @@
 "title": "Cycling",
 "items": [
 {
-"id": "2d807bf1ba2a6ae2",
-"title": "Visma steps down as title sponsor of Visma-Lease a Bike team",
-"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/visma-steps-down-as-title-sponsor-of-visma-lease-a-bike-team/",
+"id": "8e6e862860ceba57",
+"title": "Rabobank returns to title sponsorship as new naming sponsor of Visma-Lease a Bike Women",
+"url": "https://www.cyclingnews.com/pro-cycling/womens-cycling/rabobank-returns-to-title-sponsorship-as-new-naming-sponsor-of-visma-lease-a-bike-women/",
 "source": "Cyclingnews",
-"when": "Thu 14:24",
+"when": "13:02",
 "also": [
 "Escape Collective",
 "Cycling Weekly"
 ],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/XqTogiuHVyCbXh6aFovKsE-1920-80.jpg",
-"excerpt": "Software company to continue as 'Founding Partner'"
+"image": "https://cdn.mos.cms.futurecdn.net/rGw27rEkndwTyjNy3KR2NT-1920-80.jpg",
+"excerpt": "Men's and women's squads will continue with two separate new sponsors to replace Visma"
 },
 {
-"id": "0a4910c3f86c74cb",
-"title": "Your chance to ask Michael Matthews anything about professional cycling, his career and more – AskCN",
-"url": "https://www.cyclingnews.com/cycling-culture/your-chance-to-ask-michael-matthews-anything-about-professional-cycling-his-career-and-more-askcn/",
+"id": "570810eaf4448a8e",
+"title": "'Bring great bike racing to the people' - Two events debut at USA CRITS for seven races compressed across 22 days in 2027",
+"url": "https://www.cyclingnews.com/pro-cycling/racing/bring-great-bike-racing-to-the-people-two-events-debut-at-usa-crits-for-seven-races-compressed-across-22-days-in-2027/",
 "source": "Cyclingnews",
-"when": "Thu 19:53",
+"when": "20:10",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/HSex9Y2pf3qmy4JpooQDon-1920-80.png",
-"excerpt": "We invite our subscribers and readers to submit their questions for an exclusive Q&A with one of Australia's greatest riders"
+"image": "https://cdn.mos.cms.futurecdn.net/W7hsYNfNVXq27zVMs5aMMT-1920-80.jpg",
+"excerpt": "Tour of Newport News Criterium replaces Sunny King Criterium as opening race in early April"
 },
 {
-"id": "f93278c6a89e0225",
-"title": "Winning isn’t everything: Inside cycling’s high-stakes race for UCI points",
-"url": "https://www.cyclingnews.com/pro-cycling/racing/winning-isnt-everything-inside-cyclings-high-stakes-race-for-uci-points/",
+"id": "312c453bd8b3a209",
+"title": "Netcompany Ineos cancel new transfer Harold Tejada before 2027 season amid biological passport anti-doping investigation",
+"url": "https://www.cyclingnews.com/pro-cycling/teams-riders/netcompany-ineos-cancel-new-transfer-harold-tejada-before-2027-season-amid-biological-passport-anti-doping-investigation/",
 "source": "Cyclingnews",
-"when": "Thu 19:12",
+"when": "18:11",
 "also": [],
 "lang": "en",
-"image": "https://cdn.mos.cms.futurecdn.net/CdkmnN3Eu9VfimhDK6HtUh-1920-80.png",
+"image": "https://cdn.mos.cms.futurecdn.net/hF9N8C42avfveTrkbvggzP-1920-80.jpg",
+"excerpt": "Colombian climber was set to be one of nine new transfers but is provisionally suspended"
+},
+{
+"id": "29c429a53ce53183",
+"title": "Harold Tejada Charged in Doping Case, Netcompany-Ineos Move Collapses Before It Begins",
+"url": "https://velo.outsideonline.com/news/harold-tejada-ineos-doping-charge/",
+"source": "Velo",
+"when": "19:20",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/GettyImages-2265793496.jpg?width=1200",
 "excerpt": ""
 },
 {
-"id": "af77137e39890a94",
-"title": "A few of my favorite things 2026: Jase de Puit",
-"url": "https://escapecollective.com/a-few-of-my-favorite-things-2026-jase-de-puit/",
+"id": "f847ebc18be8c314",
+"title": "Rabobank is back as a title sponsor of a top-tier women's team",
+"url": "https://escapecollective.com/rabobank-is-back-as-a-title-sponsor-of-a-top-tier-womens-team/",
 "source": "Escape Collective",
-"when": "01:10",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/Jase---Fave-Things-2026---Feature-1.png",
-"excerpt": "The things that earned a permanent spot in my riding this year, from S-Works shoes to 90-cent homemade gels."
-},
-{
-"id": "450977935a702577",
-"title": "Can Tadej Pogačar win all three Grand Tours in a season?",
-"url": "https://escapecollective.com/can-tadej-pogacar-win-all-three-grand-tours-in-a-season/",
-"source": "Escape Collective",
-"when": "Thu 20:53",
-"also": [],
-"lang": "en",
-"image": "https://escapecollective.com/content/images/2026/11/Pogacar-Grand-Tour-triple.jpg",
-"excerpt": "The feat would likely settle the 'Greatest of all time' question but a wide range of conditions must fall into place to make it happen."
-},
-{
-"id": "5c99864d0e3787c9",
-"title": "Visma-Lease a Bike won't be Visma-Lease a Bike next year",
-"url": "https://escapecollective.com/visma-lease-a-bike-wont-be-visma-lease-a-bike-next-year/",
-"source": "Escape Collective",
-"when": "Thu 19:40",
+"when": "18:07",
 "also": [],
 "lang": "en",
 "image": "https://escapecollective.com/assets/img/escape-og-fallback.jpg",
 "excerpt": ""
 },
 {
-"id": "c15b614373246e51",
-"title": "You Can Now Buy a 28-Gram, CNC-Machined Titanium Dynamo Taillight—If You’re One of 30 Buyers",
-"url": "https://velo.outsideonline.com/road/road-gear/allygn-titanium-edelmu-dynamo-taillight/",
+"id": "89d336f2b12e7943",
+"title": "Forget Pauline Ferrand-Prévot. She’s Pauline van Baarle Now.",
+"url": "https://velo.outsideonline.com/road/road-racing/pauline-ferrand-prevot-van-baarle/",
 "source": "Velo",
-"when": "Thu 16:46",
+"when": "17:04",
 "also": [],
 "lang": "en",
-"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/DSCF0274-F052e1.jpg?width=1200",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/Z8A_1202-2.jpg?width=1200",
+"excerpt": ""
+},
+{
+"id": "fdd265965507b585",
+"title": "In the Continental ranks, the team matters more than the star",
+"url": "https://escapecollective.com/in-the-conti-ranks-the-team-matters-more-than-the-star/",
+"source": "Escape Collective",
+"when": "16:05",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/11/TOK_1_0001.jpg",
 "excerpt": ""
 }
 ]
@@ -6337,37 +6340,37 @@
 "title": "Teams",
 "items": [
 {
-"id": "249114cf25416848",
-"title": "Week 12 Injury Report: Patriots at Chargers",
-"url": "https://www.patriots.com/news/week-12-injury-report-patriots-at-chargers",
+"id": "1c1437b8cbbf5d89",
+"title": "Expert Predictions: Week 12 Picks for Patriots at Chargers",
+"url": "https://www.patriots.com/news/expert-predictions-week-12-picks-for-patriots-at-chargers",
 "source": "Patriots.com",
-"when": "Thu 21:15",
+"when": "15:46",
 "also": [],
 "lang": "en",
-"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ktpjsebpur3fu7wpiw9z.png",
-"excerpt": "The New England Patriots and the Los Angeles Chargers announce the following player injuries and practice participation ahead of their Week 12 game."
+"image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/zjftdvdmv0x7yrjth8v5.jpg",
+"excerpt": "Experts share their picks for the Patriots Week 12 matchup against the Los Angeles Chargers."
 },
 {
-"id": "5a826535e7f89bd0",
-"title": "Efter tunga året – MFF pausar samarbetet med Olympic",
-"url": "https://www.sydsvenskan.se/sport/bekraftar-mff-pausar-samarbete-med-olympic/",
+"id": "496e1511e6845caa",
+"title": "Which righty starter could balance Red Sox's rotation?",
+"url": "https://www.mlb.com/redsox/news/red-sox-options-for-right-handed-starters-on-free-agent-market",
+"source": "MLB.com",
+"when": "15:34",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/d94gb4qdemlmebej7dsz.jpg",
+"excerpt": ""
+},
+{
+"id": "57df007ebf287375",
+"title": "Hammarby säkrar upp MFF-stjärnans lillebror",
+"url": "https://www.sydsvenskan.se/sport/sydsvenskan-sport-direkt-de-senaste-nyheterna/?ifr-dir-postId=e971eaac-8b24-444b-af79-b40f31121657",
 "source": "Sydsvenskan",
-"when": "Thu 10:30",
+"when": "11:41",
 "also": [],
 "lang": "sv",
-"image": "https://static.bonniernews.se/ba/0c135e95-833c-4452-957d-63b760922074.jpeg?crop=3200%2C1800%2Cx0%2Cy0&width=1200&format=pjpg&auto=avif",
-"excerpt": "MFF-tränaren får lämna • ”Det är vägen framåt.”"
-},
-{
-"id": "d8d4a1c786946731",
-"title": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)",
-"url": "https://www.mlb.com/redsox/news/things-to-be-thankful-for-from-2026-mlb-season",
-"source": "MLB.com",
-"when": "Thu 06:00",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/rr3vrwzsyg3kfprdxwgj.jpg",
-"excerpt": ""
+"image": null,
+"excerpt": "15-åringen erbjuds treårskontrakt."
 },
 {
 "id": "9a2a998036b1195f",
@@ -6405,7 +6408,7 @@
 ]
 }
 ],
-"lead": "2d807bf1ba2a6ae2"
+"lead": "8e6e862860ceba57"
 },
 {
 "id": "chess",
@@ -6418,14 +6421,25 @@
 "title": null,
 "items": [
 {
-"id": "e99875cc7e51b836",
-"title": "World Championship Game 3: A lively draw ahead of the first rest day",
-"url": "https://en.chessbase.com/post/world-championship-2026-3",
+"id": "b78105376c737433",
+"title": "London Chess Classic - Round 3 live",
+"url": "https://en.chessbase.com/post/london-chess-classic-abdusattorov-aronian-ivanchuk-and-the-next-generation",
 "source": "ChessBase",
-"when": "05:50",
+"when": "17:50",
 "also": [],
 "lang": "en",
-"image": "https://en.chessbase.com/thumb/133471_l200",
+"image": "https://en.chessbase.com/thumb/133449_l200",
+"excerpt": ""
+},
+{
+"id": "2ac7d08ca0f6c09b",
+"title": "Agenda for FIDE Extraordinary General Assembly",
+"url": "https://www.fide.com/agenda-for-fide-extraordinary-general-assembly-december-27-2026/",
+"source": "FIDE",
+"when": "20:01",
+"also": [],
+"lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/FIDE-Blue-3.png",
 "excerpt": ""
 },
 {
@@ -6442,6 +6456,28 @@
 "excerpt": ""
 },
 {
+"id": "9ba0e61a79eeae9c",
+"title": "4th FIDE Council meeting 24 November, 2026: List of decisions",
+"url": "https://www.fide.com/4th-fide-council-meeting-24-november-2026-list-of-decisions/",
+"source": "FIDE",
+"when": "18:07",
+"also": [],
+"lang": "en",
+"image": "https://www.fide.com/wp-content/uploads/FIDE-Blue-3.png",
+"excerpt": ""
+},
+{
+"id": "e99875cc7e51b836",
+"title": "World Championship Game 3: A lively draw ahead of the first rest day",
+"url": "https://en.chessbase.com/post/world-championship-2026-3",
+"source": "ChessBase",
+"when": "05:50",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133471_l200",
+"excerpt": ""
+},
+{
 "id": "56529a9397dd0919",
 "title": "Daniel King analyses: A fighting draw in Game 3",
 "url": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king-3",
@@ -6450,50 +6486,6 @@
 "also": [],
 "lang": "en",
 "image": "https://en.chessbase.com/thumb/133473_l200",
-"excerpt": ""
-},
-{
-"id": "55a5f90146acd1fa",
-"title": "When chess starts to sing",
-"url": "https://en.chessbase.com/post/when-chess-starts-to-sing",
-"source": "ChessBase",
-"when": "Thu 11:00",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133444_l200",
-"excerpt": ""
-},
-{
-"id": "e9156095dce334b0",
-"title": "World-сlass commentary meets cutting-edge technology at the Salesforce FIDE World Championship Match 2026",
-"url": "https://www.fide.com/world-%d1%81lass-commentary-meets-cutting-edge-technology-at-the-salesforce-fide-world-championship-match-2026/",
-"source": "FIDE",
-"when": "Thu 08:00",
-"also": [],
-"lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/WCM-2026-Commentators.jpg",
-"excerpt": ""
-},
-{
-"id": "21d822bbf2a8921f",
-"title": "Scandinavian Stars Bjerre, Haug Join Martinez In 3 0 Thursday Triumph",
-"url": "https://www.chess.com/news/view/bjerre-haug-martinez-3-0-thursday-11-26-2026",
-"source": "Chess.com",
-"when": "08:43",
-"also": [],
-"lang": "en",
-"image": "https://images.chesscomfiles.com/uploads/v1/news/2280121.a7e144af.5000x5000o.ee978f0fc6db.png",
-"excerpt": ""
-},
-{
-"id": "ef9784ab02d0429e",
-"title": "Salesforce FIDE World Championship Match: Gukesh and Sindarov size each other up",
-"url": "https://www.fide.com/salesforce-fide-world-championship-match-gukesh-and-sindarov-size-each-other-up/",
-"source": "FIDE",
-"when": "Wed 19:39",
-"also": [],
-"lang": "en",
-"image": "https://www.fide.com/wp-content/uploads/WCM-2026-D02-Gukesh-Sindarov.jpg",
 "excerpt": ""
 },
 {
@@ -6506,11 +6498,22 @@
 "lang": "en",
 "image": "https://image.lichess.org/display?fmt=webp&h=550&op=thumbnail&path=DR9hnPam3iDY.webp&w=880&sig=1863a5c439c1ed23c8b1cb7109da03b98b0fdc2d",
 "excerpt": ""
+},
+{
+"id": "df10f1cf03068314",
+"title": "Gukesh revives an old line of the Berlin in a 60 move draw - 3",
+"url": "https://theweekinchess.com/twic-news-feed/gukesh-revives-an-old-line-of-the-berlin-in-a-60-move-draw",
+"source": "The Week in Chess",
+"when": "00:40",
+"also": [],
+"lang": "en",
+"image": null,
+"excerpt": ""
 }
 ]
 }
 ],
-"lead": "e99875cc7e51b836"
+"lead": "b78105376c737433"
 },
 {
 "id": "ai",
@@ -6600,11 +6603,11 @@
 "excerpt": "An agentic factory is a centralized model to accelerate the development of effective agentic systems."
 },
 {
-"id": "4c37a5938bf14571",
-"title": "Quoting Jack Despain Zhou",
-"url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
-"source": "Simon Willison",
-"when": "Thu 16:09",
+"id": "6723e053658240f5",
+"title": "Paginated reports in Power BI support outbound access protection (Preview)",
+"url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045",
+"source": "Power BI blog",
+"when": "Tue 19:00",
 "also": [],
 "lang": "en",
 "image": null,
@@ -6626,28 +6629,6 @@
 "title": null,
 "items": [
 {
-"id": "f56c5c20218acc93",
-"title": "Bayer goes to Hansoh for ADC deal worth $150M up front",
-"url": "https://endpoints.news/bayer-goes-to-hansoh-for-adc-deal-worth-150m-up-front/",
-"source": "Endpoints News",
-"when": "Wed 16:55",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2026/02/Bayer-shutterstock-social2.jpg",
-"excerpt": ""
-},
-{
-"id": "2826faabbe1b1977",
-"title": "The 38-year history behind Insmed, now Sanofi's strongest wager since 2004",
-"url": "https://endpoints.news/the-38-year-history-behind-insmed-now-sanofis-strongest-wager-since-2004/",
-"source": "Endpoints News",
-"when": "Wed 13:02",
-"also": [],
-"lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2026/11/william-lewis-og.jpg",
-"excerpt": ""
-},
-{
 "id": "08cb735439252b9a",
 "title": "Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC",
 "url": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
@@ -6659,26 +6640,37 @@
 "excerpt": "Bayer has become the latest drug giant to turn to Hansoh Pharma for its antibody-drug conjugate expertise."
 },
 {
-"id": "4ac45443155ffc6d",
-"title": "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head",
-"url": "https://www.biopharmadive.com/news/arcus-quemliclustat-belite-amgen-opdivo-biosimilar/875512/",
-"source": "BioPharma Dive",
-"when": "Wed 17:24",
+"id": "379299e981fdbe83",
+"title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 23-26 November 2026",
+"url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-23-26-november-2026",
+"source": "EMA",
+"when": "12:00",
 "also": [],
 "lang": "en",
-"image": "https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp",
+"image": "https://www.ema.europa.eu/sites/default/files/styles/ema_smp_opengraph/public/2026-06/2026_PRAC_WEB_AD64096328.png.webp?itok=qgjy0r-r",
 "excerpt": ""
 },
 {
-"id": "2ec387b983f047a0",
-"title": "GSK's autoimmune success; AbbVie drug gets expanded label for vitiligo",
-"url": "https://endpoints.news/gsks-autoimmune-success-abbvie-drug-gets-expanded-label-for-vitiligo/",
-"source": "Endpoints News",
-"when": "Wed 16:22",
+"id": "ff6c251a799431fa",
+"title": "Use of GLP-1 medicines shifts towards obesity treatment in Europe, new study shows",
+"url": "https://www.ema.europa.eu/en/news/use-glp-1-medicines-shifts-towards-obesity-treatment-europe-new-study-shows",
+"source": "EMA",
+"when": "11:33",
 "also": [],
 "lang": "en",
-"image": "https://endpoints.news/wp-content/uploads/2025/03/News-Briefing-Social-and-Tile.jpg",
+"image": "https://www.ema.europa.eu/sites/default/files/styles/ema_smp_opengraph/public/2026-11/2026-11_GLP-1%20DARWIN%20EU%20study_slider.png.webp?itok=nadfGe-N",
 "excerpt": ""
+},
+{
+"id": "1bd7c705f37f081d",
+"title": "Fierce Biotech Fundraising Tracker '26: Ritzey reveals $112.5M; VitriVax scores $87M",
+"url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+"source": "Fierce Biotech",
+"when": "20:39",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-474045836.jpg?VersionId=ZrON.9gb_kdB6Eg3v6PzrOmMBLN2o4F4",
+"excerpt": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
 },
 {
 "id": "ffbb2227bac37c20",
@@ -6703,20 +6695,31 @@
 "excerpt": ""
 },
 {
-"id": "7ed9751e4814ff89",
-"title": "Finnish biotech delivers durable symptom relief in phase 2 birch pollen allergy trial",
-"url": "https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial",
-"source": "Fierce Biotech",
+"id": "8d288598741d0ae1",
+"title": "Executive Director speech at European media workshop on vaccines",
+"url": "https://www.ema.europa.eu/en/news/executive-director-speech-european-media-workshop-vaccines",
+"source": "EMA",
+"when": "15:00",
+"also": [],
+"lang": "en",
+"image": "https://www.ema.europa.eu/sites/default/files/styles/ema_smp_opengraph/public/2025-12/2025-12_Emer%20Cooke%20end-of-year%20message_WEB_square.jpg.webp?itok=NwmQEjbk",
+"excerpt": ""
+},
+{
+"id": "9189c579767b85c0",
+"title": "GSK eyes approval filings after asthma med Exdensur scores in rare vascular disease",
+"url": "https://www.fiercepharma.com/pharma/gsk-eyes-approval-filings-after-asthma-med-exdensur-scores-rare-vascular-disease",
+"source": "Fierce Pharma",
 "when": "Wed 21:10",
 "also": [],
 "lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-868815768.jpg?VersionId=0FQQcDui3ToWsKSFHLeU0KPiwqP34daR",
+"image": null,
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "f56c5c20218acc93"
+"lead": "08cb735439252b9a"
 }
 ],
 "weather": {
@@ -6725,18 +6728,18 @@
 "date": "2026-11-27",
 "dow": "Today",
 "dm": "27.11.",
-"label": "Light snow",
+"label": "Snow grains",
 "icon": "🌨️",
 "hi": 2,
 "lo": 0,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 9,
-"uv": 1,
+"wind": 7,
+"uv": 2,
 "sunrise": "07:51",
 "sunset": "16:42",
-"bar_l": 20,
-"bar_w": 20
+"bar_l": 22,
+"bar_w": 22
 },
 "slots": [
 {
@@ -6756,8 +6759,8 @@
 {
 "name": "Evening",
 "temp": 0,
-"icon": "⛅",
-"label": "Partly cloudy",
+"icon": "🌨️",
+"label": "Light snow",
 "rain_pct": 0
 }
 ],
@@ -6766,35 +6769,35 @@
 "date": "2026-11-27",
 "dow": "Today",
 "dm": "27.11.",
-"label": "Light snow",
+"label": "Snow grains",
 "icon": "🌨️",
 "hi": 2,
 "lo": 0,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 9,
-"uv": 1,
+"wind": 7,
+"uv": 2,
 "sunrise": "07:51",
 "sunset": "16:42",
-"bar_l": 20,
-"bar_w": 20
+"bar_l": 22,
+"bar_w": 22
 },
 {
 "date": "2026-11-28",
 "dow": "Sat",
 "dm": "28.11.",
-"label": "Partly cloudy",
-"icon": "⛅",
+"label": "Fog",
+"icon": "🌫️",
 "hi": 4,
-"lo": -2,
+"lo": -1,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 12,
+"wind": 13,
 "uv": 2,
 "sunrise": "07:52",
 "sunset": "16:42",
-"bar_l": 0,
-"bar_w": 60
+"bar_l": 11,
+"bar_w": 56
 },
 {
 "date": "2026-11-29",
@@ -6803,15 +6806,15 @@
 "label": "Light rain",
 "icon": "🌦️",
 "hi": 6,
-"lo": 0,
-"rain_mm": 1.8,
-"rain_pct": 59,
-"wind": 7,
+"lo": -1,
+"rain_mm": 4.4,
+"rain_pct": 88,
+"wind": 6,
 "uv": 1,
 "sunrise": "07:53",
 "sunset": "16:41",
-"bar_l": 20,
-"bar_w": 60
+"bar_l": 11,
+"bar_w": 78
 },
 {
 "date": "2026-11-30",
@@ -6821,14 +6824,14 @@
 "icon": "🌦️",
 "hi": 5,
 "lo": 3,
-"rain_mm": 1.4,
-"rain_pct": 60,
-"wind": 5,
+"rain_mm": 1.1,
+"rain_pct": 84,
+"wind": 4,
 "uv": 2,
 "sunrise": "07:55",
 "sunset": "16:41",
-"bar_l": 50,
-"bar_w": 20
+"bar_l": 56,
+"bar_w": 22
 },
 {
 "date": "2026-12-01",
@@ -6837,15 +6840,15 @@
 "label": "Fog",
 "icon": "🌫️",
 "hi": 6,
-"lo": 2,
+"lo": 1,
 "rain_mm": 0,
 "rain_pct": 0,
-"wind": 5,
+"wind": 6,
 "uv": 2,
 "sunrise": "07:56",
 "sunset": "16:40",
-"bar_l": 40,
-"bar_w": 40
+"bar_l": 33,
+"bar_w": 56
 },
 {
 "date": "2026-12-02",
@@ -6853,67 +6856,67 @@
 "dm": "02.12.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 8,
-"lo": 1,
+"hi": 7,
+"lo": 0,
 "rain_mm": 0,
 "rain_pct": 10,
-"wind": 5,
-"uv": 2,
+"wind": 6,
+"uv": 1,
 "sunrise": "07:57",
 "sunset": "16:40",
-"bar_l": 30,
-"bar_w": 70
+"bar_l": 22,
+"bar_w": 78
 },
 {
 "date": "2026-12-03",
 "dow": "Thu",
 "dm": "03.12.",
-"label": "Light rain",
-"icon": "🌦️",
-"hi": 7,
-"lo": 1,
-"rain_mm": 2.1,
-"rain_pct": 40,
-"wind": 6,
+"label": "Fog",
+"icon": "🌫️",
+"hi": 5,
+"lo": 0,
+"rain_mm": 0,
+"rain_pct": 30,
+"wind": 7,
 "uv": 1,
 "sunrise": "07:58",
 "sunset": "16:39",
-"bar_l": 30,
-"bar_w": 60
+"bar_l": 22,
+"bar_w": 56
 },
 {
 "date": "2026-12-04",
 "dow": "Fri",
 "dm": "04.12.",
-"label": "Overcast",
-"icon": "☁️",
-"hi": 4,
-"lo": -2,
+"label": "Fog",
+"icon": "🌫️",
+"hi": 2,
+"lo": -1,
 "rain_mm": 0,
-"rain_pct": 10,
-"wind": 6,
-"uv": 1,
+"rain_pct": 9,
+"wind": 4,
+"uv": 2,
 "sunrise": "07:59",
 "sunset": "16:39",
-"bar_l": 0,
-"bar_w": 60
+"bar_l": 11,
+"bar_w": 33
 },
 {
 "date": "2026-12-05",
 "dow": "Sat",
 "dm": "05.12.",
-"label": "Partly cloudy",
-"icon": "⛅",
+"label": "Fog",
+"icon": "🌫️",
 "hi": 3,
 "lo": -2,
 "rain_mm": 0,
-"rain_pct": 7,
+"rain_pct": 6,
 "wind": 6,
 "uv": 2,
 "sunrise": "08:00",
 "sunset": "16:39",
 "bar_l": 0,
-"bar_w": 50
+"bar_w": 56
 },
 {
 "date": "2026-12-06",
@@ -6924,17 +6927,17 @@
 "hi": 4,
 "lo": 0,
 "rain_mm": 0,
-"rain_pct": 14,
+"rain_pct": 12,
 "wind": 4,
-"uv": 1,
+"uv": 2,
 "sunrise": "08:02",
 "sunset": "16:38",
-"bar_l": 20,
-"bar_w": 40
+"bar_l": 22,
+"bar_w": 44
 }
 ],
 "lo": -2,
-"hi": 8
+"hi": 7
 }
 }
 }
