@@ -5958,10 +5958,10 @@
 },
 "2026-11-27": {
 "date": "2026-11-27",
-"built_at": "2026-11-27T00:47:18.368781+00:00",
-"built_local": "01:47",
+"built_at": "2026-11-27T08:21:52.729264+00:00",
+"built_local": "09:21",
 "edition": "Morning",
-"feeds_ok": 54,
+"feeds_ok": 55,
 "feeds_total": 55,
 "sections": [
 {
@@ -5981,7 +5981,9 @@
 "source": "France 24",
 "when": "Thu 21:10",
 "also": [
-"DW"
+"The Hindu",
+"DW",
+"SCMP"
 ],
 "lang": "en",
 "image": "https://s.france24.com/media/display/d6c3707a-e9d4-11f1-8cb6-174dac1c1bf0/w:1024/p:16x9/EN-20261126-200333-200843-CS.jpg",
@@ -5995,6 +5997,7 @@
 "when": "00:39",
 "also": [
 "Al Jazeera",
+"SCMP",
 "BBC World"
 ],
 "lang": "en",
@@ -6018,6 +6021,45 @@
 "excerpt": ""
 },
 {
+"id": "926972de1275cdc1",
+"title": "Major storm batters U.S. on Thanksgiving holiday; 400 flights cancelled",
+"url": "https://www.thehindu.com/news/international/major-storm-batters-us-on-thanksgiving-holiday-400-flights-cancelled/article71749233.ece",
+"source": "The Hindu",
+"when": "08:22",
+"also": [
+"SCMP"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/3adbij/article71749239.ece/alternates/LANDSCAPE_1200/2026-11-26T233433Z_1433722125_RC2TVOA4DKZ5_RTRMADP_3_USA-WEATHER.JPG",
+"excerpt": "New York’s famed Macy’s parade was postponed for the first time in its 100-year history"
+},
+{
+"id": "83fd5ce2f3809182",
+"title": "Italy not informed about Ukraine drone strike on Russian ships in Libya",
+"url": "http://www.africanews.com/2026/11/27/italy-not-informed-about-ukraine-drone-strike-on-russian-ships-in-libya/",
+"source": "Africanews",
+"when": "08:16",
+"also": [
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://images.euronews.com/articles/stories/10/01/04/29/640x360_cmsv2_d1e736b0-413d-5ac3-8642-d7a356e5605d-10010429.jpg?1795758703",
+"excerpt": ""
+},
+{
+"id": "f468780a196b05b0",
+"title": "Egypt: 31 people killed in Cairo after fuel truck overturns",
+"url": "https://www.france24.com/en/video/20261126-egypt-31-people-killed-in-cairo-after-fuel-truck-overturns",
+"source": "France 24",
+"when": "Thu 12:28",
+"also": [
+"DW"
+],
+"lang": "en",
+"image": "https://s.france24.com/media/display/caddf70c-e98a-11f1-ad2a-77d069279b82/w:1024/p:16x9/EGYPT-Thumbnail.jpg",
+"excerpt": ""
+},
+{
 "id": "5481683e1ff87f52",
 "title": "Musk pledges two SpaceX shares for every US child",
 "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
@@ -6030,21 +6072,6 @@
 "lang": "en",
 "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aecd5a7-1793906087.jpg?resize=1920%2C1440",
 "excerpt": "US children would receive one share from SpaceX and one from him personally, Musk said."
-},
-{
-"id": "a23bfb58a15eb3a4",
-"title": "Cyril Ramaphosa wins court bid to overturn impeachment report",
-"url": "https://www.thehindu.com/news/international/cyril-ramaphosa-wins-court-bid-to-overturn-impeachment-report/article71745568.ece",
-"source": "The Hindu",
-"when": "Thu 08:44",
-"also": [
-"Africanews",
-"Al Jazeera",
-"BBC World"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/e5uc1s/article71745571.ece/alternates/LANDSCAPE_1200/2026-11-24T135931Z_1460946822_RC2DUOA8VHMJ_RTRMADP_3_USA-SAFRICA-TRADE.JPG",
-"excerpt": ""
 },
 {
 "id": "a7aa5579f45bd632",
@@ -6073,38 +6100,14 @@
 "excerpt": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza."
 },
 {
-"id": "c6960fdf50b7d7ef",
-"title": "Bad weather postpones Macy’s 100th Thanksgiving Day Parade for first time ever",
-"url": "https://www.thehindu.com/news/international/bad-weather-postpones-macys-100th-thanksgiving-day-parade-for-first-time-ever/article71745030.ece",
-"source": "The Hindu",
-"when": "Thu 02:34",
-"also": [
-"BBC World"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/ff20ak/article71745036.ece/alternates/LANDSCAPE_1200/2026-11-26T012212Z_1923368480_RC25VOAWSF79_RTRMADP_3_USA-STORM-MACY-S-PARADE.JPG",
-"excerpt": "The postponement came as New York City is set to get slammed by a storm bringing intense winds and rain to the region"
-},
-{
-"id": "f427dc2395e3c120",
-"title": "Germany: Christmas markets open across the country amid tight security",
-"url": "http://www.africanews.com/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security/",
-"source": "Africanews",
-"when": "Thu 23:05",
+"id": "0aaae2495fe44a8b",
+"title": "El Niño-Driven Drought in Brazil's Roraima Isolates Communities and Forces Water Rationing",
+"url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/11/el-nino-driven-drought-in-brazils-roraima-isolates-communities-and-forces-water-rationing.shtml",
+"source": "Folha",
+"when": "02:53",
 "also": [],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/10/01/02/78/640x360_cmsv2_8e031cfe-481f-5a25-9ca1-bef200aa15c0-10010278.jpg?1795728036",
-"excerpt": ""
-},
-{
-"id": "e0516013c87983b4",
-"title": "The climate crisis is forcing thousands of Europeans from their homes",
-"url": "https://english.elpais.com/climate/2026-11-26/the-climate-crisis-is-forcing-thousands-of-europeans-from-their-homes.html",
-"source": "El País English",
-"when": "Thu 21:00",
-"also": [],
-"lang": "en",
-"image": "https://images.english.elpais.com/resizer/v2/UEFJKX2XGFBEJJAXONIX4AFA5I.JPG?auth=1eb0588556da5f7d3b0e30708fc87b9a93fb121d1ffb2853fbfdbcee52bb1c63",
+"image": "https://f.i.uol.com.br/fotografia/2026/11/25/17956314566b072960a818e_1795631456_3x2_rt.jpg",
 "excerpt": ""
 }
 ]
@@ -6123,15 +6126,92 @@
 "title": null,
 "items": [
 {
-"id": "dbca74cbffc74c1d",
-"title": "«Unterwanderungs-Vorwürfe» – Junge SVP Schweiz schliesst zehn Luzerner aus",
-"url": "https://www.srf.ch/news/schweiz/unterwanderungs-vorwuerfe-junge-svp-schweiz-schliesst-zehn-luzerner-aus",
+"id": "f85c653509f2a4f1",
+"title": "Autobahn im Kanton Zürich – Unfall mit mehreren Fahrzeugen – A1-Abschnitt länger gesperrt",
+"url": "https://www.srf.ch/news/schweiz/autobahn-im-kanton-zuerich-unfall-mit-mehreren-fahrzeugen-a1-abschnitt-laenger-gesperrt",
 "source": "SRF News",
-"when": "Thu 21:57",
+"when": "09:08",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/a7fcad.webp",
-"excerpt": "Für die Parteileitung sei erwiesen, dass die «Junge Tat» eine entsprechende Aktion orchestriert habe."
+"image": "https://www.srf.ch/static/cms/images//320ws/d7fd4c.webp",
+"excerpt": "Auf der Autobahn A1 sind am Morgen zwischen Effretikon und Winterthur-Töss mehrere Fahrzeuge kollidiert."
+},
+{
+"id": "ec8d64496c00e1e8",
+"title": "Fall Leila Moon: Staatsanwaltschaft erhebt Anklage gegen Joël Thüring",
+"url": "https://www.bazonline.ch/leila-moon-anklage-gegen-joel-thuering-wegen-verleumdung-304506591452",
+"source": "Basler Zeitung",
+"when": "08:37",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/FghVsbYEqttB-E89nfPmAg.jpg",
+"excerpt": "Der Basler SVP-Grossrat soll die Musikerin als Unterstützerin von Hamas-Terroristen bezeichnet haben. Jetzt liegt eine Anklage vor."
+},
+{
+"id": "4631acb124af5bee",
+"title": "Fast-Bundesrat Hansjörg Walter – «Mir fehlte nur eine einzige Stimme – meine eigene»",
+"url": "https://www.srf.ch/news/schweiz/fast-bundesrat-hansjoerg-walter-mir-fehlte-nur-eine-einzige-stimme-meine-eigene",
+"source": "SRF News",
+"when": "07:56",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/0f6961.webp",
+"excerpt": "Bloss eine Stimme fehlte dem damaligen SVP-Nationalrat 2008 zur Wahl in den Bundesrat. Wie erinnert er sich daran?"
+},
+{
+"id": "631317d179233609",
+"title": "Niederschläge in den Alpen – So viel Schnee gab es seit 1987 nicht mehr",
+"url": "https://www.srf.ch/news/dialog/niederschlaege-in-den-alpen-so-viel-schnee-gab-es-seit-1987-nicht-mehr",
+"source": "SRF News",
+"when": "05:59",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/cff835.webp",
+"excerpt": "In vielen Regionen liegt bereits meterhoch Schnee. Die Skigebiete profitieren von einem aussergewöhnlichen Saisonstart."
+},
+{
+"id": "6836664d9efe0344",
+"title": "«Zum Glück ist die Abschlusserklärung gescheitert»",
+"url": "https://bajour.ch/a/junge-baslerin-am-weltklimagipfel-in-antalya",
+"source": "Bajour",
+"when": "02:00",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a21805-6ada-71c9-9708-90af5b14e6ec?quality=80&sig=s0gVGpgMXPHut_VrMAppR2GkZYhPzibEdykBdx5HmmjJadzZHb8XCHuNXo9fJnkDAHdRWBurFdnxUzAE9BUHCw",
+"excerpt": ""
+},
+{
+"id": "0e68e44ef31c156a",
+"title": "Bagatellgrenze: Fluch oder Segen?",
+"url": "https://bajour.ch/a/bagatellgrenze-fluch-oder-segen",
+"source": "Bajour",
+"when": "02:00",
+"also": [],
+"lang": "de",
+"image": "https://media-bajour.wepublish.cloud/01a21816-1934-70a9-bf9e-3f4bb34d84d5?quality=80&sig=-tQjjZXPZDk7-nNIgXouVr3L7VC3Ujkk58O41qtt8Hm6fSPYQj0vuktjpl08QVdbjGdiW54fN8cWsNMyyloIDA",
+"excerpt": ""
+},
+{
+"id": "20b2c8ef15683281",
+"title": "Brandfall",
+"url": "https://www.bs.ch/medienmitteilungen/2026-brandfall-23",
+"source": "Kanton Basel-Stadt",
+"when": "09:21",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
+},
+{
+"id": "3e102d3d6ddde16f",
+"title": "INTERVIEW - Die Kaufsuchtexpertin sagt über den Black Friday: «Das ist eine höllische Zeit für Betroffene»",
+"url": "https://www.nzz.ch/panorama/die-kaufsuchtexpertin-sagt-ueber-den-black-friday-das-ist-eine-hoellische-zeit-fuer-betroffene-ld.10073617",
+"source": "NZZ",
+"when": "09:06",
+"also": [],
+"lang": "de",
+"image": "https://img-msp-prod.nzz.ch/2026/11/26/7d02624a-6551-41bf-9305-0a4cf28ad103.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
+"excerpt": ""
 },
 {
 "id": "7c4e1649ada03ae8",
@@ -6145,28 +6225,6 @@
 "excerpt": ""
 },
 {
-"id": "c2fff3f7e48668ff",
-"title": "Mutmasslicher Kriegsverbrecher – Welche Lehren zieht die Schweiz aus dem Fall Kabuga?",
-"url": "https://www.srf.ch/news/schweiz/mutmasslicher-kriegsverbrecher-welche-lehren-zieht-die-schweiz-aus-dem-fall-kabuga",
-"source": "SRF News",
-"when": "Thu 20:23",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/6b0275.webp",
-"excerpt": "Der Bund hat den Aufenthalt eines mutmasslichen Völkermörders in der Schweiz 1994 untersuchen lassen. Eine Einschätzung."
-},
-{
-"id": "a0ddd90e670dfed2",
-"title": "Kurzer Aufenthalt, hohe Preise – Stadt Zürich zählt immer mehr Business-Wohnungen",
-"url": "https://www.srf.ch/news/schweiz/kurzer-aufenthalt-hohe-preise-stadt-zuerich-zaehlt-immer-mehr-business-wohnungen",
-"source": "SRF News",
-"when": "Thu 20:17",
-"also": [],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/e07422.webp",
-"excerpt": "Der Anteil der Kurzzeitunterkünfte in der Stadt Zürich hat sich in den letzten fünf Jahren mehr als verdoppelt."
-},
-{
 "id": "9f3c30ee33a12f22",
 "title": "Unfall bei Bubendorf: Lieferwagen landet zwischen Velobrücke und Leitplanke",
 "url": "https://www.bazonline.ch/bubendorf-kollision-zwischen-auto-und-lieferwagen-665565398347",
@@ -6176,66 +6234,11 @@
 "lang": "de",
 "image": "https://cdn.unitycms.io/images/0HHq_KDU4LI9dtQ2p9O7eI.jpg",
 "excerpt": "Bei einer Kollision am Donnerstagmorgen erlitten zwei Personen leichte Verletzungen. Die Baselbieter Polizei sucht Zeugen."
-},
-{
-"id": "0185655cb174577e",
-"title": "Raphaël Tschudi, das Chamäleon: Der Basler Schauspieler, der zwischen Rollen und Städten pendelt",
-"url": "https://www.bazonline.ch/raphael-tschudi-der-basler-schauspieler-aus-neuenburg-412940784750",
-"source": "Basler Zeitung",
-"when": "Thu 16:02",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/B0VEnD1eqAV9pyGx2o9Luo.jpg",
-"excerpt": "Der Sohn von Gilles Tschudi ist zusammen mit seinem Vater in der Komödie «Heimspiel» im Fauteuil zu sehen. Im Kopf ist er aber schon einen Schritt weiter."
-},
-{
-"id": "4c4015a2923f8a33",
-"title": "Neues Restaurant in Basel: «Jedes neue Einfamilienhaus ist einfacher zu planen als ein Restaurant»",
-"url": "https://www.bazonline.ch/amano-per-voi-basler-bauen-nespresso-shop-zu-restaurant-um-515254584885",
-"source": "Basler Zeitung",
-"when": "Thu 16:01",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/6MC2mCxB4Cj9-plA-5bOVI.jpg",
-"excerpt": ""
-},
-{
-"id": "67ad1645b1506e69",
-"title": "Motorradfahrer kollidiert mit Fahrrad auf dem Fussgängerstreifen",
-"url": "https://www.bs.ch/medienmitteilungen/jsd/2026-motorradfahrer-kollidiert-mit-fahrrad-auf-dem-fussgaengerstreifen",
-"source": "Kanton Basel-Stadt",
-"when": "01:47",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
-},
-{
-"id": "69150973481e3bf8",
-"title": "Internationaler Tag gegen Gewalt an Frauen: Digitale Gewalt im Fokus",
-"url": "https://www.bs.ch/medienmitteilungen/jsd/2026-internationaler-tag-gegen-gewalt-frauen-digitale-gewalt-im-fokus",
-"source": "Kanton Basel-Stadt",
-"when": "01:47",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
-},
-{
-"id": "78d296a137053930",
-"title": "Basler Weihnacht: noch vielseitiger, grösser und international ausgezeichnet",
-"url": "https://www.bs.ch/medienmitteilungen/pd/2026-basler-weihnacht-noch-vielseitiger-groesser-und-international-ausgezeichnet",
-"source": "Kanton Basel-Stadt",
-"when": "01:47",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
 }
 ]
 }
 ],
-"lead": "dbca74cbffc74c1d"
+"lead": "f85c653509f2a4f1"
 },
 {
 "id": "sport",
@@ -6415,6 +6418,17 @@
 "title": null,
 "items": [
 {
+"id": "e99875cc7e51b836",
+"title": "World Championship Game 3: A lively draw ahead of the first rest day",
+"url": "https://en.chessbase.com/post/world-championship-2026-3",
+"source": "ChessBase",
+"when": "05:50",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133471_l200",
+"excerpt": ""
+},
+{
 "id": "118d36a4508f412b",
 "title": "Salesforce FIDE World Championship, Game 3: A tense fight ends in a draw",
 "url": "https://www.fide.com/salesforce-fide-world-championship-game-3-a-tense-fight-ends-in-a-draw/",
@@ -6425,6 +6439,17 @@
 ],
 "lang": "en",
 "image": "https://www.fide.com/wp-content/uploads/WCM-2026-D03.jpg",
+"excerpt": ""
+},
+{
+"id": "56529a9397dd0919",
+"title": "Daniel King analyses: A fighting draw in Game 3",
+"url": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king-3",
+"source": "ChessBase",
+"when": "03:23",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133473_l200",
 "excerpt": ""
 },
 {
@@ -6450,25 +6475,14 @@
 "excerpt": ""
 },
 {
-"id": "99d64080827aef41",
-"title": "Daniel King analyses: London System in Game 2",
-"url": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king2",
-"source": "ChessBase",
-"when": "Thu 03:31",
+"id": "21d822bbf2a8921f",
+"title": "Scandinavian Stars Bjerre, Haug Join Martinez In 3 0 Thursday Triumph",
+"url": "https://www.chess.com/news/view/bjerre-haug-martinez-3-0-thursday-11-26-2026",
+"source": "Chess.com",
+"when": "08:43",
 "also": [],
 "lang": "en",
-"image": "https://en.chessbase.com/thumb/133456_l200",
-"excerpt": ""
-},
-{
-"id": "decd54a3d170f3b2",
-"title": "World Championship Game 2: A London in Geneva",
-"url": "https://en.chessbase.com/post/world-championship-2026-2",
-"source": "ChessBase",
-"when": "Wed 23:35",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133451_l200",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2280121.a7e144af.5000x5000o.ee978f0fc6db.png",
 "excerpt": ""
 },
 {
@@ -6483,33 +6497,20 @@
 "excerpt": ""
 },
 {
-"id": "df10f1cf03068314",
-"title": "Gukesh revives an old line of the Berlin in a 60 move draw - 3",
-"url": "https://theweekinchess.com/twic-news-feed/gukesh-revives-an-old-line-of-the-berlin-in-a-60-move-draw",
-"source": "The Week in Chess",
-"when": "00:40",
+"id": "085d1d2e9b43d8dd",
+"title": "WCC 2026 Round 3: A Hard-Fought, Rare Berlin Defense",
+"url": "https://lichess.org/@/Lichess/blog/wcc-2026-round-3-a-hard-fought-rare-berlin-defense/AilRgfs7",
+"source": "Lichess",
+"when": "05:50",
 "also": [],
 "lang": "en",
-"image": null,
-"excerpt": ""
-},
-{
-"id": "ef806563a547f470",
-"title": "Gukesh's London System doesn't surprise Sindarov - 2",
-"url": "https://theweekinchess.com/twic-news-feed/gukeshs-london-system-doesnt-surprise-sindarov",
-"source": "The Week in Chess",
-"when": "Wed 20:12",
-"also": [
-"Chess.com"
-],
-"lang": "en",
-"image": null,
+"image": "https://image.lichess.org/display?fmt=webp&h=550&op=thumbnail&path=DR9hnPam3iDY.webp&w=880&sig=1863a5c439c1ed23c8b1cb7109da03b98b0fdc2d",
 "excerpt": ""
 }
 ]
 }
 ],
-"lead": "118d36a4508f412b"
+"lead": "e99875cc7e51b836"
 },
 {
 "id": "ai",
@@ -6647,19 +6648,6 @@
 "excerpt": ""
 },
 {
-"id": "0615ff6363b4e04d",
-"title": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
-"url": "https://www.fiercebiotech.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers",
-"source": "Fierce Biotech",
-"when": "Wed 02:03",
-"also": [
-"Fierce Pharma"
-],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/Sanofi_2.jpg?VersionId=rE23zCddbZSaOvHueK7G6Jz1OPLLu5oW",
-"excerpt": ""
-},
-{
 "id": "08cb735439252b9a",
 "title": "Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC",
 "url": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
@@ -6713,6 +6701,17 @@
 "lang": "en",
 "image": "https://qtxasset.com/quartz/qcloud5/media/image/BMS_2.jpg?VersionId=7q4dfemRprtrPDi7MUw08W03OJ3zyaoi",
 "excerpt": ""
+},
+{
+"id": "7ed9751e4814ff89",
+"title": "Finnish biotech delivers durable symptom relief in phase 2 birch pollen allergy trial",
+"url": "https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial",
+"source": "Fierce Biotech",
+"when": "Wed 21:10",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-868815768.jpg?VersionId=0FQQcDui3ToWsKSFHLeU0KPiwqP34daR",
+"excerpt": ""
 }
 ]
 }
@@ -6720,6 +6719,222 @@
 "lead": "f56c5c20218acc93"
 }
 ],
-"weather": null
+"weather": {
+"place": "Münchenstein",
+"today": {
+"date": "2026-11-27",
+"dow": "Today",
+"dm": "27.11.",
+"label": "Light snow",
+"icon": "🌨️",
+"hi": 2,
+"lo": 0,
+"rain_mm": 0,
+"rain_pct": 0,
+"wind": 9,
+"uv": 1,
+"sunrise": "07:51",
+"sunset": "16:42",
+"bar_l": 20,
+"bar_w": 20
+},
+"slots": [
+{
+"name": "Morning",
+"temp": 0,
+"icon": "🌦️",
+"label": "Light drizzle",
+"rain_pct": 0
+},
+{
+"name": "Afternoon",
+"temp": 2,
+"icon": "☁️",
+"label": "Overcast",
+"rain_pct": 0
+},
+{
+"name": "Evening",
+"temp": 0,
+"icon": "⛅",
+"label": "Partly cloudy",
+"rain_pct": 0
+}
+],
+"days": [
+{
+"date": "2026-11-27",
+"dow": "Today",
+"dm": "27.11.",
+"label": "Light snow",
+"icon": "🌨️",
+"hi": 2,
+"lo": 0,
+"rain_mm": 0,
+"rain_pct": 0,
+"wind": 9,
+"uv": 1,
+"sunrise": "07:51",
+"sunset": "16:42",
+"bar_l": 20,
+"bar_w": 20
+},
+{
+"date": "2026-11-28",
+"dow": "Sat",
+"dm": "28.11.",
+"label": "Partly cloudy",
+"icon": "⛅",
+"hi": 4,
+"lo": -2,
+"rain_mm": 0,
+"rain_pct": 0,
+"wind": 12,
+"uv": 2,
+"sunrise": "07:52",
+"sunset": "16:42",
+"bar_l": 0,
+"bar_w": 60
+},
+{
+"date": "2026-11-29",
+"dow": "Sun",
+"dm": "29.11.",
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 6,
+"lo": 0,
+"rain_mm": 1.8,
+"rain_pct": 59,
+"wind": 7,
+"uv": 1,
+"sunrise": "07:53",
+"sunset": "16:41",
+"bar_l": 20,
+"bar_w": 60
+},
+{
+"date": "2026-11-30",
+"dow": "Mon",
+"dm": "30.11.",
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 5,
+"lo": 3,
+"rain_mm": 1.4,
+"rain_pct": 60,
+"wind": 5,
+"uv": 2,
+"sunrise": "07:55",
+"sunset": "16:41",
+"bar_l": 50,
+"bar_w": 20
+},
+{
+"date": "2026-12-01",
+"dow": "Tue",
+"dm": "01.12.",
+"label": "Fog",
+"icon": "🌫️",
+"hi": 6,
+"lo": 2,
+"rain_mm": 0,
+"rain_pct": 0,
+"wind": 5,
+"uv": 2,
+"sunrise": "07:56",
+"sunset": "16:40",
+"bar_l": 40,
+"bar_w": 40
+},
+{
+"date": "2026-12-02",
+"dow": "Wed",
+"dm": "02.12.",
+"label": "Fog",
+"icon": "🌫️",
+"hi": 8,
+"lo": 1,
+"rain_mm": 0,
+"rain_pct": 10,
+"wind": 5,
+"uv": 2,
+"sunrise": "07:57",
+"sunset": "16:40",
+"bar_l": 30,
+"bar_w": 70
+},
+{
+"date": "2026-12-03",
+"dow": "Thu",
+"dm": "03.12.",
+"label": "Light rain",
+"icon": "🌦️",
+"hi": 7,
+"lo": 1,
+"rain_mm": 2.1,
+"rain_pct": 40,
+"wind": 6,
+"uv": 1,
+"sunrise": "07:58",
+"sunset": "16:39",
+"bar_l": 30,
+"bar_w": 60
+},
+{
+"date": "2026-12-04",
+"dow": "Fri",
+"dm": "04.12.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 4,
+"lo": -2,
+"rain_mm": 0,
+"rain_pct": 10,
+"wind": 6,
+"uv": 1,
+"sunrise": "07:59",
+"sunset": "16:39",
+"bar_l": 0,
+"bar_w": 60
+},
+{
+"date": "2026-12-05",
+"dow": "Sat",
+"dm": "05.12.",
+"label": "Partly cloudy",
+"icon": "⛅",
+"hi": 3,
+"lo": -2,
+"rain_mm": 0,
+"rain_pct": 7,
+"wind": 6,
+"uv": 2,
+"sunrise": "08:00",
+"sunset": "16:39",
+"bar_l": 0,
+"bar_w": 50
+},
+{
+"date": "2026-12-06",
+"dow": "Sun",
+"dm": "06.12.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 4,
+"lo": 0,
+"rain_mm": 0,
+"rain_pct": 14,
+"wind": 4,
+"uv": 1,
+"sunrise": "08:02",
+"sunset": "16:38",
+"bar_l": 20,
+"bar_w": 40
+}
+],
+"lo": -2,
+"hi": 8
+}
 }
 }
