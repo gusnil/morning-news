@@ -5945,10 +5945,10 @@
 },
 "2026-11-28": {
 "date": "2026-11-28",
-"built_at": "2026-11-28T00:14:15.712360+00:00",
-"built_local": "01:14",
+"built_at": "2026-11-28T07:42:27.182720+00:00",
+"built_local": "08:42",
 "edition": "Morning",
-"feeds_ok": 55,
+"feeds_ok": 54,
 "feeds_total": 55,
 "sections": [
 {
@@ -5976,20 +5976,30 @@
 "excerpt": ""
 },
 {
-"id": "3a7f622bbc190452",
-"title": "Iran denies involvement in Kuwait strike that killed two Italians",
-"url": "http://www.africanews.com/2026/11/27/iran-denies-involvement-in-kuwait-strike-that-killed-two-italians/",
-"source": "Africanews",
-"when": "Fri 14:21",
+"id": "75385a5a9c652378",
+"title": "Hamas says Israel tried to kill chief’s son in Gaza",
+"url": "https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece",
+"source": "The Hindu",
+"when": "06:25",
 "also": [
-"The Hindu",
-"Al Jazeera",
-"SCMP",
-"BBC World"
+"Al Jazeera"
 ],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/10/01/09/86/640x360_cmsv2_22bc83e0-9277-5cfa-8ddd-49c599078c25-10010986.jpg?1795771726",
-"excerpt": "Iran’s foreign minister has denied his country was responsible for the deaths of two Italians nationals killed in a strike on Kuwait."
+"image": "https://th-i.thgim.com/public/incoming/sn00n2/article71752542.ece/alternates/LANDSCAPE_1200/2026-11-27T160816Z_1800381719_RC2DWOAYEM3P_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-HAMAS.JPG",
+"excerpt": ""
+},
+{
+"id": "ee626b902181ccbc",
+"title": "Putin unveils new nuclear submarine",
+"url": "https://www.thehindu.com/news/international/putin-unveils-new-nuclear-submarine/article71753555.ece",
+"source": "The Hindu",
+"when": "05:14",
+"also": [
+"Al Jazeera"
+],
+"lang": "en",
+"image": "https://th-i.thgim.com/public/incoming/cjpm1t/article71753564.ece/alternates/LANDSCAPE_1200/Russia_Putin_51393.jpg",
+"excerpt": ""
 },
 {
 "id": "fc36235353e36b4e",
@@ -6005,19 +6015,6 @@
 "excerpt": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop."
 },
 {
-"id": "75385a5a9c652378",
-"title": "Hamas says Israel tried to kill chief’s son in Gaza",
-"url": "https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece",
-"source": "The Hindu",
-"when": "Fri 23:18",
-"also": [
-"Al Jazeera"
-],
-"lang": "en",
-"image": "https://th-i.thgim.com/public/incoming/sn00n2/article71752542.ece/alternates/LANDSCAPE_1200/2026-11-27T160816Z_1800381719_RC2DWOAYEM3P_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-HAMAS.JPG",
-"excerpt": ""
-},
-{
 "id": "b35b10701c1f058c",
 "title": "Trump urges Putin to end 'military aggression' in Europe",
 "url": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe",
@@ -6025,12 +6022,25 @@
 "when": "Thu 21:10",
 "also": [
 "The Hindu",
-"DW",
 "SCMP"
 ],
 "lang": "en",
 "image": "https://s.france24.com/media/display/d6c3707a-e9d4-11f1-8cb6-174dac1c1bf0/w:1024/p:16x9/EN-20261126-200333-200843-CS.jpg",
 "excerpt": ""
+},
+{
+"id": "cc319b56ddef3174",
+"title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+"url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
+"source": "Al Jazeera",
+"when": "Fri 16:15",
+"also": [
+"SCMP",
+"BBC World"
+],
+"lang": "en",
+"image": "https://www.aljazeera.com/wp-content/uploads/2020/10/2019-06-17T232122Z_1159317181_RC17A021DBA0_RTRMADP_3_CANADA-QUEBEC-RELIGION-1.jpg?resize=1920%2C1440",
+"excerpt": "Quebec’s ban on teachers and police wearing religious symbols such as hijabs and turbans on the job remains in place."
 },
 {
 "id": "704905cb11f28b8c",
@@ -6046,19 +6056,6 @@
 "excerpt": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday."
 },
 {
-"id": "38f8953d5c3994ba",
-"title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
-"url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
-"source": "Al Jazeera",
-"when": "Fri 21:10",
-"also": [
-"El País English"
-],
-"lang": "en",
-"image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795810110.jpg?resize=1620%2C1080&quality=80",
-"excerpt": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded ‘links to terrorist acts’."
-},
-{
 "id": "504722fe69a8cba6",
 "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
 "url": "https://www.thehindu.com/news/international/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/article71750783.ece",
@@ -6072,28 +6069,28 @@
 "excerpt": "The intrusion at Cloud One was discovered within the past month or so ⁠during work to upgrade the system, two people familiar with the matter said"
 },
 {
-"id": "83fd5ce2f3809182",
-"title": "Italy says not informed about Ukraine drone strike on Russian ships in Libya",
-"url": "http://www.africanews.com/2026/11/27/italy-not-informed-about-ukraine-drone-strike-on-russian-ships-in-libya/",
+"id": "3a7f622bbc190452",
+"title": "Iran denies involvement in Kuwait strike that killed two Italians",
+"url": "http://www.africanews.com/2026/11/27/iran-denies-involvement-in-kuwait-strike-that-killed-two-italians/",
 "source": "Africanews",
-"when": "Fri 09:37",
+"when": "Fri 14:21",
 "also": [
-"Al Jazeera"
+"BBC World"
 ],
 "lang": "en",
-"image": "https://images.euronews.com/articles/stories/10/01/04/29/640x360_cmsv2_d1e736b0-413d-5ac3-8642-d7a356e5605d-10010429.jpg?1795758703",
-"excerpt": ""
+"image": "https://images.euronews.com/articles/stories/10/01/09/86/640x360_cmsv2_22bc83e0-9277-5cfa-8ddd-49c599078c25-10010986.jpg?1795771726",
+"excerpt": "Iran’s foreign minister has denied his country was responsible for the deaths of two Italians nationals killed in a strike on Kuwait."
 },
 {
-"id": "4e26ec457fddf504",
-"title": "Feijóo appeals to the left despite counting on a right-wing majority: “Lend us your vote to get back to honesty”",
-"url": "https://english.elpais.com/spain/2026-11-27/feijoo-appeals-to-the-left-despite-counting-on-a-right-wing-majority-lend-us-your-vote-to-get-back-to-honesty.html",
+"id": "17e3758c5364d00f",
+"title": "A left-wing victory and other possible surprises in Spain’s election, according to the polls",
+"url": "https://english.elpais.com/spain/2026-11-28/a-left-wing-victory-and-other-possible-surprises-in-spains-election-according-to-the-polls.html",
 "source": "El País English",
-"when": "00:01",
+"when": "05:35",
 "also": [],
 "lang": "en",
-"image": "https://images.english.elpais.com/resizer/v2/P32XTCXWLBCT5MTTFYF5LB65JQ.jpg?auth=aa5101f4ffff194719bc7671838bc95cc12b3e60676afb839909c22de597395e",
-"excerpt": "The PP candidate takes victory on Sunday for granted at his closing rally in Seville: “This time, yes. We’re going to do it! Not just win, but govern”"
+"image": "https://imagenes.elpais.com/resizer/v2/LNBGU6HSCZCG5JZXRALD7FPWVQ.png?auth=0865235571ef5fbda85d842bcbd7f70a915498cf7d222dcddf50eca3b49fcb4a&width=1200",
+"excerpt": ""
 }
 ]
 }
@@ -6111,28 +6108,59 @@
 "title": null,
 "items": [
 {
-"id": "d8dc709a213f47ac",
-"title": "Langjähriger Tele-Züri-Chef – Markus Gilli im Alter von 71 Jahren gestorben",
-"url": "https://www.srf.ch/news/schweiz/langjaehriger-tele-zueri-chef-markus-gilli-im-alter-von-71-jahren-gestorben",
+"id": "b5165a6f8426668a",
+"title": "Ausserrhoder Standesinitiative – Nationalrat: Ausserrhoden will Wahlkrimi in zwei Akten",
+"url": "https://www.srf.ch/news/schweiz/ausserrhoder-standesinitiative-nationalrat-ausserrhoden-will-wahlkrimi-in-zwei-akten",
 "source": "SRF News",
-"when": "Fri 18:10",
-"also": [
-"NZZ"
-],
-"lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/4c92105.webp",
-"excerpt": "Der langjährige TeleZüri-Chefredaktor und TV-Moderator Markus Gilli ist im Alter von 71 Jahren verstorben."
-},
-{
-"id": "eb2888b7e8c2eb3d",
-"title": "Arena zu Bundesbudget 2027 – Schon vor dem Showdown im Parlament fliegen die Fetzen",
-"url": "https://www.srf.ch/news/schweiz/arena-zu-bundesbudget-2027-schon-vor-dem-showdown-im-parlament-fliegen-die-fetzen",
-"source": "SRF News",
-"when": "Fri 23:01",
+"when": "08:27",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/042a53d.webp",
-"excerpt": "Nach Eklat in der Finanzkommission des Nationalrats: «Arena»-Diskussion zeigt diametrale Gegensätze der Polparteien auf."
+"image": "https://www.srf.ch/static/cms/images//320ws/1aafdfd.webp",
+"excerpt": "Der Kanton Appenzell Ausserrhoden reicht eine Standesinitiative ein. Diese betrifft Kantone mit einem Nationalratssitz."
+},
+{
+"id": "275aee554bf54082",
+"title": "Sechs Finger und mehr – Diese Lausanner Roboterhand kann sich selbstständig fortbewegen",
+"url": "https://www.srf.ch/news/dialog/sechs-finger-und-mehr-diese-lausanner-roboterhand-kann-sich-selbststaendig-fortbewegen",
+"source": "SRF News",
+"when": "07:32",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/f65e69.webp",
+"excerpt": "Ob Greifen oder Krabbeln: Die neue Hand der ETH Lausanne übertrifft das menschliche Vorbild in einigen Funktionen."
+},
+{
+"id": "da672c6ceadac6e9",
+"title": "Teure Grossprojekte in Basel: Zu optimistisch kalkuliert, zu lange geplant",
+"url": "https://www.bazonline.ch/hafenbahn-basel-grossraete-kritisieren-zu-tiefe-kostenschaetzung-935971335332",
+"source": "Basler Zeitung",
+"when": "07:11",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/2VucvkmR4RJ9hhitQJzaiP.jpg",
+"excerpt": "Die Hafenbahn wird 200 Millionen teurer. Trotz Mehrkosten hält die Regierung am Projekt fest. Zwei Grossräte begrüssen das – und üben dennoch Kritik."
+},
+{
+"id": "06246c19e2ccf427",
+"title": "Denner in Rheinfelden: Filialleiter hat «die Nase voll», doch das Quartier kämpft dafür, dass er bleibt",
+"url": "https://www.bazonline.ch/rheinfelden-denner-im-robersten-schliesst-im-august-2027-418040138018",
+"source": "Basler Zeitung",
+"when": "07:03",
+"also": [],
+"lang": "de",
+"image": "https://cdn.unitycms.io/images/Fj81ZEBf45cBes7cRI03Nh.jpg",
+"excerpt": ""
+},
+{
+"id": "f91032cf92f312ee",
+"title": "Rund ein Drittel weniger Rüben – «Katastrophales» Jahr für Zuckerbauern könnte Folgen haben",
+"url": "https://www.srf.ch/news/dialog/rund-ein-drittel-weniger-rueben-katastrophales-jahr-fuer-zuckerbauern-koennte-folgen-haben",
+"source": "SRF News",
+"when": "06:57",
+"also": [],
+"lang": "de",
+"image": "https://www.srf.ch/static/cms/images//320ws/f9f2ae.webp",
+"excerpt": "Wegen der Trockenheit ernten die Bauern weniger Zuckerrüben – mit möglichen Folgen für die gesamte Wertschöpfungskette."
 },
 {
 "id": "078fa08e54f9c962",
@@ -6148,15 +6176,37 @@
 "excerpt": ""
 },
 {
-"id": "192ff179cde053c3",
-"title": "Familie äussert sich erstmals – Wollte das Todesopfer von Tuggen schlichten?",
-"url": "https://www.srf.ch/news/schweiz/familie-aeussert-sich-erstmals-wollte-das-todesopfer-von-tuggen-schlichten",
-"source": "SRF News",
-"when": "Fri 21:21",
+"id": "997538e73c1ca606",
+"title": "Verdächtiges Ansprechen von Kindern",
+"url": "https://www.bs.ch/medienmitteilungen/2026-verdaechtiges-ansprechen-von-kindern-0",
+"source": "Kanton Basel-Stadt",
+"when": "08:42",
 "also": [],
 "lang": "de",
-"image": "https://www.srf.ch/static/cms/images//320ws/ed841c.webp",
-"excerpt": "Neue Recherchen zeigen, dass das Opfer nicht an der Auseinandersetzung beteiligt war."
+"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
+"excerpt": ""
+},
+{
+"id": "a250663625edd701",
+"title": "Bewilligte Demonstration führt zu Sachbeschädigungen und Angriffen auf die Polizei",
+"url": "https://www.bs.ch/medienmitteilungen/jsd/2026-bewilligte-demonstration-fuehrt-zu-sachbeschaedigungen-und-angriffen-auf-die-polizei",
+"source": "Kanton Basel-Stadt",
+"when": "08:42",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/94b6142ef355ef7d6410997b3ffa3118885471ee/img-3063.jpg?h=08b866d1&itok=-rlh6RuN",
+"excerpt": ""
+},
+{
+"id": "d32cfe79b90e2894",
+"title": "Basel erprobt 2027 Bioabfuhr mit Grüngutcontainern",
+"url": "https://www.bs.ch/medienmitteilungen/bvd/2026-basel-erprobt-2027-bioabfuhr-mit-gruengutcontainern",
+"source": "Kanton Basel-Stadt",
+"when": "08:42",
+"also": [],
+"lang": "de",
+"image": "https://media.bs.ch/og_image/ea9079b0af8d4208108f9f6895d23bdd517772c0/gruengutcontainer.jpg?h=67fd1167&itok=UWEOj8pF",
+"excerpt": ""
 },
 {
 "id": "4995a7f0e1cad28f",
@@ -6168,66 +6218,11 @@
 "lang": "de",
 "image": "https://cdn.unitycms.io/images/03JC8R4Z4HN91jJfcQibu2.jpg",
 "excerpt": ""
-},
-{
-"id": "8a6c9ad00439055b",
-"title": "Weihnachtsstimmung und wilde Partys: Basel, das läuft am Wochenende",
-"url": "https://www.bazonline.ch/basel-weihnachtsmarkt-und-andere-tipps-fuers-wochenende-413436521985",
-"source": "Basler Zeitung",
-"when": "Fri 17:36",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/3xDhAVenqOT9jNyCMOd-Zi.webp",
-"excerpt": ""
-},
-{
-"id": "059b1553c4806026",
-"title": "E-Voting-Panne in Basel: Ihre Stimme bleibt ungezählt: Auslandschweizerin scheitert vor Bundesgericht",
-"url": "https://www.bazonline.ch/e-voting-basel-bundesgericht-weist-beschwerde-ab-184968467071",
-"source": "Basler Zeitung",
-"when": "Fri 17:17",
-"also": [],
-"lang": "de",
-"image": "https://cdn.unitycms.io/images/7womYHZsKcEAD2xXpbjW_n.webp",
-"excerpt": ""
-},
-{
-"id": "393688162ca8ae9d",
-"title": "Erhöhte Radonwerte in sechs Schulen",
-"url": "https://bajour.ch/a/erhoehte-radonwerte-in-sechs-schulen-in-riehen-und-basel",
-"source": "Bajour",
-"when": "Fri 13:38",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": "Messungen des Kantonalen Laboratoriums zeigen Überschreitungen des Referenzwerts – akute Gefahr besteht aber nicht."
-},
-{
-"id": "08e2ffcd0d52c8c2",
-"title": "Anklage gegen SVP-Grossrat Joël Thüring",
-"url": "https://bajour.ch/a/anklage-gegen-svp-grossrat-joel-thuering-im-fall-leila-moon",
-"source": "Bajour",
-"when": "Fri 10:31",
-"also": [],
-"lang": "de",
-"image": null,
-"excerpt": "Nach einer Anzeige der Basler DJ Leila Moon landet der Fall vor dem Strafgericht."
-},
-{
-"id": "209400bd362fbbdb",
-"title": "Die Kreuzung Bankverein wird fussgänger- und velofreundlicher",
-"url": "https://www.bs.ch/medienmitteilungen/bvd/2026-die-kreuzung-bankverein-wird-fussgaenger-und-velofreundlicher",
-"source": "Kanton Basel-Stadt",
-"when": "Fri 20:39",
-"also": [],
-"lang": "de",
-"image": "https://media.bs.ch/og_image/1b4c7a5f8513e495cde77c735ccbbf6050748bd7/rathaus-backview.png?h=8abcec71&itok=IW7GrtdN",
-"excerpt": ""
 }
 ]
 }
 ],
-"lead": "d8dc709a213f47ac"
+"lead": "b5165a6f8426668a"
 },
 {
 "id": "sport",
@@ -6307,6 +6302,28 @@
 "lang": "en",
 "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/Z8A_1202-2.jpg?width=1200",
 "excerpt": ""
+},
+{
+"id": "fdd265965507b585",
+"title": "In the Continental ranks, the team matters more than the star",
+"url": "https://escapecollective.com/in-the-conti-ranks-the-team-matters-more-than-the-star/",
+"source": "Escape Collective",
+"when": "Fri 16:05",
+"also": [],
+"lang": "en",
+"image": "https://escapecollective.com/content/images/2026/11/TOK_1_0001.jpg",
+"excerpt": ""
+},
+{
+"id": "0ac51d33be4f9bea",
+"title": "Big Tech Is Ready to Exploit Garmin’s Clunky Software Problem",
+"url": "https://velo.outsideonline.com/road/road-gear/garmin-data-moat-ai-bike-computers/",
+"source": "Velo",
+"when": "Fri 14:00",
+"also": [],
+"lang": "en",
+"image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/05/DSC_3672.jpg?width=1200",
+"excerpt": ""
 }
 ]
 },
@@ -6314,6 +6331,17 @@
 "id": "teams",
 "title": "Teams",
 "items": [
+{
+"id": "d783a6e5ce7773bd",
+"title": "Casas makes GRAND long-awaited return to game action with LIDOM slam",
+"url": "https://www.mlb.com/redsox/news/triston-casas-hits-grand-slam-in-dominican-winter-league",
+"source": "MLB.com",
+"when": "04:33",
+"also": [],
+"lang": "en",
+"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1795835662/mlb/oe2xro96n5jnc5azx9ja.jpg",
+"excerpt": ""
+},
 {
 "id": "7dd502336c97a6e0",
 "title": "2-4 mot Danmark i Ulricehamn",
@@ -6337,17 +6365,6 @@
 "excerpt": "The New England Patriots and the Los Angeles Chargers announce the following player injuries and practice participation ahead of their Week 12 game."
 },
 {
-"id": "496e1511e6845caa",
-"title": "Which righty starter could balance Red Sox's rotation?",
-"url": "https://www.mlb.com/redsox/news/red-sox-options-for-right-handed-starters-on-free-agent-market",
-"source": "MLB.com",
-"when": "Fri 15:34",
-"also": [],
-"lang": "en",
-"image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/d94gb4qdemlmebej7dsz.jpg",
-"excerpt": ""
-},
-{
 "id": "5cbf9d02e6d48bc1",
 "title": "Välkommen till medlemsmöte den 7 december",
 "url": "https://www.mff.se/nyheter/valkommen-till-medlemsmote-den-7-december-2026-11-27/",
@@ -6357,17 +6374,6 @@
 "lang": "sv",
 "image": "https://cdn.mff.se/2026/11/BB250123PA007.jpg",
 "excerpt": "The post Välkommen till medlemsmöte den 7 december appeared first on Malmö FF ."
-},
-{
-"id": "9a2a998036b1195f",
-"title": "Demary Jr. Scores 25 In Setback To #16 Duke In Vegas",
-"url": "https://uconnhuskies.com/news/2026/11/25/mens-basketball-demary-jr-scores-25-in-setback-to-16-duke-in-vegas",
-"source": "UConn Huskies",
-"when": "Thu 04:27",
-"also": [],
-"lang": "en",
-"image": "https://uconnhuskies.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/11/25/DU-38.png",
-"excerpt": ""
 }
 ]
 },
@@ -6379,19 +6385,7 @@
 {
 "id": "sumo",
 "title": "Sumo",
-"items": [
-{
-"id": "fbc84f50522bb4cb",
-"title": "Is Onosato on track to become a dai-yokozuna ?",
-"url": "https://www.japantimes.co.jp/sports/2026/11/25/sumo/onosato-dai-yokozuna/",
-"source": "Japan Times",
-"when": "Wed 07:05",
-"also": [],
-"lang": "en",
-"image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575976.jpg",
-"excerpt": "Earning the distinction requires more than just titles — it means years of sustained dominance."
-}
-]
+"items": []
 }
 ],
 "lead": "8e6e862860ceba57"
@@ -6407,14 +6401,23 @@
 "title": null,
 "items": [
 {
+"id": "10cc9c9874bd3d11",
+"title": "Switzerland's rich chess tournament history",
+"url": "https://en.chessbase.com/post/switzerland-rich-chess-tournament-history",
+"source": "ChessBase",
+"when": "03:00",
+"also": [],
+"lang": "en",
+"image": "https://en.chessbase.com/thumb/133483_l200",
+"excerpt": ""
+},
+{
 "id": "1fdf71ad139dcbff",
 "title": "World-сlass commentary meets cutting-edge technology at Salesforce FIDE World Championship Match",
 "url": "https://en.chessbase.com/post/world-championship-2026-commentary-technology",
 "source": "ChessBase",
 "when": "00:40",
-"also": [
-"FIDE"
-],
+"also": [],
 "lang": "en",
 "image": "https://en.chessbase.com/thumb/133482_l200",
 "excerpt": ""
@@ -6455,17 +6458,6 @@
 "excerpt": ""
 },
 {
-"id": "e99875cc7e51b836",
-"title": "World Championship Game 3: A lively draw ahead of the first rest day",
-"url": "https://en.chessbase.com/post/world-championship-2026-3",
-"source": "ChessBase",
-"when": "Fri 05:50",
-"also": [],
-"lang": "en",
-"image": "https://en.chessbase.com/thumb/133471_l200",
-"excerpt": ""
-},
-{
 "id": "9ba0e61a79eeae9c",
 "title": "4th FIDE Council meeting 24 November, 2026: List of decisions",
 "url": "https://www.fide.com/4th-fide-council-meeting-24-november-2026-list-of-decisions/",
@@ -6474,6 +6466,17 @@
 "also": [],
 "lang": "en",
 "image": "https://www.fide.com/wp-content/uploads/FIDE-Blue-3.png",
+"excerpt": ""
+},
+{
+"id": "b708776a895debd4",
+"title": "Firouzja Demolishes Artemiev in 5-Minute Chess, Then Sets Unusual Bullet Record",
+"url": "https://www.chess.com/news/view/2026-speed-chess-championship-r16-firouzja-artemiev",
+"source": "Chess.com",
+"when": "02:00",
+"also": [],
+"lang": "en",
+"image": "https://images.chesscomfiles.com/uploads/v1/news/2281289.1bc6a321.5000x5000o.9b4ca4e4725d.png",
 "excerpt": ""
 },
 {
@@ -6486,22 +6489,11 @@
 "lang": "en",
 "image": "https://image.lichess.org/display?fmt=webp&h=550&op=thumbnail&path=DR9hnPam3iDY.webp&w=880&sig=1863a5c439c1ed23c8b1cb7109da03b98b0fdc2d",
 "excerpt": ""
-},
-{
-"id": "df10f1cf03068314",
-"title": "Gukesh revives an old line of the Berlin in a 60 move draw - 3",
-"url": "https://theweekinchess.com/twic-news-feed/gukesh-revives-an-old-line-of-the-berlin-in-a-60-move-draw",
-"source": "The Week in Chess",
-"when": "Fri 00:40",
-"also": [],
-"lang": "en",
-"image": null,
-"excerpt": ""
 }
 ]
 }
 ],
-"lead": "1fdf71ad139dcbff"
+"lead": "10cc9c9874bd3d11"
 },
 {
 "id": "ai",
@@ -6536,17 +6528,6 @@
 "excerpt": "We’re excited to announce support for catalog labels – a new capability in the Apache..."
 },
 {
-"id": "5b03df1e511f5c5f",
-"title": "datasette-charts 0.4a0",
-"url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
-"source": "Simon Willison",
-"when": "00:57",
-"also": [],
-"lang": "en",
-"image": "https://static.simonwillison.net/static/2026/datasette-charts-gallery.webp",
-"excerpt": ""
-},
-{
 "id": "26cc350f68332e96",
 "title": "Rethinking read replicas for the lakebase architecture",
 "url": "https://www.databricks.com/blog/rethinking-read-replicas-lakebase-architecture",
@@ -6556,6 +6537,17 @@
 "lang": "en",
 "image": "https://www.databricks.com/sites/default/files/2026-11/read-replicas-lakebase.png",
 "excerpt": "The idea behind read replicas makes sense: when your app gets busy, you add a couple..."
+},
+{
+"id": "5b03df1e511f5c5f",
+"title": "datasette-charts 0.4a0",
+"url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+"source": "Simon Willison",
+"when": "00:57",
+"also": [],
+"lang": "en",
+"image": "https://static.simonwillison.net/static/2026/datasette-charts-gallery.webp",
+"excerpt": ""
 },
 {
 "id": "dafd53d0081d83f8",
@@ -6652,17 +6644,6 @@
 "excerpt": ""
 },
 {
-"id": "7d4dc31668922cfa",
-"title": "Researchers may have to ‘revise a lot’ of theories about dementia after uncovering plastics in brain",
-"url": "https://www.fiercebiotech.com/research/researchers-uncover-plastics-present-dementia-brains-after-death",
-"source": "Fierce Biotech",
-"when": "01:14",
-"also": [],
-"lang": "en",
-"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1692323207.jpg?VersionId=DjlX23GsUhsplCgpdMvFdjgnZycaB2mv",
-"excerpt": ""
-},
-{
 "id": "379299e981fdbe83",
 "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 23-26 November 2026",
 "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-23-26-november-2026",
@@ -6685,6 +6666,28 @@
 "excerpt": ""
 },
 {
+"id": "7d4dc31668922cfa",
+"title": "Researchers may have to ‘revise a lot’ of theories about dementia after uncovering plastics in brain",
+"url": "https://www.fiercebiotech.com/research/researchers-uncover-plastics-present-dementia-brains-after-death",
+"source": "Fierce Biotech",
+"when": "01:14",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1692323207.jpg?VersionId=DjlX23GsUhsplCgpdMvFdjgnZycaB2mv",
+"excerpt": ""
+},
+{
+"id": "ff299619878c6aab",
+"title": "Merck scores US, German wins over Halozyme in Keytruda Qlex patent fight",
+"url": "https://www.fiercepharma.com/pharma/merck-scores-us-german-wins-over-halozyme-keytruda-qlex-patent-fight",
+"source": "Fierce Pharma",
+"when": "08:42",
+"also": [],
+"lang": "en",
+"image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2165663502.jpg?VersionId=bRHkAfJ2udDglZzvCMsyawk_HBwEbJyM",
+"excerpt": ""
+},
+{
 "id": "1bd7c705f37f081d",
 "title": "Fierce Biotech Fundraising Tracker '26: Ritzey reveals $112.5M; VitriVax scores $87M",
 "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
@@ -6694,17 +6697,6 @@
 "lang": "en",
 "image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-474045836.jpg?VersionId=ZrON.9gb_kdB6Eg3v6PzrOmMBLN2o4F4",
 "excerpt": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs."
-},
-{
-"id": "8d288598741d0ae1",
-"title": "Executive Director speech at European media workshop on vaccines",
-"url": "https://www.ema.europa.eu/en/news/executive-director-speech-european-media-workshop-vaccines",
-"source": "EMA",
-"when": "Fri 15:00",
-"also": [],
-"lang": "en",
-"image": "https://www.ema.europa.eu/sites/default/files/styles/ema_smp_opengraph/public/2025-12/2025-12_Emer%20Cooke%20end-of-year%20message_WEB_square.jpg.webp?itok=NwmQEjbk",
-"excerpt": ""
 }
 ]
 }
@@ -6734,14 +6726,14 @@
 "slots": [
 {
 "name": "Morning",
-"temp": 0,
-"icon": "⛅",
-"label": "Partly cloudy",
+"temp": 1,
+"icon": "☁️",
+"label": "Overcast",
 "rain_pct": 0
 },
 {
 "name": "Afternoon",
-"temp": 4,
+"temp": 3,
 "icon": "☀️",
 "label": "Clear",
 "rain_pct": 0
@@ -6778,16 +6770,16 @@
 "dm": "29.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 7,
+"hi": 6,
 "lo": -1,
-"rain_mm": 2.9,
-"rain_pct": 90,
-"wind": 7,
+"rain_mm": 2.8,
+"rain_pct": 85,
+"wind": 6,
 "uv": 1,
 "sunrise": "07:53",
 "sunset": "16:41",
 "bar_l": 10,
-"bar_w": 80
+"bar_w": 70
 },
 {
 "date": "2026-11-30",
@@ -6795,16 +6787,16 @@
 "dm": "30.11.",
 "label": "Light rain",
 "icon": "🌦️",
-"hi": 5,
+"hi": 6,
 "lo": 4,
-"rain_mm": 1.1,
-"rain_pct": 81,
-"wind": 3,
+"rain_mm": 2.1,
+"rain_pct": 75,
+"wind": 4,
 "uv": 0,
 "sunrise": "07:55",
 "sunset": "16:41",
 "bar_l": 60,
-"bar_w": 10
+"bar_w": 20
 },
 {
 "date": "2026-12-01",
@@ -6812,28 +6804,28 @@
 "dm": "01.12.",
 "label": "Fog",
 "icon": "🌫️",
-"hi": 6,
-"lo": 3,
+"hi": 7,
+"lo": 2,
 "rain_mm": 0,
-"rain_pct": 2,
-"wind": 6,
+"rain_pct": 0,
+"wind": 5,
 "uv": 2,
 "sunrise": "07:56",
 "sunset": "16:40",
-"bar_l": 50,
-"bar_w": 30
+"bar_l": 40,
+"bar_w": 50
 },
 {
 "date": "2026-12-02",
 "dow": "Wed",
 "dm": "02.12.",
-"label": "Fog",
-"icon": "🌫️",
+"label": "Mostly clear",
+"icon": "🌤️",
 "hi": 8,
 "lo": 0,
 "rain_mm": 0,
-"rain_pct": 10,
-"wind": 6,
+"rain_pct": 15,
+"wind": 5,
 "uv": 2,
 "sunrise": "07:57",
 "sunset": "16:40",
@@ -6844,52 +6836,52 @@
 "date": "2026-12-03",
 "dow": "Thu",
 "dm": "03.12.",
-"label": "Fog",
-"icon": "🌫️",
-"hi": 5,
-"lo": 0,
-"rain_mm": 0,
-"rain_pct": 30,
-"wind": 7,
-"uv": 2,
-"sunrise": "07:58",
-"sunset": "16:39",
-"bar_l": 20,
-"bar_w": 50
-},
-{
-"date": "2026-12-04",
-"dow": "Fri",
-"dm": "04.12.",
-"label": "Fog",
-"icon": "🌫️",
+"label": "Overcast",
+"icon": "☁️",
 "hi": 2,
 "lo": 0,
 "rain_mm": 0,
-"rain_pct": 9,
-"wind": 4,
-"uv": 1,
-"sunrise": "07:59",
+"rain_pct": 33,
+"wind": 6,
+"uv": 0,
+"sunrise": "07:58",
 "sunset": "16:39",
 "bar_l": 20,
 "bar_w": 20
 },
 {
+"date": "2026-12-04",
+"dow": "Fri",
+"dm": "04.12.",
+"label": "Overcast",
+"icon": "☁️",
+"hi": 3,
+"lo": -1,
+"rain_mm": 0,
+"rain_pct": 10,
+"wind": 5,
+"uv": 2,
+"sunrise": "07:59",
+"sunset": "16:39",
+"bar_l": 10,
+"bar_w": 40
+},
+{
 "date": "2026-12-05",
 "dow": "Sat",
 "dm": "05.12.",
-"label": "Fog",
-"icon": "🌫️",
+"label": "Partly cloudy",
+"icon": "⛅",
 "hi": 2,
-"lo": -2,
+"lo": -1,
 "rain_mm": 0,
 "rain_pct": 5,
 "wind": 5,
-"uv": 2,
+"uv": 1,
 "sunrise": "08:00",
 "sunset": "16:39",
-"bar_l": 0,
-"bar_w": 40
+"bar_l": 10,
+"bar_w": 30
 },
 {
 "date": "2026-12-06",
@@ -6902,7 +6894,7 @@
 "rain_mm": 0,
 "rain_pct": 14,
 "wind": 6,
-"uv": 1,
+"uv": 2,
 "sunrise": "08:02",
 "sunset": "16:38",
 "bar_l": 0,
@@ -6919,7 +6911,7 @@
 "rain_mm": 0,
 "rain_pct": 17,
 "wind": 6,
-"uv": 1,
+"uv": 2,
 "sunrise": "08:03",
 "sunset": "16:38",
 "bar_l": 0,
